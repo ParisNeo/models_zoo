@@ -1,0 +1,14 @@
+- category: foundational
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62dac1c7a8ead43d20e3e17a/wrLf5yaGC6ng4XME70w6Z.png?w=200&h=200&f=face
+  last_commit_time: 2023-07-15 18:15:35+00:00
+  license: other
+  model_creator: mistralai
+  model_creator_link: https://huggingface.co/mistralai
+  name: Mistral-7B-v0.1
+  quantizer: Not quantized
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 3896726136
