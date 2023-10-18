@@ -40,7 +40,7 @@ else:
 api = HfApi(token=api_key)
 
 DEFAULT_quantizer="TheBloke"
-DEFAULT_MODEL_TYPE="gptq"
+DEFAULT_MODEL_TYPE="awq"
 
 def hub_get_last_commit(repo_id):
     """
@@ -125,13 +125,13 @@ def click_expand_button(url):
 
     return expanded_html_content
 
-def get_model_entries(url, model_type="gptq", output_file="outputs_list.yaml"):
-    """Extracts links to GPTQ-containing pages from the HuggingFace website at the specified URL.
+def get_model_entries(url, model_type="awq", output_file="outputs_list.yaml"):
+    """Extracts links to AWQ-containing pages from the HuggingFace website at the specified URL.
 
     Parameters:
     - `url`: String containing either 'http://', 'https://', or empty ('')
              representing the base URL that points to the target webpage.
-    - `model_type`: String specifying what type of models should be extracted. Default is 'gptq'.
+    - `model_type`: String specifying what type of models should be extracted. Default is 'awq'.
     - `output_file`: File object to write the list of found URLs to. If not supplied, defaults to 'models'.
 
     Returns:
@@ -143,7 +143,7 @@ def get_model_entries(url, model_type="gptq", output_file="outputs_list.yaml"):
     # Parse the expanded HTML content using BeautifulSoup
     soup = BeautifulSoup(expanded_html_content, 'html.parser')
 
-    # Find all <a> tags that contain 'gptq' in their href
+    # Find all <a> tags that contain 'awq' in their href
     model_links = soup.find_all('a', href=lambda href: href and model_type in href.lower())
     entries = []
     for model_link in tqdm(model_links):
@@ -200,7 +200,7 @@ def get_file_size(url):
         print(f"An error occurred while retrieving file size: {e}")
         return None
     
-def get_variants(model_id, model_type="gptq"):
+def get_variants(model_id, model_type="awq"):
     server_link = f"https://huggingface.co/{model_id}"
     model_url = f"{server_link}/tree/main"
     response = requests.get(model_url)
@@ -218,7 +218,7 @@ def get_variants(model_id, model_type="gptq"):
         break
     return v
 
-def build_model_cards(entries, model_type='gptq', output_file="output_TheBloke_gptq.yaml"):
+def build_model_cards(entries, model_type='awq', output_file="output_TheBloke_gptq.yaml"):
     """ Builds a yaml file of each model by scraping the model page and its content to extract the following parameters
     1- Model name: the name of the model that can be extracted from the entry itself
     2- Model creation date: uses the hugging face to track the date of the first commit
@@ -303,7 +303,7 @@ def build_model_cards(entries, model_type='gptq', output_file="output_TheBloke_g
     return cards
 
 def filter_entries(entries):
-    with open(Path(__file__).parent/"gptq.yaml","r") as f:
+    with open(Path(__file__).parent/"awq.yaml","r") as f:
         models = yaml.safe_load(f)
    
     filteredEntries=[] # Initialize an empty array to store new entries after filtering out duplicates based on name field
