@@ -1,4 +1,156 @@
 - category: generic
+  datasets:
+  - akjindal53244/Arithmo-Data
+  last_commit_time: 2023-10-20 09:28:58+00:00
+  license: apache-2.0
+  model_creator: Ashvini Kumar Jindal
+  model_creator_link: akjindal53244
+  name: Arithmo-Mistral-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662160
+- category: generic
+  datasets:
+  - jondurbin/airoboros-3.1
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-19 16:41:52+00:00
+  license: apache-2.0
+  model_creator: Jon Durbin
+  model_creator_link: jondurbin
+  name: Airoboros-M-7B-3.1.2-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662096
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-10-19 11:50:46+00:00
+  license: cc-by-nc-nd-4.0
+  model_creator: Devon M
+  model_creator_link: Delcos
+  name: Mistral-Pygmalion-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 3896714728
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-10-19 10:55:29+00:00
+  license: apache-2.0
+  model_creator: Amazon Web Services
+  model_creator_link: amazon
+  name: MistralLite-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158711248
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6468ce47e134d050a58aa89c/izqYeS4JUxU1ZZXsW18Nw.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-18 22:53:19+00:00
+  license: cc-by-nc-4.0
+  model_creator: PulsarAI
+  model_creator_link: PulsarAI
+  name: SlimOpenOrca-Mistral-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662096
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-10-18 14:22:28+00:00
+  license: cc-by-nc-4.0
+  model_creator: Undi
+  model_creator_link: Undi95
+  name: PsyMedRP-v1-13B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-10-18 09:22:19+00:00
+  license: llama2
+  model_creator: Saofiq
+  model_creator_link: Sao10K
+  name: Euryale-1.3-L2-70B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 35332203544
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/625026b7d2d191ac43320c5e/eASiWh7gSW1Y6ZiUe8Ekb.png?w=200&h=200&f=face
+  last_commit_time: 2023-10-18 13:06:45+00:00
+  license: llama2
+  model_creator: Xwin-LM
+  model_creator_link: Xwin-LM
+  name: Xwin-LM-7B-V0.2-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 3896731112
+- category: generic
+  datasets:
+  - jondurbin/airoboros-3.1
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-18 12:34:39+00:00
+  license: llama2
+  model_creator: Jon Durbin
+  model_creator_link: jondurbin
+  name: Airoboros-L2-13B-3.1.1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 7259435192
+- category: generic
+  datasets:
+  - chargoddard/rpguild
+  last_commit_time: 2023-10-18 10:20:12+00:00
+  license: cc-by-nc-4.0
+  model_creator: Charles Goddard
+  model_creator_link: chargoddard
+  name: rpguild-chatml-13B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 7260090552
+- category: generic
+  datasets:
+  - PocketDoc/Floyd-Text-Adventures
+  - PocketDoc/Choose-Your-Story-Long-Text-Adventures
+  last_commit_time: 2023-10-18 08:34:10+00:00
+  license: apache-2.0
+  model_creator: PocketDoc Labs
+  model_creator_link: PocketDoc
+  name: Dans-AdventurousWinds-Mk2-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662096
+- category: generic
   datasets: unknown
   license: unknown
   model_creator: Undi
