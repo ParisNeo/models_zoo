@@ -1,0 +1,15 @@
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-09-17 17:21:17+00:00
+  license: llama2
+  model_creator: bigscience
+  model_creator_link: https://huggingface.co/bigscience
+  name: petals-team/StableBeluga2
+  quantizer: None
+  rank: 10000000000.0
+  type: gptq
+  model_type: api
+  variants:
+  - name: StableBeluga2
+    size: 35332203544
