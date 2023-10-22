@@ -26215,3 +26215,539 @@
     size: 47461293888
   - name: synthia-70b.Q5_K_S.gguf
     size: 47461293888
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/61c47e9c71a107e9d80e33e3/ii4582e5a05ZzjDwV_7Gh.png?w=200&h=200&f=face
+  last_commit_time: 2023-10-22 09:22:39+00:00
+  license: llama2
+  model_creator: KoboldAI
+  model_creator_link: KoboldAI
+  name: LLaMA2-13B-Tiefighter-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: llama2-13b-tiefighter.Q2_K.gguf
+    size: 5429348288
+  - name: llama2-13b-tiefighter.Q2_K.gguf
+    size: 5429348288
+  - name: llama2-13b-tiefighter.Q3_K_L.gguf
+    size: 6929559488
+  - name: llama2-13b-tiefighter.Q3_K_L.gguf
+    size: 6929559488
+  - name: llama2-13b-tiefighter.Q3_K_M.gguf
+    size: 6337769408
+  - name: llama2-13b-tiefighter.Q3_K_M.gguf
+    size: 6337769408
+  - name: llama2-13b-tiefighter.Q3_K_S.gguf
+    size: 5658980288
+  - name: llama2-13b-tiefighter.Q3_K_S.gguf
+    size: 5658980288
+  - name: llama2-13b-tiefighter.Q4_0.gguf
+    size: 7365834688
+  - name: llama2-13b-tiefighter.Q4_0.gguf
+    size: 7365834688
+  - name: llama2-13b-tiefighter.Q4_K_M.gguf
+    size: 7865956288
+  - name: llama2-13b-tiefighter.Q4_K_M.gguf
+    size: 7865956288
+  - name: llama2-13b-tiefighter.Q4_K_S.gguf
+    size: 7414331328
+  - name: llama2-13b-tiefighter.Q4_K_S.gguf
+    size: 7414331328
+  - name: llama2-13b-tiefighter.Q5_0.gguf
+    size: 8972285888
+  - name: llama2-13b-tiefighter.Q5_0.gguf
+    size: 8972285888
+  - name: llama2-13b-tiefighter.Q5_K_M.gguf
+    size: 9229924288
+  - name: llama2-13b-tiefighter.Q5_K_M.gguf
+    size: 9229924288
+  - name: llama2-13b-tiefighter.Q5_K_S.gguf
+    size: 8972285888
+  - name: llama2-13b-tiefighter.Q5_K_S.gguf
+    size: 8972285888
+  - name: llama2-13b-tiefighter.Q6_K.gguf
+    size: 10679140288
+  - name: llama2-13b-tiefighter.Q6_K.gguf
+    size: 10679140288
+  - name: llama2-13b-tiefighter.Q8_0.gguf
+    size: 13831319488
+  - name: llama2-13b-tiefighter.Q8_0.gguf
+    size: 13831319488
+- category: generic
+  datasets:
+  - jondurbin/airoboros-3.1
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-21 12:11:56+00:00
+  license: llama2
+  model_creator: Jon Durbin
+  model_creator_link: jondurbin
+  name: Airoboros-L2-70B-3.1.2-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: airoboros-l2-70b-3.1.2.Q2_K.gguf
+    size: 29279253440
+  - name: airoboros-l2-70b-3.1.2.Q2_K.gguf
+    size: 29279253440
+  - name: airoboros-l2-70b-3.1.2.Q3_K_L.gguf
+    size: 36147835840
+  - name: airoboros-l2-70b-3.1.2.Q3_K_L.gguf
+    size: 36147835840
+  - name: airoboros-l2-70b-3.1.2.Q3_K_M.gguf
+    size: 33186657216
+  - name: airoboros-l2-70b-3.1.2.Q3_K_M.gguf
+    size: 33186657216
+  - name: airoboros-l2-70b-3.1.2.Q3_K_S.gguf
+    size: 29919294400
+  - name: airoboros-l2-70b-3.1.2.Q3_K_S.gguf
+    size: 29919294400
+  - name: airoboros-l2-70b-3.1.2.Q4_0.gguf
+    size: 38872249280
+  - name: airoboros-l2-70b-3.1.2.Q4_0.gguf
+    size: 38872249280
+  - name: airoboros-l2-70b-3.1.2.Q4_K_M.gguf
+    size: 41422910400
+  - name: airoboros-l2-70b-3.1.2.Q4_K_M.gguf
+    size: 41422910400
+  - name: airoboros-l2-70b-3.1.2.Q4_K_S.gguf
+    size: 39073575872
+  - name: airoboros-l2-70b-3.1.2.Q4_K_S.gguf
+    size: 39073575872
+  - name: airoboros-l2-70b-3.1.2.Q5_0.gguf
+    size: 47461397440
+  - name: airoboros-l2-70b-3.1.2.Q5_0.gguf
+    size: 47461397440
+  - name: airoboros-l2-70b-3.1.2.Q5_K_M.gguf
+    size: 48753767360
+  - name: airoboros-l2-70b-3.1.2.Q5_K_M.gguf
+    size: 48753767360
+  - name: airoboros-l2-70b-3.1.2.Q5_K_S.gguf
+    size: 47461397440
+  - name: airoboros-l2-70b-3.1.2.Q5_K_S.gguf
+    size: 47461397440
+- category: generic
+  datasets:
+  - jondurbin/airoboros-3.1
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-21 12:14:00+00:00
+  license: llama2
+  model_creator: Jon Durbin
+  model_creator_link: jondurbin
+  name: Airoboros-c34B-3.1.2-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: airoboros-c34b-3.1.2.Q2_K.gguf
+    size: 14210674880
+  - name: airoboros-c34b-3.1.2.Q2_K.gguf
+    size: 14210674880
+  - name: airoboros-c34b-3.1.2.Q3_K_L.gguf
+    size: 17771524288
+  - name: airoboros-c34b-3.1.2.Q3_K_L.gguf
+    size: 17771524288
+  - name: airoboros-c34b-3.1.2.Q3_K_M.gguf
+    size: 16283594944
+  - name: airoboros-c34b-3.1.2.Q3_K_M.gguf
+    size: 16283594944
+  - name: airoboros-c34b-3.1.2.Q3_K_S.gguf
+    size: 14605349056
+  - name: airoboros-c34b-3.1.2.Q3_K_S.gguf
+    size: 14605349056
+  - name: airoboros-c34b-3.1.2.Q4_0.gguf
+    size: 19052048576
+  - name: airoboros-c34b-3.1.2.Q4_0.gguf
+    size: 19052048576
+  - name: airoboros-c34b-3.1.2.Q4_K_M.gguf
+    size: 20219900096
+  - name: airoboros-c34b-3.1.2.Q4_K_M.gguf
+    size: 20219900096
+  - name: airoboros-c34b-3.1.2.Q4_K_S.gguf
+    size: 19146420416
+  - name: airoboros-c34b-3.1.2.Q4_K_S.gguf
+    size: 19146420416
+  - name: airoboros-c34b-3.1.2.Q5_0.gguf
+    size: 23237177536
+  - name: airoboros-c34b-3.1.2.Q5_0.gguf
+    size: 23237177536
+  - name: airoboros-c34b-3.1.2.Q5_K_M.gguf
+    size: 23838798016
+  - name: airoboros-c34b-3.1.2.Q5_K_M.gguf
+    size: 23838798016
+  - name: airoboros-c34b-3.1.2.Q5_K_S.gguf
+    size: 23237177536
+  - name: airoboros-c34b-3.1.2.Q5_K_S.gguf
+    size: 23237177536
+  - name: airoboros-c34b-3.1.2.Q6_K.gguf
+    size: 27683877056
+  - name: airoboros-c34b-3.1.2.Q6_K.gguf
+    size: 27683877056
+  - name: airoboros-c34b-3.1.2.Q8_0.gguf
+    size: 35856052416
+  - name: airoboros-c34b-3.1.2.Q8_0.gguf
+    size: 35856052416
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-10-21 09:52:50+00:00
+  license: cc-by-nc-4.0
+  model_creator: Undi
+  model_creator_link: Undi95
+  name: MLewdBoros-LRPSGPT-2Char-13B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants: []
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-10-21 00:50:43+00:00
+  license: other
+  model_creator: Chao Chang-Yu
+  model_creator_link: FelixChao
+  name: vicuna-33B-coder-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: vicuna-33b-coder.Q2_K.gguf
+    size: 13502545312
+  - name: vicuna-33b-coder.Q2_K.gguf
+    size: 13502545312
+  - name: vicuna-33b-coder.Q3_K_L.gguf
+    size: 17279758752
+  - name: vicuna-33b-coder.Q3_K_L.gguf
+    size: 17279758752
+  - name: vicuna-33b-coder.Q3_K_M.gguf
+    size: 15761551776
+  - name: vicuna-33b-coder.Q3_K_M.gguf
+    size: 15761551776
+  - name: vicuna-33b-coder.Q3_K_S.gguf
+    size: 14064112032
+  - name: vicuna-33b-coder.Q3_K_S.gguf
+    size: 14064112032
+  - name: vicuna-33b-coder.Q4_0.gguf
+    size: 18355967392
+  - name: vicuna-33b-coder.Q4_0.gguf
+    size: 18355967392
+  - name: vicuna-33b-coder.Q4_K_M.gguf
+    size: 19621139872
+  - name: vicuna-33b-coder.Q4_K_M.gguf
+    size: 19621139872
+  - name: vicuna-33b-coder.Q4_K_S.gguf
+    size: 18437756320
+  - name: vicuna-33b-coder.Q4_K_S.gguf
+    size: 18437756320
+  - name: vicuna-33b-coder.Q5_0.gguf
+    size: 22395360672
+  - name: vicuna-33b-coder.Q5_0.gguf
+    size: 22395360672
+  - name: vicuna-33b-coder.Q5_K_M.gguf
+    size: 23047116192
+  - name: vicuna-33b-coder.Q5_K_M.gguf
+    size: 23047116192
+  - name: vicuna-33b-coder.Q5_K_S.gguf
+    size: 22395360672
+  - name: vicuna-33b-coder.Q5_K_S.gguf
+    size: 22395360672
+  - name: vicuna-33b-coder.Q6_K.gguf
+    size: 26687216032
+  - name: vicuna-33b-coder.Q6_K.gguf
+    size: 26687216032
+  - name: vicuna-33b-coder.Q8_0.gguf
+    size: 34565124512
+  - name: vicuna-33b-coder.Q8_0.gguf
+    size: 34565124512
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-10-21 02:41:04+00:00
+  license: apache-2.0
+  model_creator: Evan Armstrong
+  model_creator_link: Heralax
+  name: MistralMakise-Merged-13B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: mistralmakise-merged-13b.Q2_K.gguf
+    size: 5429348320
+  - name: mistralmakise-merged-13b.Q2_K.gguf
+    size: 5429348320
+  - name: mistralmakise-merged-13b.Q3_K_L.gguf
+    size: 6929559520
+  - name: mistralmakise-merged-13b.Q3_K_L.gguf
+    size: 6929559520
+  - name: mistralmakise-merged-13b.Q3_K_M.gguf
+    size: 6337769440
+  - name: mistralmakise-merged-13b.Q3_K_M.gguf
+    size: 6337769440
+  - name: mistralmakise-merged-13b.Q3_K_S.gguf
+    size: 5658980320
+  - name: mistralmakise-merged-13b.Q3_K_S.gguf
+    size: 5658980320
+  - name: mistralmakise-merged-13b.Q4_0.gguf
+    size: 7365834720
+  - name: mistralmakise-merged-13b.Q4_0.gguf
+    size: 7365834720
+  - name: mistralmakise-merged-13b.Q4_K_M.gguf
+    size: 7865956320
+  - name: mistralmakise-merged-13b.Q4_K_M.gguf
+    size: 7865956320
+  - name: mistralmakise-merged-13b.Q4_K_S.gguf
+    size: 7414331360
+  - name: mistralmakise-merged-13b.Q4_K_S.gguf
+    size: 7414331360
+  - name: mistralmakise-merged-13b.Q5_0.gguf
+    size: 8972285920
+  - name: mistralmakise-merged-13b.Q5_0.gguf
+    size: 8972285920
+  - name: mistralmakise-merged-13b.Q5_K_M.gguf
+    size: 9229924320
+  - name: mistralmakise-merged-13b.Q5_K_M.gguf
+    size: 9229924320
+  - name: mistralmakise-merged-13b.Q5_K_S.gguf
+    size: 8972285920
+  - name: mistralmakise-merged-13b.Q5_K_S.gguf
+    size: 8972285920
+  - name: mistralmakise-merged-13b.Q6_K.gguf
+    size: 10679140320
+  - name: mistralmakise-merged-13b.Q6_K.gguf
+    size: 10679140320
+  - name: mistralmakise-merged-13b.Q8_0.gguf
+    size: 13831319520
+  - name: mistralmakise-merged-13b.Q8_0.gguf
+    size: 13831319520
+- category: generic
+  datasets:
+  - THUDM/AgentInstruct
+  last_commit_time: 2023-10-21 02:18:33+00:00
+  license: llama2
+  model_creator: Knowledge Engineering Group (KEG
+  model_creator_link: THUDM
+  name: agentlm-7B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: agentlm-7b.Q2_K.gguf
+    size: 2827152064
+  - name: agentlm-7b.Q2_K.gguf
+    size: 2827152064
+  - name: agentlm-7b.Q3_K_L.gguf
+    size: 3598428864
+  - name: agentlm-7b.Q3_K_L.gguf
+    size: 3598428864
+  - name: agentlm-7b.Q3_K_M.gguf
+    size: 3299322560
+  - name: agentlm-7b.Q3_K_M.gguf
+    size: 3299322560
+  - name: agentlm-7b.Q3_K_S.gguf
+    size: 2949622464
+  - name: agentlm-7b.Q3_K_S.gguf
+    size: 2949622464
+  - name: agentlm-7b.Q4_0.gguf
+    size: 3827264192
+  - name: agentlm-7b.Q4_0.gguf
+    size: 3827264192
+  - name: agentlm-7b.Q4_K_M.gguf
+    size: 4082461376
+  - name: agentlm-7b.Q4_K_M.gguf
+    size: 4082461376
+  - name: agentlm-7b.Q4_K_S.gguf
+    size: 3858197184
+  - name: agentlm-7b.Q4_K_S.gguf
+    size: 3858197184
+  - name: agentlm-7b.Q5_0.gguf
+    size: 4653279936
+  - name: agentlm-7b.Q5_0.gguf
+    size: 4653279936
+  - name: agentlm-7b.Q5_K_M.gguf
+    size: 4784745152
+  - name: agentlm-7b.Q5_K_M.gguf
+    size: 4784745152
+  - name: agentlm-7b.Q5_K_S.gguf
+    size: 4653279936
+  - name: agentlm-7b.Q5_K_S.gguf
+    size: 4653279936
+  - name: agentlm-7b.Q6_K.gguf
+    size: 5530921664
+  - name: agentlm-7b.Q6_K.gguf
+    size: 5530921664
+  - name: agentlm-7b.Q8_0.gguf
+    size: 7163325120
+  - name: agentlm-7b.Q8_0.gguf
+    size: 7163325120
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63d0597ff2341424c808b771/XsJsVaLVmqivOG6WxY7Uz.png?w=200&h=200&f=face
+  last_commit_time: 2023-10-20 22:30:32+00:00
+  license: llama2
+  model_creator: oobabooga
+  model_creator_link: oobabooga
+  name: CodeBooga-34B-v0.1-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: codebooga-34b-v0.1.Q2_K.gguf
+    size: 14210674880
+  - name: codebooga-34b-v0.1.Q2_K.gguf
+    size: 14210674880
+  - name: codebooga-34b-v0.1.Q3_K_L.gguf
+    size: 17771524288
+  - name: codebooga-34b-v0.1.Q3_K_L.gguf
+    size: 17771524288
+  - name: codebooga-34b-v0.1.Q3_K_M.gguf
+    size: 16283594944
+  - name: codebooga-34b-v0.1.Q3_K_M.gguf
+    size: 16283594944
+  - name: codebooga-34b-v0.1.Q3_K_S.gguf
+    size: 14605349056
+  - name: codebooga-34b-v0.1.Q3_K_S.gguf
+    size: 14605349056
+  - name: codebooga-34b-v0.1.Q4_0.gguf
+    size: 19052048576
+  - name: codebooga-34b-v0.1.Q4_0.gguf
+    size: 19052048576
+  - name: codebooga-34b-v0.1.Q4_K_M.gguf
+    size: 20219900096
+  - name: codebooga-34b-v0.1.Q4_K_M.gguf
+    size: 20219900096
+  - name: codebooga-34b-v0.1.Q4_K_S.gguf
+    size: 19146420416
+  - name: codebooga-34b-v0.1.Q4_K_S.gguf
+    size: 19146420416
+  - name: codebooga-34b-v0.1.Q5_0.gguf
+    size: 23237177536
+  - name: codebooga-34b-v0.1.Q5_0.gguf
+    size: 23237177536
+  - name: codebooga-34b-v0.1.Q5_K_M.gguf
+    size: 23838798016
+  - name: codebooga-34b-v0.1.Q5_K_M.gguf
+    size: 23838798016
+  - name: codebooga-34b-v0.1.Q5_K_S.gguf
+    size: 23237177536
+  - name: codebooga-34b-v0.1.Q5_K_S.gguf
+    size: 23237177536
+  - name: codebooga-34b-v0.1.Q6_K.gguf
+    size: 27683877056
+  - name: codebooga-34b-v0.1.Q6_K.gguf
+    size: 27683877056
+  - name: codebooga-34b-v0.1.Q8_0.gguf
+    size: 35856052416
+  - name: codebooga-34b-v0.1.Q8_0.gguf
+    size: 35856052416
+- category: generic
+  datasets:
+  - THUDM/AgentInstruct
+  last_commit_time: 2023-10-20 22:13:02+00:00
+  license: llama2
+  model_creator: Knowledge Engineering Group (KEG
+  model_creator_link: THUDM
+  name: agentlm-70B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: agentlm-70b.Q2_K.gguf
+    size: 29281669024
+  - name: agentlm-70b.Q2_K.gguf
+    size: 29281669024
+  - name: agentlm-70b.Q3_K_L.gguf
+    size: 36150464416
+  - name: agentlm-70b.Q3_K_L.gguf
+    size: 36150464416
+  - name: agentlm-70b.Q3_K_M.gguf
+    size: 33189285792
+  - name: agentlm-70b.Q3_K_M.gguf
+    size: 33189285792
+  - name: agentlm-70b.Q3_K_S.gguf
+    size: 29921922976
+  - name: agentlm-70b.Q3_K_S.gguf
+    size: 29921922976
+  - name: agentlm-70b.Q4_0.gguf
+    size: 38875156384
+  - name: agentlm-70b.Q4_0.gguf
+    size: 38875156384
+  - name: agentlm-70b.Q4_K_M.gguf
+    size: 41425817504
+  - name: agentlm-70b.Q4_K_M.gguf
+    size: 41425817504
+  - name: agentlm-70b.Q4_K_S.gguf
+    size: 39076482976
+  - name: agentlm-70b.Q4_K_S.gguf
+    size: 39076482976
+  - name: agentlm-70b.Q5_0.gguf
+    size: 47464566688
+  - name: agentlm-70b.Q5_0.gguf
+    size: 47464566688
+  - name: agentlm-70b.Q5_K_M.gguf
+    size: 48756936608
+  - name: agentlm-70b.Q5_K_M.gguf
+    size: 48756936608
+  - name: agentlm-70b.Q5_K_S.gguf
+    size: 47464566688
+  - name: agentlm-70b.Q5_K_S.gguf
+    size: 47464566688
+- category: generic
+  datasets:
+  - THUDM/AgentInstruct
+  last_commit_time: 2023-10-20 22:24:43+00:00
+  license: llama2
+  model_creator: Knowledge Engineering Group (KEG
+  model_creator_link: THUDM
+  name: agentlm-13B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: agentlm-13b.Q2_K.gguf
+    size: 5430860672
+  - name: agentlm-13b.Q2_K.gguf
+    size: 5430860672
+  - name: agentlm-13b.Q3_K_L.gguf
+    size: 6931204992
+  - name: agentlm-13b.Q3_K_L.gguf
+    size: 6931204992
+  - name: agentlm-13b.Q3_K_M.gguf
+    size: 6339414912
+  - name: agentlm-13b.Q3_K_M.gguf
+    size: 6339414912
+  - name: agentlm-13b.Q3_K_S.gguf
+    size: 5660625792
+  - name: agentlm-13b.Q3_K_S.gguf
+    size: 5660625792
+  - name: agentlm-13b.Q4_0.gguf
+    size: 7367654272
+  - name: agentlm-13b.Q4_0.gguf
+    size: 7367654272
+  - name: agentlm-13b.Q4_K_M.gguf
+    size: 7867775872
+  - name: agentlm-13b.Q4_K_M.gguf
+    size: 7867775872
+  - name: agentlm-13b.Q4_K_S.gguf
+    size: 7416150912
+  - name: agentlm-13b.Q4_K_S.gguf
+    size: 7416150912
+  - name: agentlm-13b.Q5_0.gguf
+    size: 8974269312
+  - name: agentlm-13b.Q5_0.gguf
+    size: 8974269312
+  - name: agentlm-13b.Q5_K_M.gguf
+    size: 9231907712
+  - name: agentlm-13b.Q5_K_M.gguf
+    size: 9231907712
+  - name: agentlm-13b.Q5_K_S.gguf
+    size: 8974269312
+  - name: agentlm-13b.Q5_K_S.gguf
+    size: 8974269312
+  - name: agentlm-13b.Q6_K.gguf
+    size: 10681297792
+  - name: agentlm-13b.Q6_K.gguf
+    size: 10681297792
+  - name: agentlm-13b.Q8_0.gguf
+    size: 13834111872
+  - name: agentlm-13b.Q8_0.gguf
+    size: 13834111872

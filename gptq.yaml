@@ -11547,3 +11547,141 @@
   rank: 10000000000.0
   type: gptq
   variants: []
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/61c47e9c71a107e9d80e33e3/ii4582e5a05ZzjDwV_7Gh.png?w=200&h=200&f=face
+  last_commit_time: 2023-10-22 09:22:39+00:00
+  license: llama2
+  model_creator: KoboldAI
+  model_creator_link: KoboldAI
+  name: LLaMA2-13B-Tiefighter-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 7259435192
+- category: generic
+  datasets:
+  - jondurbin/airoboros-3.1
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-21 12:11:56+00:00
+  license: llama2
+  model_creator: Jon Durbin
+  model_creator_link: jondurbin
+  name: Airoboros-L2-70B-3.1.2-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 35332203704
+- category: generic
+  datasets:
+  - jondurbin/airoboros-3.1
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-21 12:14:01+00:00
+  license: llama2
+  model_creator: Jon Durbin
+  model_creator_link: jondurbin
+  name: Airoboros-c34B-3.1.2-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 17688736640
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-10-21 09:52:51+00:00
+  license: cc-by-nc-4.0
+  model_creator: Undi
+  model_creator_link: Undi95
+  name: MLewdBoros-LRPSGPT-2Char-13B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-10-21 00:50:43+00:00
+  license: other
+  model_creator: Chao Chang-Yu
+  model_creator_link: FelixChao
+  name: vicuna-33B-coder-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 16937454960
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-10-21 02:41:04+00:00
+  license: apache-2.0
+  model_creator: Evan Armstrong
+  model_creator_link: Heralax
+  name: MistralMakise-Merged-13B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 7259435192
+- category: generic
+  datasets:
+  - THUDM/AgentInstruct
+  last_commit_time: 2023-10-21 02:18:33+00:00
+  license: llama2
+  model_creator: Knowledge Engineering Group (KEG
+  model_creator_link: THUDM
+  name: agentlm-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 3900909032
+- category: generic
+  datasets:
+  - THUDM/AgentInstruct
+  last_commit_time: 2023-10-20 22:13:02+00:00
+  license: llama2
+  model_creator: Knowledge Engineering Group (KEG
+  model_creator_link: THUDM
+  name: agentlm-70B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 35340592152
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63d0597ff2341424c808b771/XsJsVaLVmqivOG6WxY7Uz.png?w=200&h=200&f=face
+  last_commit_time: 2023-10-20 22:30:32+00:00
+  license: llama2
+  model_creator: oobabooga
+  model_creator_link: oobabooga
+  name: CodeBooga-34B-v0.1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 17688736536
+- category: generic
+  datasets:
+  - THUDM/AgentInstruct
+  last_commit_time: 2023-10-20 22:24:43+00:00
+  license: llama2
+  model_creator: Knowledge Engineering Group (KEG
+  model_creator_link: THUDM
+  name: agentlm-13B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 7264678072

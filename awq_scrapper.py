@@ -21,6 +21,8 @@ import os
 from huggingface_hub import HfApi, list_models
 from pathlib import Path
 
+crds = [[]]
+
 # Define the path to the key file
 key_file_path = Path(__file__).parent/"hf_key.txt"
 
@@ -226,7 +228,8 @@ def build_model_cards(entries, model_type='awq', output_file="output_TheBloke_gp
     4- Model creator: Can be extracted from a README.md file in the repo from the metadata section. The entry is named model_creator
     5- license : The license of the model, it is also extracted from the README.ms file in the repo. The entry is named license 
     """
-    cards = []
+    cards = crds[0]
+    print(f"Processing :\n{entries}")
     for i,entry in enumerate(tqdm(entries)):
         card={}
         card["name"]=entry.split("/")[1]
@@ -305,6 +308,11 @@ def build_model_cards(entries, model_type='awq', output_file="output_TheBloke_gp
 def filter_entries(entries):
     with open(Path(__file__).parent/"awq.yaml","r") as f:
         models = yaml.safe_load(f)
+
+    if models is None:
+        crds[0] = []
+        return entries
+    crds[0] = models
    
     filteredEntries=[] # Initialize an empty array to store new entries after filtering out duplicates based on name field
         
@@ -329,5 +337,5 @@ if __name__=="__main__":
     entries = filter_entries(entries)
 
     # Now we open each of them and build a model card
-    build_model_cards(entries, args.type, Path(__file__).parent/f"output_{args.name}_{args.type}.yaml")
+    build_model_cards(entries, args.type, Path(__file__).parent/f"{args.type}.yaml")
     
