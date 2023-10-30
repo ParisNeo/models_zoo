@@ -1,0 +1,182 @@
+- category: generic
+  datasets: []
+  icon: https://cdn.gptfrance.ai/storage/2023/06/gpt4all-128.png
+  last_commit_time: 2023-10-29 16:01:17.693876
+  license: ''
+  model_creator: ''
+  model_creator_link: ''
+  name: ''
+  quantizer: ''
+  rank: 10000000000.0
+  type: LLaMA
+  variants:
+  - name: wizardlm-13b-v1.1-superhot-8k.ggmlv3.q4_0.bin
+    size: '7323310848'
+- category: generic
+  datasets: []
+  icon: https://cdn.gptfrance.ai/storage/2023/06/gpt4all-128.png
+  last_commit_time: 2023-10-29 16:01:17.693876
+  license: ''
+  model_creator: nomic-ai
+  model_creator_link: https://huggingface.co/nomic-ai
+  name: gpt4all-falcon-ggml
+  quantizer: ''
+  rank: 10000000000.0
+  type: Falcon
+  variants:
+  - name: ggml-model-gpt4all-falcon-q4_0.bin
+    size: '4061641216'
+- category: generic
+  datasets: []
+  icon: https://cdn.gptfrance.ai/storage/2023/06/gpt4all-128.png
+  last_commit_time: 2023-10-29 16:01:17.693876
+  license: ''
+  model_creator: TheBloke
+  model_creator_link: https://huggingface.co/TheBloke
+  name: Nous-Hermes-13B-GGML
+  quantizer: ''
+  rank: 10000000000.0
+  type: LLaMA
+  variants:
+  - name: nous-hermes-13b.ggmlv3.q4_0.bin
+    size: '8136777088'
+- category: generic
+  datasets: []
+  icon: https://cdn.gptfrance.ai/storage/2023/06/gpt4all-128.png
+  last_commit_time: 2023-10-29 16:01:17.693876
+  license: ''
+  model_creator: TheBloke
+  model_creator_link: https://huggingface.co/TheBloke
+  name: GPT4All-13B-snoozy-GGML
+  quantizer: ''
+  rank: 10000000000.0
+  type: LLaMA
+  variants:
+  - name: GPT4All-13B-snoozy.ggmlv3.q4_0.bin
+    size: '8136770688'
+- category: generic
+  datasets: []
+  icon: https://cdn.gptfrance.ai/storage/2023/06/gpt4all-128.png
+  last_commit_time: 2023-10-29 16:01:17.693876
+  license: ''
+  model_creator: TheBloke
+  model_creator_link: https://huggingface.co/TheBloke
+  name: orca_mini_7B-GGML
+  quantizer: ''
+  rank: 10000000000.0
+  type: OpenLLaMa
+  variants:
+  - name: orca-mini-7b.ggmlv3.q4_0.bin
+    size: '3791749248'
+- category: generic
+  datasets: []
+  icon: https://cdn.gptfrance.ai/storage/2023/06/gpt4all-128.png
+  last_commit_time: 2023-10-29 16:01:17.693876
+  license: ''
+  model_creator: TheBloke
+  model_creator_link: https://huggingface.co/TheBloke
+  name: orca_mini_3B-GGML
+  quantizer: ''
+  rank: 10000000000.0
+  type: OpenLLaMa
+  variants:
+  - name: orca-mini-3b.ggmlv3.q4_0.bin
+    size: '1928446208'
+- category: generic
+  datasets: []
+  icon: https://cdn.gptfrance.ai/storage/2023/06/gpt4all-128.png
+  last_commit_time: 2023-10-29 16:01:17.693876
+  license: ''
+  model_creator: TheBloke
+  model_creator_link: https://huggingface.co/TheBloke
+  name: orca_mini_13B-GGML
+  quantizer: ''
+  rank: 10000000000.0
+  type: OpenLLaMa
+  variants:
+  - name: orca-mini-13b.ggmlv3.q4_0.bin
+    size: '7323329152'
+- category: generic
+  datasets: []
+  icon: https://cdn.gptfrance.ai/storage/2023/06/gpt4all-128.png
+  last_commit_time: 2023-10-29 16:01:17.693876
+  license: ''
+  model_creator: TheBloke
+  model_creator_link: https://huggingface.co/TheBloke
+  name: WizardLM-13B-Uncensored-GGML
+  quantizer: ''
+  rank: 10000000000.0
+  type: LLaMA
+  variants:
+  - name: wizardLM-13B-Uncensored.ggmlv3.q4_0.bin
+    size: '8136777088'
+- category: generic
+  datasets: []
+  icon: https://cdn.gptfrance.ai/storage/2023/06/gpt4all-128.png
+  last_commit_time: 2023-10-29 16:01:17.693876
+  license: ''
+  model_creator: nomic-ai
+  model_creator_link: https://huggingface.co/nomic-ai
+  name: ggml-replit-code-v1-3b
+  quantizer: ''
+  rank: 10000000000.0
+  type: Replit
+  variants:
+  - name: ggml-replit-code-v1-3b.bin
+    size: '5202046853'
+- category: generic
+  datasets: []
+  icon: https://cdn.gptfrance.ai/storage/2023/06/gpt4all-128.png
+  last_commit_time: 2023-10-29 16:01:17.693876
+  license: ''
+  model_creator: ''
+  model_creator_link: ''
+  name: ''
+  quantizer: ''
+  rank: 10000000000.0
+  type: Bert
+  variants:
+  - name: ggml-all-MiniLM-L6-v2-f16.bin
+    size: '45521167'
+- category: generic
+  datasets: []
+  icon: https://cdn.gptfrance.ai/storage/2023/06/gpt4all-128.png
+  last_commit_time: 2023-10-29 16:01:17.693876
+  license: ''
+  model_creator: ''
+  model_creator_link: ''
+  name: ''
+  quantizer: ''
+  rank: 10000000000.0
+  type: Starcoder
+  variants:
+  - name: starcoderbase-3b-ggml.bin
+    size: '7503121552'
+- category: generic
+  datasets: []
+  icon: https://cdn.gptfrance.ai/storage/2023/06/gpt4all-128.png
+  last_commit_time: 2023-10-29 16:01:17.693876
+  license: ''
+  model_creator: ''
+  model_creator_link: ''
+  name: ''
+  quantizer: ''
+  rank: 10000000000.0
+  type: Starcoder
+  variants:
+  - name: starcoderbase-7b-ggml.bin
+    size: '17860448016'
+- category: generic
+  datasets: []
+  icon: https://cdn.gptfrance.ai/storage/2023/06/gpt4all-128.png
+  last_commit_time: 2023-10-29 16:01:17.693876
+  license: ''
+  model_creator: TheBloke
+  model_creator_link: https://huggingface.co/TheBloke
+  name: Llama-2-7B-Chat-GGML
+  quantizer: ''
+  rank: 10000000000.0
+  type: LLaMA2
+  variants:
+  - name: llama-2-7b-chat.ggmlv3.q4_0.bin
+    size: '3791725184'

@@ -65,7 +65,7 @@ def json_to_yaml(json_url, output_file):
 
 
 # Example usage:
-json_url = 'https://gpt4all.io/models/models.json'
+json_url = 'Https://gpt4all.io/models/models2.json'
 output_file = 'gpt4all/output.yaml'
 
 json_to_yaml(json_url, output_file)
