@@ -12724,3 +12724,233 @@
   rank: 10000000000.0
   type: gptq
   variants: []
+- category: generic
+  datasets:
+  - Danielbrdz/Barcenas-lmsys-Dataset
+  icon: ''
+  last_commit_time: 2023-11-06 16:51:09+00:00
+  license: apache-2.0
+  model_creator: Daniel
+  model_creator_link: Danielbrdz
+  name: Barcenas-Mistral-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662208
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63010c7359ab5d9dc09d2378/bXSw2s7QxlaNVcUD19sae.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-06 16:03:08+00:00
+  license: apache-2.0
+  model_creator: OpenBuddy
+  model_creator_link: OpenBuddy
+  name: openbuddy-zephyr-7B-v14.1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4234159752
+- category: generic
+  datasets:
+  - wikipedia
+  - mc4
+  - cc100
+  - oscar-corpus/OSCAR-2301
+  - oscar-corpus/OSCAR-2201
+  - cerebras/SlimPajama-627B
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/643feeb67bc3fbde1385cc25/7vmYr2XwVcPtkLzac_jxQ.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-06 11:33:47+00:00
+  license:
+  - llama2
+  model_creator: Stability AI
+  model_creator_link: stabilityai
+  name: japanese-stablelm-base-beta-70B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 35332203544
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1676863223892-62ae5fbe4ff605c0411397bb.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-06 10:58:33+00:00
+  license: apache-2.0
+  model_creator: Caldera AI
+  model_creator_link: CalderaAI
+  name: Hexoteric-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158694976
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-06 10:06:47+00:00
+  license: cc-by-nc-4.0
+  model_creator: Henky!!
+  model_creator_link: Henk717
+  name: echidna-tiefigther-25-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 7016951344
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-11-06 09:21:05+00:00
+  license: cc-by-nc-4.0
+  model_creator: Undi
+  model_creator_link: Undi95
+  name: UtopiaXL-13B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets:
+  - teknium/trismegistus-project
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-05 23:42:55+00:00
+  license: apache-2.0
+  model_creator: Teknium
+  model_creator_link: teknium
+  name: Hermes-Trismegistus-Mistral-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158694976
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1656557093040-62b397ef2d2f388f4451883d.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-05 17:13:30+00:00
+  license: apache-2.0
+  model_creator: CyberAgent
+  model_creator_link: cyberagent
+  name: calm2-7B-chat-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4437780008
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-11-05 07:15:45+00:00
+  license: other
+  model_creator: DeepSeek
+  model_creator_link: deepseek-ai
+  name: deepseek-coder-33B-instruct-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 17399444712
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-11-05 04:25:59+00:00
+  license: other
+  model_creator: DeepSeek
+  model_creator_link: deepseek-ai
+  name: deepseek-coder-1.3b-instruct-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 898108792
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-11-05 10:13:45+00:00
+  license: other
+  model_creator: DeepSeek
+  model_creator_link: deepseek-ai
+  name: deepseek-coder-6.7B-instruct-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 3900909104
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-11-05 13:53:22+00:00
+  license: other
+  model_creator: DeepSeek
+  model_creator_link: deepseek-ai
+  name: deepseek-coder-5.7bmqa-base-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 3359991008
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-11-05 09:40:43+00:00
+  license: other
+  model_creator: DeepSeek
+  model_creator_link: deepseek-ai
+  name: deepseek-coder-6.7B-base-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 3900909104
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-11-05 04:52:35+00:00
+  license: other
+  model_creator: DeepSeek
+  model_creator_link: deepseek-ai
+  name: deepseek-coder-33B-base-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 17399444712
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-11-05 03:54:41+00:00
+  license: other
+  model_creator: DeepSeek
+  model_creator_link: deepseek-ai
+  name: deepseek-coder-1.3b-base-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 898108792
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1676863223892-62ae5fbe4ff605c0411397bb.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-04 23:58:11+00:00
+  license: apache-2.0
+  model_creator: Caldera AI
+  model_creator_link: CalderaAI
+  name: Naberius-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158694864
