@@ -31066,3 +31066,274 @@
     size: 5942064800
   - name: kai-7b-instruct.Q8_0.gguf
     size: 7695857312
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-09 00:13:46+00:00
+  license: apache-2.0
+  model_creator: Keynote Technology
+  model_creator_link: Keynote-Technology
+  name: KAI-7B-beta-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: kai-7b-beta.Q2_K.gguf
+    size: 3083097728
+  - name: kai-7b-beta.Q3_K_L.gguf
+    size: 3822024320
+  - name: kai-7b-beta.Q3_K_M.gguf
+    size: 3518985856
+  - name: kai-7b-beta.Q3_K_S.gguf
+    size: 3164567168
+  - name: kai-7b-beta.Q4_0.gguf
+    size: 4108916352
+  - name: kai-7b-beta.Q4_K_M.gguf
+    size: 4368438912
+  - name: kai-7b-beta.Q4_K_S.gguf
+    size: 4140373632
+  - name: kai-7b-beta.Q5_0.gguf
+    size: 4997715584
+  - name: kai-7b-beta.Q5_K_M.gguf
+    size: 5131409024
+  - name: kai-7b-beta.Q5_K_S.gguf
+    size: 4997715584
+  - name: kai-7b-beta.Q6_K.gguf
+    size: 5942064768
+  - name: kai-7b-beta.Q8_0.gguf
+    size: 7695857280
+- category: generic
+  datasets:
+  - NobodyExistsOnTheInternet/GiftedConvoBeforeEcons
+  last_commit_time: 2023-11-08 23:49:35+00:00
+  license: mit
+  model_creator: Nobody.png
+  model_creator_link: NobodyExistsOnTheInternet
+  name: Yi-34B-GiftedConvo-merged-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: yi-34b-giftedconvo-merged.Q2_K.gguf
+    size: 14555875264
+  - name: yi-34b-giftedconvo-merged.Q3_K_L.gguf
+    size: 18139445184
+  - name: yi-34b-giftedconvo-merged.Q3_K_M.gguf
+    size: 16636573632
+  - name: yi-34b-giftedconvo-merged.Q3_K_S.gguf
+    size: 14960293824
+  - name: yi-34b-giftedconvo-merged.Q4_0.gguf
+    size: 19466528704
+  - name: yi-34b-giftedconvo-merged.Q4_K_M.gguf
+    size: 20658710464
+  - name: yi-34b-giftedconvo-merged.Q4_K_S.gguf
+    size: 19543599040
+  - name: yi-34b-giftedconvo-merged.Q5_0.gguf
+    size: 23707690944
+  - name: yi-34b-giftedconvo-merged.Q5_K_M.gguf
+    size: 24321845184
+  - name: yi-34b-giftedconvo-merged.Q5_K_S.gguf
+    size: 23707690944
+  - name: yi-34b-giftedconvo-merged.Q6_K.gguf
+    size: 28213925824
+  - name: yi-34b-giftedconvo-merged.Q8_0.gguf
+    size: 36542281664
+- category: generic
+  datasets:
+  - ehartford/dolphin
+  - jondurbin/airoboros-2.2.1
+  - ehartford/samantha-data
+  - ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split
+  last_commit_time: 2023-11-08 13:50:23+00:00
+  license: llama2
+  model_creator: Eric Hartford
+  model_creator_link: ehartford
+  name: dolphin-2.2-70B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: dolphin-2.2-70b.Q2_K.gguf
+    size: 29279272320
+  - name: dolphin-2.2-70b.Q3_K_L.gguf
+    size: 36147856384
+  - name: dolphin-2.2-70b.Q3_K_M.gguf
+    size: 33186677760
+  - name: dolphin-2.2-70b.Q3_K_S.gguf
+    size: 29919314944
+  - name: dolphin-2.2-70b.Q4_0.gguf
+    size: 38872272000
+  - name: dolphin-2.2-70b.Q4_K_M.gguf
+    size: 41422933120
+  - name: dolphin-2.2-70b.Q4_K_S.gguf
+    size: 39073598592
+  - name: dolphin-2.2-70b.Q5_0.gguf
+    size: 47461422208
+  - name: dolphin-2.2-70b.Q5_K_M.gguf
+    size: 48753792128
+  - name: dolphin-2.2-70b.Q5_K_S.gguf
+    size: 47461422208
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/61c47e9c71a107e9d80e33e3/ii4582e5a05ZzjDwV_7Gh.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-08 11:57:20+00:00
+  license: llama2
+  model_creator: KoboldAI
+  model_creator_link: KoboldAI
+  name: LLaMA2-13B-TiefighterLR-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: llama2-13b-tiefighterlr.Q2_K.gguf
+    size: 5429348288
+  - name: llama2-13b-tiefighterlr.Q3_K_L.gguf
+    size: 6929559488
+  - name: llama2-13b-tiefighterlr.Q3_K_M.gguf
+    size: 6337769408
+  - name: llama2-13b-tiefighterlr.Q3_K_S.gguf
+    size: 5658980288
+  - name: llama2-13b-tiefighterlr.Q4_0.gguf
+    size: 7365834688
+  - name: llama2-13b-tiefighterlr.Q4_K_M.gguf
+    size: 7865956288
+  - name: llama2-13b-tiefighterlr.Q4_K_S.gguf
+    size: 7414331328
+  - name: llama2-13b-tiefighterlr.Q5_0.gguf
+    size: 8972285888
+  - name: llama2-13b-tiefighterlr.Q5_K_M.gguf
+    size: 9229924288
+  - name: llama2-13b-tiefighterlr.Q5_K_S.gguf
+    size: 8972285888
+  - name: llama2-13b-tiefighterlr.Q6_K.gguf
+    size: 10679140288
+  - name: llama2-13b-tiefighterlr.Q8_0.gguf
+    size: 13831319488
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-11-08 11:55:53+00:00
+  license: llama2
+  model_creator: Jeb Carter
+  model_creator_link: jebcarter
+  name: Psyfighter-13B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: psyfighter-13b.Q2_K.gguf
+    size: 5429348288
+  - name: psyfighter-13b.Q3_K_L.gguf
+    size: 6929559488
+  - name: psyfighter-13b.Q3_K_M.gguf
+    size: 6337769408
+  - name: psyfighter-13b.Q3_K_S.gguf
+    size: 5658980288
+  - name: psyfighter-13b.Q4_0.gguf
+    size: 7365834688
+  - name: psyfighter-13b.Q4_K_M.gguf
+    size: 7865956288
+  - name: psyfighter-13b.Q4_K_S.gguf
+    size: 7414331328
+  - name: psyfighter-13b.Q5_0.gguf
+    size: 8972285888
+  - name: psyfighter-13b.Q5_K_M.gguf
+    size: 9229924288
+  - name: psyfighter-13b.Q5_K_S.gguf
+    size: 8972285888
+  - name: psyfighter-13b.Q6_K.gguf
+    size: 10679140288
+  - name: psyfighter-13b.Q8_0.gguf
+    size: 13831319488
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-11-07 21:02:20+00:00
+  license: cc-by-nc-4.0
+  model_creator: Undi
+  model_creator_link: Undi95
+  name: Dawn-v2-70B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants: []
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6087e598e2b7cc3a117b0dc5/Ctz_W-uo1gOQRBHXalD1P.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-07 16:10:52+00:00
+  license: llama2
+  model_creator: bofeng huang
+  model_creator_link: bofenghuang
+  name: vigogne-2-70B-chat-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: vigogne-2-70b-chat.Q2_K.gguf
+    size: 29279253440
+  - name: vigogne-2-70b-chat.Q3_K_L.gguf
+    size: 36147835840
+  - name: vigogne-2-70b-chat.Q3_K_M.gguf
+    size: 33186657216
+  - name: vigogne-2-70b-chat.Q3_K_S.gguf
+    size: 29919294400
+  - name: vigogne-2-70b-chat.Q4_0.gguf
+    size: 38872249280
+  - name: vigogne-2-70b-chat.Q4_K_M.gguf
+    size: 41422910400
+  - name: vigogne-2-70b-chat.Q4_K_S.gguf
+    size: 39073575872
+  - name: vigogne-2-70b-chat.Q5_0.gguf
+    size: 47461397440
+  - name: vigogne-2-70b-chat.Q5_K_M.gguf
+    size: 48753767360
+  - name: vigogne-2-70b-chat.Q5_K_S.gguf
+    size: 47461397440
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-11-07 14:53:00+00:00
+  license: cc-by-nc-4.0
+  model_creator: Undi
+  model_creator_link: Undi95
+  name: Toppy-M-7B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants: []
+- category: generic
+  datasets:
+  - cerebras/SlimPajama-627B
+  - bigcode/starcoderdata
+  last_commit_time: 2023-11-07 12:56:24+00:00
+  license: apache-2.0
+  model_creator: Zhang Peiyuan
+  model_creator_link: PY007
+  name: TinyLlama-1.1B-intermediate-step-715k-1.5T-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: tinyllama-1.1b-intermediate-step-715k-1.5t.Q2_K.gguf
+    size: 482142688
+  - name: tinyllama-1.1b-intermediate-step-715k-1.5t.Q3_K_L.gguf
+    size: 591526368
+  - name: tinyllama-1.1b-intermediate-step-715k-1.5t.Q3_K_M.gguf
+    size: 549845472
+  - name: tinyllama-1.1b-intermediate-step-715k-1.5t.Q3_K_S.gguf
+    size: 499341792
+  - name: tinyllama-1.1b-intermediate-step-715k-1.5t.Q4_0.gguf
+    size: 636725728
+  - name: tinyllama-1.1b-intermediate-step-715k-1.5t.Q4_K_M.gguf
+    size: 667814368
+  - name: tinyllama-1.1b-intermediate-step-715k-1.5t.Q4_K_S.gguf
+    size: 642755040
+  - name: tinyllama-1.1b-intermediate-step-715k-1.5t.Q5_0.gguf
+    size: 766028256
+  - name: tinyllama-1.1b-intermediate-step-715k-1.5t.Q5_K_M.gguf
+    size: 782043616
+  - name: tinyllama-1.1b-intermediate-step-715k-1.5t.Q5_K_S.gguf
+    size: 766028256
+  - name: tinyllama-1.1b-intermediate-step-715k-1.5t.Q6_K.gguf
+    size: 903412192
+  - name: tinyllama-1.1b-intermediate-step-715k-1.5t.Q8_0.gguf
+    size: 1169807840
