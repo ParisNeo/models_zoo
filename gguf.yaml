@@ -30996,3 +30996,73 @@
     size: 1432219680
   - name: deepseek-coder-1.3b-base.Q8_0.gguf
     size: 1432219680
+- category: generic
+  datasets:
+  - ehartford/dolphin
+  - jondurbin/airoboros-2.2.1
+  - ehartford/samantha-data
+  - ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split
+  last_commit_time: 2023-11-08 13:50:23+00:00
+  license: llama2
+  model_creator: Eric Hartford
+  model_creator_link: ehartford
+  name: dolphin-2.2-70B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: dolphin-2.2-70b.Q2_K.gguf
+    size: 29279272320
+  - name: dolphin-2.2-70b.Q3_K_L.gguf
+    size: 36147856384
+  - name: dolphin-2.2-70b.Q3_K_M.gguf
+    size: 33186677760
+  - name: dolphin-2.2-70b.Q3_K_S.gguf
+    size: 29919314944
+  - name: dolphin-2.2-70b.Q4_0.gguf
+    size: 38872272000
+  - name: dolphin-2.2-70b.Q4_K_M.gguf
+    size: 41422933120
+  - name: dolphin-2.2-70b.Q4_K_S.gguf
+    size: 39073598592
+  - name: dolphin-2.2-70b.Q5_0.gguf
+    size: 47461422208
+  - name: dolphin-2.2-70b.Q5_K_M.gguf
+    size: 48753792128
+  - name: dolphin-2.2-70b.Q5_K_S.gguf
+    size: 47461422208
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-09 00:52:01+00:00
+  license: apache-2.0
+  model_creator: Keynote Technology
+  model_creator_link: Keynote-Technology
+  name: KAI-7B-Instruct-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: kai-7b-instruct.Q2_K.gguf
+    size: 3083097760
+  - name: kai-7b-instruct.Q3_K_L.gguf
+    size: 3822024352
+  - name: kai-7b-instruct.Q3_K_M.gguf
+    size: 3518985888
+  - name: kai-7b-instruct.Q3_K_S.gguf
+    size: 3164567200
+  - name: kai-7b-instruct.Q4_0.gguf
+    size: 4108916384
+  - name: kai-7b-instruct.Q4_K_M.gguf
+    size: 4368438944
+  - name: kai-7b-instruct.Q4_K_S.gguf
+    size: 4140373664
+  - name: kai-7b-instruct.Q5_0.gguf
+    size: 4997715616
+  - name: kai-7b-instruct.Q5_K_M.gguf
+    size: 5131409056
+  - name: kai-7b-instruct.Q5_K_S.gguf
+    size: 4997715616
+  - name: kai-7b-instruct.Q6_K.gguf
+    size: 5942064800
+  - name: kai-7b-instruct.Q8_0.gguf
+    size: 7695857312
