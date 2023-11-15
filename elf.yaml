@@ -1,14 +1,14 @@
 - category: generic
   datasets: unknown
-  icon: /bindings/remote_lollms/logo.png
+  icon: /bindings/elf/logo.png
   last_commit_time: 2023-09-22 23:48:14+00:00
   license: Apache 2.0
   model_creator: parisneo
   model_creator_link: https://huggingface.co/parisneo
-  name: Default lollms remotes
+  name: Default elf bridge
   quantizer: None
   rank: 10000000000.0
-  type: gptq
+  type: api
   variants:
-  - name: model.safetensors
-    size: 3896714728
+  - name: Elf
+    size: Unknown
