@@ -238,6 +238,7 @@ def build_model_cards(entries, model_type='awq', output_file="output_TheBloke_gp
         card["rank"]=1e10
         card["category"]="generic"
         card["description"]=""
+        card["ctx_size"]=-1
 
         try:
             # recover readme.md, example https://huggingface.co/TheBloke/ORCA_LLaMA_70B_QLoRA-GGUF/raw/main/README.md
