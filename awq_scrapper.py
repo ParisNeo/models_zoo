@@ -237,6 +237,8 @@ def build_model_cards(entries, model_type='awq', output_file="output_TheBloke_gp
         card["type"]=model_type
         card["rank"]=1e10
         card["category"]="generic"
+        card["description"]=""
+
         try:
             # recover readme.md, example https://huggingface.co/TheBloke/ORCA_LLaMA_70B_QLoRA-GGUF/raw/main/README.md
             response = requests.get(f"https://huggingface.co/{entry}/raw/main/README.md")
