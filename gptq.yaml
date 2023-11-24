@@ -14403,3 +14403,416 @@
   variants:
   - name: model.safetensors
     size: 35332203552
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-24 20:05:48+00:00
+  license: apache-2.0
+  model_creator: Ray Hernandez
+  model_creator_link: perlthoughts
+  name: Chupacabra-7B-v3-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662216
+- category: generic
+  datasets:
+  - HuggingFaceH4/ultrafeedback_binarized
+  - allenai/tulu-v2-sft-mixture
+  last_commit_time: 2023-11-24 18:58:52+00:00
+  license: other
+  model_creator: Allen Institute for AI
+  model_creator_link: allenai
+  name: tulu-2-dpo-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 3896714800
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-24 20:34:27+00:00
+  license: unknown
+  name: Rose-20B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-24 20:05:48+00:00
+  license: apache-2.0
+  model_creator: Ray Hernandez
+  model_creator_link: perlthoughts
+  name: Chupacabra-7B-v3-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662216
+- category: generic
+  datasets:
+  - hwanhe/Mini_orca
+  icon: ''
+  last_commit_time: 2023-11-24 19:36:47+00:00
+  license: cc-by-sa-4.0
+  model_creator: Minirecord
+  model_creator_link: Minirecord
+  name: Mini_Synatra_7B_02-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158694984
+- category: generic
+  datasets:
+  - HuggingFaceH4/ultrafeedback_binarized
+  - allenai/tulu-v2-sft-mixture
+  last_commit_time: 2023-11-24 18:58:52+00:00
+  license: other
+  model_creator: Allen Institute for AI
+  model_creator_link: allenai
+  name: tulu-2-dpo-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 3896714800
+- category: generic
+  datasets:
+  - HuggingFaceH4/ultrafeedback_binarized
+  - allenai/tulu-v2-sft-mixture
+  last_commit_time: 2023-11-24 12:41:28+00:00
+  license: other
+  model_creator: Allen Institute for AI
+  model_creator_link: allenai
+  name: tulu-2-dpo-70B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 35332203712
+- category: generic
+  datasets:
+  - HuggingFaceH4/ultrafeedback_binarized
+  - allenai/tulu-v2-sft-mixture
+  last_commit_time: 2023-11-24 11:33:34+00:00
+  license: other
+  model_creator: Allen Institute for AI
+  model_creator_link: allenai
+  name: tulu-2-dpo-13B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 7259435280
+- category: generic
+  datasets:
+  - allenai/tulu-v2-sft-mixture
+  last_commit_time: 2023-11-24 10:54:11+00:00
+  license: other
+  model_creator: Allen Institute for AI
+  model_creator_link: allenai
+  name: tulu-2-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 3896714800
+- category: generic
+  datasets:
+  - allenai/tulu-v2-sft-mixture
+  last_commit_time: 2023-11-24 03:57:09+00:00
+  license: other
+  model_creator: Allen Institute for AI
+  model_creator_link: allenai
+  name: tulu-2-70B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 35332203712
+- category: generic
+  datasets:
+  - allenai/tulu-v2-sft-mixture
+  last_commit_time: 2023-11-24 02:43:19+00:00
+  license: other
+  model_creator: Allen Institute for AI
+  model_creator_link: allenai
+  name: tulu-2-13B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 7259435280
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-23 23:31:24+00:00
+  license: other
+  model_creator: Migel Tissera
+  model_creator_link: migtissera
+  name: Tess-M-v1.2-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 18604979648
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-23 17:11:49+00:00
+  license: apache-2.0
+  model_creator: Jeonghwan Park
+  model_creator_link: maywell
+  name: Synatra-RP-Orca-2-7B-v0.1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 3896763952
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-23 14:58:58+00:00
+  license: llama2
+  model_creator: Charles Goddard
+  model_creator_link: chargoddard
+  name: llama-polyglot-13B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 7259435192
+- category: generic
+  datasets: unknown
+  license: unknown
+  name: Yi-34B-Chat-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-23 17:40:46+00:00
+  license: cc-by-nc-4.0
+  model_creator: Jeonghwan Park
+  model_creator_link: maywell
+  name: Synatra-V0.1-7B-Instruct-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662216
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-23 16:13:17+00:00
+  license: cc-by-sa-4.0
+  model_creator: Jeonghwan Park
+  model_creator_link: maywell
+  name: Synatra-7B-v0.3-dpo-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158695048
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-23 20:12:27+00:00
+  license: cc-by-nc-4.0
+  model_creator: Jeonghwan Park
+  model_creator_link: maywell
+  name: Synatra-7B-v0.3-base-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158695048
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-23 15:44:10+00:00
+  license: cc-by-sa-4.0
+  model_creator: Jeonghwan Park
+  model_creator_link: maywell
+  name: koOpenChat-sft-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158695048
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-23 14:32:02+00:00
+  license: apache-2.0
+  model_creator: Allen Institute for AI
+  model_creator_link: allenai
+  name: digital-socrates-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 3896731112
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-23 13:44:59+00:00
+  license: apache-2.0
+  model_creator: Allen Institute for AI
+  model_creator_link: allenai
+  name: digital-socrates-13B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 7259455672
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-23 08:47:36+00:00
+  license: cc-by-nc-4.0
+  model_creator: IkariDev and Undi
+  model_creator_link: NeverSleep
+  name: Noromaid-20B-v0.1.1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 10515823064
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-23 02:13:56+00:00
+  license: llama2
+  model_creator: Jiangwen Su
+  model_creator_link: uukuguy
+  name: SynthIA-7B-v1.3-dare-0.85-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662216
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-23 01:44:35+00:00
+  license: llama2
+  model_creator: Jiangwen Su
+  model_creator_link: uukuguy
+  name: CollectiveCognition-v1.1-Mistral-7B-dare-0.85-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662216
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-23 01:15:20+00:00
+  license: apache-2.0
+  model_creator: Jiangwen Su
+  model_creator_link: uukuguy
+  name: airoboros-m-7B-3.1.2-dare-0.85-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662216
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-23 00:46:21+00:00
+  license: llama2
+  model_creator: Speechless.AI
+  model_creator_link: speechlessai
+  name: speechless-mistral-7B-dare-0.85-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662280
+- category: generic
+  datasets:
+  - euclaise/MiniCoT
+  - euclaise/SciCoT
+  - euclaise/symtune_mini
+  - euclaise/mathoverflow-accepted
+  - euirim/goodwiki
+  last_commit_time: 2023-11-23 00:17:23+00:00
+  license: other
+  model_creator: Josh/Jade Pritsker
+  model_creator_link: euclaise
+  name: Ferret_7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662280
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-22 23:48:05+00:00
+  license: apache-2.0
+  model_creator: Ray Hernandez
+  model_creator_link: perlthoughts
+  name: Chupacabra-7B-v2-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158694984
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-22 22:38:52+00:00
+  license: apache-2.0
+  model_creator: Migel Tissera
+  model_creator_link: migtissera
+  name: Tess-XS-v1.1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662216
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-22 21:54:45+00:00
+  license: apache-2.0
+  model_creator: Migel Tissera
+  model_creator_link: migtissera
+  name: Tess-XS-Creative-v1.0-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662216
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/noauth/5m8iK8PtdV4Mxg8835178.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-22 18:46:22+00:00
+  license: cc-by-sa-4.0
+  model_creator: pansophic
+  model_creator_link: pansophic
+  name: rocket-3B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 1838811216
