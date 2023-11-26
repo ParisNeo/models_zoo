@@ -9890,3 +9890,114 @@
   variants:
   - name: model-00001-of-00002.safetensors
     size: 9963803400
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-11-25 17:05:21+00:00
+  license: llama2
+  model_creator: wbag
+  model_creator_link: Walmart-the-bag
+  name: MysticFusion-13B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 7247987312
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1670003187019-noauth.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-25 20:15:30+00:00
+  license: other
+  model_creator: brucethemoose
+  model_creator_link: brucethemoose
+  name: Capybara-Tess-Yi-34B-200K-DARE-Ties-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9963803400
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-11-25 17:05:21+00:00
+  license: llama2
+  model_creator: wbag
+  model_creator_link: Walmart-the-bag
+  name: MysticFusion-13B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 7247987312
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-11-25 10:59:38+00:00
+  license: other
+  model_creator: Migel Tissera
+  model_creator_link: migtissera
+  name: Tess-M-v1.3-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9963832072
+- category: generic
+  ctx_size: -1
+  datasets:
+  - maywell/ko_wikidata_QA
+  - kyujinpy/OpenOrca-KO
+  description: ''
+  last_commit_time: 2023-11-25 10:28:06+00:00
+  license: cc-by-sa-4.0
+  model_creator: Jeonghwan Park
+  model_creator_link: maywell
+  name: PiVoT-0.1-early-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150913000
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/632a0b93cf7d40df9b3cf674/mxRiCbPXNzTCu4cEIJO5X.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-25 09:38:19+00:00
+  license: llama2
+  model_creator: FPHam
+  model_creator_link: FPHam
+  name: Karen_TheEditor_V2_CREATIVE_Mistral_7B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150913000
+- category: generic
+  ctx_size: -1
+  datasets:
+  - HuggingFaceH4/ultrafeedback_binarized
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6468ecd5dcbb937d56b6e32f/dTQc64Xj88nA_Kry19-w1.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-25 01:29:52+00:00
+  license: artistic-2.0
+  model_creator: FBL
+  model_creator_link: fblgit
+  name: juanako-7B-v1-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232

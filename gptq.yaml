@@ -14816,3 +14816,121 @@
   variants:
   - name: model.safetensors
     size: 1838811216
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-25 17:05:21+00:00
+  license: llama2
+  model_creator: wbag
+  model_creator_link: Walmart-the-bag
+  name: MysticFusion-13B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 7259435192
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-25 20:15:30+00:00
+  license: unknown
+  name: Capybara-Tess-Yi-34B-200K-DARE-Ties-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-25 17:05:21+00:00
+  license: llama2
+  model_creator: wbag
+  model_creator_link: Walmart-the-bag
+  name: MysticFusion-13B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 7259435192
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-25 10:59:38+00:00
+  license: other
+  model_creator: Migel Tissera
+  model_creator_link: migtissera
+  name: Tess-M-v1.3-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 18604979648
+- category: generic
+  datasets:
+  - maywell/ko_wikidata_QA
+  - kyujinpy/OpenOrca-KO
+  last_commit_time: 2023-11-25 10:28:06+00:00
+  license: cc-by-sa-4.0
+  model_creator: Jeonghwan Park
+  model_creator_link: maywell
+  name: PiVoT-0.1-early-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158695048
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/632a0b93cf7d40df9b3cf674/mxRiCbPXNzTCu4cEIJO5X.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-25 09:38:19+00:00
+  license: llama2
+  model_creator: FPHam
+  model_creator_link: FPHam
+  name: Karen_TheEditor_V2_CREATIVE_Mistral_7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158694984
+- category: generic
+  datasets:
+  - HuggingFaceH4/ultrafeedback_binarized
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6468ecd5dcbb937d56b6e32f/dTQc64Xj88nA_Kry19-w1.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-25 01:29:52+00:00
+  license: artistic-2.0
+  model_creator: FBL
+  model_creator_link: fblgit
+  name: juanako-7B-v1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662216
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63f0f4f52f7c0152e86e9ae8/XNULuYJfrk9jtSOVLYjlE.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-24 22:42:42+00:00
+  license: apache-2.0
+  model_creator: Vihang D
+  model_creator_link: vihangd
+  name: smartyplats-7B-v2-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662216
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-11-24 21:55:51+00:00
+  license: cc-by-nc-4.0
+  model_creator: Undi
+  model_creator_link: Undi95
+  name: X-MythoChronos-13B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants: []

@@ -35608,3 +35608,289 @@
     size: 5942064832
   - name: tess-xs-creative-v1.0.Q8_0.gguf
     size: 7695857344
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-25 17:05:21+00:00
+  license: llama2
+  model_creator: wbag
+  model_creator_link: Walmart-the-bag
+  name: MysticFusion-13B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: mysticfusion-13b.Q2_K.gguf
+    size: 5429348416
+  - name: mysticfusion-13b.Q3_K_L.gguf
+    size: 6929559616
+  - name: mysticfusion-13b.Q3_K_M.gguf
+    size: 6337769536
+  - name: mysticfusion-13b.Q3_K_S.gguf
+    size: 5658980416
+  - name: mysticfusion-13b.Q4_0.gguf
+    size: 7365834816
+  - name: mysticfusion-13b.Q4_K_M.gguf
+    size: 7865956416
+  - name: mysticfusion-13b.Q4_K_S.gguf
+    size: 7414331456
+  - name: mysticfusion-13b.Q5_0.gguf
+    size: 8972286016
+  - name: mysticfusion-13b.Q5_K_M.gguf
+    size: 9229924416
+  - name: mysticfusion-13b.Q5_K_S.gguf
+    size: 8972286016
+  - name: mysticfusion-13b.Q6_K.gguf
+    size: 10679140416
+  - name: mysticfusion-13b.Q8_0.gguf
+    size: 13831319616
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-25 10:59:38+00:00
+  license: other
+  model_creator: Migel Tissera
+  model_creator_link: migtissera
+  name: Tess-M-v1.3-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: tess-m-v1.3.Q2_K.gguf
+    size: 14555891840
+  - name: tess-m-v1.3.Q3_K_L.gguf
+    size: 18139463232
+  - name: tess-m-v1.3.Q3_K_M.gguf
+    size: 16636591680
+  - name: tess-m-v1.3.Q3_K_S.gguf
+    size: 14960311872
+  - name: tess-m-v1.3.Q4_0.gguf
+    size: 19466548640
+  - name: tess-m-v1.3.Q4_K_M.gguf
+    size: 20658730400
+  - name: tess-m-v1.3.Q4_K_S.gguf
+    size: 19543618976
+  - name: tess-m-v1.3.Q5_0.gguf
+    size: 23707712672
+  - name: tess-m-v1.3.Q5_K_M.gguf
+    size: 24321866912
+  - name: tess-m-v1.3.Q5_K_S.gguf
+    size: 23707712672
+  - name: tess-m-v1.3.Q6_K.gguf
+    size: 28213949472
+  - name: tess-m-v1.3.Q8_0.gguf
+    size: 36542312224
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1670003187019-noauth.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-25 20:15:30+00:00
+  license: other
+  model_creator: brucethemoose
+  model_creator_link: brucethemoose
+  name: Capybara-Tess-Yi-34B-200K-DARE-Ties-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: capybara-tess-yi-34b-200k-dare-ties.Q2_K.gguf
+    size: 14555875360
+  - name: capybara-tess-yi-34b-200k-dare-ties.Q3_K_L.gguf
+    size: 18139445280
+  - name: capybara-tess-yi-34b-200k-dare-ties.Q3_K_M.gguf
+    size: 16636573728
+  - name: capybara-tess-yi-34b-200k-dare-ties.Q3_K_S.gguf
+    size: 14960293920
+  - name: capybara-tess-yi-34b-200k-dare-ties.Q4_0.gguf
+    size: 19466528800
+  - name: capybara-tess-yi-34b-200k-dare-ties.Q4_K_M.gguf
+    size: 20658710560
+  - name: capybara-tess-yi-34b-200k-dare-ties.Q4_K_S.gguf
+    size: 19543599136
+  - name: capybara-tess-yi-34b-200k-dare-ties.Q5_0.gguf
+    size: 23707691040
+  - name: capybara-tess-yi-34b-200k-dare-ties.Q5_K_M.gguf
+    size: 24321845280
+  - name: capybara-tess-yi-34b-200k-dare-ties.Q5_K_S.gguf
+    size: 23707691040
+  - name: capybara-tess-yi-34b-200k-dare-ties.Q6_K.gguf
+    size: 28213925920
+  - name: capybara-tess-yi-34b-200k-dare-ties.Q8_0.gguf
+    size: 36542281760
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-25 17:05:21+00:00
+  license: llama2
+  model_creator: wbag
+  model_creator_link: Walmart-the-bag
+  name: MysticFusion-13B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: mysticfusion-13b.Q2_K.gguf
+    size: 5429348416
+  - name: mysticfusion-13b.Q3_K_L.gguf
+    size: 6929559616
+  - name: mysticfusion-13b.Q3_K_M.gguf
+    size: 6337769536
+  - name: mysticfusion-13b.Q3_K_S.gguf
+    size: 5658980416
+  - name: mysticfusion-13b.Q4_0.gguf
+    size: 7365834816
+  - name: mysticfusion-13b.Q4_K_M.gguf
+    size: 7865956416
+  - name: mysticfusion-13b.Q4_K_S.gguf
+    size: 7414331456
+  - name: mysticfusion-13b.Q5_0.gguf
+    size: 8972286016
+  - name: mysticfusion-13b.Q5_K_M.gguf
+    size: 9229924416
+  - name: mysticfusion-13b.Q5_K_S.gguf
+    size: 8972286016
+  - name: mysticfusion-13b.Q6_K.gguf
+    size: 10679140416
+  - name: mysticfusion-13b.Q8_0.gguf
+    size: 13831319616
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-11-25 10:59:38+00:00
+  license: other
+  model_creator: Migel Tissera
+  model_creator_link: migtissera
+  name: Tess-M-v1.3-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: tess-m-v1.3.Q2_K.gguf
+    size: 14555891840
+  - name: tess-m-v1.3.Q3_K_L.gguf
+    size: 18139463232
+  - name: tess-m-v1.3.Q3_K_M.gguf
+    size: 16636591680
+  - name: tess-m-v1.3.Q3_K_S.gguf
+    size: 14960311872
+  - name: tess-m-v1.3.Q4_0.gguf
+    size: 19466548640
+  - name: tess-m-v1.3.Q4_K_M.gguf
+    size: 20658730400
+  - name: tess-m-v1.3.Q4_K_S.gguf
+    size: 19543618976
+  - name: tess-m-v1.3.Q5_0.gguf
+    size: 23707712672
+  - name: tess-m-v1.3.Q5_K_M.gguf
+    size: 24321866912
+  - name: tess-m-v1.3.Q5_K_S.gguf
+    size: 23707712672
+  - name: tess-m-v1.3.Q6_K.gguf
+    size: 28213949472
+  - name: tess-m-v1.3.Q8_0.gguf
+    size: 36542312224
+- category: generic
+  datasets:
+  - maywell/ko_wikidata_QA
+  - kyujinpy/OpenOrca-KO
+  last_commit_time: 2023-11-25 10:28:06+00:00
+  license: cc-by-sa-4.0
+  model_creator: Jeonghwan Park
+  model_creator_link: maywell
+  name: PiVoT-0.1-early-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: pivot-0.1-early.Q2_K.gguf
+    size: 3083107552
+  - name: pivot-0.1-early.Q3_K_L.gguf
+    size: 3822034976
+  - name: pivot-0.1-early.Q3_K_M.gguf
+    size: 3518996512
+  - name: pivot-0.1-early.Q3_K_S.gguf
+    size: 3164577824
+  - name: pivot-0.1-early.Q4_0.gguf
+    size: 4108928096
+  - name: pivot-0.1-early.Q4_K_M.gguf
+    size: 4368450656
+  - name: pivot-0.1-early.Q4_K_S.gguf
+    size: 4140385376
+  - name: pivot-0.1-early.Q5_0.gguf
+    size: 4997728352
+  - name: pivot-0.1-early.Q5_K_M.gguf
+    size: 5131421792
+  - name: pivot-0.1-early.Q5_K_S.gguf
+    size: 4997728352
+  - name: pivot-0.1-early.Q6_K.gguf
+    size: 5942078624
+  - name: pivot-0.1-early.Q8_0.gguf
+    size: 7695875104
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/632a0b93cf7d40df9b3cf674/mxRiCbPXNzTCu4cEIJO5X.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-25 09:38:19+00:00
+  license: llama2
+  model_creator: FPHam
+  model_creator_link: FPHam
+  name: Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: karen_theeditor_v2_creative_mistral_7b.Q2_K.gguf
+    size: 3083107648
+  - name: karen_theeditor_v2_creative_mistral_7b.Q3_K_L.gguf
+    size: 3822035072
+  - name: karen_theeditor_v2_creative_mistral_7b.Q3_K_M.gguf
+    size: 3518996608
+  - name: karen_theeditor_v2_creative_mistral_7b.Q3_K_S.gguf
+    size: 3164577920
+  - name: karen_theeditor_v2_creative_mistral_7b.Q4_0.gguf
+    size: 4108928192
+  - name: karen_theeditor_v2_creative_mistral_7b.Q4_K_M.gguf
+    size: 4368450752
+  - name: karen_theeditor_v2_creative_mistral_7b.Q4_K_S.gguf
+    size: 4140385472
+  - name: karen_theeditor_v2_creative_mistral_7b.Q5_0.gguf
+    size: 4997728448
+  - name: karen_theeditor_v2_creative_mistral_7b.Q5_K_M.gguf
+    size: 5131421888
+  - name: karen_theeditor_v2_creative_mistral_7b.Q5_K_S.gguf
+    size: 4997728448
+  - name: karen_theeditor_v2_creative_mistral_7b.Q6_K.gguf
+    size: 5942078720
+  - name: karen_theeditor_v2_creative_mistral_7b.Q8_0.gguf
+    size: 7695875200
+- category: generic
+  datasets:
+  - HuggingFaceH4/ultrafeedback_binarized
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6468ecd5dcbb937d56b6e32f/dTQc64Xj88nA_Kry19-w1.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-25 01:29:52+00:00
+  license: artistic-2.0
+  model_creator: FBL
+  model_creator_link: fblgit
+  name: juanako-7B-v1-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: juanako-7b-v1.Q2_K.gguf
+    size: 3083097824
+  - name: juanako-7b-v1.Q3_K_L.gguf
+    size: 3822024416
+  - name: juanako-7b-v1.Q3_K_M.gguf
+    size: 3518985952
+  - name: juanako-7b-v1.Q3_K_S.gguf
+    size: 3164567264
+  - name: juanako-7b-v1.Q4_0.gguf
+    size: 4108916448
+  - name: juanako-7b-v1.Q4_K_M.gguf
+    size: 4368439008
+  - name: juanako-7b-v1.Q4_K_S.gguf
+    size: 4140373728
+  - name: juanako-7b-v1.Q5_0.gguf
+    size: 4997715680
+  - name: juanako-7b-v1.Q5_K_M.gguf
+    size: 5131409120
+  - name: juanako-7b-v1.Q5_K_S.gguf
+    size: 4997715680
+  - name: juanako-7b-v1.Q6_K.gguf
+    size: 5942064864
+  - name: juanako-7b-v1.Q8_0.gguf
+    size: 7695857376
