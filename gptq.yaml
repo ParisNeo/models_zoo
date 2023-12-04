@@ -15441,3 +15441,218 @@
   rank: 10000000000.0
   type: gptq
   variants: []
+- category: generic
+  datasets:
+  - Open-Orca/SlimOrca
+  last_commit_time: 2023-12-04 09:55:27+00:00
+  license: apache-2.0
+  model_creator: "Ya\u011F\u0131z \xC7al\u0131k"
+  model_creator_link: Weyaxi
+  name: OpenHermes-2.5-neural-chat-7B-v3-2-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662280
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63eeb2f2436d28737ee44721/3Jh_RkQWSLBmwWc79axXI.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-04 09:09:07+00:00
+  license: apache-2.0
+  model_creator: Oniichat
+  model_creator_link: Oniichat
+  name: Onii-1.3-13B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 7259435192
+- category: generic
+  datasets:
+  - argilla/ultrafeedback-binarized-preferences
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1664307416166-60420dccc15e823a685f2b03.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-04 08:41:10+00:00
+  license: mit
+  model_creator: Argilla
+  model_creator_link: argilla
+  name: notus-7B-v1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662280
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-12-04 18:50:14+00:00
+  license: unknown
+  name: RpBird-Yi-34B-200k-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets:
+  - Open-Orca/SlimOrca
+  last_commit_time: 2023-12-04 09:55:27+00:00
+  license: apache-2.0
+  model_creator: "Ya\u011F\u0131z \xC7al\u0131k"
+  model_creator_link: Weyaxi
+  name: OpenHermes-2.5-neural-chat-7B-v3-2-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662280
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63eeb2f2436d28737ee44721/3Jh_RkQWSLBmwWc79axXI.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-04 09:09:07+00:00
+  license: apache-2.0
+  model_creator: Oniichat
+  model_creator_link: Oniichat
+  name: Onii-1.3-13B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 7259435192
+- category: generic
+  datasets:
+  - argilla/ultrafeedback-binarized-preferences
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1664307416166-60420dccc15e823a685f2b03.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-04 08:41:10+00:00
+  license: mit
+  model_creator: Argilla
+  model_creator_link: argilla
+  name: notus-7B-v1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662280
+- category: generic
+  datasets:
+  - Open-Orca/SlimOrca-Dedup
+  - teknium/openhermes
+  - meta-math/MetaMathQA
+  - migtissera/Synthia-v1.3
+  - THUDM/AgentInstruct
+  - LeoLM/German_Songs
+  - LeoLM/German_Poems
+  - LeoLM/OpenSchnabeltier
+  - bjoernp/ultrachat_de
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62e3b6ab0c2a907c388e4965/I5F9O8dcRuY2HgFmXJAxH.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-03 17:28:15+00:00
+  license: llama2
+  model_creator: Disco Research
+  model_creator_link: DiscoResearch
+  name: DiscoLM-70B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 35333252128
+- category: generic
+  datasets:
+  - Open-Orca/SlimOrca-Dedup
+  - teknium/openhermes
+  - meta-math/MetaMathQA
+  - migtissera/Synthia-v1.3
+  - THUDM/AgentInstruct
+  - LeoLM/German_Songs
+  - LeoLM/German_Poems
+  - LeoLM/OpenSchnabeltier
+  - bjoernp/ultrachat_de
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62e3b6ab0c2a907c388e4965/I5F9O8dcRuY2HgFmXJAxH.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-02 19:05:16+00:00
+  license: llama2
+  model_creator: Disco Research
+  model_creator_link: DiscoResearch
+  name: DiscoLM-120b-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model-00001-of-00006.safetensors
+    size: 9990660552
+- category: generic
+  datasets:
+  - teknium/openhermes
+  - argilla/ultrafeedback-binarized-preferences
+  - Intel/orca_dpo_pairs
+  last_commit_time: 2023-12-03 03:46:30+00:00
+  license: apache-2.0
+  model_creator: Open Access AI Collective
+  model_creator_link: openaccess-ai-collective
+  name: DPOpenHermes-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158695048
+- category: generic
+  datasets:
+  - pankajmathur/orca_mini_v1_dataset
+  - openai/summarize_from_feedback
+  - PygmalionAI/PIPPA
+  - chargoddard/rpguild
+  - lemonilia/LimaRP
+  last_commit_time: 2023-12-03 03:16:16+00:00
+  license: cc-by-nc-4.0
+  model_creator: Charles Goddard
+  model_creator_link: chargoddard
+  name: loyal-piano-m7-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662216
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-12-03 02:48:02+00:00
+  license: apache-2.0
+  model_creator: Azariel Del Carmen
+  model_creator_link: Bronya-Rand
+  name: Inairtra-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662216
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1616186257611-60104afcc75e19ac1738fe70.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-02 18:33:53+00:00
+  license: apache-2.0
+  model_creator: Intel
+  model_creator_link: Intel
+  name: neural-chat-7B-v3-2-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662216
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-12-02 11:33:36+00:00
+  license: other
+  model_creator: Marco Lironi
+  model_creator_link: mlinmg
+  name: SG-Raccoon-Yi-55B-200k-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 29225917288

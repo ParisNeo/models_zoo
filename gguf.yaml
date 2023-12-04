@@ -37116,3 +37116,40 @@
     size: 10679140352
   - name: mergemonster-13b-20231124.Q8_0.gguf
     size: 13831319552
+- category: generic
+  datasets:
+  - argilla/ultrafeedback-binarized-preferences
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1664307416166-60420dccc15e823a685f2b03.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-03 18:47:50+00:00
+  license: mit
+  model_creator: Argilla
+  model_creator_link: argilla
+  name: notus-7B-v1-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: notus-7b-v1.Q2_K.gguf
+    size: 3083098240
+  - name: notus-7b-v1.Q3_K_L.gguf
+    size: 3822024832
+  - name: notus-7b-v1.Q3_K_M.gguf
+    size: 3518986368
+  - name: notus-7b-v1.Q3_K_S.gguf
+    size: 3164567680
+  - name: notus-7b-v1.Q4_0.gguf
+    size: 4108916864
+  - name: notus-7b-v1.Q4_K_M.gguf
+    size: 4368439424
+  - name: notus-7b-v1.Q4_K_S.gguf
+    size: 4140374144
+  - name: notus-7b-v1.Q5_0.gguf
+    size: 4997716096
+  - name: notus-7b-v1.Q5_K_M.gguf
+    size: 5131409536
+  - name: notus-7b-v1.Q5_K_S.gguf
+    size: 4997716096
+  - name: notus-7b-v1.Q6_K.gguf
+    size: 5942065280
+  - name: notus-7b-v1.Q8_0.gguf
+    size: 7695857792
