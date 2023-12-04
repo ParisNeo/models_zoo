@@ -37153,3 +37153,394 @@
     size: 5942065280
   - name: notus-7b-v1.Q8_0.gguf
     size: 7695857792
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-12-04 18:50:14+00:00
+  license: other
+  model_creator: Taojiang
+  model_creator_link: taozi555
+  name: RpBird-Yi-34B-200k-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: rpbird-yi-34b-200k.Q2_K.gguf
+    size: 14555875392
+  - name: rpbird-yi-34b-200k.Q3_K_L.gguf
+    size: 18139445312
+  - name: rpbird-yi-34b-200k.Q3_K_M.gguf
+    size: 16636573760
+  - name: rpbird-yi-34b-200k.Q3_K_S.gguf
+    size: 14960293952
+  - name: rpbird-yi-34b-200k.Q4_0.gguf
+    size: 19466528832
+  - name: rpbird-yi-34b-200k.Q4_K_M.gguf
+    size: 20658710592
+  - name: rpbird-yi-34b-200k.Q4_K_S.gguf
+    size: 19543599168
+  - name: rpbird-yi-34b-200k.Q5_0.gguf
+    size: 23707691072
+  - name: rpbird-yi-34b-200k.Q5_K_M.gguf
+    size: 24321845312
+  - name: rpbird-yi-34b-200k.Q5_K_S.gguf
+    size: 23707691072
+  - name: rpbird-yi-34b-200k.Q6_K.gguf
+    size: 28213925952
+  - name: rpbird-yi-34b-200k.Q8_0.gguf
+    size: 36542281792
+- category: generic
+  datasets:
+  - argilla/ultrafeedback-binarized-preferences
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1664307416166-60420dccc15e823a685f2b03.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-03 18:47:50+00:00
+  license: mit
+  model_creator: Argilla
+  model_creator_link: argilla
+  name: notus-7B-v1-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: notus-7b-v1.Q2_K.gguf
+    size: 3083098240
+  - name: notus-7b-v1.Q3_K_L.gguf
+    size: 3822024832
+  - name: notus-7b-v1.Q3_K_M.gguf
+    size: 3518986368
+  - name: notus-7b-v1.Q3_K_S.gguf
+    size: 3164567680
+  - name: notus-7b-v1.Q4_0.gguf
+    size: 4108916864
+  - name: notus-7b-v1.Q4_K_M.gguf
+    size: 4368439424
+  - name: notus-7b-v1.Q4_K_S.gguf
+    size: 4140374144
+  - name: notus-7b-v1.Q5_0.gguf
+    size: 4997716096
+  - name: notus-7b-v1.Q5_K_M.gguf
+    size: 5131409536
+  - name: notus-7b-v1.Q5_K_S.gguf
+    size: 4997716096
+  - name: notus-7b-v1.Q6_K.gguf
+    size: 5942065280
+  - name: notus-7b-v1.Q8_0.gguf
+    size: 7695857792
+- category: generic
+  datasets:
+  - Open-Orca/SlimOrca
+  last_commit_time: 2023-12-03 18:27:10+00:00
+  license: apache-2.0
+  model_creator: "Ya\u011F\u0131z \xC7al\u0131k"
+  model_creator_link: Weyaxi
+  name: OpenHermes-2.5-neural-chat-7B-v3-2-7B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: openhermes-2.5-neural-chat-7b-v3-2-7b.Q2_K.gguf
+    size: 3084034112
+  - name: openhermes-2.5-neural-chat-7b-v3-2-7b.Q3_K_L.gguf
+    size: 3822960704
+  - name: openhermes-2.5-neural-chat-7b-v3-2-7b.Q3_K_M.gguf
+    size: 3519922240
+  - name: openhermes-2.5-neural-chat-7b-v3-2-7b.Q3_K_S.gguf
+    size: 3165503552
+  - name: openhermes-2.5-neural-chat-7b-v3-2-7b.Q4_0.gguf
+    size: 4109852736
+  - name: openhermes-2.5-neural-chat-7b-v3-2-7b.Q4_K_M.gguf
+    size: 4369375296
+  - name: openhermes-2.5-neural-chat-7b-v3-2-7b.Q4_K_S.gguf
+    size: 4141310016
+  - name: openhermes-2.5-neural-chat-7b-v3-2-7b.Q5_0.gguf
+    size: 4998651968
+  - name: openhermes-2.5-neural-chat-7b-v3-2-7b.Q5_K_M.gguf
+    size: 5132345408
+  - name: openhermes-2.5-neural-chat-7b-v3-2-7b.Q5_K_S.gguf
+    size: 4998651968
+  - name: openhermes-2.5-neural-chat-7b-v3-2-7b.Q6_K.gguf
+    size: 5943001152
+  - name: openhermes-2.5-neural-chat-7b-v3-2-7b.Q8_0.gguf
+    size: 7696793664
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63eeb2f2436d28737ee44721/3Jh_RkQWSLBmwWc79axXI.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-03 17:51:49+00:00
+  license: apache-2.0
+  model_creator: Oniichat
+  model_creator_link: Oniichat
+  name: Onii-1.3-13B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: onii-1.3-13b.Q2_K.gguf
+    size: 5429348320
+  - name: onii-1.3-13b.Q3_K_L.gguf
+    size: 6929559520
+  - name: onii-1.3-13b.Q3_K_M.gguf
+    size: 6337769440
+  - name: onii-1.3-13b.Q3_K_S.gguf
+    size: 5658980320
+  - name: onii-1.3-13b.Q4_0.gguf
+    size: 7365834720
+  - name: onii-1.3-13b.Q4_K_M.gguf
+    size: 7865956320
+  - name: onii-1.3-13b.Q4_K_S.gguf
+    size: 7414331360
+  - name: onii-1.3-13b.Q5_0.gguf
+    size: 8972285920
+  - name: onii-1.3-13b.Q5_K_M.gguf
+    size: 9229924320
+  - name: onii-1.3-13b.Q5_K_S.gguf
+    size: 8972285920
+  - name: onii-1.3-13b.Q6_K.gguf
+    size: 10679140320
+  - name: onii-1.3-13b.Q8_0.gguf
+    size: 13831319520
+- category: generic
+  datasets:
+  - Open-Orca/SlimOrca-Dedup
+  - teknium/openhermes
+  - meta-math/MetaMathQA
+  - migtissera/Synthia-v1.3
+  - THUDM/AgentInstruct
+  - LeoLM/German_Songs
+  - LeoLM/German_Poems
+  - LeoLM/OpenSchnabeltier
+  - bjoernp/ultrachat_de
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62e3b6ab0c2a907c388e4965/I5F9O8dcRuY2HgFmXJAxH.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-03 17:28:15+00:00
+  license: llama2
+  model_creator: Disco Research
+  model_creator_link: DiscoResearch
+  name: DiscoLM-70B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: discolm-70b.Q2_K.gguf
+    size: 29279555584
+  - name: discolm-70b.Q3_K_L.gguf
+    size: 36148164608
+  - name: discolm-70b.Q3_K_M.gguf
+    size: 33186985984
+  - name: discolm-70b.Q3_K_S.gguf
+    size: 29919623168
+  - name: discolm-70b.Q4_0.gguf
+    size: 38872612864
+  - name: discolm-70b.Q4_K_M.gguf
+    size: 41423273984
+  - name: discolm-70b.Q4_K_S.gguf
+    size: 39073939456
+  - name: discolm-70b.Q5_0.gguf
+    size: 47461793792
+  - name: discolm-70b.Q5_K_M.gguf
+    size: 48754163712
+  - name: discolm-70b.Q5_K_S.gguf
+    size: 47461793792
+- category: generic
+  datasets:
+  - teknium/openhermes
+  - argilla/ultrafeedback-binarized-preferences
+  - Intel/orca_dpo_pairs
+  last_commit_time: 2023-12-02 23:34:07+00:00
+  license: apache-2.0
+  model_creator: Open Access AI Collective
+  model_creator_link: openaccess-ai-collective
+  name: DPOpenHermes-7B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: dpopenhermes-7b.Q2_K.gguf
+    size: 3083107552
+  - name: dpopenhermes-7b.Q3_K_L.gguf
+    size: 3822034976
+  - name: dpopenhermes-7b.Q3_K_M.gguf
+    size: 3518996512
+  - name: dpopenhermes-7b.Q3_K_S.gguf
+    size: 3164577824
+  - name: dpopenhermes-7b.Q4_0.gguf
+    size: 4108928096
+  - name: dpopenhermes-7b.Q4_K_M.gguf
+    size: 4368450656
+  - name: dpopenhermes-7b.Q4_K_S.gguf
+    size: 4140385376
+  - name: dpopenhermes-7b.Q5_0.gguf
+    size: 4997728352
+  - name: dpopenhermes-7b.Q5_K_M.gguf
+    size: 5131421792
+  - name: dpopenhermes-7b.Q5_K_S.gguf
+    size: 4997728352
+  - name: dpopenhermes-7b.Q6_K.gguf
+    size: 5942078624
+  - name: dpopenhermes-7b.Q8_0.gguf
+    size: 7695875104
+- category: generic
+  datasets:
+  - pankajmathur/orca_mini_v1_dataset
+  - openai/summarize_from_feedback
+  - PygmalionAI/PIPPA
+  - chargoddard/rpguild
+  - lemonilia/LimaRP
+  last_commit_time: 2023-12-03 00:11:00+00:00
+  license: cc-by-nc-4.0
+  model_creator: Charles Goddard
+  model_creator_link: chargoddard
+  name: loyal-piano-m7-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: loyal-piano-m7.Q2_K.gguf
+    size: 3083097792
+  - name: loyal-piano-m7.Q3_K_L.gguf
+    size: 3822024384
+  - name: loyal-piano-m7.Q3_K_M.gguf
+    size: 3518985920
+  - name: loyal-piano-m7.Q3_K_S.gguf
+    size: 3164567232
+  - name: loyal-piano-m7.Q4_0.gguf
+    size: 4108916416
+  - name: loyal-piano-m7.Q4_K_M.gguf
+    size: 4368438976
+  - name: loyal-piano-m7.Q4_K_S.gguf
+    size: 4140373696
+  - name: loyal-piano-m7.Q5_0.gguf
+    size: 4997715648
+  - name: loyal-piano-m7.Q5_K_M.gguf
+    size: 5131409088
+  - name: loyal-piano-m7.Q5_K_S.gguf
+    size: 4997715648
+  - name: loyal-piano-m7.Q6_K.gguf
+    size: 5942064832
+  - name: loyal-piano-m7.Q8_0.gguf
+    size: 7695857344
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-12-02 23:52:32+00:00
+  license: apache-2.0
+  model_creator: Azariel Del Carmen
+  model_creator_link: Bronya-Rand
+  name: Inairtra-7B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: inairtra-7b.Q2_K.gguf
+    size: 3083097792
+  - name: inairtra-7b.Q3_K_L.gguf
+    size: 3822024384
+  - name: inairtra-7b.Q3_K_M.gguf
+    size: 3518985920
+  - name: inairtra-7b.Q3_K_S.gguf
+    size: 3164567232
+  - name: inairtra-7b.Q4_0.gguf
+    size: 4108916416
+  - name: inairtra-7b.Q4_K_M.gguf
+    size: 4368438976
+  - name: inairtra-7b.Q4_K_S.gguf
+    size: 4140373696
+  - name: inairtra-7b.Q5_0.gguf
+    size: 4997715648
+  - name: inairtra-7b.Q5_K_M.gguf
+    size: 5131409088
+  - name: inairtra-7b.Q5_K_S.gguf
+    size: 4997715648
+  - name: inairtra-7b.Q6_K.gguf
+    size: 5942064832
+  - name: inairtra-7b.Q8_0.gguf
+    size: 7695857344
+- category: generic
+  datasets:
+  - Open-Orca/SlimOrca-Dedup
+  - teknium/openhermes
+  - meta-math/MetaMathQA
+  - migtissera/Synthia-v1.3
+  - THUDM/AgentInstruct
+  - LeoLM/German_Songs
+  - LeoLM/German_Poems
+  - LeoLM/OpenSchnabeltier
+  - bjoernp/ultrachat_de
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62e3b6ab0c2a907c388e4965/I5F9O8dcRuY2HgFmXJAxH.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-02 15:09:58+00:00
+  license: llama2
+  model_creator: Disco Research
+  model_creator_link: DiscoResearch
+  name: DiscoLM-120b-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: discolm-120b.Q2_K.gguf
+    size: 49629694112
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1616186257611-60104afcc75e19ac1738fe70.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-02 14:13:42+00:00
+  license: apache-2.0
+  model_creator: Intel
+  model_creator_link: Intel
+  name: neural-chat-7B-v3-2-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: neural-chat-7b-v3-2.Q2_K.gguf
+    size: 3083097792
+  - name: neural-chat-7b-v3-2.Q3_K_L.gguf
+    size: 3822024384
+  - name: neural-chat-7b-v3-2.Q3_K_M.gguf
+    size: 3518985920
+  - name: neural-chat-7b-v3-2.Q3_K_S.gguf
+    size: 3164567232
+  - name: neural-chat-7b-v3-2.Q4_0.gguf
+    size: 4108916416
+  - name: neural-chat-7b-v3-2.Q4_K_M.gguf
+    size: 4368438976
+  - name: neural-chat-7b-v3-2.Q4_K_S.gguf
+    size: 4140373696
+  - name: neural-chat-7b-v3-2.Q5_0.gguf
+    size: 4997715648
+  - name: neural-chat-7b-v3-2.Q5_K_M.gguf
+    size: 5131409088
+  - name: neural-chat-7b-v3-2.Q5_K_S.gguf
+    size: 4997715648
+  - name: neural-chat-7b-v3-2.Q6_K.gguf
+    size: 5942064832
+  - name: neural-chat-7b-v3-2.Q8_0.gguf
+    size: 7695857344
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-12-02 11:33:36+00:00
+  license: other
+  model_creator: Marco Lironi
+  model_creator_link: mlinmg
+  name: SG-Raccoon-Yi-55B-200k-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: sg-raccoon-yi-55b-200k.Q2_K.gguf
+    size: 23439989120
+  - name: sg-raccoon-yi-55b-200k.Q3_K_L.gguf
+    size: 29263646528
+  - name: sg-raccoon-yi-55b-200k.Q3_K_M.gguf
+    size: 26784550720
+  - name: sg-raccoon-yi-55b-200k.Q3_K_S.gguf
+    size: 24071032640
+  - name: sg-raccoon-yi-55b-200k.Q4_0.gguf
+    size: 31392630432
+  - name: sg-raccoon-yi-55b-200k.Q4_K_M.gguf
+    size: 33339860640
+  - name: sg-raccoon-yi-55b-200k.Q4_K_S.gguf
+    size: 31469700768
+  - name: sg-raccoon-yi-55b-200k.Q5_0.gguf
+    size: 38283546016
+  - name: sg-raccoon-yi-55b-200k.Q5_K_M.gguf
+    size: 39286664608
+  - name: sg-raccoon-yi-55b-200k.Q5_K_S.gguf
+    size: 38283546016
+  - name: sg-raccoon-yi-55b-200k.Q6_K.gguf
+    size: 45605143840
