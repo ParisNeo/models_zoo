@@ -1,0 +1,249 @@
+- category: generic
+  datasets: null
+  description: <strong>Best overall fast chat model</strong><br><ul><li>Fast responses</li><li>Chat
+    based model</li><li>Trained by Mistral AI<li>Finetuned on OpenOrca dataset curated
+    via <a href="https://atlas.nomic.ai/">Nomic Atlas</a><li>Licensed for commercial
+    use</ul>
+  last_commit_time: null
+  license: apache-2.0
+  model_creator: Mistral + OpenOrca
+  model_creator_link: akjindal53244
+  name: mistral-7b-openorca.Q4_0.gguf
+  quantizer: TheBloke
+  rank: 10000000000.0
+  server: https://gpt4all.io/models/gguf/mistral-7b-openorca.Q4_0.gguf
+  type: gpt4all
+  variants:
+  - name: mistral-7b-openorca.Q4_0.gguf
+    size: 4108927744
+- category: generic
+  datasets: null
+  description: <strong>Best overall fast instruction following model</strong><br><ul><li>Fast
+    responses</li><li>Trained by Mistral AI<li>Uncensored</li><li>Licensed for commercial
+    use</li></ul>
+  last_commit_time: null
+  license: apache-2.0
+  model_creator: Mistral + OpenOrca
+  model_creator_link: akjindal53244
+  name: mistral-7b-instruct-v0.1.Q4_0.gguf
+  quantizer: TheBloke
+  rank: 10000000000.0
+  server: https://gpt4all.io/models/gguf/mistral-7b-instruct-v0.1.Q4_0.gguf
+  type: gpt4all
+  variants:
+  - name: mistral-7b-instruct-v0.1.Q4_0.gguf
+    size: 4108916384
+- category: generic
+  datasets: null
+  description: <strong>Very fast model with good quality</strong><br><ul><li>Fastest
+    responses</li><li>Instruction based</li><li>Trained by TII<li>Finetuned by Nomic
+    AI<li>Licensed for commercial use</ul>
+  last_commit_time: null
+  license: apache-2.0
+  model_creator: Mistral + OpenOrca
+  model_creator_link: akjindal53244
+  name: gpt4all-falcon-q4_0.gguf
+  quantizer: TheBloke
+  rank: 10000000000.0
+  server: https://gpt4all.io/models/gguf/gpt4all-falcon-q4_0.gguf
+  type: gpt4all
+  variants:
+  - name: gpt4all-falcon-q4_0.gguf
+    size: 4210419040
+- category: generic
+  datasets: null
+  description: <ul><li>Instruction based<li>Trained by Microsoft<li>Cannot be used
+    commercially</ul>
+  last_commit_time: null
+  license: apache-2.0
+  model_creator: Mistral + OpenOrca
+  model_creator_link: akjindal53244
+  name: orca-2-7b.Q4_0.gguf
+  quantizer: TheBloke
+  rank: 10000000000.0
+  server: https://gpt4all.io/models/gguf/orca-2-7b.Q4_0.gguf
+  type: gpt4all
+  variants:
+  - name: orca-2-7b.Q4_0.gguf
+    size: 3825824192
+- category: generic
+  datasets: null
+  description: <ul><li>Instruction based<li>Trained by Microsoft<li>Cannot be used
+    commercially</ul>
+  last_commit_time: null
+  license: apache-2.0
+  model_creator: Mistral + OpenOrca
+  model_creator_link: akjindal53244
+  name: orca-2-13b.Q4_0.gguf
+  quantizer: TheBloke
+  rank: 10000000000.0
+  server: https://gpt4all.io/models/gguf/orca-2-13b.Q4_0.gguf
+  type: gpt4all
+  variants:
+  - name: orca-2-13b.Q4_0.gguf
+    size: 7365856064
+- category: generic
+  datasets: null
+  description: <strong>Best overall larger model</strong><br><ul><li>Instruction based<li>Gives
+    very long responses<li>Finetuned with only 1k of high-quality data<li>Trained
+    by Microsoft and Peking University<li>Cannot be used commercially</ul>
+  last_commit_time: null
+  license: apache-2.0
+  model_creator: Mistral + OpenOrca
+  model_creator_link: akjindal53244
+  name: wizardlm-13b-v1.2.Q4_0.gguf
+  quantizer: TheBloke
+  rank: 10000000000.0
+  server: https://gpt4all.io/models/gguf/wizardlm-13b-v1.2.Q4_0.gguf
+  type: gpt4all
+  variants:
+  - name: wizardlm-13b-v1.2.Q4_0.gguf
+    size: 7365834624
+- category: generic
+  datasets: null
+  description: <strong>Extremely good model</strong><br><ul><li>Instruction based<li>Gives
+    long responses<li>Curated with 300,000 uncensored instructions<li>Trained by Nous
+    Research<li>Cannot be used commercially</ul>
+  last_commit_time: null
+  license: apache-2.0
+  model_creator: Mistral + OpenOrca
+  model_creator_link: akjindal53244
+  name: nous-hermes-llama2-13b.Q4_0.gguf
+  quantizer: TheBloke
+  rank: 10000000000.0
+  server: https://gpt4all.io/models/gguf/nous-hermes-llama2-13b.Q4_0.gguf
+  type: gpt4all
+  variants:
+  - name: nous-hermes-llama2-13b.Q4_0.gguf
+    size: 7366062080
+- category: generic
+  datasets: null
+  description: <strong>Very good overall model</strong><br><ul><li>Instruction based<li>Based
+    on the same dataset as Groovy<li>Slower than Groovy, with higher quality responses<li>Trained
+    by Nomic AI<li>Cannot be used commercially</ul>
+  last_commit_time: null
+  license: apache-2.0
+  model_creator: Mistral + OpenOrca
+  model_creator_link: akjindal53244
+  name: gpt4all-13b-snoozy-q4_0.gguf
+  quantizer: TheBloke
+  rank: 10000000000.0
+  server: https://gpt4all.io/models/gguf/gpt4all-13b-snoozy-q4_0.gguf
+  type: gpt4all
+  variants:
+  - name: gpt4all-13b-snoozy-q4_0.gguf
+    size: 7365834624
+- category: generic
+  datasets: null
+  description: <strong>Good model with novel architecture</strong><br><ul><li>Fast
+    responses<li>Chat based<li>Trained by Mosaic ML<li>Cannot be used commercially</ul>
+  last_commit_time: null
+  license: apache-2.0
+  model_creator: Mistral + OpenOrca
+  model_creator_link: akjindal53244
+  name: mpt-7b-chat-merges-q4_0.gguf
+  quantizer: TheBloke
+  rank: 10000000000.0
+  server: https://gpt4all.io/models/gguf/mpt-7b-chat-merges-q4_0.gguf
+  type: gpt4all
+  variants:
+  - name: mpt-7b-chat-merges-q4_0.gguf
+    size: 3796133728
+- category: generic
+  datasets: null
+  description: <strong>Small version of new model with novel dataset</strong><br><ul><li>Instruction
+    based<li>Explain tuned datasets<li>Orca Research Paper dataset construction approaches<li>Cannot
+    be used commercially</ul>
+  last_commit_time: null
+  license: apache-2.0
+  model_creator: Mistral + OpenOrca
+  model_creator_link: akjindal53244
+  name: orca-mini-3b-gguf2-q4_0.gguf
+  quantizer: TheBloke
+  rank: 10000000000.0
+  server: https://gpt4all.io/models/gguf/orca-mini-3b-gguf2-q4_0.gguf
+  type: gpt4all
+  variants:
+  - name: orca-mini-3b-gguf2-q4_0.gguf
+    size: 1979946720
+- category: generic
+  datasets: null
+  description: '<strong>Trained on subset of the Stack</strong><br><ul><li>Code completion
+    based<li>Licensed for commercial use<li>WARNING: Not available for chat GUI</ul>'
+  last_commit_time: null
+  license: apache-2.0
+  model_creator: Mistral + OpenOrca
+  model_creator_link: akjindal53244
+  name: replit-code-v1_5-3b-q4_0.gguf
+  quantizer: TheBloke
+  rank: 10000000000.0
+  server: https://gpt4all.io/models/gguf/replit-code-v1_5-3b-q4_0.gguf
+  type: gpt4all
+  variants:
+  - name: replit-code-v1_5-3b-q4_0.gguf
+    size: 1870449696
+- category: generic
+  datasets: null
+  description: '<strong>Trained on subset of the Stack</strong><br><ul><li>Code completion
+    based<li>WARNING: Not available for chat GUI</ul>'
+  last_commit_time: null
+  license: apache-2.0
+  model_creator: Mistral + OpenOrca
+  model_creator_link: akjindal53244
+  name: starcoder-q4_0.gguf
+  quantizer: TheBloke
+  rank: 10000000000.0
+  server: https://gpt4all.io/models/gguf/starcoder-q4_0.gguf
+  type: gpt4all
+  variants:
+  - name: starcoder-q4_0.gguf
+    size: 8987166880
+- category: generic
+  datasets: null
+  description: '<strong>Trained on collection of Python and TypeScript</strong><br><ul><li>Code
+    completion based<li>WARNING: Not available for chat GUI</li>'
+  last_commit_time: null
+  license: apache-2.0
+  model_creator: Mistral + OpenOrca
+  model_creator_link: akjindal53244
+  name: rift-coder-v0-7b-q4_0.gguf
+  quantizer: TheBloke
+  rank: 10000000000.0
+  server: https://gpt4all.io/models/gguf/rift-coder-v0-7b-q4_0.gguf
+  type: gpt4all
+  variants:
+  - name: rift-coder-v0-7b-q4_0.gguf
+    size: 3825903776
+- category: generic
+  datasets: null
+  description: <strong>LocalDocs text embeddings model</strong><br><ul><li>Necessary
+    for LocalDocs feature<li>Used for retrieval augmented generation (RAG)
+  last_commit_time: null
+  license: apache-2.0
+  model_creator: Mistral + OpenOrca
+  model_creator_link: akjindal53244
+  name: all-MiniLM-L6-v2-f16.gguf
+  quantizer: TheBloke
+  rank: 10000000000.0
+  server: https://gpt4all.io/models/gguf/all-MiniLM-L6-v2-f16.gguf
+  type: gpt4all
+  variants:
+  - name: all-MiniLM-L6-v2-f16.gguf
+    size: 45887744
+- category: generic
+  datasets: null
+  description: <strong>Mistral-based model for German-language applications</strong><br><ul><li>Fast
+    responses</li><li>Chat based model</li><li>Trained by ellamind<li>Finetuned on
+    German instruction and chat data</a><li>Licensed for commercial use</ul>
+  last_commit_time: null
+  license: apache-2.0
+  model_creator: Mistral + OpenOrca
+  model_creator_link: akjindal53244
+  name: em_german_mistral_v01.Q4_0.gguf
+  quantizer: TheBloke
+  rank: 10000000000.0
+  server: https://huggingface.co/TheBloke/em_german_mistral_v01-GGUF/resolve/main/em_german_mistral_v01.Q4_0.gguf
+  type: gpt4all
+  variants:
+  - name: em_german_mistral_v01.Q4_0.gguf
+    size: 4108916352
