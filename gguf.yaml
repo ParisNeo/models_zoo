@@ -37544,3 +37544,185 @@
     size: 38283546016
   - name: sg-raccoon-yi-55b-200k.Q6_K.gguf
     size: 45605143840
+- category: generic
+  datasets:
+  - HuggingFaceH4/ultrachat_200k
+  - HuggingFaceH4/ultrafeedback_binarized
+  - meta-math/MetaMathQA
+  - WizardLM/WizardLM_evol_instruct_V2_196k
+  - Intel/orca_dpo_pairs
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/643feeb67bc3fbde1385cc25/7vmYr2XwVcPtkLzac_jxQ.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-07 21:01:28+00:00
+  license: other
+  model_creator: Stability AI
+  model_creator_link: stabilityai
+  name: stablelm-zephyr-3b-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: stablelm-zephyr-3b.Q2_K.gguf
+    size: 1198771648
+  - name: stablelm-zephyr-3b.Q3_K_L.gguf
+    size: 1508564928
+  - name: stablelm-zephyr-3b.Q3_K_M.gguf
+    size: 1391419328
+  - name: stablelm-zephyr-3b.Q3_K_S.gguf
+    size: 1254449088
+  - name: stablelm-zephyr-3b.Q4_0.gguf
+    size: 1608571328
+  - name: stablelm-zephyr-3b.Q4_K_M.gguf
+    size: 1708595648
+  - name: stablelm-zephyr-3b.Q4_K_S.gguf
+    size: 1620695488
+  - name: stablelm-zephyr-3b.Q5_0.gguf
+    size: 1941862848
+  - name: stablelm-zephyr-3b.Q5_K_M.gguf
+    size: 1993390528
+  - name: stablelm-zephyr-3b.Q5_K_S.gguf
+    size: 1941862848
+  - name: stablelm-zephyr-3b.Q6_K.gguf
+    size: 2295985088
+  - name: stablelm-zephyr-3b.Q8_0.gguf
+    size: 2972925888
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-12-07 18:31:56+00:00
+  license: cc-by-nc-4.0
+  model_creator: Raven
+  model_creator_link: athirdpath
+  name: Iambe-RP-cDPO-20B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants: []
+- category: generic
+  datasets:
+  - ehartford/dolphin
+  - jondurbin/airoboros-2.2.1
+  - ehartford/samantha-data
+  - ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split
+  last_commit_time: 2023-12-07 23:01:31+00:00
+  license: other
+  model_creator: Eric Hartford
+  model_creator_link: ehartford
+  name: dolphin-2.2-yi-34b-200k-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: dolphin-2.2-yi-34b-200k.Q2_K.gguf
+    size: 14555875328
+  - name: dolphin-2.2-yi-34b-200k.Q3_K_L.gguf
+    size: 18139445248
+  - name: dolphin-2.2-yi-34b-200k.Q3_K_M.gguf
+    size: 16636573696
+  - name: dolphin-2.2-yi-34b-200k.Q3_K_S.gguf
+    size: 14960293888
+  - name: dolphin-2.2-yi-34b-200k.Q4_0.gguf
+    size: 19466528768
+  - name: dolphin-2.2-yi-34b-200k.Q4_K_M.gguf
+    size: 20658710528
+  - name: dolphin-2.2-yi-34b-200k.Q4_K_S.gguf
+    size: 19543599104
+  - name: dolphin-2.2-yi-34b-200k.Q5_0.gguf
+    size: 23707691008
+  - name: dolphin-2.2-yi-34b-200k.Q5_K_M.gguf
+    size: 24321845248
+  - name: dolphin-2.2-yi-34b-200k.Q5_K_S.gguf
+    size: 23707691008
+  - name: dolphin-2.2-yi-34b-200k.Q6_K.gguf
+    size: 28213925888
+  - name: dolphin-2.2-yi-34b-200k.Q8_0.gguf
+    size: 36542281728
+- category: generic
+  datasets:
+  - HuggingFaceH4/ultrachat_200k
+  - HuggingFaceH4/ultrafeedback_binarized
+  - meta-math/MetaMathQA
+  - WizardLM/WizardLM_evol_instruct_V2_196k
+  - Intel/orca_dpo_pairs
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/643feeb67bc3fbde1385cc25/7vmYr2XwVcPtkLzac_jxQ.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-07 21:01:28+00:00
+  license: other
+  model_creator: Stability AI
+  model_creator_link: stabilityai
+  name: stablelm-zephyr-3b-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: stablelm-zephyr-3b.Q2_K.gguf
+    size: 1198771648
+  - name: stablelm-zephyr-3b.Q3_K_L.gguf
+    size: 1508564928
+  - name: stablelm-zephyr-3b.Q3_K_M.gguf
+    size: 1391419328
+  - name: stablelm-zephyr-3b.Q3_K_S.gguf
+    size: 1254449088
+  - name: stablelm-zephyr-3b.Q4_0.gguf
+    size: 1608571328
+  - name: stablelm-zephyr-3b.Q4_K_M.gguf
+    size: 1708595648
+  - name: stablelm-zephyr-3b.Q4_K_S.gguf
+    size: 1620695488
+  - name: stablelm-zephyr-3b.Q5_0.gguf
+    size: 1941862848
+  - name: stablelm-zephyr-3b.Q5_K_M.gguf
+    size: 1993390528
+  - name: stablelm-zephyr-3b.Q5_K_S.gguf
+    size: 1941862848
+  - name: stablelm-zephyr-3b.Q6_K.gguf
+    size: 2295985088
+  - name: stablelm-zephyr-3b.Q8_0.gguf
+    size: 2972925888
+- category: generic
+  datasets:
+  - ise-uiuc/Magicoder-OSS-Instruct-75K
+  - ise-uiuc/Magicoder-Evol-Instruct-110K
+  last_commit_time: 2023-12-06 17:49:29+00:00
+  license: other
+  model_creator: Intellligent Software Engineering (iSE
+  model_creator_link: ise-uiuc
+  name: Magicoder-S-DS-6.7B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: magicoder-s-ds-6.7b.Q2_K.gguf
+    size: 2827577216
+  - name: magicoder-s-ds-6.7b.Q3_K_L.gguf
+    size: 3598854016
+  - name: magicoder-s-ds-6.7b.Q3_K_M.gguf
+    size: 3299747712
+  - name: magicoder-s-ds-6.7b.Q3_K_S.gguf
+    size: 2950047616
+  - name: magicoder-s-ds-6.7b.Q4_0.gguf
+    size: 3827689344
+  - name: magicoder-s-ds-6.7b.Q4_K_M.gguf
+    size: 4082886528
+  - name: magicoder-s-ds-6.7b.Q4_K_S.gguf
+    size: 3858622336
+  - name: magicoder-s-ds-6.7b.Q5_0.gguf
+    size: 4653705088
+  - name: magicoder-s-ds-6.7b.Q5_K_M.gguf
+    size: 4785170304
+  - name: magicoder-s-ds-6.7b.Q5_K_S.gguf
+    size: 4653705088
+  - name: magicoder-s-ds-6.7b.Q6_K.gguf
+    size: 5531346816
+  - name: magicoder-s-ds-6.7b.Q8_0.gguf
+    size: 7163750272
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-12-07 18:31:56+00:00
+  license: cc-by-nc-4.0
+  model_creator: Raven
+  model_creator_link: athirdpath
+  name: Iambe-RP-cDPO-20B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants: []

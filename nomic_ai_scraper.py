@@ -2,6 +2,7 @@ import requests
 import yaml
 from pathlib import Path
 import urllib.request
+from urllib.parse import urlparse
 
 def get_file_size(url):
     try:
