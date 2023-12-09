@@ -38298,3 +38298,298 @@
     size: 28842072224
   - name: poro-34b.Q8_0.gguf
     size: 37349972128
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/634d74a4fc4873ed0d034df2/wfyz_EKMs3SlLF1RtIhSq.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-09 12:22:49+00:00
+  license: apache-2.0
+  model_creator: llmware
+  model_creator_link: llmware
+  name: bling-stable-lm-3b-4e1t-v0-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: bling-stable-lm-3b-4e1t-v0.Q2_K.gguf
+    size: 1198771136
+  - name: bling-stable-lm-3b-4e1t-v0.Q3_K_L.gguf
+    size: 1508564416
+  - name: bling-stable-lm-3b-4e1t-v0.Q3_K_M.gguf
+    size: 1391418816
+  - name: bling-stable-lm-3b-4e1t-v0.Q3_K_S.gguf
+    size: 1254448576
+  - name: bling-stable-lm-3b-4e1t-v0.Q4_0.gguf
+    size: 1608570816
+  - name: bling-stable-lm-3b-4e1t-v0.Q4_K_M.gguf
+    size: 1708595136
+  - name: bling-stable-lm-3b-4e1t-v0.Q4_K_S.gguf
+    size: 1620694976
+  - name: bling-stable-lm-3b-4e1t-v0.Q5_0.gguf
+    size: 1941862336
+  - name: bling-stable-lm-3b-4e1t-v0.Q5_K_M.gguf
+    size: 1993390016
+  - name: bling-stable-lm-3b-4e1t-v0.Q5_K_S.gguf
+    size: 1941862336
+  - name: bling-stable-lm-3b-4e1t-v0.Q6_K.gguf
+    size: 2295984576
+  - name: bling-stable-lm-3b-4e1t-v0.Q8_0.gguf
+    size: 2972925376
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/64bc5b4512d00c4589dfa8a6/0U8IW9ZKT5crAIR30sLP_.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-09 10:37:08+00:00
+  license: other
+  model_creator: ddh0
+  model_creator_link: ddh0
+  name: OrcaMaid-13B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: orcamaid-13b.Q2_K.gguf
+    size: 5429354272
+  - name: orcamaid-13b.Q3_K_L.gguf
+    size: 6929565984
+  - name: orcamaid-13b.Q3_K_M.gguf
+    size: 6337775904
+  - name: orcamaid-13b.Q3_K_S.gguf
+    size: 5658986784
+  - name: orcamaid-13b.Q4_0.gguf
+    size: 7365841856
+  - name: orcamaid-13b.Q4_K_M.gguf
+    size: 7865963456
+  - name: orcamaid-13b.Q4_K_S.gguf
+    size: 7414338496
+  - name: orcamaid-13b.Q5_0.gguf
+    size: 8972293696
+  - name: orcamaid-13b.Q5_K_M.gguf
+    size: 9229932096
+  - name: orcamaid-13b.Q5_K_S.gguf
+    size: 8972293696
+  - name: orcamaid-13b.Q6_K.gguf
+    size: 10679148800
+  - name: orcamaid-13b.Q8_0.gguf
+    size: 13831330432
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/634d74a4fc4873ed0d034df2/wfyz_EKMs3SlLF1RtIhSq.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-09 12:22:49+00:00
+  license: apache-2.0
+  model_creator: llmware
+  model_creator_link: llmware
+  name: bling-stable-lm-3b-4e1t-v0-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: bling-stable-lm-3b-4e1t-v0.Q2_K.gguf
+    size: 1198771136
+  - name: bling-stable-lm-3b-4e1t-v0.Q3_K_L.gguf
+    size: 1508564416
+  - name: bling-stable-lm-3b-4e1t-v0.Q3_K_M.gguf
+    size: 1391418816
+  - name: bling-stable-lm-3b-4e1t-v0.Q3_K_S.gguf
+    size: 1254448576
+  - name: bling-stable-lm-3b-4e1t-v0.Q4_0.gguf
+    size: 1608570816
+  - name: bling-stable-lm-3b-4e1t-v0.Q4_K_M.gguf
+    size: 1708595136
+  - name: bling-stable-lm-3b-4e1t-v0.Q4_K_S.gguf
+    size: 1620694976
+  - name: bling-stable-lm-3b-4e1t-v0.Q5_0.gguf
+    size: 1941862336
+  - name: bling-stable-lm-3b-4e1t-v0.Q5_K_M.gguf
+    size: 1993390016
+  - name: bling-stable-lm-3b-4e1t-v0.Q5_K_S.gguf
+    size: 1941862336
+  - name: bling-stable-lm-3b-4e1t-v0.Q6_K.gguf
+    size: 2295984576
+  - name: bling-stable-lm-3b-4e1t-v0.Q8_0.gguf
+    size: 2972925376
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/64bc5b4512d00c4589dfa8a6/0U8IW9ZKT5crAIR30sLP_.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-09 10:37:08+00:00
+  license: other
+  model_creator: ddh0
+  model_creator_link: ddh0
+  name: OrcaMaid-13B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: orcamaid-13b.Q2_K.gguf
+    size: 5429354272
+  - name: orcamaid-13b.Q3_K_L.gguf
+    size: 6929565984
+  - name: orcamaid-13b.Q3_K_M.gguf
+    size: 6337775904
+  - name: orcamaid-13b.Q3_K_S.gguf
+    size: 5658986784
+  - name: orcamaid-13b.Q4_0.gguf
+    size: 7365841856
+  - name: orcamaid-13b.Q4_K_M.gguf
+    size: 7865963456
+  - name: orcamaid-13b.Q4_K_S.gguf
+    size: 7414338496
+  - name: orcamaid-13b.Q5_0.gguf
+    size: 8972293696
+  - name: orcamaid-13b.Q5_K_M.gguf
+    size: 9229932096
+  - name: orcamaid-13b.Q5_K_S.gguf
+    size: 8972293696
+  - name: orcamaid-13b.Q6_K.gguf
+    size: 10679148800
+  - name: orcamaid-13b.Q8_0.gguf
+    size: 13831330432
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-12-08 16:18:05+00:00
+  license: apache-2.0
+  model_creator: c.gato
+  model_creator_link: cgato
+  name: Thespis-13B-Alpha-v0.7-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants: []
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-12-08 21:16:55+00:00
+  license: cc-by-nc-4.0
+  model_creator: Raven
+  model_creator_link: athirdpath
+  name: Iambe-Storyteller-20B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: iambe-storyteller-20b.Q2_K.gguf
+    size: 8311592480
+  - name: iambe-storyteller-20b.Q3_K_L.gguf
+    size: 10627767840
+  - name: iambe-storyteller-20b.Q3_K_M.gguf
+    size: 9697156640
+  - name: iambe-storyteller-20b.Q3_K_S.gguf
+    size: 8658370080
+  - name: iambe-storyteller-20b.Q4_0.gguf
+    size: 11292026400
+  - name: iambe-storyteller-20b.Q4_K_M.gguf
+    size: 12042208800
+  - name: iambe-storyteller-20b.Q4_K_S.gguf
+    size: 11340523040
+  - name: iambe-storyteller-20b.Q5_0.gguf
+    size: 13770761760
+  - name: iambe-storyteller-20b.Q5_K_M.gguf
+    size: 14157219360
+  - name: iambe-storyteller-20b.Q5_K_S.gguf
+    size: 13770761760
+  - name: iambe-storyteller-20b.Q6_K.gguf
+    size: 16404418080
+  - name: iambe-storyteller-20b.Q8_0.gguf
+    size: 21246647840
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-12-08 20:31:05+00:00
+  license: cc-by-nc-nd-4.0
+  model_creator: Feynman Innovations
+  model_creator_link: ajibawa-2023
+  name: Code-13B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: code-13b.Q2_K.gguf
+    size: 5429348352
+  - name: code-13b.Q3_K_L.gguf
+    size: 6929559552
+  - name: code-13b.Q3_K_M.gguf
+    size: 6337769472
+  - name: code-13b.Q3_K_S.gguf
+    size: 5658980352
+  - name: code-13b.Q4_0.gguf
+    size: 7365834752
+  - name: code-13b.Q4_K_M.gguf
+    size: 7865956352
+  - name: code-13b.Q4_K_S.gguf
+    size: 7414331392
+  - name: code-13b.Q5_0.gguf
+    size: 8972285952
+  - name: code-13b.Q5_K_M.gguf
+    size: 9229924352
+  - name: code-13b.Q5_K_S.gguf
+    size: 8972285952
+  - name: code-13b.Q6_K.gguf
+    size: 10679140352
+  - name: code-13b.Q8_0.gguf
+    size: 13831319552
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-12-08 14:52:15+00:00
+  license: other
+  model_creator: Marco Lironi
+  model_creator_link: mlinmg
+  name: SG-Raccoon-Yi-200k-2.0-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: sg-raccoon-yi-200k-2.0.Q2_K.gguf
+    size: 23439972384
+  - name: sg-raccoon-yi-200k-2.0.Q3_K_L.gguf
+    size: 29263628320
+  - name: sg-raccoon-yi-200k-2.0.Q3_K_M.gguf
+    size: 26784532512
+  - name: sg-raccoon-yi-200k-2.0.Q3_K_S.gguf
+    size: 24071014432
+  - name: sg-raccoon-yi-200k-2.0.Q4_0.gguf
+    size: 31392610336
+  - name: sg-raccoon-yi-200k-2.0.Q4_K_M.gguf
+    size: 33339840544
+  - name: sg-raccoon-yi-200k-2.0.Q4_K_S.gguf
+    size: 31469680672
+  - name: sg-raccoon-yi-200k-2.0.Q5_0.gguf
+    size: 38283524128
+  - name: sg-raccoon-yi-200k-2.0.Q5_K_M.gguf
+    size: 39286642720
+  - name: sg-raccoon-yi-200k-2.0.Q5_K_S.gguf
+    size: 38283524128
+  - name: sg-raccoon-yi-200k-2.0.Q6_K.gguf
+    size: 45605120032
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/632a0b93cf7d40df9b3cf674/mxRiCbPXNzTCu4cEIJO5X.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-08 14:02:24+00:00
+  license: llama2
+  model_creator: FPHam
+  model_creator_link: FPHam
+  name: Sydney_Overthinker_13B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: sydney_overthinker_13b.Q2_K.gguf
+    size: 5429348352
+  - name: sydney_overthinker_13b.Q3_K_L.gguf
+    size: 6929559552
+  - name: sydney_overthinker_13b.Q3_K_M.gguf
+    size: 6337769472
+  - name: sydney_overthinker_13b.Q3_K_S.gguf
+    size: 5658980352
+  - name: sydney_overthinker_13b.Q4_0.gguf
+    size: 7365834752
+  - name: sydney_overthinker_13b.Q4_K_M.gguf
+    size: 7865956352
+  - name: sydney_overthinker_13b.Q4_K_S.gguf
+    size: 7414331392
+  - name: sydney_overthinker_13b.Q5_0.gguf
+    size: 8972285952
+  - name: sydney_overthinker_13b.Q5_K_M.gguf
+    size: 9229924352
+  - name: sydney_overthinker_13b.Q5_K_S.gguf
+    size: 8972285952
+  - name: sydney_overthinker_13b.Q6_K.gguf
+    size: 10679140352
+  - name: sydney_overthinker_13b.Q8_0.gguf
+    size: 13831319552
