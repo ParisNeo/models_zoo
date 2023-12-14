@@ -1,14 +1,3180 @@
-- category: foundational
+- category: generic
+  ctx_size: -1
   datasets: unknown
-  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62dac1c7a8ead43d20e3e17a/wrLf5yaGC6ng4XME70w6Z.png?w=200&h=200&f=face
-  last_commit_time: 2023-07-15 18:15:35+00:00
-  license: other
-  model_creator: mistralai
-  model_creator_link: https://huggingface.co/mistralai
-  name: Mistral-7B-v0.1
-  quantizer: Not quantized
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-28 23:18:55+00:00
+  license: apache-2.0
+  model_creator: NousResearch
+  model_creator_link: mistralai
+  name: Nous-Hermes-2-Vision-Alpha
+  quantizer: NousResearch
   rank: 10000000000.0
-  type: gptq
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - LDJnr/LessWrong-Amplify-Instruct
+  - LDJnr/Pure-Dove
+  - LDJnr/Verified-Camel
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-09-20 00:08:27+00:00
+  license:
+  - mit
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Nous-Capybara-7B-V1
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - LDJnr/LessWrong-Amplify-Instruct
+  - LDJnr/Pure-Dove
+  - LDJnr/Verified-Camel
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-10-24 01:00:29+00:00
+  license: cc-by-sa-4.0
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Obsidian-3B-V0.5
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - LDJnr/LessWrong-Amplify-Instruct
+  - LDJnr/Pure-Dove
+  - LDJnr/Verified-Camel
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-09-20 00:53:14+00:00
+  license:
+  - mit
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Nous-Capybara-7B-V1-GGUF
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - LDJnr/LessWrong-Amplify-Instruct
+  - LDJnr/Pure-Dove
+  - LDJnr/Verified-Camel
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-10-11 02:31:04+00:00
+  license:
+  - mit
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Nous-Capybara-7B-V1.9-GGUF
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - LDJnr/LessWrong-Amplify-Instruct
+  - LDJnr/Pure-Dove
+  - LDJnr/Verified-Camel
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-10-10 12:07:51+00:00
+  license:
+  - mit
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Nous-Capybara-7B-V1.9
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - LDJnr/LessWrong-Amplify-Instruct
+  - LDJnr/Pure-Dove
+  - LDJnr/Verified-Camel
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-13 05:01:41+00:00
+  license:
+  - mit
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Nous-Capybara-34B
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - emozilla/yarn-train-tokenized-8k-llama
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-14 14:07:56+00:00
+  license: apache-2.0
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Yarn-Llama-2-70b-32k
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - emozilla/yarn-train-tokenized-16k-mistral
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-10-31 13:15:14+00:00
+  license: apache-2.0
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Yarn-Mistral-7b-128k
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - emozilla/yarn-train-tokenized-16k-mistral
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-10-31 02:01:44+00:00
+  license: apache-2.0
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Yarn-Mistral-7b-64k
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - LDJnr/LessWrong-Amplify-Instruct
+  - LDJnr/Pure-Dove
+  - LDJnr/Verified-Camel
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-10-20 11:05:57+00:00
+  license:
+  - mit
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Nous-Capybara-3B-V1.9
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 3933893672
+- category: generic
+  ctx_size: -1
+  datasets:
+  - pg19
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-30 01:38:23+00:00
+  license: unknown
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Yarn-Llama-2-7b-64k
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - LDJnr/Puffin
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-07-19 12:08:59+00:00
+  license:
+  - mit
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Redmond-Puffin-13B
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - LDJnr/Puffin
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-07-20 02:25:10+00:00
+  license:
+  - mit
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Redmond-Puffin-13B-GGML
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - LDJnr/Puffin
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-07-30 15:26:25+00:00
+  license:
+  - mit
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Nous-Puffin-70B
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-07-25 18:39:23+00:00
+  license:
+  - mit
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Nous-Hermes-llama-2-7b
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
   variants:
   - name: model.safetensors
-    size: 3896726136
+    size: 13476865232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-07-18 14:57:10+00:00
+  license: unknown
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Llama-2-70b-chat-hf
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00015.safetensors
+    size: 9852591960
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-07-18 14:57:07+00:00
+  license: unknown
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Llama-2-13b-chat-hf
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 9948693272
+- category: generic
+  ctx_size: -1
+  datasets:
+  - pg19
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-30 18:52:12+00:00
+  license: unknown
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Yarn-Llama-2-13b-128k
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - pg19
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-31 04:59:19+00:00
+  license: unknown
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Yarn-Llama-2-7b-128k
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - pg19
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-29 18:16:59+00:00
+  license: unknown
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Yarn-Llama-2-13b-64k
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-22 09:22:31+00:00
+  license:
+  - mit
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Nous-Hermes-Llama2-70b
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-07-20 22:25:25+00:00
+  license:
+  - mit
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Nous-Hermes-Llama2-13b
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-07-18 14:57:09+00:00
+  license: unknown
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Llama-2-70b-hf
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00015.safetensors
+    size: 9852591960
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-07-18 14:57:06+00:00
+  license: unknown
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Llama-2-13b-hf
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 9948693272
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-07-18 14:57:04+00:00
+  license: unknown
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Llama-2-7b-hf
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9976578928
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-08-26 04:25:10+00:00
+  license: unknown
+  name: CodeLlama-7b-Instruct-hf-flash
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-08-26 04:09:19+00:00
+  license: unknown
+  name: CodeLlama-13b-Instruct-hf-flash
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-08-24 17:48:06+00:00
+  license: unknown
+  name: CodeLlama-34b-hf-flash
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-08-24 17:35:07+00:00
+  license: unknown
+  name: CodeLlama-13b-hf-flash
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-08-24 17:19:00+00:00
+  license: unknown
+  name: CodeLlama-7b-hf-flash
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-08-24 16:57:35+00:00
+  license: unknown
+  name: CodeLlama-34b-hf
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-08-24 16:34:57+00:00
+  license: unknown
+  name: CodeLlama-13b-hf
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-08-24 16:19:47+00:00
+  license: unknown
+  name: CodeLlama-7b-hf
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-07-25 21:03:39+00:00
+  license:
+  - mit
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Nous-Hermes-llama-2-7b-GGML
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-07-21 03:34:29+00:00
+  license: llama2
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Nous-Hermes-Llama2-13b-GGML
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-07-18 14:57:05+00:00
+  license: unknown
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Llama-2-7b-chat-hf
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9976576152
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-06-28 06:34:49+00:00
+  license: gpl
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Redmond-Hermes-Coder
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-06-03 02:21:51+00:00
+  license: gpl
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Nous-Hermes-13b
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-05-06 04:47:40+00:00
+  license: gpl
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: GPT4-x-Vicuna-13b-4bit
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-05-06 14:29:58+00:00
+  license: gpl
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: GPT4-x-Vicuna-13b-fp16
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ai2_arc
+  - unalignment/spicy-3.1
+  - codeparrot/apps
+  - facebook/belebele
+  - boolq
+  - jondurbin/cinematika-v0.1
+  - drop
+  - lmsys/lmsys-chat-1m
+  - TIGER-Lab/MathInstruct
+  - cais/mmlu
+  - Muennighoff/natural-instructions
+  - openbookqa
+  - piqa
+  - Vezora/Tested-22k-Python-Alpaca
+  - cakiki/rosetta-code
+  - Open-Orca/SlimOrca
+  - spider
+  - squad_v2
+  - migtissera/Synthia-v1.3
+  - datasets/winogrande
+  - nvidia/HelpSteer
+  - Intel/orca_dpo_pairs
+  - unalignment/toxic-dpo-v0.1
+  - jondurbin/truthy-dpo-v0.1
+  - allenai/ultrafeedback_binarized_cleaned
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-13 12:12:22+00:00
+  license: apache-2.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: bagel-dpo-7b-v0.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 4943162336
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ai2_arc
+  - unalignment/spicy-3.1
+  - codeparrot/apps
+  - facebook/belebele
+  - boolq
+  - jondurbin/cinematika-v0.1
+  - drop
+  - lmsys/lmsys-chat-1m
+  - TIGER-Lab/MathInstruct
+  - cais/mmlu
+  - Muennighoff/natural-instructions
+  - openbookqa
+  - piqa
+  - Vezora/Tested-22k-Python-Alpaca
+  - cakiki/rosetta-code
+  - Open-Orca/SlimOrca
+  - spider
+  - squad_v2
+  - migtissera/Synthia-v1.3
+  - datasets/winogrande
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-13 12:14:28+00:00
+  license: apache-2.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: bagel-7b-v0.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 4943162336
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-30 22:57:29+00:00
+  license: apache-2.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: cinematika-7b-v0.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 4943186912
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-07 18:42:55+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-c70b-3.1.2-q4_k_m
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-07 18:44:17+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-33b-3.1.2-q4_k_m
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-3.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-19 15:21:12+00:00
+  license: apache-2.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-m-7b-3.1.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00004.safetensors
+    size: 3953271624
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-3.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-26 10:59:48+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-c70b-3.1.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00036.safetensors
+    size: 3946907816
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-27 09:41:47+00:00
+  license: apache-2.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: mistral-7b-tokenizer-ja
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-3.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-27 10:07:42+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-33b-3.1.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00017.safetensors
+    size: 3990701712
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-25 14:36:06+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-180b-2.2.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00107.safetensors
+    size: 2843214224
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-3.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-17 07:09:53+00:00
+  license: cc-by-sa-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-3b-3p11
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 3993609400
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-3.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-20 07:52:28+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-c34b-3.1.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00018.safetensors
+    size: 3955297008
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-3.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-17 17:11:05+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-13b-3.1.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00007.safetensors
+    size: 3992561544
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-3.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-21 06:58:41+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-70b-3.1.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00036.safetensors
+    size: 3946907816
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-21 10:05:03+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-70b-3.1.2-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: adapter_model.safetensors
+    size: 828526568
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-3.0
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-03 08:39:04+00:00
+  license: cc-by-sa-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-3b-3p0
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00006.safetensors
+    size: 1959695944
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-3.0
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-03 08:39:20+00:00
+  license: apache-2.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-m-7b-3.0
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00008.safetensors
+    size: 3779170128
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-3.0
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-01 21:40:42+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-7b-3.0
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00007.safetensors
+    size: 3963752960
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-3.0
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-01 22:23:39+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-13b-3.0
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00014.safetensors
+    size: 3895544536
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-28 15:49:21+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-180b-2.2.1-checkpoints
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-19 19:22:58+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-c34b-2.2.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-25 15:51:23+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: batch-size-test-7b
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-24 00:01:16+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-70b-2.2.1-4bit-quants
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-20 16:26:33+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-7b-2.2.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-20 17:35:28+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-13b-2.2.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-20 15:14:07+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-70b-2.2.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  license: unknown
+  name: airoboros-l2-70b-2.2.1-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  license: unknown
+  name: airoboros-c34b-2.2.1-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-13 14:48:08+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-c34b-2.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-13 14:48:20+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: spicyboros-c34b-2.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-13 14:45:42+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: spicyboros-70b-2.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-13 14:02:26+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-70b-2.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-10 07:31:08+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: spicyboros-13b-2.2-gguf
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-13 11:36:45+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-c34b-2.2-checkpoints
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-13 10:57:09+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-c34b-2.2-prequant-merge
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-12 10:26:58+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: spicyboros-c34b-2.2-checkpoints
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-12 10:39:29+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-70b-2.2-prequant-merge
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-12 10:27:37+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: spicyboros-c34b-2.2-prequant-merge
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-12 10:31:40+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-70b-2.2-checkpoints
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-08 14:39:18+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: spicyboros-7b-2.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-09 07:47:41+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: spicyboros-13b-2.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-10 22:00:36+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-13b-2.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-10 22:00:27+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-7b-2.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-10 07:56:59+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: spicyboros-70b-2.2-checkpoints
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-10 22:42:42+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: spicyboros-70b-2.2-prequant-merge
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-08 11:30:09+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: spicyboros-7b-2.2-checkpoints
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-09 06:05:47+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: spicyboros-13b-2.2-checkpoints
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-26 12:24:28+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-c34b-2.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-26 12:33:56+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-70b-2.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-28 22:32:10+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-7b-2.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-28 22:31:47+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-13b-2.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-01 02:49:37+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-33b-2.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-01 02:49:09+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-33b-2.1-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-30 22:52:19+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airocoder-34b-2.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-30 18:07:51+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-70b-2.1-creative
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-30 04:01:06+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-lmoe-70b-2.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-21 20:46:51+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-lmoe-7b-2.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-21 21:00:49+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-lmoe-13b-2.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-27 06:51:57+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-c34b-2.1-2e-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-26 12:24:09+00:00
+  license: llama2
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-c34b-2.1-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  license: unknown
+  name: airoboros-l2-70b-2.1-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-m2.0
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-30 08:41:55+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-70b-gpt4-m2.0
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-m2.0
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-30 08:40:06+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-65b-gpt4-m2.0
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-m2.0
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-29 06:53:31+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-33b-gpt4-m2.0
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-m2.0
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-28 05:20:23+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-13b-gpt4-m2.0
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-m2.0
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-28 05:20:01+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-7b-gpt4-m2.0
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-05-19 10:56:55+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-13b
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-05-18 20:56:37+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-7b
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-06 17:42:04+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: blind-test-13b-zane
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-06 17:41:53+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: blind-test-13b-vlad
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-06 17:41:44+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: blind-test-13b-martha
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-06 17:41:34+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: blind-test-13b-jimmy
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-06 17:41:23+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: blind-test-13b-jasmine
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-06 17:41:12+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: blind-test-13b-janus
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-06 17:41:01+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: blind-test-13b-francis
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-m2.0
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-30 08:41:29+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-70b-gpt4-2.0
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-m2.0
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-30 08:39:36+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-65b-gpt4-2.0
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-m2.0
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-29 06:53:46+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-33b-gpt4-2.0
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-2.0
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-27 08:21:05+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-13b-gpt4-2.0
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-m2.0
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-28 05:19:50+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-7b-gpt4-2.0
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.4.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-24 07:20:20+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-7b-gpt4-1.4.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.4.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-24 07:20:31+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-70b-gpt4-1.4.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.4.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-24 07:18:44+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-13b-gpt4-1.4.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-30 08:50:35+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-65b-gpt4-m2.0-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-30 08:47:08+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-70b-gpt4-m2.0-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-26 13:16:15+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-70b-gpt4-2.0-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-30 08:49:53+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-65b-gpt4-2.0-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-27 12:11:46+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-33b-gpt4-m2.0-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-27 12:11:27+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-33b-gpt4-2.0-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-23 10:58:24+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-70b-gpt4-1.4.1-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-23 10:58:13+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-13b-gpt4-1.4.1-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-07-23 09:08:24+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-l2-7b-gpt4-1.4.1-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  license: unknown
+  name: mpt-30b-qlora-compatible
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.4
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-29 08:26:55+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-65b-gpt4-1.4
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.4.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-30 10:27:44+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-7b-gpt4-1.4.1-qlora
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.4.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-30 10:10:10+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-13b-gpt4-1.4.1-qlora
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-30 10:06:50+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-13b-gpt4-1.4.1-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-30 10:07:57+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-7b-gpt4-1.4.1-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-29 06:32:25+00:00
+  license: unknown
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-65b-gpt4-1.4-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.4
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-25 16:45:52+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-33b-gpt4-1.4
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.4
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-21 20:24:00+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-13b-gpt4-1.4
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.4
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-21 23:22:59+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-7b-gpt4-1.4
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.4
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-26 08:22:44+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-mpt-30b-gpt4-1p4-five-epochs
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.4
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-25 15:40:13+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-mpt-30b-gpt4-1p4-three-epochs
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.4
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-25 15:17:04+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-mpt-30b-gpt4-1p4-four-epochs
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.4
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-26 07:37:14+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-mpt-30b-gpt4-1p4-six-epochs
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-25 15:23:30+00:00
+  license: unknown
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-33b-gpt4-1.4-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-05-12 10:24:18+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-gpt-3.5-turbo-100k-7b
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-24 08:42:11+00:00
+  license: unknown
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-mpt-30b-gpt4-1.4-peft-preview
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.4
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-22 09:46:42+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-13b-gpt4-1.4-fp16
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-02 17:45:41+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-13b-gpt4
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-02 23:33:22+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-7b-gpt4
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-10 09:29:04+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-33b-gpt4
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-09 21:06:28+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-13b-gpt4-1.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-09 22:30:55+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-7b-gpt4-1.1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-14 08:19:02+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-65b-gpt4-1.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-14 08:19:13+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-33b-gpt4-1.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-15 08:26:24+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-13b-gpt4-1.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-15 15:02:29+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-7b-gpt4-1.2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.3
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-19 20:42:46+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-33b-gpt4-1.3
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.3
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-20 06:09:33+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-65b-gpt4-1.3
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.3
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-20 06:08:57+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-13b-gpt4-1.3
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.3
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-20 06:09:10+00:00
+  license: cc-by-nc-4.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-7b-gpt4-1.3
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.4
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-22 09:46:32+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-7b-gpt4-1.4-fp16
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-14 07:28:57+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-33b-gpt4-1.2-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-gpt4-1.2
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-14 08:11:36+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-65b-gpt4-1.2-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-15 07:59:15+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-13b-gpt4-1.2-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-16 20:00:21+00:00
+  license: unknown
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-7b-gpt4-1.2-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-08 07:56:09+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: airoboros-33b-gpt4-peft
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1648631057413-noauth.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-14 12:16:26+00:00
+  license: unknown
+  model_creator: llava-hf
+  model_creator_link: https://huggingface.co/llava-hf
+  name: vip-llava-13b-hf
+  quantizer: llava-hf
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00006.safetensors
+    size: 4951621840
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1648631057413-noauth.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-10 20:07:30+00:00
+  license: unknown
+  model_creator: llava-hf
+  model_creator_link: https://huggingface.co/llava-hf
+  name: vip-llava-7b-hf
+  quantizer: llava-hf
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 4992950784
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1648631057413-noauth.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-05 10:52:35+00:00
+  license: unknown
+  model_creator: llava-hf
+  model_creator_link: https://huggingface.co/llava-hf
+  name: llava-1.5-13b-hf
+  quantizer: llava-hf
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00006.safetensors
+    size: 4962087016
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1648631057413-noauth.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-05 07:58:23+00:00
+  license: unknown
+  model_creator: llava-hf
+  model_creator_link: https://huggingface.co/llava-hf
+  name: bakLlava-v1-hf
+  quantizer: llava-hf
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00004.safetensors
+    size: 4891055040
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1648631057413-noauth.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-05 09:31:24+00:00
+  license: unknown
+  model_creator: llava-hf
+  model_creator_link: https://huggingface.co/llava-hf
+  name: llava-1.5-7b-hf
+  quantizer: llava-hf
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 4992930200
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/627b9f3f4d0858f0034efbb9/2Qnattrzv6qvqiZVVfV5x.png?w=200&h=200&f=face
+  last_commit_time: 2023-06-14 09:43:19+00:00
+  license: bigscience-openrail-m
+  model_creator: WizardLM
+  model_creator_link: https://huggingface.co/WizardLM
+  name: WizardCoder-15B-V1.0
+  quantizer: WizardLM
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/627b9f3f4d0858f0034efbb9/2Qnattrzv6qvqiZVVfV5x.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-11 03:33:24+00:00
+  license: llama2
+  model_creator: WizardLM
+  model_creator_link: https://huggingface.co/WizardLM
+  name: WizardMath-70B-V1.0
+  quantizer: WizardLM
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/627b9f3f4d0858f0034efbb9/2Qnattrzv6qvqiZVVfV5x.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-09 04:26:23+00:00
+  license: llama2
+  model_creator: WizardLM
+  model_creator_link: https://huggingface.co/WizardLM
+  name: WizardLM-70B-V1.0
+  quantizer: WizardLM
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/627b9f3f4d0858f0034efbb9/2Qnattrzv6qvqiZVVfV5x.png?w=200&h=200&f=face
+  last_commit_time: 2023-07-25 12:51:28+00:00
+  license: llama2
+  model_creator: WizardLM
+  model_creator_link: https://huggingface.co/WizardLM
+  name: WizardLM-13B-V1.2
+  quantizer: WizardLM
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/627b9f3f4d0858f0034efbb9/2Qnattrzv6qvqiZVVfV5x.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-29 09:08:55+00:00
+  license: llama2
+  model_creator: WizardLM
+  model_creator_link: https://huggingface.co/WizardLM
+  name: WizardCoder-Python-7B-V1.0
+  quantizer: WizardLM
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/627b9f3f4d0858f0034efbb9/2Qnattrzv6qvqiZVVfV5x.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-26 02:59:07+00:00
+  license: llama2
+  model_creator: WizardLM
+  model_creator_link: https://huggingface.co/WizardLM
+  name: WizardCoder-Python-34B-V1.0
+  quantizer: WizardLM
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/627b9f3f4d0858f0034efbb9/2Qnattrzv6qvqiZVVfV5x.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-26 03:59:34+00:00
+  license: llama2
+  model_creator: WizardLM
+  model_creator_link: https://huggingface.co/WizardLM
+  name: WizardCoder-Python-13B-V1.0
+  quantizer: WizardLM
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/627b9f3f4d0858f0034efbb9/2Qnattrzv6qvqiZVVfV5x.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-11 03:32:49+00:00
+  license: llama2
+  model_creator: WizardLM
+  model_creator_link: https://huggingface.co/WizardLM
+  name: WizardMath-13B-V1.0
+  quantizer: WizardLM
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/627b9f3f4d0858f0034efbb9/2Qnattrzv6qvqiZVVfV5x.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-11 03:32:31+00:00
+  license: llama2
+  model_creator: WizardLM
+  model_creator_link: https://huggingface.co/WizardLM
+  name: WizardMath-7B-V1.0
+  quantizer: WizardLM
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/627b9f3f4d0858f0034efbb9/2Qnattrzv6qvqiZVVfV5x.png?w=200&h=200&f=face
+  last_commit_time: 2023-07-07 09:27:22+00:00
+  license: unknown
+  model_creator: WizardLM
+  model_creator_link: https://huggingface.co/WizardLM
+  name: WizardLM-13B-V1.1
+  quantizer: WizardLM
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/627b9f3f4d0858f0034efbb9/2Qnattrzv6qvqiZVVfV5x.png?w=200&h=200&f=face
+  last_commit_time: 2023-04-25 05:32:43+00:00
+  license: unknown
+  model_creator: WizardLM
+  model_creator_link: https://huggingface.co/WizardLM
+  name: WizardLM-7B-V1.0
+  quantizer: WizardLM
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/627b9f3f4d0858f0034efbb9/2Qnattrzv6qvqiZVVfV5x.png?w=200&h=200&f=face
+  last_commit_time: 2023-06-06 12:40:00+00:00
+  license: unknown
+  model_creator: WizardLM
+  model_creator_link: https://huggingface.co/WizardLM
+  name: WizardLM-30B-V1.0
+  quantizer: WizardLM
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/627b9f3f4d0858f0034efbb9/2Qnattrzv6qvqiZVVfV5x.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-27 04:28:24+00:00
+  license: bigcode-openrail-m
+  model_creator: WizardLM
+  model_creator_link: https://huggingface.co/WizardLM
+  name: WizardCoder-1B-V1.0
+  quantizer: WizardLM
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/627b9f3f4d0858f0034efbb9/2Qnattrzv6qvqiZVVfV5x.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-27 04:27:37+00:00
+  license: bigcode-openrail-m
+  model_creator: WizardLM
+  model_creator_link: https://huggingface.co/WizardLM
+  name: WizardCoder-3B-V1.0
+  quantizer: WizardLM
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-29 20:36:39+00:00
+  license: apache-2.0
+  model_creator: teknium
+  model_creator_link: mistralai
+  name: OpenHermes-2.5-Mistral-7B
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9942998080
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-06 23:21:46+00:00
+  license: apache-2.0
+  model_creator: teknium
+  model_creator_link: mistralai
+  name: Mistral-Trismegistus-7B
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/trismegistus-project
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-02 12:10:29+00:00
+  license: apache-2.0
+  model_creator: teknium
+  model_creator_link: teknium
+  name: Hermes-Trismegistus-Mistral-7B
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-12 19:07:15+00:00
+  license: apache-2.0
+  model_creator: teknium
+  model_creator_link: mistralai
+  name: OpenHermes-2-Mistral-7B
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-18 13:30:36+00:00
+  license: mit
+  model_creator: teknium
+  model_creator_link: https://huggingface.co/teknium
+  name: SD-PrompTune-v1
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - CollectiveCognition/chats-data-2023-09-27
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-04 19:29:59+00:00
+  license: apache-2.0
+  model_creator: teknium
+  model_creator_link: mistralai
+  name: CollectiveCognition-v1.1-Mistral-7B
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - CollectiveCognition/chats-data-2023-09-27
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-04 17:49:34+00:00
+  license: apache-2.0
+  model_creator: teknium
+  model_creator_link: mistralai
+  name: CollectiveCognition-v1-Mistral-7B
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-03 14:07:55+00:00
+  license: mit
+  model_creator: teknium
+  model_creator_link: mistralai
+  name: airoboros-mistral2.2-7b
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/openhermes
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-06 03:36:29+00:00
+  license: mit
+  model_creator: teknium
+  model_creator_link: NousResearch
+  name: OpenHermes-13B
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/openhermes
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-14 09:22:23+00:00
+  license: mit
+  model_creator: teknium
+  model_creator_link: NousResearch
+  name: OpenHermes-7B
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/openhermes
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-13 18:12:40+00:00
+  license: other
+  model_creator: teknium
+  model_creator_link: https://huggingface.co/teknium
+  name: Phi-Hermes-1.3B
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model.safetensors
+    size: 2829227632
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/openhermes
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-14 11:09:32+00:00
+  license: mit
+  model_creator: teknium
+  model_creator_link: NousResearch
+  name: OpenHermes-7B-adapter
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - LDJnr/Puffin
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-12 21:00:45+00:00
+  license: other
+  model_creator: teknium
+  model_creator_link: https://huggingface.co/teknium
+  name: Puffin-Phi-v2
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-09-12 04:58:25+00:00
+  license: unknown
+  name: Puffin-Phi
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-12 01:49:56+00:00
+  license: mit
+  model_creator: teknium
+  model_creator_link: https://huggingface.co/teknium
+  name: MPT-7B-Mercury-Experimental
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - bigcode/the-stack-dedup
+  - sahil2801/CodeAlpaca-20k
+  - teknium/GPTeacher-CodeInstruct
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-05-26 20:21:25+00:00
+  license: cc-by-sa-4.0
+  model_creator: teknium
+  model_creator_link: https://huggingface.co/teknium
+  name: Replit-v1-CodeInstruct-3B-fp16
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - bigcode/the-stack-dedup
+  - sahil2801/CodeAlpaca-20k
+  - teknium/GPTeacher-CodeInstruct
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-01 15:49:11+00:00
+  license: cc-by-sa-4.0
+  model_creator: teknium
+  model_creator_link: https://huggingface.co/teknium
+  name: Replit-v2-CodeInstruct-3B
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - bigcode/the-stack-dedup
+  - sahil2801/CodeAlpaca-20k
+  - teknium/GPTeacher-CodeInstruct
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-05-25 19:41:19+00:00
+  license: cc-by-sa-4.0
+  model_creator: teknium
+  model_creator_link: https://huggingface.co/teknium
+  name: Replit-v1-CodeInstruct-3B
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-05-17 19:14:03+00:00
+  license: mit
+  model_creator: teknium
+  model_creator_link: https://huggingface.co/teknium
+  name: llama-deus-7b-v3-lora-merged
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-05-15 18:05:01+00:00
+  license: mit
+  model_creator: teknium
+  model_creator_link: https://huggingface.co/teknium
+  name: llama-deus-7b-v3-lora
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  license: unknown
+  name: llama-deus-7b-v2-lora
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-05-02 05:55:53+00:00
+  license: mit
+  model_creator: teknium
+  model_creator_link: https://huggingface.co/teknium
+  name: Llama-Deus-7b-Lora
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-04-22 19:56:53+00:00
+  license: mit
+  model_creator: teknium
+  model_creator_link: https://huggingface.co/teknium
+  name: GPT4-x-Alpaca13b-RolePlayLora-4bit-v2
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: gpt4xalpacarplorav2-4bit.safetensors
+    size: 7018345518
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6317aade83d8d2fd903192d9/erOwgMXc_CZih3uMoyTAp.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-04-12 01:21:38+00:00
+  license: unknown
+  model_creator: teknium
+  model_creator_link: https://huggingface.co/teknium
+  name: Base-GPT4-x-Alpaca-Roleplay-Lora
+  quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
