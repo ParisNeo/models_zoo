@@ -3177,4 +3177,6 @@
   quantizer: NousResearch
   rank: 10000000000.0
   type: transformers
-  variants: []
+  variants: 
+    - name: vision
+    size: 15318345518
