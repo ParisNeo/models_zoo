@@ -3179,4 +3179,4 @@
   type: transformers
   variants: 
     - name: vision
-    size: 15318345518
+      size: 15318345518
