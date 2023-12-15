@@ -43,6 +43,7 @@ api = HfApi(token=api_key)
 MODEL_BUILDER="llava-hf"
 MODEL_BUILDER="WizardLM"
 MODEL_BUILDER="Teknium"
+MODEL_BUILDER="NousResearch"
 # MODEL_BUILDER="jondurbin"
 # MODEL_BUILDER="NousResearch"
 DEFAULT_MODEL_TYPE="transformers"
