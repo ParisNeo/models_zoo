@@ -1,19 +1,5 @@
 - category: generic
   ctx_size: -1
-  datasets: unknown
-  description: ''
-  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
-  last_commit_time: 2023-11-28 23:18:55+00:00
-  license: apache-2.0
-  model_creator: NousResearch
-  model_creator_link: mistralai
-  name: Nous-Hermes-2-Vision-Alpha
-  quantizer: NousResearch
-  rank: 10000000000.0
-  type: transformers
-  variants: []
-- category: generic
-  ctx_size: -1
   datasets:
   - LDJnr/LessWrong-Amplify-Instruct
   - LDJnr/Pure-Dove
@@ -3175,6 +3161,20 @@
   model_creator_link: https://huggingface.co/teknium
   name: Base-GPT4-x-Alpaca-Roleplay-Lora
   quantizer: teknium
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-28 23:18:55+00:00
+  license: apache-2.0
+  model_creator: NousResearch
+  model_creator_link: mistralai
+  name: Nous-Hermes-2-Vision-Alpha
+  quantizer: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
