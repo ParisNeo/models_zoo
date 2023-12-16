@@ -40,7 +40,7 @@ else:
 api = HfApi(token=api_key)
 
 
-DEFAULT_quantizer="msys"#"TheBloke"
+DEFAULT_quantizer="TheBloke"
 DEFAULT_MODEL_TYPE="gguf"
 
 def hub_get_last_commit(repo_id):

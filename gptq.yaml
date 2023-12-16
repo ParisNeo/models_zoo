@@ -17315,3 +17315,163 @@
   variants:
   - name: model.safetensors
     size: 7259435192
+- category: generic
+  datasets:
+  - nbertagnolli/counsel-chat
+  last_commit_time: 2023-12-16 14:44:17+00:00
+  license: mit
+  model_creator: Steve Boby George
+  model_creator_link: steve-cse
+  name: MelloGPT-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662280
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-12-16 21:32:26+00:00
+  license: unknown
+  name: 8x7B-MoE-test-NOT-MIXTRAL-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets:
+  - nbertagnolli/counsel-chat
+  last_commit_time: 2023-12-16 14:44:17+00:00
+  license: mit
+  model_creator: Steve Boby George
+  model_creator_link: steve-cse
+  name: MelloGPT-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662280
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-12-16 14:15:32+00:00
+  license: apache-2.0
+  model_creator: Mindy
+  model_creator_link: mindy-labs
+  name: mindy-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662280
+- category: generic
+  datasets:
+  - garage-bAInd/Open-Platypus
+  last_commit_time: 2023-12-16 13:32:18+00:00
+  license: cc-by-nc-sa-4.0
+  model_creator: KyujinHan
+  model_creator_link: kyujinpy
+  name: SOLAR-Platypus-10.7B-v2-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 5975845400
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/65153f28c5950dd2feca201f/v7vk86sInQSuJwW7mMFC_.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-16 13:03:10+00:00
+  license: apache-2.0
+  model_creator: Ignos
+  model_creator_link: ignos
+  name: LeoScorpius-GreenNode-Platypus-7B-v1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662280
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/65153f28c5950dd2feca201f/v7vk86sInQSuJwW7mMFC_.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-16 12:34:06+00:00
+  license: apache-2.0
+  model_creator: Ignos
+  model_creator_link: ignos
+  name: LeoScorpius-GreenNode-Alpaca-7B-v1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662280
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-12-16 12:04:31+00:00
+  license: other
+  model_creator: Adam
+  model_creator_link: adamo1139
+  name: Mistral-7B-AEZAKMI-v1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662216
+- category: generic
+  datasets:
+  - Intel/orca_dpo_pairs
+  last_commit_time: 2023-12-16 11:08:26+00:00
+  license: apache-2.0
+  model_creator: MindsAndCompany
+  model_creator_link: mncai
+  name: agiin-13.6B-v0.1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 7565880688
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-12-16 10:06:57+00:00
+  license: cc-by-sa-4.0
+  model_creator: Jeonghwan Park
+  model_creator_link: maywell
+  name: PiVoT-10.7B-Mistral-v0.2-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 5975845496
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-12-16 01:15:50+00:00
+  license: llama2
+  model_creator: John Smith
+  model_creator_link: nsfwthrowitaway69
+  name: Venus-120b-v1.1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1635335304806-noauth.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-15 23:17:56+00:00
+  license: mit
+  model_creator: Mihai
+  model_creator_link: Mihaiii
+  name: Metis-0.1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662280

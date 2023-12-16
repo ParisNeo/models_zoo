@@ -44,6 +44,8 @@ MODEL_BUILDER="llava-hf"
 MODEL_BUILDER="WizardLM"
 MODEL_BUILDER="Teknium"
 MODEL_BUILDER="NousResearch"
+MODEL_BUILDER="mistralai"
+
 # MODEL_BUILDER="jondurbin"
 # MODEL_BUILDER="NousResearch"
 DEFAULT_MODEL_TYPE="transformers"

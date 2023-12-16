@@ -3177,6 +3177,86 @@
   quantizer: NousResearch
   rank: 10000000000.0
   type: transformers
-  variants: 
-    - name: vision
-      size: 15318345518
+  variants:
+  - name: vision
+    size: 15318345518
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62dac1c7a8ead43d20e3e17a/wrLf5yaGC6ng4XME70w6Z.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-11 08:29:18+00:00
+  license: apache-2.0
+  model_creator: mistralai
+  model_creator_link: https://huggingface.co/mistralai
+  name: Mixtral-8x7B-v0.1
+  quantizer: mistralai
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00019.safetensors
+    size: 4892809584
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62dac1c7a8ead43d20e3e17a/wrLf5yaGC6ng4XME70w6Z.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-11 13:18:44+00:00
+  license: apache-2.0
+  model_creator: mistralai
+  model_creator_link: https://huggingface.co/mistralai
+  name: Mistral-7B-Instruct-v0.2
+  quantizer: mistralai
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 4943162336
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62dac1c7a8ead43d20e3e17a/wrLf5yaGC6ng4XME70w6Z.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-11 08:29:16+00:00
+  license: apache-2.0
+  model_creator: mistralai
+  model_creator_link: https://huggingface.co/mistralai
+  name: Mixtral-8x7B-Instruct-v0.1
+  quantizer: mistralai
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00019.safetensors
+    size: 4892809584
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62dac1c7a8ead43d20e3e17a/wrLf5yaGC6ng4XME70w6Z.png?w=200&h=200&f=face
+  last_commit_time: 2023-09-27 13:31:52+00:00
+  license: apache-2.0
+  model_creator: mistralai
+  model_creator_link: https://huggingface.co/mistralai
+  name: Mistral-7B-Instruct-v0.1
+  quantizer: mistralai
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9942981696
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62dac1c7a8ead43d20e3e17a/wrLf5yaGC6ng4XME70w6Z.png?w=200&h=200&f=face
+  last_commit_time: 2023-09-20 12:03:50+00:00
+  license: apache-2.0
+  model_creator: mistralai
+  model_creator_link: https://huggingface.co/mistralai
+  name: Mistral-7B-v0.1
+  quantizer: mistralai
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9942981696
