@@ -40,7 +40,7 @@ else:
 api = HfApi(token=api_key)
 
 
-DEFAULT_quantizer="TheBloke"
+DEFAULT_quantizer="msys"#"TheBloke"
 DEFAULT_MODEL_TYPE="gguf"
 
 def hub_get_last_commit(repo_id):
@@ -107,16 +107,18 @@ def click_expand_button(url):
 
     # Load the page
     driver.get(url)
+    try:
 
-    # Find the "Expand" button element by XPath and click it
-    expand_button = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.XPATH, '//button[contains(text(), "Expand")]'))
-    )
-    expand_button.click()
+        # Find the "Expand" button element by XPath and click it
+        expand_button = WebDriverWait(driver, 10).until(
+            EC.element_to_be_clickable((By.XPATH, '//button[contains(text(), "Expand")]'))
+        )
+        expand_button.click()
 
-    # Wait for the page to load after the button click
-    WebDriverWait(driver, 10).until(lambda d: d.execute_script('return document.readyState') == 'complete')
-
+        # Wait for the page to load after the button click
+        WebDriverWait(driver, 10).until(lambda d: d.execute_script('return document.readyState') == 'complete')
+    except:
+        pass
 
     # Get the HTML content of the expanded page
     expanded_html_content = driver.page_source
