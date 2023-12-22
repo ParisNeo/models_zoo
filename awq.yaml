@@ -12560,3 +12560,565 @@
   variants:
   - name: model.safetensors
     size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/627b9f3f4d0858f0034efbb9/2Qnattrzv6qvqiZVVfV5x.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-22 11:13:53+00:00
+  license: other
+  model_creator: WizardLM
+  model_creator_link: WizardLM
+  name: WizardMath-7B-V1.1-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets:
+  - Open-Orca/SlimOrca
+  - lemonilia/LimaRP
+  - chargoddard/rpguild
+  - chargoddard/summarize_from_feedback_alpaca
+  - HuggingFaceH4/no_robots
+  - chargoddard/coedit-reworded
+  description: ''
+  last_commit_time: 2023-12-22 14:42:03+00:00
+  license: cc-by-nc-4.0
+  model_creator: Charles Goddard
+  model_creator_link: chargoddard
+  name: MixtralRPChat-ZLoss-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 9973278720
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/627b9f3f4d0858f0034efbb9/2Qnattrzv6qvqiZVVfV5x.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-22 11:13:53+00:00
+  license: other
+  model_creator: WizardLM
+  model_creator_link: WizardLM
+  name: WizardMath-7B-V1.1-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6242f124b23d3e5324f34673/x7d7WdoTvvbvsJ510Oh2p.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-21 16:37:47+00:00
+  license: apache-2.0
+  model_creator: OpenPipe
+  model_creator_link: OpenPipe
+  name: mistral-ft-optimized-1218-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/64bc5b4512d00c4589dfa8a6/0U8IW9ZKT5crAIR30sLP_.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-21 15:50:11+00:00
+  license: other
+  model_creator: ddh0
+  model_creator_link: ddh0
+  name: OrcaMaid-v2-FIX-13B-32k-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 7247987312
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/5f9c00a5777efc07d7f1e4be/IGlv8KrBSofq-4zEWH_xy.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-21 15:23:13+00:00
+  license: apache-2.0
+  model_creator: CliBrAIn
+  model_creator_link: clibrain
+  name: Llama-2-7B-ft-instruct-es-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 3889391512
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1667690511692-630dfb008df86f1e5becadc3.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-21 14:37:23+00:00
+  license: cc-by-nc-4.0
+  model_creator: IkariDev
+  model_creator_link: NeverSleep
+  name: FlatOrcamaid-13B-v0.2-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 7247987312
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/64bc5b4512d00c4589dfa8a6/0U8IW9ZKT5crAIR30sLP_.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-21 12:54:50+00:00
+  license: other
+  model_creator: ddh0
+  model_creator_link: ddh0
+  name: OrcaMaidXL-17B-32k-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 9555403320
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/647a6317555b5e199cffd5a2/czhMJBD4EcE_Gprc8yNu_.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-21 11:45:35+00:00
+  license: llama2
+  model_creator: WhiteRabbitNeo
+  model_creator_link: whiterabbitneo
+  name: WhiteRabbitNeo-13B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 7248314992
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/634d74a4fc4873ed0d034df2/wfyz_EKMs3SlLF1RtIhSq.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-20 22:14:24+00:00
+  license: apache-2.0
+  model_creator: llmware
+  model_creator_link: llmware
+  name: dragon-mistral-7B-v0-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6376b76aa3b787faca41f8e8/-3_1Y8WSYnXQrA1jxy-q5.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-20 21:04:04+00:00
+  license: cc-by-nc-4.0
+  model_creator: Kooten
+  model_creator_link: Kooten
+  name: DaringMaid-20B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9978224976
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-12-20 08:06:46+00:00
+  license: cc-by-nc-4.0
+  model_creator: IkariDev and Undi
+  model_creator_link: NeverSleep
+  name: Noromaid-13B-v0.2-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 7247987312
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-12-20 08:13:22+00:00
+  license: cc-by-nc-4.0
+  model_creator: Saofiq
+  model_creator_link: Sao10K
+  name: Frostwind-10.7B-v1-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 5964172344
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6308c49c454dc257521bc7f9/fQaar5JAw6UMH9pnYOcLE.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-19 23:29:43+00:00
+  license: llama2
+  model_creator: tokyotech-llm
+  model_creator_link: tokyotech-llm
+  name: Swallow-7B-Instruct-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4072499096
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6308c49c454dc257521bc7f9/fQaar5JAw6UMH9pnYOcLE.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-19 21:54:33+00:00
+  license: llama2
+  model_creator: tokyotech-llm
+  model_creator_link: tokyotech-llm
+  name: Swallow-70B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00004.safetensors
+    size: 9921221968
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6308c49c454dc257521bc7f9/fQaar5JAw6UMH9pnYOcLE.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-19 23:04:21+00:00
+  license: llama2
+  model_creator: tokyotech-llm
+  model_creator_link: tokyotech-llm
+  name: Swallow-7B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4072499096
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6308c49c454dc257521bc7f9/fQaar5JAw6UMH9pnYOcLE.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-19 22:17:43+00:00
+  license: llama2
+  model_creator: tokyotech-llm
+  model_creator_link: tokyotech-llm
+  name: Swallow-13B-Instruct-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 7476871792
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6308c49c454dc257521bc7f9/fQaar5JAw6UMH9pnYOcLE.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-19 21:32:03+00:00
+  license: llama2
+  model_creator: tokyotech-llm
+  model_creator_link: tokyotech-llm
+  name: Swallow-13B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 7476871792
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6308c49c454dc257521bc7f9/fQaar5JAw6UMH9pnYOcLE.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-19 18:37:04+00:00
+  license: llama2
+  model_creator: tokyotech-llm
+  model_creator_link: tokyotech-llm
+  name: Swallow-70B-instruct-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00004.safetensors
+    size: 9921221968
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1670003187019-noauth.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-19 18:28:15+00:00
+  license: other
+  model_creator: brucethemoose
+  model_creator_link: brucethemoose
+  name: Yi-34B-200K-DARE-merge-v5-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9963803400
+- category: generic
+  ctx_size: -1
+  datasets:
+  - Rijgersberg/no_robots_nl
+  - Rijgersberg/ultrachat_10k_nl
+  description: ''
+  icon: ''
+  last_commit_time: 2023-12-19 17:37:33+00:00
+  license: apache-2.0
+  model_creator: Edwin Rijgersberg
+  model_creator_link: Rijgersberg
+  name: GEITje-7B-chat-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1635335304806-noauth.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-19 17:05:43+00:00
+  license: apache-2.0
+  model_creator: Mihai
+  model_creator_link: Mihaiii
+  name: Metis-0.4-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-12-19 16:20:39+00:00
+  license: apache-2.0
+  model_creator: Stepan Zuev
+  model_creator_link: w4r10ck
+  name: SOLAR-10.7B-Instruct-v1.0-uncensored-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 5964172344
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: ''
+  last_commit_time: 2023-12-18 23:56:26+00:00
+  license: apache-2.0
+  model_creator: Fredi
+  model_creator_link: Fredithefish
+  name: OpenZephyrChat-v0.2-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1635335304806-noauth.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-18 20:43:20+00:00
+  license: apache-2.0
+  model_creator: Mihai
+  model_creator_link: Mihaiii
+  name: Metis-0.3-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-12-18 16:19:39+00:00
+  license: cc-by-nc-4.0
+  model_creator: quantumai.kr
+  model_creator_link: quantumaikr
+  name: quantum-v0.01-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-12-18 15:49:57+00:00
+  license: cc-by-nc-4.0
+  model_creator: quantumai.kr
+  model_creator_link: quantumaikr
+  name: quantum-dpo-v0.1-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/65640163d5e3c35c79568acc/_mL4aYOPeBVqseH5oC8wG.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-18 15:20:54+00:00
+  license: apache-2.0
+  model_creator: EmbeddedLLM
+  model_creator_link: EmbeddedLLM
+  name: Mistral-7B-Merge-14-v0.1-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/64bc5b4512d00c4589dfa8a6/0U8IW9ZKT5crAIR30sLP_.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-18 12:18:40+00:00
+  license: other
+  model_creator: ddh0
+  model_creator_link: ddh0
+  name: Norocetacean-20B-10k-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9978224976
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/64bc5b4512d00c4589dfa8a6/0U8IW9ZKT5crAIR30sLP_.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-18 11:48:08+00:00
+  license: cc-by-nc-4.0
+  model_creator: ddh0
+  model_creator_link: ddh0
+  name: Pirouette-7B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets:
+  - tiiuae/falcon-refinedweb
+  - EleutherAI/pile
+  - meta-math/MetaMathQA
+  description: ''
+  icon: ''
+  last_commit_time: 2023-12-17 22:48:12+00:00
+  license: llama2
+  model_creator: DEEPNIGHT
+  model_creator_link: deepnight-research
+  name: Saily_220B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00011.safetensors
+    size: 9938623736
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-12-17 19:24:25+00:00
+  license: apache-2.0
+  model_creator: GreenNode.ai
+  model_creator_link: GreenNode
+  name: GreenNodeLM-7B-v4leo-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets:
+  - garage-bAInd/Open-Platypus
+  description: ''
+  last_commit_time: 2023-12-17 17:21:16+00:00
+  license: cc-by-nc-sa-4.0
+  model_creator: KyujinHan
+  model_creator_link: kyujinpy
+  name: PlatYi-34B-Llama-Q-v3-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9963803400
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-12-17 15:22:05+00:00
+  license: cc-by-sa-4.0
+  model_creator: Jeonghwan Park
+  model_creator_link: maywell
+  name: PiVoT-10.7B-Mistral-v0.2-RP-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 5964172344
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-12-17 14:51:51+00:00
+  license: cc
+  model_creator: ryan witzman
+  model_creator_link: rwitz2
+  name: go-bruins-v2.1.1-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
