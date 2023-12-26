@@ -8,3 +8,5 @@ python transformers_scraper.py --name Teknium
 python transformers_scraper.py --name NousResearch
 python transformers_scraper.py --name jondurbin
 python gpt4all.py
+
+python open_ai_scraper.py

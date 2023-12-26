@@ -3276,3 +3276,19 @@
   variants:
   - name: pytorch_model-00001-of-00002.bin
     size: 9943028044
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-23 19:47:48+00:00
+  license: apache-2.0
+  model_creator: NousResearch
+  model_creator_link: 01-ai
+  name: Nous-Hermes-2-Yi-34B
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00015.safetensors
+    size: 4793130760
