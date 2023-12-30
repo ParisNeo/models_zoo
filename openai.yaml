@@ -57,20 +57,6 @@
 - category: generic
   datasets: unknown
   icon: /bindings/open_ai/logo.png
-  last_commit_time: 1698959748
-  license: commercial
-  model_creator: openai
-  model_creator_link: https://openai.com
-  name: gpt-3.5-turbo-1106
-  quantizer: null
-  rank: 1.0
-  type: api
-  variants:
-  - name: gpt-3.5-turbo-1106
-    size: 999999999999
-- category: generic
-  datasets: unknown
-  icon: /bindings/open_ai/logo.png
   last_commit_time: 1677649963
   license: commercial
   model_creator: openai
@@ -99,6 +85,20 @@
 - category: generic
   datasets: unknown
   icon: /bindings/open_ai/logo.png
+  last_commit_time: 1698959748
+  license: commercial
+  model_creator: openai
+  model_creator_link: https://openai.com
+  name: gpt-3.5-turbo-1106
+  quantizer: null
+  rank: 1.0
+  type: api
+  variants:
+  - name: gpt-3.5-turbo-1106
+    size: 999999999999
+- category: generic
+  datasets: unknown
+  icon: /bindings/open_ai/logo.png
   last_commit_time: 1692901427
   license: commercial
   model_creator: openai
@@ -109,6 +109,20 @@
   type: api
   variants:
   - name: gpt-3.5-turbo-instruct
+    size: 999999999999
+- category: generic
+  datasets: unknown
+  icon: /bindings/open_ai/logo.png
+  last_commit_time: 1683758102
+  license: commercial
+  model_creator: openai
+  model_creator_link: https://openai.com
+  name: gpt-3.5-turbo-16k
+  quantizer: null
+  rank: 1.0
+  type: api
+  variants:
+  - name: gpt-3.5-turbo-16k
     size: 999999999999
 - category: generic
   datasets: unknown
@@ -165,18 +179,4 @@
   type: api
   variants:
   - name: gpt-4-0314
-    size: 999999999999
-- category: generic
-  datasets: unknown
-  icon: /bindings/open_ai/logo.png
-  last_commit_time: 1683758102
-  license: commercial
-  model_creator: openai
-  model_creator_link: https://openai.com
-  name: gpt-3.5-turbo-16k
-  quantizer: null
-  rank: 1.0
-  type: api
-  variants:
-  - name: gpt-3.5-turbo-16k
     size: 999999999999

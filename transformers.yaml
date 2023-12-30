@@ -3292,3 +3292,62 @@
   variants:
   - name: model-00001-of-00015.safetensors
     size: 4793130760
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-26 16:42:36+00:00
+  license: apache-2.0
+  model_creator: NousResearch
+  model_creator_link: 01-ai
+  name: Nous-Hermes-2-Yi-34B-GGUF
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ai2_arc
+  - unalignment/spicy-3.1
+  - codeparrot/apps
+  - facebook/belebele
+  - boolq
+  - jondurbin/cinematika-v0.1
+  - drop
+  - lmsys/lmsys-chat-1m
+  - TIGER-Lab/MathInstruct
+  - cais/mmlu
+  - Muennighoff/natural-instructions
+  - openbookqa
+  - piqa
+  - Vezora/Tested-22k-Python-Alpaca
+  - cakiki/rosetta-code
+  - Open-Orca/SlimOrca
+  - spider
+  - squad_v2
+  - migtissera/Synthia-v1.3
+  - datasets/winogrande
+  - nvidia/HelpSteer
+  - Intel/orca_dpo_pairs
+  - unalignment/toxic-dpo-v0.1
+  - jondurbin/truthy-dpo-v0.1
+  - allenai/ultrafeedback_binarized_cleaned
+  - Squish42/bluemoon-fandom-1-1-rp-cleaned
+  - LDJnr/Capybara
+  - JULIELab/EmoBank
+  - kingbri/PIPPA-shareGPT
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-27 08:38:39+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: bagel-14b
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00006.safetensors
+    size: 4919444336
