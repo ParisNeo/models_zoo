@@ -45198,3 +45198,584 @@
     size: 28213926112
   - name: nous-hermes-2-yi-34b.Q8_0.gguf
     size: 36542281952
+- category: generic
+  datasets:
+  - Open-Orca/OpenOrca
+  - GAIR/lima
+  - WizardLM/WizardLM_evol_instruct_V2_196k
+  - EleutherAI/pile
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/650801ced5578ef7e20b33d4/oLptSnKMecbu62EgglmO6.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-01 22:59:00+00:00
+  license: other
+  model_creator: AdaptLLM
+  model_creator_link: AdaptLLM
+  name: medicine-LLM-13B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: medicine-llm-13b.Q2_K.gguf
+    size: 5429354272
+  - name: medicine-llm-13b.Q3_K_L.gguf
+    size: 6929565984
+  - name: medicine-llm-13b.Q3_K_M.gguf
+    size: 6337775904
+  - name: medicine-llm-13b.Q3_K_S.gguf
+    size: 5658986784
+  - name: medicine-llm-13b.Q4_0.gguf
+    size: 7365841856
+  - name: medicine-llm-13b.Q4_K_M.gguf
+    size: 7865963456
+  - name: medicine-llm-13b.Q4_K_S.gguf
+    size: 7414338496
+  - name: medicine-llm-13b.Q5_0.gguf
+    size: 8972293696
+  - name: medicine-llm-13b.Q5_K_M.gguf
+    size: 9229932096
+  - name: medicine-llm-13b.Q5_K_S.gguf
+    size: 8972293696
+  - name: medicine-llm-13b.Q6_K.gguf
+    size: 10679148800
+  - name: medicine-llm-13b.Q8_0.gguf
+    size: 13831330432
+- category: generic
+  datasets:
+  - Open-Orca/OpenOrca
+  - GAIR/lima
+  - WizardLM/WizardLM_evol_instruct_V2_196k
+  - EleutherAI/pile
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/650801ced5578ef7e20b33d4/oLptSnKMecbu62EgglmO6.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-01 22:59:00+00:00
+  license: other
+  model_creator: AdaptLLM
+  model_creator_link: AdaptLLM
+  name: medicine-LLM-13B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: medicine-llm-13b.Q2_K.gguf
+    size: 5429354272
+  - name: medicine-llm-13b.Q3_K_L.gguf
+    size: 6929565984
+  - name: medicine-llm-13b.Q3_K_M.gguf
+    size: 6337775904
+  - name: medicine-llm-13b.Q3_K_S.gguf
+    size: 5658986784
+  - name: medicine-llm-13b.Q4_0.gguf
+    size: 7365841856
+  - name: medicine-llm-13b.Q4_K_M.gguf
+    size: 7865963456
+  - name: medicine-llm-13b.Q4_K_S.gguf
+    size: 7414338496
+  - name: medicine-llm-13b.Q5_0.gguf
+    size: 8972293696
+  - name: medicine-llm-13b.Q5_K_M.gguf
+    size: 9229932096
+  - name: medicine-llm-13b.Q5_K_S.gguf
+    size: 8972293696
+  - name: medicine-llm-13b.Q6_K.gguf
+    size: 10679148800
+  - name: medicine-llm-13b.Q8_0.gguf
+    size: 13831330432
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-01 16:29:31+00:00
+  license: wtfpl
+  model_creator: Cross Nastasi
+  model_creator_link: dillfrescott
+  name: sonya-7B-x8-MoE-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: sonya-7b-x8-moe.Q2_K.gguf
+    size: 15644970816
+  - name: sonya-7b-x8-moe.Q3_K_M.gguf
+    size: 20364291904
+  - name: sonya-7b-x8-moe.Q4_0.gguf
+    size: 26442469184
+  - name: sonya-7b-x8-moe.Q4_K_M.gguf
+    size: 26442469184
+  - name: sonya-7b-x8-moe.Q5_0.gguf
+    size: 32230215488
+  - name: sonya-7b-x8-moe.Q5_K_M.gguf
+    size: 32230215488
+  - name: sonya-7b-x8-moe.Q6_K.gguf
+    size: 38379695936
+  - name: sonya-7b-x8-moe.Q8_0.gguf
+    size: 49625198400
+- category: generic
+  datasets:
+  - ehartford/dolphin
+  - jondurbin/airoboros-2.2.1
+  - ehartford/dolphin-coder
+  - teknium/openhermes
+  - ise-uiuc/Magicoder-OSS-Instruct-75K
+  - ise-uiuc/Magicoder-Evol-Instruct-110K
+  - LDJnr/Capybara
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63111b2d88942700629f5771/hd3QCLnAkFFGI07Z5d1Ol.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-01 12:11:59+00:00
+  license: apache-2.0
+  model_creator: Cognitive Computations
+  model_creator_link: cognitivecomputations
+  name: dolphin-2.7-mixtral-8x7b-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: dolphin-2.7-mixtral-8x7b.Q2_K.gguf
+    size: 15644044224
+  - name: dolphin-2.7-mixtral-8x7b.Q3_K_M.gguf
+    size: 20363366144
+  - name: dolphin-2.7-mixtral-8x7b.Q4_0.gguf
+    size: 26441544512
+  - name: dolphin-2.7-mixtral-8x7b.Q4_K_M.gguf
+    size: 26441544512
+  - name: dolphin-2.7-mixtral-8x7b.Q5_0.gguf
+    size: 32229291840
+  - name: dolphin-2.7-mixtral-8x7b.Q5_K_M.gguf
+    size: 32229291840
+  - name: dolphin-2.7-mixtral-8x7b.Q6_K.gguf
+    size: 38378773376
+  - name: dolphin-2.7-mixtral-8x7b.Q8_0.gguf
+    size: 49624279808
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63111b2d88942700629f5771/hd3QCLnAkFFGI07Z5d1Ol.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-01 14:37:11+00:00
+  license: other
+  model_creator: Cognitive Computations
+  model_creator_link: cognitivecomputations
+  name: yayi2-30B-llama-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: yayi2-30b-llama.Q2_K.gguf
+    size: 12899685024
+  - name: yayi2-30b-llama.Q3_K_L.gguf
+    size: 16097301152
+  - name: yayi2-30b-llama.Q3_K_M.gguf
+    size: 14769873568
+  - name: yayi2-30b-llama.Q3_K_S.gguf
+    size: 13298512544
+  - name: yayi2-30b-llama.Q4_0.gguf
+    size: 17258345120
+  - name: yayi2-30b-llama.Q4_K_M.gguf
+    size: 18233852576
+  - name: yayi2-30b-llama.Q4_K_S.gguf
+    size: 17317466784
+  - name: yayi2-30b-llama.Q5_0.gguf
+    size: 20985246368
+  - name: yayi2-30b-llama.Q5_K_M.gguf
+    size: 21487780512
+  - name: yayi2-30b-llama.Q5_K_S.gguf
+    size: 20985246368
+  - name: yayi2-30b-llama.Q6_K.gguf
+    size: 24945078944
+  - name: yayi2-30b-llama.Q8_0.gguf
+    size: 32308163232
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-12-31 19:55:38+00:00
+  license: other
+  model_creator: Undi
+  model_creator_link: Undi95
+  name: toxicqa-Llama2-7B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: toxicqa-llama2-7b.Q2_K.gguf
+    size: 2825940800
+  - name: toxicqa-llama2-7b.Q3_K_L.gguf
+    size: 3597111104
+  - name: toxicqa-llama2-7b.Q3_K_M.gguf
+    size: 3298004800
+  - name: toxicqa-llama2-7b.Q3_K_S.gguf
+    size: 2948304704
+  - name: toxicqa-llama2-7b.Q4_0.gguf
+    size: 3825807168
+  - name: toxicqa-llama2-7b.Q4_K_M.gguf
+    size: 4081004352
+  - name: toxicqa-llama2-7b.Q4_K_S.gguf
+    size: 3856740160
+  - name: toxicqa-llama2-7b.Q5_0.gguf
+    size: 4651691840
+  - name: toxicqa-llama2-7b.Q5_K_M.gguf
+    size: 4783157056
+  - name: toxicqa-llama2-7b.Q5_K_S.gguf
+    size: 4651691840
+  - name: toxicqa-llama2-7b.Q6_K.gguf
+    size: 5529194304
+  - name: toxicqa-llama2-7b.Q8_0.gguf
+    size: 7161089856
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2023-12-31 19:23:20+00:00
+  license: other
+  model_creator: Undi
+  model_creator_link: Undi95
+  name: toxicqa-Llama2-13B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: toxicqa-llama2-13b.Q2_K.gguf
+    size: 5429348352
+  - name: toxicqa-llama2-13b.Q3_K_L.gguf
+    size: 6929559552
+  - name: toxicqa-llama2-13b.Q3_K_M.gguf
+    size: 6337769472
+  - name: toxicqa-llama2-13b.Q3_K_S.gguf
+    size: 5658980352
+  - name: toxicqa-llama2-13b.Q4_0.gguf
+    size: 7365834752
+  - name: toxicqa-llama2-13b.Q4_K_M.gguf
+    size: 7865956352
+  - name: toxicqa-llama2-13b.Q4_K_S.gguf
+    size: 7414331392
+  - name: toxicqa-llama2-13b.Q5_0.gguf
+    size: 8972285952
+  - name: toxicqa-llama2-13b.Q5_K_M.gguf
+    size: 9229924352
+  - name: toxicqa-llama2-13b.Q5_K_S.gguf
+    size: 8972285952
+  - name: toxicqa-llama2-13b.Q6_K.gguf
+    size: 10679140352
+  - name: toxicqa-llama2-13b.Q8_0.gguf
+    size: 13831319552
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1632841610974-noauth.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 19:03:35+00:00
+  license: cc-by-4.0
+  model_creator: Sanji Watsuki
+  model_creator_link: SanjiWatsuki
+  name: Sonya-7B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: sonya-7b.Q2_K.gguf
+    size: 3084034176
+  - name: sonya-7b.Q3_K_L.gguf
+    size: 3822960768
+  - name: sonya-7b.Q3_K_M.gguf
+    size: 3519922304
+  - name: sonya-7b.Q3_K_S.gguf
+    size: 3165503616
+  - name: sonya-7b.Q4_0.gguf
+    size: 4109852800
+  - name: sonya-7b.Q4_K_M.gguf
+    size: 4369375360
+  - name: sonya-7b.Q4_K_S.gguf
+    size: 4141310080
+  - name: sonya-7b.Q5_0.gguf
+    size: 4998652032
+  - name: sonya-7b.Q5_K_M.gguf
+    size: 5132345472
+  - name: sonya-7b.Q5_K_S.gguf
+    size: 4998652032
+  - name: sonya-7b.Q6_K.gguf
+    size: 5943001216
+  - name: sonya-7b.Q8_0.gguf
+    size: 7696793728
+- category: generic
+  datasets:
+  - cerebras/SlimPajama-627B
+  - bigcode/starcoderdata
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63565cc56d7fcf1bedb7d347/DRv8Ln7nvK22iXkLmAGb_.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 21:19:12+00:00
+  license: apache-2.0
+  model_creator: TinyLlama
+  model_creator_link: TinyLlama
+  name: TinyLlama-1.1B-intermediate-step-1431k-3T-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: tinyllama-1.1b-intermediate-step-1431k-3t.Q2_K.gguf
+    size: 483116032
+  - name: tinyllama-1.1b-intermediate-step-1431k-3t.Q3_K_L.gguf
+    size: 592499712
+  - name: tinyllama-1.1b-intermediate-step-1431k-3t.Q3_K_M.gguf
+    size: 550818816
+  - name: tinyllama-1.1b-intermediate-step-1431k-3t.Q3_K_S.gguf
+    size: 500315136
+  - name: tinyllama-1.1b-intermediate-step-1431k-3t.Q4_0.gguf
+    size: 637699072
+  - name: tinyllama-1.1b-intermediate-step-1431k-3t.Q4_K_M.gguf
+    size: 668787712
+  - name: tinyllama-1.1b-intermediate-step-1431k-3t.Q4_K_S.gguf
+    size: 643728384
+  - name: tinyllama-1.1b-intermediate-step-1431k-3t.Q5_0.gguf
+    size: 767001600
+  - name: tinyllama-1.1b-intermediate-step-1431k-3t.Q5_K_M.gguf
+    size: 783016960
+  - name: tinyllama-1.1b-intermediate-step-1431k-3t.Q5_K_S.gguf
+    size: 767001600
+  - name: tinyllama-1.1b-intermediate-step-1431k-3t.Q6_K.gguf
+    size: 904385536
+  - name: tinyllama-1.1b-intermediate-step-1431k-3t.Q8_0.gguf
+    size: 1170781184
+- category: generic
+  datasets:
+  - cerebras/SlimPajama-627B
+  - bigcode/starcoderdata
+  - OpenAssistant/oasst_top1_2023-08-25
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63565cc56d7fcf1bedb7d347/DRv8Ln7nvK22iXkLmAGb_.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 20:53:43+00:00
+  license: apache-2.0
+  model_creator: TinyLlama
+  model_creator_link: TinyLlama
+  name: TinyLlama-1.1B-Chat-v1.0-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: tinyllama-1.1b-chat-v1.0.Q2_K.gguf
+    size: 483116416
+  - name: tinyllama-1.1b-chat-v1.0.Q3_K_L.gguf
+    size: 592500096
+  - name: tinyllama-1.1b-chat-v1.0.Q3_K_M.gguf
+    size: 550819200
+  - name: tinyllama-1.1b-chat-v1.0.Q3_K_S.gguf
+    size: 500315520
+  - name: tinyllama-1.1b-chat-v1.0.Q4_0.gguf
+    size: 637699456
+  - name: tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf
+    size: 668788096
+  - name: tinyllama-1.1b-chat-v1.0.Q4_K_S.gguf
+    size: 643728768
+  - name: tinyllama-1.1b-chat-v1.0.Q5_0.gguf
+    size: 767001984
+  - name: tinyllama-1.1b-chat-v1.0.Q5_K_M.gguf
+    size: 783017344
+  - name: tinyllama-1.1b-chat-v1.0.Q5_K_S.gguf
+    size: 767001984
+  - name: tinyllama-1.1b-chat-v1.0.Q6_K.gguf
+    size: 904385920
+  - name: tinyllama-1.1b-chat-v1.0.Q8_0.gguf
+    size: 1170781568
+- category: generic
+  datasets:
+  - ehartford/dolphin
+  - jondurbin/airoboros-2.2.1
+  - ehartford/dolphin-coder
+  - teknium/openhermes
+  - ise-uiuc/Magicoder-OSS-Instruct-75K
+  - ise-uiuc/Magicoder-Evol-Instruct-110K
+  - LDJnr/Capybara
+  - argilla/ultrafeedback-binarized-preferences-cleaned
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63111b2d88942700629f5771/hd3QCLnAkFFGI07Z5d1Ol.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 20:46:57+00:00
+  license: apache-2.0
+  model_creator: Cognitive Computations
+  model_creator_link: cognitivecomputations
+  name: dolphin-2.6-mistral-7B-dpo-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: dolphin-2.6-mistral-7b-dpo.Q2_K.gguf
+    size: 3084038944
+  - name: dolphin-2.6-mistral-7b-dpo.Q3_K_L.gguf
+    size: 3822965952
+  - name: dolphin-2.6-mistral-7b-dpo.Q3_K_M.gguf
+    size: 3519927488
+  - name: dolphin-2.6-mistral-7b-dpo.Q3_K_S.gguf
+    size: 3165508800
+  - name: dolphin-2.6-mistral-7b-dpo.Q4_0.gguf
+    size: 4109858528
+  - name: dolphin-2.6-mistral-7b-dpo.Q4_K_M.gguf
+    size: 4369381088
+  - name: dolphin-2.6-mistral-7b-dpo.Q4_K_S.gguf
+    size: 4141315808
+  - name: dolphin-2.6-mistral-7b-dpo.Q5_0.gguf
+    size: 4998658272
+  - name: dolphin-2.6-mistral-7b-dpo.Q5_K_M.gguf
+    size: 5132351712
+  - name: dolphin-2.6-mistral-7b-dpo.Q5_K_S.gguf
+    size: 4998658272
+  - name: dolphin-2.6-mistral-7b-dpo.Q6_K.gguf
+    size: 5943008000
+  - name: dolphin-2.6-mistral-7b-dpo.Q8_0.gguf
+    size: 7696802496
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-12-31 18:36:34+00:00
+  license: mit
+  model_creator: eunkwang jeon
+  model_creator_link: jeonsworld
+  name: CarbonVillain-en-10.7B-v4-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: carbonvillain-en-10.7b-v4.Q2_K.gguf
+    size: 4549952480
+  - name: carbonvillain-en-10.7b-v4.Q3_K_L.gguf
+    size: 5651686368
+  - name: carbonvillain-en-10.7b-v4.Q3_K_M.gguf
+    size: 5189264352
+  - name: carbonvillain-en-10.7b-v4.Q3_K_S.gguf
+    size: 4665500640
+  - name: carbonvillain-en-10.7b-v4.Q4_0.gguf
+    size: 6073320416
+  - name: carbonvillain-en-10.7b-v4.Q4_K_M.gguf
+    size: 6462604256
+  - name: carbonvillain-en-10.7b-v4.Q4_K_S.gguf
+    size: 6104777696
+  - name: carbonvillain-en-10.7b-v4.Q5_0.gguf
+    size: 7398327264
+  - name: carbonvillain-en-10.7b-v4.Q5_K_M.gguf
+    size: 7598867424
+  - name: carbonvillain-en-10.7b-v4.Q5_K_S.gguf
+    size: 7398327264
+  - name: carbonvillain-en-10.7b-v4.Q6_K.gguf
+    size: 8806147040
+  - name: carbonvillain-en-10.7b-v4.Q8_0.gguf
+    size: 11405091808
+- category: generic
+  datasets: unknown
+  last_commit_time: 2023-12-31 10:00:49+00:00
+  license: apache-2.0
+  model_creator: Cross Nastasi
+  model_creator_link: dillfrescott
+  name: trinity-v1.2-x8-MoE-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: trinity-v1.2-x8-moe.Q2_K.gguf
+    size: 15644970976
+  - name: trinity-v1.2-x8-moe.Q3_K_M.gguf
+    size: 20364292064
+  - name: trinity-v1.2-x8-moe.Q4_0.gguf
+    size: 26442469344
+  - name: trinity-v1.2-x8-moe.Q4_K_M.gguf
+    size: 26442469344
+  - name: trinity-v1.2-x8-moe.Q5_0.gguf
+    size: 32230215648
+  - name: trinity-v1.2-x8-moe.Q5_K_M.gguf
+    size: 32230215648
+  - name: trinity-v1.2-x8-moe.Q6_K.gguf
+    size: 38379696096
+  - name: trinity-v1.2-x8-moe.Q8_0.gguf
+    size: 49625198560
+- category: generic
+  datasets:
+  - hkust-nlp/deita-6k-v0
+  last_commit_time: 2023-12-31 09:18:18+00:00
+  license: apache-2.0
+  model_creator: HKUST NLP Group
+  model_creator_link: hkust-nlp
+  name: deita-7B-v1.0-sft-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: deita-7b-v1.0-sft.Q2_K.gguf
+    size: 3083097824
+  - name: deita-7b-v1.0-sft.Q3_K_L.gguf
+    size: 3822024416
+  - name: deita-7b-v1.0-sft.Q3_K_M.gguf
+    size: 3518985952
+  - name: deita-7b-v1.0-sft.Q3_K_S.gguf
+    size: 3164567264
+  - name: deita-7b-v1.0-sft.Q4_0.gguf
+    size: 4108916448
+  - name: deita-7b-v1.0-sft.Q4_K_M.gguf
+    size: 4368439008
+  - name: deita-7b-v1.0-sft.Q4_K_S.gguf
+    size: 4140373728
+  - name: deita-7b-v1.0-sft.Q5_0.gguf
+    size: 4997715680
+  - name: deita-7b-v1.0-sft.Q5_K_M.gguf
+    size: 5131409120
+  - name: deita-7b-v1.0-sft.Q5_K_S.gguf
+    size: 4997715680
+  - name: deita-7b-v1.0-sft.Q6_K.gguf
+    size: 5942064864
+  - name: deita-7b-v1.0-sft.Q8_0.gguf
+    size: 7695857376
+- category: generic
+  datasets:
+  - Open-Orca/OpenOrca
+  - GAIR/lima
+  - WizardLM/WizardLM_evol_instruct_V2_196k
+  - EleutherAI/pile
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/650801ced5578ef7e20b33d4/oLptSnKMecbu62EgglmO6.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 08:43:02+00:00
+  license: other
+  model_creator: AdaptLLM
+  model_creator_link: AdaptLLM
+  name: law-LLM-13B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: law-llm-13b.Q2_K.gguf
+    size: 5429354272
+  - name: law-llm-13b.Q3_K_L.gguf
+    size: 6929565984
+  - name: law-llm-13b.Q3_K_M.gguf
+    size: 6337775904
+  - name: law-llm-13b.Q3_K_S.gguf
+    size: 5658986784
+  - name: law-llm-13b.Q4_0.gguf
+    size: 7365841856
+  - name: law-llm-13b.Q4_K_M.gguf
+    size: 7865963456
+  - name: law-llm-13b.Q4_K_S.gguf
+    size: 7414338496
+  - name: law-llm-13b.Q5_0.gguf
+    size: 8972293696
+  - name: law-llm-13b.Q5_K_M.gguf
+    size: 9229932096
+  - name: law-llm-13b.Q5_K_S.gguf
+    size: 8972293696
+  - name: law-llm-13b.Q6_K.gguf
+    size: 10679148800
+  - name: law-llm-13b.Q8_0.gguf
+    size: 13831330432
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6426d3f3a7723d62b53c259b/tvPikpAzKTKGN5wrpadOJ.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 08:12:09+00:00
+  license: apache-2.0
+  model_creator: Sanji Watsuki
+  model_creator_link: SanjiWatsuki
+  name: Lelantos-7B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: lelantos-7b.Q2_K.gguf
+    size: 3084043872
+  - name: lelantos-7b.Q3_K_L.gguf
+    size: 3822971296
+  - name: lelantos-7b.Q3_K_M.gguf
+    size: 3519932832
+  - name: lelantos-7b.Q3_K_S.gguf
+    size: 3165514144
+  - name: lelantos-7b.Q4_0.gguf
+    size: 4109864416
+  - name: lelantos-7b.Q4_K_M.gguf
+    size: 4369386976
+  - name: lelantos-7b.Q4_K_S.gguf
+    size: 4141321696
+  - name: lelantos-7b.Q5_0.gguf
+    size: 4998664672
+  - name: lelantos-7b.Q5_K_M.gguf
+    size: 5132358112
+  - name: lelantos-7b.Q5_K_S.gguf
+    size: 4998664672
+  - name: lelantos-7b.Q6_K.gguf
+    size: 5943014944
+  - name: lelantos-7b.Q8_0.gguf
+    size: 7696811424

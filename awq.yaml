@@ -14214,3 +14214,246 @@
   variants:
   - name: model-00001-of-00003.safetensors
     size: 9973278720
+- category: generic
+  ctx_size: -1
+  datasets:
+  - Open-Orca/OpenOrca
+  - GAIR/lima
+  - WizardLM/WizardLM_evol_instruct_V2_196k
+  - EleutherAI/pile
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/650801ced5578ef7e20b33d4/oLptSnKMecbu62EgglmO6.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-01 22:59:00+00:00
+  license: other
+  model_creator: AdaptLLM
+  model_creator_link: AdaptLLM
+  name: medicine-LLM-13B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 7248007792
+- category: generic
+  ctx_size: -1
+  datasets:
+  - Open-Orca/OpenOrca
+  - GAIR/lima
+  - WizardLM/WizardLM_evol_instruct_V2_196k
+  - EleutherAI/pile
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/650801ced5578ef7e20b33d4/oLptSnKMecbu62EgglmO6.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-01 22:59:00+00:00
+  license: other
+  model_creator: AdaptLLM
+  model_creator_link: AdaptLLM
+  name: medicine-LLM-13B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 7248007792
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ehartford/dolphin
+  - jondurbin/airoboros-2.2.1
+  - ehartford/dolphin-coder
+  - teknium/openhermes
+  - ise-uiuc/Magicoder-OSS-Instruct-75K
+  - ise-uiuc/Magicoder-Evol-Instruct-110K
+  - LDJnr/Capybara
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63111b2d88942700629f5771/hd3QCLnAkFFGI07Z5d1Ol.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-01 12:11:59+00:00
+  license: apache-2.0
+  model_creator: Cognitive Computations
+  model_creator_link: cognitivecomputations
+  name: dolphin-2.7-mixtral-8x7b-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 9973295104
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-01-01 16:29:31+00:00
+  license: unknown
+  name: sonya-7B-x8-MoE-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: ''
+  last_commit_time: 2023-12-31 19:55:38+00:00
+  license: other
+  model_creator: Undi
+  model_creator_link: Undi95
+  name: toxicqa-Llama2-7B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 3889391512
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: ''
+  last_commit_time: 2023-12-31 19:23:20+00:00
+  license: other
+  model_creator: Undi
+  model_creator_link: Undi95
+  name: toxicqa-Llama2-13B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 7247987312
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/noauth/s6uM5c4NKZ-COeMH2cX0V.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 19:03:35+00:00
+  license: cc-by-4.0
+  model_creator: Sanji Watsuki
+  model_creator_link: SanjiWatsuki
+  name: Sonya-7B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - bigcode/starcoderdata
+  - OpenAssistant/oasst_top1_2023-08-25
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63565cc56d7fcf1bedb7d347/DRv8Ln7nvK22iXkLmAGb_.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 20:53:43+00:00
+  license: apache-2.0
+  model_creator: TinyLlama
+  model_creator_link: TinyLlama
+  name: TinyLlama-1.1B-Chat-v1.0-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 765750416
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ehartford/dolphin
+  - jondurbin/airoboros-2.2.1
+  - ehartford/dolphin-coder
+  - teknium/openhermes
+  - ise-uiuc/Magicoder-OSS-Instruct-75K
+  - ise-uiuc/Magicoder-Evol-Instruct-110K
+  - LDJnr/Capybara
+  - argilla/ultrafeedback-binarized-preferences-cleaned
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63111b2d88942700629f5771/hd3QCLnAkFFGI07Z5d1Ol.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 20:46:57+00:00
+  license: apache-2.0
+  model_creator: Cognitive Computations
+  model_creator_link: cognitivecomputations
+  name: dolphin-2.6-mistral-7B-dpo-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150896616
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-12-31 18:36:34+00:00
+  license: mit
+  model_creator: eunkwang jeon
+  model_creator_link: jeonsworld
+  name: CarbonVillain-en-10.7B-v4-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 5964172344
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-12-31 10:00:49+00:00
+  license: unknown
+  name: trinity-v1.2-x8-MoE-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - hkust-nlp/deita-6k-v0
+  description: ''
+  last_commit_time: 2023-12-31 09:18:18+00:00
+  license: apache-2.0
+  model_creator: HKUST NLP Group
+  model_creator_link: hkust-nlp
+  name: deita-7B-v1.0-sft-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets:
+  - Open-Orca/OpenOrca
+  - GAIR/lima
+  - WizardLM/WizardLM_evol_instruct_V2_196k
+  - EleutherAI/pile
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/650801ced5578ef7e20b33d4/oLptSnKMecbu62EgglmO6.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 08:43:02+00:00
+  license: other
+  model_creator: AdaptLLM
+  model_creator_link: AdaptLLM
+  name: law-LLM-13B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 7248007792
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/noauth/s6uM5c4NKZ-COeMH2cX0V.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 08:12:09+00:00
+  license: apache-2.0
+  model_creator: Sanji Watsuki
+  model_creator_link: SanjiWatsuki
+  name: Lelantos-7B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150913000
