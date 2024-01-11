@@ -42,14 +42,14 @@
   license: apache-2.0
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
-  name: gpt4all-falcon-q4_0.gguf
+  name: gpt4all-falcon-newbpe-q4_0.gguf
   quantizer: TheBloke
   rank: 10000000000.0
-  server: https://gpt4all.io/models/gguf/gpt4all-falcon-q4_0.gguf
+  server: https://gpt4all.io/models/gguf/gpt4all-falcon-newbpe-q4_0.gguf
   type: gpt4all
   variants:
-  - name: gpt4all-falcon-q4_0.gguf
-    size: 4210419040
+  - name: gpt4all-falcon-newbpe-q4_0.gguf
+    size: 4210994112
 - category: generic
   datasets: null
   description: <ul><li>Instruction based<li>Trained by Microsoft<li>Cannot be used
@@ -141,14 +141,14 @@
   license: apache-2.0
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
-  name: mpt-7b-chat-merges-q4_0.gguf
+  name: mpt-7b-chat-newbpe-q4_0.gguf
   quantizer: TheBloke
   rank: 10000000000.0
-  server: https://gpt4all.io/models/gguf/mpt-7b-chat-merges-q4_0.gguf
+  server: https://gpt4all.io/models/gguf/mpt-7b-chat-newbpe-q4_0.gguf
   type: gpt4all
   variants:
-  - name: mpt-7b-chat-merges-q4_0.gguf
-    size: 3796133728
+  - name: mpt-7b-chat-newbpe-q4_0.gguf
+    size: 3912373472
 - category: generic
   datasets: null
   description: <strong>Small version of new model with novel dataset</strong><br><ul><li>Instruction
@@ -174,14 +174,14 @@
   license: apache-2.0
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
-  name: replit-code-v1_5-3b-q4_0.gguf
+  name: replit-code-v1_5-3b-newbpe-q4_0.gguf
   quantizer: TheBloke
   rank: 10000000000.0
-  server: https://gpt4all.io/models/gguf/replit-code-v1_5-3b-q4_0.gguf
+  server: https://gpt4all.io/models/gguf/replit-code-v1_5-3b-newbpe-q4_0.gguf
   type: gpt4all
   variants:
-  - name: replit-code-v1_5-3b-q4_0.gguf
-    size: 1870449696
+  - name: replit-code-v1_5-3b-newbpe-q4_0.gguf
+    size: 1953055104
 - category: generic
   datasets: null
   description: '<strong>Trained on subset of the Stack</strong><br><ul><li>Code completion
@@ -190,14 +190,14 @@
   license: apache-2.0
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
-  name: starcoder-q4_0.gguf
+  name: starcoder-newbpe-q4_0.gguf
   quantizer: TheBloke
   rank: 10000000000.0
-  server: https://gpt4all.io/models/gguf/starcoder-q4_0.gguf
+  server: https://gpt4all.io/models/gguf/starcoder-newbpe-q4_0.gguf
   type: gpt4all
   variants:
-  - name: starcoder-q4_0.gguf
-    size: 8987166880
+  - name: starcoder-newbpe-q4_0.gguf
+    size: 8987411904
 - category: generic
   datasets: null
   description: '<strong>Trained on collection of Python and TypeScript</strong><br><ul><li>Code

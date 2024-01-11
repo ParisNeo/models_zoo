@@ -15,20 +15,6 @@
 - category: generic
   datasets: unknown
   icon: /bindings/open_ai/logo2.png
-  last_commit_time: 1698957206
-  license: commercial
-  model_creator: openai
-  model_creator_link: https://openai.com
-  name: gpt-4-1106-preview
-  quantizer: null
-  rank: 1.0
-  type: api
-  variants:
-  - name: gpt-4-1106-preview
-    size: 999999999999
-- category: generic
-  datasets: unknown
-  icon: /bindings/open_ai/logo2.png
   last_commit_time: 1687882411
   license: commercial
   model_creator: openai
@@ -39,6 +25,20 @@
   type: api
   variants:
   - name: gpt-4
+    size: 999999999999
+- category: generic
+  datasets: unknown
+  icon: /bindings/open_ai/logo2.png
+  last_commit_time: 1698957206
+  license: commercial
+  model_creator: openai
+  model_creator_link: https://openai.com
+  name: gpt-4-1106-preview
+  quantizer: null
+  rank: 1.0
+  type: api
+  variants:
+  - name: gpt-4-1106-preview
     size: 999999999999
 - category: generic
   datasets: unknown

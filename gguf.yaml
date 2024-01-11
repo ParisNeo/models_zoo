@@ -46962,3 +46962,554 @@
     size: 8805223712
   - name: nous-hermes-2-solar-10.7b.Q8_0.gguf
     size: 11404172448
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-07 12:38:16+00:00
+  license: cc-by-nc-4.0
+  model_creator: IkariDev and Undi
+  model_creator_link: NeverSleep
+  name: Noromaid-13B-v0.3-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: noromaid-13b-v0.3.Q2_K.gguf
+    size: 5430321632
+  - name: noromaid-13b-v0.3.Q3_K_L.gguf
+    size: 6930532832
+  - name: noromaid-13b-v0.3.Q3_K_M.gguf
+    size: 6338742752
+  - name: noromaid-13b-v0.3.Q3_K_S.gguf
+    size: 5659953632
+  - name: noromaid-13b-v0.3.Q4_0.gguf
+    size: 7366808032
+  - name: noromaid-13b-v0.3.Q4_K_M.gguf
+    size: 7866929632
+  - name: noromaid-13b-v0.3.Q4_K_S.gguf
+    size: 7415304672
+  - name: noromaid-13b-v0.3.Q5_0.gguf
+    size: 8973259232
+  - name: noromaid-13b-v0.3.Q5_K_M.gguf
+    size: 9230897632
+  - name: noromaid-13b-v0.3.Q5_K_S.gguf
+    size: 8973259232
+  - name: noromaid-13b-v0.3.Q6_K.gguf
+    size: 10680113632
+  - name: noromaid-13b-v0.3.Q8_0.gguf
+    size: 13832292832
+- category: generic
+  datasets:
+  - ehartford/dolphin
+  - jondurbin/airoboros-2.2.1
+  - ehartford/samantha-data
+  - ehartford/WizardLM_evol_instruct_V2_196k_unfiltered_merged_split
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63111b2d88942700629f5771/hd3QCLnAkFFGI07Z5d1Ol.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-10 22:11:27+00:00
+  license: llama2
+  model_creator: Cognitive Computations
+  model_creator_link: cognitivecomputations
+  name: MegaDolphin-120b-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants: []
+- category: generic
+  datasets:
+  - NobodyExistsOnTheInternet/full120k
+  last_commit_time: 2024-01-10 16:09:43+00:00
+  license: cc-by-nc-4.0
+  model_creator: Saofiq
+  model_creator_link: Sao10K
+  name: Sensualize-Mixtral-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: sensualize-mixtral.Q2_K.gguf
+    size: 15644034496
+  - name: sensualize-mixtral.Q3_K_M.gguf
+    size: 20363355584
+  - name: sensualize-mixtral.Q4_0.gguf
+    size: 26441532864
+  - name: sensualize-mixtral.Q4_K_M.gguf
+    size: 26441532864
+  - name: sensualize-mixtral.Q5_0.gguf
+    size: 32229279168
+  - name: sensualize-mixtral.Q5_K_M.gguf
+    size: 32229279168
+  - name: sensualize-mixtral.Q6_K.gguf
+    size: 38378759616
+  - name: sensualize-mixtral.Q8_0.gguf
+    size: 49624262080
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/61b6cbbdbfb266841ec0f24a/bbSODuJyPwH5HKOC6RBVc.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-10 10:49:16+00:00
+  license: apache-2.0
+  model_creator: OpenChat
+  model_creator_link: openchat
+  name: openchat-3.5-0106-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: openchat-3.5-0106.Q2_K.gguf
+    size: 3083107552
+  - name: openchat-3.5-0106.Q3_K_L.gguf
+    size: 3822034976
+  - name: openchat-3.5-0106.Q3_K_M.gguf
+    size: 3518996512
+  - name: openchat-3.5-0106.Q3_K_S.gguf
+    size: 3164577824
+  - name: openchat-3.5-0106.Q4_0.gguf
+    size: 4108928096
+  - name: openchat-3.5-0106.Q4_K_M.gguf
+    size: 4368450656
+  - name: openchat-3.5-0106.Q4_K_S.gguf
+    size: 4140385376
+  - name: openchat-3.5-0106.Q5_0.gguf
+    size: 4997728352
+  - name: openchat-3.5-0106.Q5_K_M.gguf
+    size: 5131421792
+  - name: openchat-3.5-0106.Q5_K_S.gguf
+    size: 4997728352
+  - name: openchat-3.5-0106.Q6_K.gguf
+    size: 5942078624
+  - name: openchat-3.5-0106.Q8_0.gguf
+    size: 7695875104
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2024-01-10 05:01:15+00:00
+  license: apache-2.0
+  model_creator: Steel
+  model_creator_link: Steelskull
+  name: Lumosia-MoE-4x10.7-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: lumosia-moe-4x10.7.Q2_K.gguf
+    size: 12015432352
+  - name: lumosia-moe-4x10.7.Q3_K_L.gguf
+    size: 15825638048
+  - name: lumosia-moe-4x10.7.Q3_K_M.gguf
+    size: 15700857504
+  - name: lumosia-moe-4x10.7.Q3_K_S.gguf
+    size: 15566115488
+  - name: lumosia-moe-4x10.7.Q4_0.gguf
+    size: 20343009952
+  - name: lumosia-moe-4x10.7.Q4_K_M.gguf
+    size: 20368962208
+  - name: lumosia-moe-4x10.7.Q4_K_S.gguf
+    size: 20345107104
+  - name: lumosia-moe-4x10.7.Q5_0.gguf
+    size: 24838910624
+  - name: lumosia-moe-4x10.7.Q5_K_M.gguf
+    size: 24852279968
+  - name: lumosia-moe-4x10.7.Q5_K_S.gguf
+    size: 24838910624
+  - name: lumosia-moe-4x10.7.Q6_K.gguf
+    size: 29615805088
+  - name: lumosia-moe-4x10.7.Q8_0.gguf
+    size: 38358356640
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/64bc5b4512d00c4589dfa8a6/0U8IW9ZKT5crAIR30sLP_.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-10 00:39:53+00:00
+  license: other
+  model_creator: ddh0
+  model_creator_link: ddh0
+  name: OrcaMaid-v3-13B-32k-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: orcamaid-v3-13b-32k.Q2_K.gguf
+    size: 5429348608
+  - name: orcamaid-v3-13b-32k.Q3_K_L.gguf
+    size: 6929559808
+  - name: orcamaid-v3-13b-32k.Q3_K_M.gguf
+    size: 6337769728
+  - name: orcamaid-v3-13b-32k.Q3_K_S.gguf
+    size: 5658980608
+  - name: orcamaid-v3-13b-32k.Q4_0.gguf
+    size: 7365835008
+  - name: orcamaid-v3-13b-32k.Q4_K_M.gguf
+    size: 7865956608
+  - name: orcamaid-v3-13b-32k.Q4_K_S.gguf
+    size: 7414331648
+  - name: orcamaid-v3-13b-32k.Q5_0.gguf
+    size: 8972286208
+  - name: orcamaid-v3-13b-32k.Q5_K_M.gguf
+    size: 9229924608
+  - name: orcamaid-v3-13b-32k.Q5_K_S.gguf
+    size: 8972286208
+  - name: orcamaid-v3-13b-32k.Q6_K.gguf
+    size: 10679140608
+  - name: orcamaid-v3-13b-32k.Q8_0.gguf
+    size: 13831319808
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-10 02:33:43+00:00
+  license: unknown
+  model_creator: Doctor Shotgun
+  model_creator_link: Doctor-Shotgun
+  name: Mixtral-8x7B-Instruct-v0.1-LimaRP-ZLoss-DARE-TIES-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: mixtral-8x7b-instruct-v0.1-limarp-zloss-dare-ties.Q2_K.gguf
+    size: 15644034528
+  - name: mixtral-8x7b-instruct-v0.1-limarp-zloss-dare-ties.Q3_K_L.gguf
+    size: 20430464480
+  - name: mixtral-8x7b-instruct-v0.1-limarp-zloss-dare-ties.Q3_K_M.gguf
+    size: 20363355616
+  - name: mixtral-8x7b-instruct-v0.1-limarp-zloss-dare-ties.Q3_K_S.gguf
+    size: 20292052448
+  - name: mixtral-8x7b-instruct-v0.1-limarp-zloss-dare-ties.Q4_0.gguf
+    size: 26441532896
+  - name: mixtral-8x7b-instruct-v0.1-limarp-zloss-dare-ties.Q4_K_M.gguf
+    size: 26441532896
+  - name: mixtral-8x7b-instruct-v0.1-limarp-zloss-dare-ties.Q4_K_S.gguf
+    size: 26441532896
+  - name: mixtral-8x7b-instruct-v0.1-limarp-zloss-dare-ties.Q5_0.gguf
+    size: 32229279200
+  - name: mixtral-8x7b-instruct-v0.1-limarp-zloss-dare-ties.Q5_K_M.gguf
+    size: 32229279200
+  - name: mixtral-8x7b-instruct-v0.1-limarp-zloss-dare-ties.Q5_K_S.gguf
+    size: 32229279200
+  - name: mixtral-8x7b-instruct-v0.1-limarp-zloss-dare-ties.Q6_K.gguf
+    size: 38378759648
+  - name: mixtral-8x7b-instruct-v0.1-limarp-zloss-dare-ties.Q8_0.gguf
+    size: 49624262112
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-10 01:45:25+00:00
+  license: cc-by-nc-nd-4.0
+  model_creator: Devon M
+  model_creator_link: Delcos
+  name: Velara-11B-V2-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: velara-11b-v2.Q2_K.gguf
+    size: 4823875776
+  - name: velara-11b-v2.Q3_K_L.gguf
+    size: 5993636032
+  - name: velara-11b-v2.Q3_K_M.gguf
+    size: 5501329600
+  - name: velara-11b-v2.Q3_K_S.gguf
+    size: 4945813696
+  - name: velara-11b-v2.Q4_0.gguf
+    size: 6440534208
+  - name: velara-11b-v2.Q4_K_M.gguf
+    size: 6846038208
+  - name: velara-11b-v2.Q4_K_S.gguf
+    size: 6471991488
+  - name: velara-11b-v2.Q5_0.gguf
+    size: 7847329984
+  - name: velara-11b-v2.Q5_K_M.gguf
+    size: 8056225984
+  - name: velara-11b-v2.Q5_K_S.gguf
+    size: 7847329984
+  - name: velara-11b-v2.Q6_K.gguf
+    size: 9342050496
+  - name: velara-11b-v2.Q8_0.gguf
+    size: 12099461312
+- category: generic
+  datasets:
+  - EleutherAI/pile
+  - Open-Orca/OpenOrca
+  - GAIR/lima
+  - WizardLM/WizardLM_evol_instruct_V2_196k
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/650801ced5578ef7e20b33d4/oLptSnKMecbu62EgglmO6.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-10 01:18:21+00:00
+  license: llama2
+  model_creator: AdaptLLM
+  model_creator_link: AdaptLLM
+  name: medicine-chat-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: medicine-chat.Q2_K.gguf
+    size: 2825945536
+  - name: medicine-chat.Q3_K_L.gguf
+    size: 3597116256
+  - name: medicine-chat.Q3_K_M.gguf
+    size: 3298009952
+  - name: medicine-chat.Q3_K_S.gguf
+    size: 2948309856
+  - name: medicine-chat.Q4_0.gguf
+    size: 3825812864
+  - name: medicine-chat.Q4_K_M.gguf
+    size: 4081010048
+  - name: medicine-chat.Q4_K_S.gguf
+    size: 3856745856
+  - name: medicine-chat.Q5_0.gguf
+    size: 4651698048
+  - name: medicine-chat.Q5_K_M.gguf
+    size: 4783163264
+  - name: medicine-chat.Q5_K_S.gguf
+    size: 4651698048
+  - name: medicine-chat.Q6_K.gguf
+    size: 5529201056
+  - name: medicine-chat.Q8_0.gguf
+    size: 7161098592
+- category: generic
+  datasets:
+  - EleutherAI/pile
+  - Open-Orca/OpenOrca
+  - GAIR/lima
+  - WizardLM/WizardLM_evol_instruct_V2_196k
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/650801ced5578ef7e20b33d4/oLptSnKMecbu62EgglmO6.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-10 00:52:09+00:00
+  license: llama2
+  model_creator: AdaptLLM
+  model_creator_link: AdaptLLM
+  name: law-chat-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: law-chat.Q2_K.gguf
+    size: 2825945536
+  - name: law-chat.Q3_K_L.gguf
+    size: 3597116256
+  - name: law-chat.Q3_K_M.gguf
+    size: 3298009952
+  - name: law-chat.Q3_K_S.gguf
+    size: 2948309856
+  - name: law-chat.Q4_0.gguf
+    size: 3825812864
+  - name: law-chat.Q4_K_M.gguf
+    size: 4081010048
+  - name: law-chat.Q4_K_S.gguf
+    size: 3856745856
+  - name: law-chat.Q5_0.gguf
+    size: 4651698048
+  - name: law-chat.Q5_K_M.gguf
+    size: 4783163264
+  - name: law-chat.Q5_K_S.gguf
+    size: 4651698048
+  - name: law-chat.Q6_K.gguf
+    size: 5529201056
+  - name: law-chat.Q8_0.gguf
+    size: 7161098592
+- category: generic
+  datasets:
+  - Open-Orca/OpenOrca
+  - GAIR/lima
+  - WizardLM/WizardLM_evol_instruct_V2_196k
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/650801ced5578ef7e20b33d4/oLptSnKMecbu62EgglmO6.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-10 00:23:09+00:00
+  license: llama2
+  model_creator: AdaptLLM
+  model_creator_link: AdaptLLM
+  name: finance-chat-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: finance-chat.Q2_K.gguf
+    size: 2825945536
+  - name: finance-chat.Q3_K_L.gguf
+    size: 3597116256
+  - name: finance-chat.Q3_K_M.gguf
+    size: 3298009952
+  - name: finance-chat.Q3_K_S.gguf
+    size: 2948309856
+  - name: finance-chat.Q4_0.gguf
+    size: 3825812864
+  - name: finance-chat.Q4_K_M.gguf
+    size: 4081010048
+  - name: finance-chat.Q4_K_S.gguf
+    size: 3856745856
+  - name: finance-chat.Q5_0.gguf
+    size: 4651698048
+  - name: finance-chat.Q5_K_M.gguf
+    size: 4783163264
+  - name: finance-chat.Q5_K_S.gguf
+    size: 4651698048
+  - name: finance-chat.Q6_K.gguf
+    size: 5529201056
+  - name: finance-chat.Q8_0.gguf
+    size: 7161098592
+- category: generic
+  datasets:
+  - ehartford/dolphin
+  - jondurbin/airoboros-2.2.1
+  - ehartford/dolphin-coder
+  - teknium/openhermes
+  - ise-uiuc/Magicoder-OSS-Instruct-75K
+  - ise-uiuc/Magicoder-Evol-Instruct-110K
+  - LDJnr/Capybara
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63111b2d88942700629f5771/hd3QCLnAkFFGI07Z5d1Ol.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-09 23:53:08+00:00
+  license: apache-2.0
+  model_creator: Cognitive Computations
+  model_creator_link: cognitivecomputations
+  name: dolphin-2.6-mistral-7B-dpo-laser-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: dolphin-2.6-mistral-7b-dpo-laser.Q2_K.gguf
+    size: 3083102624
+  - name: dolphin-2.6-mistral-7b-dpo-laser.Q3_K_L.gguf
+    size: 3822029632
+  - name: dolphin-2.6-mistral-7b-dpo-laser.Q3_K_M.gguf
+    size: 3518991168
+  - name: dolphin-2.6-mistral-7b-dpo-laser.Q3_K_S.gguf
+    size: 3164572480
+  - name: dolphin-2.6-mistral-7b-dpo-laser.Q4_0.gguf
+    size: 4108922208
+  - name: dolphin-2.6-mistral-7b-dpo-laser.Q4_K_M.gguf
+    size: 4368444768
+  - name: dolphin-2.6-mistral-7b-dpo-laser.Q4_K_S.gguf
+    size: 4140379488
+  - name: dolphin-2.6-mistral-7b-dpo-laser.Q5_0.gguf
+    size: 4997721952
+  - name: dolphin-2.6-mistral-7b-dpo-laser.Q5_K_M.gguf
+    size: 5131415392
+  - name: dolphin-2.6-mistral-7b-dpo-laser.Q5_K_S.gguf
+    size: 4997721952
+  - name: dolphin-2.6-mistral-7b-dpo-laser.Q6_K.gguf
+    size: 5942071680
+  - name: dolphin-2.6-mistral-7b-dpo-laser.Q8_0.gguf
+    size: 7695866176
+- category: generic
+  datasets:
+  - yahma/alpaca-cleaned
+  last_commit_time: 2024-01-08 14:53:00+00:00
+  license: apache-2.0
+  model_creator: Jiangwen Su
+  model_creator_link: uukuguy
+  name: speechless-mistral-moloras-7B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: speechless-mistral-moloras-7b.Q2_K.gguf
+    size: 3084034208
+  - name: speechless-mistral-moloras-7b.Q3_K_L.gguf
+    size: 3822960800
+  - name: speechless-mistral-moloras-7b.Q3_K_M.gguf
+    size: 3519922336
+  - name: speechless-mistral-moloras-7b.Q3_K_S.gguf
+    size: 3165503648
+  - name: speechless-mistral-moloras-7b.Q4_0.gguf
+    size: 4109852832
+  - name: speechless-mistral-moloras-7b.Q4_K_M.gguf
+    size: 4369375392
+  - name: speechless-mistral-moloras-7b.Q4_K_S.gguf
+    size: 4141310112
+  - name: speechless-mistral-moloras-7b.Q5_0.gguf
+    size: 4998652064
+  - name: speechless-mistral-moloras-7b.Q5_K_M.gguf
+    size: 5132345504
+  - name: speechless-mistral-moloras-7b.Q5_K_S.gguf
+    size: 4998652064
+  - name: speechless-mistral-moloras-7b.Q6_K.gguf
+    size: 5943001248
+  - name: speechless-mistral-moloras-7b.Q8_0.gguf
+    size: 7696793760
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2024-01-08 10:42:12+00:00
+  license: cc-by-nc-4.0
+  model_creator: hai
+  model_creator_link: cloudyu
+  name: Mixtral_34Bx2_MoE_60B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: mixtral_34bx2_moe_60b.Q2_K.gguf
+    size: 20546130528
+  - name: mixtral_34bx2_moe_60b.Q3_K_M.gguf
+    size: 26787709536
+  - name: mixtral_34bx2_moe_60b.Q4_0.gguf
+    size: 34333635168
+  - name: mixtral_34bx2_moe_60b.Q4_K_M.gguf
+    size: 34390405728
+  - name: mixtral_34bx2_moe_60b.Q5_0.gguf
+    size: 41877811808
+  - name: mixtral_34bx2_moe_60b.Q5_K_M.gguf
+    size: 41907057248
+  - name: mixtral_34bx2_moe_60b.Q6_K.gguf
+    size: 49893499488
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-07 12:38:16+00:00
+  license: cc-by-nc-4.0
+  model_creator: IkariDev and Undi
+  model_creator_link: NeverSleep
+  name: Noromaid-13B-v0.3-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: noromaid-13b-v0.3.Q2_K.gguf
+    size: 5430321632
+  - name: noromaid-13b-v0.3.Q3_K_L.gguf
+    size: 6930532832
+  - name: noromaid-13b-v0.3.Q3_K_M.gguf
+    size: 6338742752
+  - name: noromaid-13b-v0.3.Q3_K_S.gguf
+    size: 5659953632
+  - name: noromaid-13b-v0.3.Q4_0.gguf
+    size: 7366808032
+  - name: noromaid-13b-v0.3.Q4_K_M.gguf
+    size: 7866929632
+  - name: noromaid-13b-v0.3.Q4_K_S.gguf
+    size: 7415304672
+  - name: noromaid-13b-v0.3.Q5_0.gguf
+    size: 8973259232
+  - name: noromaid-13b-v0.3.Q5_K_M.gguf
+    size: 9230897632
+  - name: noromaid-13b-v0.3.Q5_K_S.gguf
+    size: 8973259232
+  - name: noromaid-13b-v0.3.Q6_K.gguf
+    size: 10680113632
+  - name: noromaid-13b-v0.3.Q8_0.gguf
+    size: 13832292832
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-07 12:36:04+00:00
+  license: llama2
+  model_creator: ARC Lab, Tencent PCG
+  model_creator_link: TencentARC
+  name: LLaMA-Pro-8B-Instruct-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: llama-pro-8b-instruct.Q2_K.gguf
+    size: 3494609248
+  - name: llama-pro-8b-instruct.Q3_K_L.gguf
+    size: 4455244128
+  - name: llama-pro-8b-instruct.Q3_K_M.gguf
+    size: 4077494624
+  - name: llama-pro-8b-instruct.Q3_K_S.gguf
+    size: 3644236128
+  - name: llama-pro-8b-instruct.Q4_0.gguf
+    size: 4736762208
+  - name: llama-pro-8b-instruct.Q4_K_M.gguf
+    size: 5055758688
+  - name: llama-pro-8b-instruct.Q4_K_S.gguf
+    size: 4767695200
+  - name: llama-pro-8b-instruct.Q5_0.gguf
+    size: 5765022048
+  - name: llama-pro-8b-instruct.Q5_K_M.gguf
+    size: 5929353568
+  - name: llama-pro-8b-instruct.Q5_K_S.gguf
+    size: 5765022048
+  - name: llama-pro-8b-instruct.Q6_K.gguf
+    size: 6857548128
+  - name: llama-pro-8b-instruct.Q8_0.gguf
+    size: 8881545568
