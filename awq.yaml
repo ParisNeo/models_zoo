@@ -15318,3 +15318,255 @@
   variants:
   - name: model.safetensors
     size: 4730665392
+- category: generic
+  ctx_size: -1
+  datasets:
+  - TriadParty/deepmoney-sft
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1661737644873-noauth.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-13 03:49:01+00:00
+  license: apache-2.0
+  model_creator: triad party
+  model_creator_link: TriadParty
+  name: deepmoney-34b-200k-chat-evaluator-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9963803400
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1661737644873-noauth.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-13 00:36:52+00:00
+  license: apache-2.0
+  model_creator: triad party
+  model_creator_link: TriadParty
+  name: deepmoney-34b-200k-base-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9963803400
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: ''
+  last_commit_time: 2024-01-13 13:39:40+00:00
+  license: apache-2.0
+  model_creator: Christian
+  model_creator_link: PotatoOff
+  name: HamSter-0.1-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets:
+  - TriadParty/deepmoney-sft
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1661737644873-noauth.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-13 03:49:01+00:00
+  license: apache-2.0
+  model_creator: triad party
+  model_creator_link: TriadParty
+  name: deepmoney-34b-200k-chat-evaluator-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9963803400
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1661737644873-noauth.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-13 00:36:52+00:00
+  license: apache-2.0
+  model_creator: triad party
+  model_creator_link: TriadParty
+  name: deepmoney-34b-200k-base-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9963803400
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-01-13 00:11:02+00:00
+  license: unknown
+  name: Bagel-Hermes-2x34b-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1676055757658-60d9a9791fa5d458da77754d.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-12 23:50:11+00:00
+  license: cc-by-nc-4.0
+  model_creator: Unbabel
+  model_creator_link: Unbabel
+  name: TowerInstruct-7B-v0.1-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 3889506200
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-01-12 18:57:15+00:00
+  license: apache-2.0
+  model_creator: Jeonghwan Park
+  model_creator_link: maywell
+  name: PiVoT-SUS-RP-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9963803400
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63ab1241ad514ca8d1430003/oxTWo631SFtWmtH2qE28c.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-12 20:14:59+00:00
+  license: cc-by-nc-4.0
+  model_creator: NeverSleep
+  model_creator_link: NeverSleep
+  name: Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 9973278720
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/649c9f1ff0f66daed3bb150a/UoYyHHlG-ixPhTNrlMtah.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-12 11:50:16+00:00
+  license: apache-2.0
+  model_creator: Tenyx
+  model_creator_link: tenyx
+  name: TenyxChat-7B-v1-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150913000
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/bagel-v0.3
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6468ecd5dcbb937d56b6e32f/dTQc64Xj88nA_Kry19-w1.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-12 18:19:11+00:00
+  license: cc-by-nc-nd-4.0
+  model_creator: FBL
+  model_creator_link: fblgit
+  name: UNA-TheBeagle-7B-v1-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-01-12 11:48:19+00:00
+  license: llama2
+  model_creator: Charles McSneed
+  model_creator_link: ChuckMcSneed
+  name: WinterGoliath-123b-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00007.safetensors
+    size: 9938623736
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-01-12 12:25:39+00:00
+  license: other
+  model_creator: WhiteRabbitNeo
+  model_creator_link: whiterabbitneo
+  name: WhiteRabbitNeo-33B-v1-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9963560744
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/642cc1c253e76b4c2286c58e/n8h5JKRgaAoYrE36BtHRO.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-12 11:40:11+00:00
+  license: apache-2.0
+  model_creator: rombo dawg
+  model_creator_link: rombodawg
+  name: Open_Gpt4_8x7B_v0.2-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 9973278720
+- category: generic
+  ctx_size: -1
+  datasets:
+  - Intel/orca_dpo_pairs
+  - mlabonne/chatml_dpo_pairs
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1616869339153-noauth.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-12 11:07:46+00:00
+  license: apache-2.0
+  model_creator: Neuronovo
+  model_creator_link: Neuronovo
+  name: neuronovo-7B-v0.3-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 5057526288
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-01-11 15:36:22+00:00
+  license: other
+  model_creator: Doctor Shotgun
+  model_creator_link: Doctor-Shotgun
+  name: Nous-Capybara-limarpv3-34B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9963803400

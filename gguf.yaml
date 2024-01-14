@@ -47513,3 +47513,563 @@
     size: 6857548128
   - name: llama-pro-8b-instruct.Q8_0.gguf
     size: 8881545568
+- category: generic
+  datasets:
+  - TriadParty/deepmoney-sft
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1661737644873-noauth.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-13 03:49:01+00:00
+  license: apache-2.0
+  model_creator: triad party
+  model_creator_link: TriadParty
+  name: deepmoney-34b-200k-chat-evaluator-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: deepmoney-34b-200k-chat-evaluator.Q2_K.gguf
+    size: 12766742624
+  - name: deepmoney-34b-200k-chat-evaluator.Q3_K_L.gguf
+    size: 18139445344
+  - name: deepmoney-34b-200k-chat-evaluator.Q3_K_M.gguf
+    size: 16654923872
+  - name: deepmoney-34b-200k-chat-evaluator.Q3_K_S.gguf
+    size: 14960293984
+  - name: deepmoney-34b-200k-chat-evaluator.Q4_0.gguf
+    size: 19466528864
+  - name: deepmoney-34b-200k-chat-evaluator.Q4_K_M.gguf
+    size: 20658710624
+  - name: deepmoney-34b-200k-chat-evaluator.Q4_K_S.gguf
+    size: 19598649440
+  - name: deepmoney-34b-200k-chat-evaluator.Q5_0.gguf
+    size: 23707691104
+  - name: deepmoney-34b-200k-chat-evaluator.Q5_K_M.gguf
+    size: 24321845344
+  - name: deepmoney-34b-200k-chat-evaluator.Q5_K_S.gguf
+    size: 23707691104
+  - name: deepmoney-34b-200k-chat-evaluator.Q6_K.gguf
+    size: 28213925984
+  - name: deepmoney-34b-200k-chat-evaluator.Q8_0.gguf
+    size: 36542281824
+- category: generic
+  datasets:
+  - STEM-AI-mtl/Electrical-engineering
+  - garage-bAInd/Open-Platypus
+  icon: ''
+  last_commit_time: 2024-01-13 20:47:34+00:00
+  license: other
+  model_creator: mod
+  model_creator_link: STEM-AI-mtl
+  name: phi-2-electrical-engineering-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: phi-2-electrical-engineering.Q2_K.gguf
+    size: 1109719648
+  - name: phi-2-electrical-engineering.Q3_K_L.gguf
+    size: 1575230048
+  - name: phi-2-electrical-engineering.Q3_K_M.gguf
+    size: 1432689248
+  - name: phi-2-electrical-engineering.Q3_K_S.gguf
+    size: 1250826848
+  - name: phi-2-electrical-engineering.Q4_0.gguf
+    size: 1602468448
+  - name: phi-2-electrical-engineering.Q4_K_M.gguf
+    size: 1737636448
+  - name: phi-2-electrical-engineering.Q4_K_S.gguf
+    size: 1631959648
+  - name: phi-2-electrical-engineering.Q5_0.gguf
+    size: 1933425248
+  - name: phi-2-electrical-engineering.Q5_K_M.gguf
+    size: 2003057248
+  - name: phi-2-electrical-engineering.Q5_K_S.gguf
+    size: 1933425248
+  - name: phi-2-electrical-engineering.Q6_K.gguf
+    size: 2285066848
+  - name: phi-2-electrical-engineering.Q8_0.gguf
+    size: 2958039648
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-13 08:58:55+00:00
+  license: other
+  model_creator: "Ya\u011F\u0131z \xC7al\u0131k"
+  model_creator_link: Weyaxi
+  name: Cosmosis-3x34B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: cosmosis-3x34b.Q2_K.gguf
+    size: 31899309152
+  - name: cosmosis-3x34b.Q3_K_M.gguf
+    size: 41852191840
+  - name: cosmosis-3x34b.Q4_0.gguf
+    size: 49196266592
+- category: generic
+  datasets: unknown
+  icon: ''
+  last_commit_time: 2024-01-13 13:39:40+00:00
+  license: apache-2.0
+  model_creator: Christian
+  model_creator_link: PotatoOff
+  name: HamSter-0.1-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: hamster-0.1.Q2_K.gguf
+    size: 2701416672
+  - name: hamster-0.1.Q3_K_L.gguf
+    size: 3822024928
+  - name: hamster-0.1.Q3_K_M.gguf
+    size: 3518986464
+  - name: hamster-0.1.Q3_K_S.gguf
+    size: 3164567776
+  - name: hamster-0.1.Q4_0.gguf
+    size: 4108916960
+  - name: hamster-0.1.Q4_K_M.gguf
+    size: 4368439520
+  - name: hamster-0.1.Q4_K_S.gguf
+    size: 4140374240
+  - name: hamster-0.1.Q5_0.gguf
+    size: 4997716192
+  - name: hamster-0.1.Q5_K_M.gguf
+    size: 5131409632
+  - name: hamster-0.1.Q5_K_S.gguf
+    size: 4997716192
+  - name: hamster-0.1.Q6_K.gguf
+    size: 5942065376
+  - name: hamster-0.1.Q8_0.gguf
+    size: 7695857888
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-13 05:24:38+00:00
+  license: other
+  model_creator: "Ya\u011F\u0131z \xC7al\u0131k"
+  model_creator_link: Weyaxi
+  name: Helion-4x34B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: helion-4x34b.Q2_K.gguf
+    size: 41465159872
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-13 00:11:02+00:00
+  license: other
+  model_creator: "Ya\u011F\u0131z \xC7al\u0131k"
+  model_creator_link: Weyaxi
+  name: Bagel-Hermes-2x34b-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: bagel-hermes-2x34b.Q2_K.gguf
+    size: 22333458400
+  - name: bagel-hermes-2x34b.Q3_K_M.gguf
+    size: 29253990368
+  - name: bagel-hermes-2x34b.Q4_0.gguf
+    size: 34331830240
+  - name: bagel-hermes-2x34b.Q4_K_M.gguf
+    size: 36659423200
+  - name: bagel-hermes-2x34b.Q5_0.gguf
+    size: 41876006880
+  - name: bagel-hermes-2x34b.Q5_K_M.gguf
+    size: 43075069920
+  - name: bagel-hermes-2x34b.Q6_K.gguf
+    size: 49891694560
+- category: generic
+  datasets:
+  - TriadParty/deepmoney-sft
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1661737644873-noauth.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-13 03:49:01+00:00
+  license: apache-2.0
+  model_creator: triad party
+  model_creator_link: TriadParty
+  name: deepmoney-34b-200k-chat-evaluator-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: deepmoney-34b-200k-chat-evaluator.Q2_K.gguf
+    size: 12766742624
+  - name: deepmoney-34b-200k-chat-evaluator.Q3_K_L.gguf
+    size: 18139445344
+  - name: deepmoney-34b-200k-chat-evaluator.Q3_K_M.gguf
+    size: 16654923872
+  - name: deepmoney-34b-200k-chat-evaluator.Q3_K_S.gguf
+    size: 14960293984
+  - name: deepmoney-34b-200k-chat-evaluator.Q4_0.gguf
+    size: 19466528864
+  - name: deepmoney-34b-200k-chat-evaluator.Q4_K_M.gguf
+    size: 20658710624
+  - name: deepmoney-34b-200k-chat-evaluator.Q4_K_S.gguf
+    size: 19598649440
+  - name: deepmoney-34b-200k-chat-evaluator.Q5_0.gguf
+    size: 23707691104
+  - name: deepmoney-34b-200k-chat-evaluator.Q5_K_M.gguf
+    size: 24321845344
+  - name: deepmoney-34b-200k-chat-evaluator.Q5_K_S.gguf
+    size: 23707691104
+  - name: deepmoney-34b-200k-chat-evaluator.Q6_K.gguf
+    size: 28213925984
+  - name: deepmoney-34b-200k-chat-evaluator.Q8_0.gguf
+    size: 36542281824
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1661737644873-noauth.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-13 00:36:52+00:00
+  license: apache-2.0
+  model_creator: triad party
+  model_creator_link: TriadParty
+  name: deepmoney-34b-200k-base-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: deepmoney-34b-200k-base.Q2_K.gguf
+    size: 12766742592
+  - name: deepmoney-34b-200k-base.Q3_K_L.gguf
+    size: 18139445312
+  - name: deepmoney-34b-200k-base.Q3_K_M.gguf
+    size: 16654923840
+  - name: deepmoney-34b-200k-base.Q3_K_S.gguf
+    size: 14960293952
+  - name: deepmoney-34b-200k-base.Q4_0.gguf
+    size: 19466528832
+  - name: deepmoney-34b-200k-base.Q4_K_M.gguf
+    size: 20658710592
+  - name: deepmoney-34b-200k-base.Q4_K_S.gguf
+    size: 19598649408
+  - name: deepmoney-34b-200k-base.Q5_0.gguf
+    size: 23707691072
+  - name: deepmoney-34b-200k-base.Q5_K_M.gguf
+    size: 24321845312
+  - name: deepmoney-34b-200k-base.Q5_K_S.gguf
+    size: 23707691072
+  - name: deepmoney-34b-200k-base.Q6_K.gguf
+    size: 28213925952
+  - name: deepmoney-34b-200k-base.Q8_0.gguf
+    size: 36542281792
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1676055757658-60d9a9791fa5d458da77754d.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-12 23:50:11+00:00
+  license: cc-by-nc-4.0
+  model_creator: Unbabel
+  model_creator_link: Unbabel
+  name: TowerInstruct-7B-v0.1-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: towerinstruct-7b-v0.1.Q2_K.gguf
+    size: 2532897344
+  - name: towerinstruct-7b-v0.1.Q3_K_L.gguf
+    size: 3597147552
+  - name: towerinstruct-7b-v0.1.Q3_K_M.gguf
+    size: 3298041248
+  - name: towerinstruct-7b-v0.1.Q3_K_S.gguf
+    size: 2948341152
+  - name: towerinstruct-7b-v0.1.Q4_0.gguf
+    size: 3825847424
+  - name: towerinstruct-7b-v0.1.Q4_K_M.gguf
+    size: 4081044608
+  - name: towerinstruct-7b-v0.1.Q4_K_S.gguf
+    size: 3856780416
+  - name: towerinstruct-7b-v0.1.Q5_0.gguf
+    size: 4651735680
+  - name: towerinstruct-7b-v0.1.Q5_K_M.gguf
+    size: 4783200896
+  - name: towerinstruct-7b-v0.1.Q5_K_S.gguf
+    size: 4651735680
+  - name: towerinstruct-7b-v0.1.Q6_K.gguf
+    size: 5529241952
+  - name: towerinstruct-7b-v0.1.Q8_0.gguf
+    size: 7161151392
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-12 18:57:15+00:00
+  license: apache-2.0
+  model_creator: Jeonghwan Park
+  model_creator_link: maywell
+  name: PiVoT-SUS-RP-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: pivot-sus-rp.Q2_K.gguf
+    size: 12766742592
+  - name: pivot-sus-rp.Q3_K_L.gguf
+    size: 18139445312
+  - name: pivot-sus-rp.Q3_K_M.gguf
+    size: 16654923840
+  - name: pivot-sus-rp.Q3_K_S.gguf
+    size: 14960293952
+  - name: pivot-sus-rp.Q4_0.gguf
+    size: 19466528832
+  - name: pivot-sus-rp.Q4_K_M.gguf
+    size: 20658710592
+  - name: pivot-sus-rp.Q4_K_S.gguf
+    size: 19598649408
+  - name: pivot-sus-rp.Q5_0.gguf
+    size: 23707691072
+  - name: pivot-sus-rp.Q5_K_M.gguf
+    size: 24321845312
+  - name: pivot-sus-rp.Q5_K_S.gguf
+    size: 23707691072
+  - name: pivot-sus-rp.Q6_K.gguf
+    size: 28213925952
+  - name: pivot-sus-rp.Q8_0.gguf
+    size: 36542281792
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63ab1241ad514ca8d1430003/oxTWo631SFtWmtH2qE28c.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-12 18:32:51+00:00
+  license: cc-by-nc-4.0
+  model_creator: NeverSleep
+  model_creator_link: NeverSleep
+  name: Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: noromaid-v0.4-mixtral-instruct-8x7b-zloss.Q2_K.gguf
+    size: 17170761632
+  - name: noromaid-v0.4-mixtral-instruct-8x7b-zloss.Q3_K_M.gguf
+    size: 22477285280
+  - name: noromaid-v0.4-mixtral-instruct-8x7b-zloss.Q4_0.gguf
+    size: 26441533344
+  - name: noromaid-v0.4-mixtral-instruct-8x7b-zloss.Q4_K_M.gguf
+    size: 28379301792
+  - name: noromaid-v0.4-mixtral-instruct-8x7b-zloss.Q5_0.gguf
+    size: 32229279648
+  - name: noromaid-v0.4-mixtral-instruct-8x7b-zloss.Q5_K_M.gguf
+    size: 33227524000
+  - name: noromaid-v0.4-mixtral-instruct-8x7b-zloss.Q6_K.gguf
+    size: 38378760096
+  - name: noromaid-v0.4-mixtral-instruct-8x7b-zloss.Q8_0.gguf
+    size: 49624262560
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/649c9f1ff0f66daed3bb150a/UoYyHHlG-ixPhTNrlMtah.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-12 11:50:16+00:00
+  license: apache-2.0
+  model_creator: Tenyx
+  model_creator_link: tenyx
+  name: TenyxChat-7B-v1-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: tenyxchat-7b-v1.Q2_K.gguf
+    size: 2701426048
+  - name: tenyxchat-7b-v1.Q3_K_L.gguf
+    size: 3822035136
+  - name: tenyxchat-7b-v1.Q3_K_M.gguf
+    size: 3518996672
+  - name: tenyxchat-7b-v1.Q3_K_S.gguf
+    size: 3164577984
+  - name: tenyxchat-7b-v1.Q4_0.gguf
+    size: 4108928256
+  - name: tenyxchat-7b-v1.Q4_K_M.gguf
+    size: 4368450816
+  - name: tenyxchat-7b-v1.Q4_K_S.gguf
+    size: 4140385536
+  - name: tenyxchat-7b-v1.Q5_0.gguf
+    size: 4997728512
+  - name: tenyxchat-7b-v1.Q5_K_M.gguf
+    size: 5131421952
+  - name: tenyxchat-7b-v1.Q5_K_S.gguf
+    size: 4997728512
+  - name: tenyxchat-7b-v1.Q6_K.gguf
+    size: 5942078784
+  - name: tenyxchat-7b-v1.Q8_0.gguf
+    size: 7695875264
+- category: generic
+  datasets:
+  - jondurbin/bagel-v0.3
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6468ecd5dcbb937d56b6e32f/dTQc64Xj88nA_Kry19-w1.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-12 18:19:11+00:00
+  license: cc-by-nc-nd-4.0
+  model_creator: FBL
+  model_creator_link: fblgit
+  name: UNA-TheBeagle-7B-v1-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: una-thebeagle-7b-v1.Q2_K.gguf
+    size: 2701416192
+  - name: una-thebeagle-7b-v1.Q3_K_L.gguf
+    size: 3822024448
+  - name: una-thebeagle-7b-v1.Q3_K_M.gguf
+    size: 3518985984
+  - name: una-thebeagle-7b-v1.Q3_K_S.gguf
+    size: 3164567296
+  - name: una-thebeagle-7b-v1.Q4_0.gguf
+    size: 4108916480
+  - name: una-thebeagle-7b-v1.Q4_K_M.gguf
+    size: 4368439040
+  - name: una-thebeagle-7b-v1.Q4_K_S.gguf
+    size: 4140373760
+  - name: una-thebeagle-7b-v1.Q5_0.gguf
+    size: 4997715712
+  - name: una-thebeagle-7b-v1.Q5_K_M.gguf
+    size: 5131409152
+  - name: una-thebeagle-7b-v1.Q5_K_S.gguf
+    size: 4997715712
+  - name: una-thebeagle-7b-v1.Q6_K.gguf
+    size: 5942064896
+  - name: una-thebeagle-7b-v1.Q8_0.gguf
+    size: 7695857408
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-12 12:25:39+00:00
+  license: other
+  model_creator: WhiteRabbitNeo
+  model_creator_link: whiterabbitneo
+  name: WhiteRabbitNeo-33B-v1-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: whiterabbitneo-33b-v1.Q2_K.gguf
+    size: 12294910656
+  - name: whiterabbitneo-33b-v1.Q3_K_L.gguf
+    size: 17559835328
+  - name: whiterabbitneo-33b-v1.Q3_K_M.gguf
+    size: 16091599552
+  - name: whiterabbitneo-33b-v1.Q3_K_S.gguf
+    size: 14421369536
+  - name: whiterabbitneo-33b-v1.Q4_0.gguf
+    size: 18818908864
+  - name: whiterabbitneo-33b-v1.Q4_K_M.gguf
+    size: 19940127424
+  - name: whiterabbitneo-33b-v1.Q4_K_S.gguf
+    size: 18943001280
+  - name: whiterabbitneo-33b-v1.Q5_0.gguf
+    size: 22957769408
+  - name: whiterabbitneo-33b-v1.Q5_K_M.gguf
+    size: 23535366848
+  - name: whiterabbitneo-33b-v1.Q5_K_S.gguf
+    size: 22957769408
+  - name: whiterabbitneo-33b-v1.Q6_K.gguf
+    size: 27355308736
+  - name: whiterabbitneo-33b-v1.Q8_0.gguf
+    size: 35430347456
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-12 11:33:53+00:00
+  license: llama2
+  model_creator: Charles McSneed
+  model_creator_link: ChuckMcSneed
+  name: WinterGoliath-123b-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: wintergoliath-123b.Q2_K.gguf
+    size: 45279509568
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/642cc1c253e76b4c2286c58e/n8h5JKRgaAoYrE36BtHRO.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-12 11:40:11+00:00
+  license: apache-2.0
+  model_creator: rombo dawg
+  model_creator_link: rombodawg
+  name: Open_Gpt4_8x7B_v0.2-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: open_gpt4_8x7b_v0.2.Q2_K.gguf
+    size: 17170761152
+  - name: open_gpt4_8x7b_v0.2.Q3_K_M.gguf
+    size: 22477284800
+  - name: open_gpt4_8x7b_v0.2.Q4_0.gguf
+    size: 26441532864
+  - name: open_gpt4_8x7b_v0.2.Q4_K_M.gguf
+    size: 28379301312
+  - name: open_gpt4_8x7b_v0.2.Q5_0.gguf
+    size: 32229279168
+  - name: open_gpt4_8x7b_v0.2.Q5_K_M.gguf
+    size: 33227523520
+  - name: open_gpt4_8x7b_v0.2.Q6_K.gguf
+    size: 38378759616
+  - name: open_gpt4_8x7b_v0.2.Q8_0.gguf
+    size: 49624262080
+- category: generic
+  datasets:
+  - Intel/orca_dpo_pairs
+  - mlabonne/chatml_dpo_pairs
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1616869339153-noauth.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-12 11:07:46+00:00
+  license: apache-2.0
+  model_creator: Neuronovo
+  model_creator_link: Neuronovo
+  name: neuronovo-7B-v0.3-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: neuronovo-7b-v0.3.Q2_K.gguf
+    size: 3338954720
+  - name: neuronovo-7b-v0.3.Q3_K_L.gguf
+    size: 4736387040
+  - name: neuronovo-7b-v0.3.Q3_K_M.gguf
+    size: 4353656800
+  - name: neuronovo-7b-v0.3.Q3_K_S.gguf
+    size: 3914565600
+  - name: neuronovo-7b-v0.3.Q4_0.gguf
+    size: 5090650080
+  - name: neuronovo-7b-v0.3.Q4_K_M.gguf
+    size: 5415053280
+  - name: neuronovo-7b-v0.3.Q4_K_S.gguf
+    size: 5129447392
+  - name: neuronovo-7b-v0.3.Q5_0.gguf
+    size: 6197553120
+  - name: neuronovo-7b-v0.3.Q5_K_M.gguf
+    size: 6364669920
+  - name: neuronovo-7b-v0.3.Q5_K_S.gguf
+    size: 6197553120
+  - name: neuronovo-7b-v0.3.Q6_K.gguf
+    size: 7373637600
+  - name: neuronovo-7b-v0.3.Q8_0.gguf
+    size: 9550006240
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-11 14:43:34+00:00
+  license: other
+  model_creator: Doctor Shotgun
+  model_creator_link: Doctor-Shotgun
+  name: Nous-Capybara-limarpv3-34B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: nous-capybara-limarpv3-34b.Q2_K.gguf
+    size: 14555875328
+  - name: nous-capybara-limarpv3-34b.Q3_K_L.gguf
+    size: 18139445248
+  - name: nous-capybara-limarpv3-34b.Q3_K_M.gguf
+    size: 16636573696
+  - name: nous-capybara-limarpv3-34b.Q3_K_S.gguf
+    size: 14960293888
+  - name: nous-capybara-limarpv3-34b.Q4_0.gguf
+    size: 19466528768
+  - name: nous-capybara-limarpv3-34b.Q4_K_M.gguf
+    size: 20658710528
+  - name: nous-capybara-limarpv3-34b.Q4_K_S.gguf
+    size: 19543599104
+  - name: nous-capybara-limarpv3-34b.Q5_0.gguf
+    size: 23707691008
+  - name: nous-capybara-limarpv3-34b.Q5_K_M.gguf
+    size: 24321845248
+  - name: nous-capybara-limarpv3-34b.Q5_K_S.gguf
+    size: 23707691008
+  - name: nous-capybara-limarpv3-34b.Q6_K.gguf
+    size: 28213925888
+  - name: nous-capybara-limarpv3-34b.Q8_0.gguf
+    size: 36542281728

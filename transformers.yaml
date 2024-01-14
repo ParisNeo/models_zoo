@@ -3785,3 +3785,14 @@
   variants:
   - name: model-00001-of-00024.safetensors
     size: 3953284440
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-01-12 18:46:56+00:00
+  license: unknown
+  name: Obsidian-3B-V0.5-GGUF
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
