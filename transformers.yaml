@@ -3796,3 +3796,90 @@
   rank: 10000000000.0
   type: transformers
   variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-01-16 15:25:12+00:00
+  license: unknown
+  name: Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF-v2
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-11 06:14:47+00:00
+  license: apache-2.0
+  model_creator: NousResearch
+  model_creator_link: mistralai
+  name: Nous-Hermes-2-Mixtral-8x7B-DPO
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00019.safetensors
+    size: 4892825968
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-11 04:26:32+00:00
+  license: apache-2.0
+  model_creator: NousResearch
+  model_creator_link: NousResearch
+  name: Nous-Hermes-2-Mixtral-8x7B-DPO-adapter
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: adapter_model.safetensors
+    size: 3875879784
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-26 03:37:01+00:00
+  license: apache-2.0
+  model_creator: NousResearch
+  model_creator_link: mistralai
+  name: Nous-Hermes-2-Mixtral-8x7B-SFT
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00019.safetensors
+    size: 4892825968
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-12 19:22:46+00:00
+  license: apache-2.0
+  model_creator: NousResearch
+  model_creator_link: mistralai
+  name: Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-12 19:29:53+00:00
+  license: apache-2.0
+  model_creator: NousResearch
+  model_creator_link: mistralai
+  name: Nous-Hermes-2-Mixtral-8x7B-SFT-GGUF
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants: []
