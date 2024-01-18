@@ -1,0 +1,2111 @@
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2024-01-10 05:25:51+00:00
+  model_creator: unknown
+  name: TinyLlama-1B-32k-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 669768924
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-09-20 15:13:59+00:00
+  model_creator: unknown
+  name: TinyLlama-1B-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 669711964
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-09-22 16:00:49+00:00
+  model_creator: unknown
+  name: CodeLlama-13B-instruct-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6809340002
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-09-22 05:15:57+00:00
+  model_creator: unknown
+  name: CodeLlama-13B-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6808454188
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-09-18 17:51:49+00:00
+  model_creator: unknown
+  name: Llama2-7B-chat-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3609164708
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-09-20 17:21:51+00:00
+  model_creator: unknown
+  name: OpenLlama-3B-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 1900183534
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-09-22 22:28:28+00:00
+  model_creator: unknown
+  name: CodeLlama-34B-instruct-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output-00001-of-00003.safetensors
+    size: 8485505950
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-09-27 18:03:05+00:00
+  model_creator: unknown
+  name: Mistral-7B-instruct-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861340324
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-10-06 18:07:19+00:00
+  model_creator: unknown
+  name: Mistral-7B-OpenOrca-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861306308
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-09-17 10:11:57+00:00
+  model_creator: unknown
+  name: Llama2-70B-chat-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output-00001-of-00005.safetensors
+    size: 8579021874
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-12-16 17:49:26+00:00
+  model_creator: unknown
+  name: Mixtral-8x7B-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output-00001-of-00003.safetensors
+    size: 8582650200
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-11-23 00:46:19+00:00
+  model_creator: unknown
+  name: Sheared-Llama2-2.7B-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 1500772780
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-11-23 00:33:59+00:00
+  model_creator: unknown
+  name: Sheared-Llama2-1.3B-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 792513974
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-11-30 18:50:39+00:00
+  model_creator: unknown
+  name: deepseek-llm-67B-chat-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output-00001-of-00005.safetensors
+    size: 8530958564
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-12-16 23:44:06+00:00
+  model_creator: unknown
+  name: Mixtral-8x7B-instruct-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output-00001-of-00003.safetensors
+    size: 8590179496
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-09-23 09:05:54+00:00
+  model_creator: unknown
+  name: Llama2-70B-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output-00001-of-00005.safetensors
+    size: 8530705612
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-09-21 05:42:13+00:00
+  model_creator: unknown
+  name: Llama2-13B-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6808414034
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2023-09-20 19:58:32+00:00
+  model_creator: unknown
+  name: Llama2-7B-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3608657510
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 17:23:00+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: dolphin-2.6-mistral-7b-dpo-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3860816488
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ehartford/dolphin
+  - jondurbin/airoboros-2.2.1
+  - ehartford/dolphin-coder
+  - teknium/openhermes
+  - ise-uiuc/Magicoder-OSS-Instruct-75K
+  - ise-uiuc/Magicoder-Evol-Instruct-110K
+  - LDJnr/Capybara
+  - argilla/ultrafeedback-binarized-preferences-cleaned
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-01 23:02:23+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: dolphin-2.6-mistral-7b-dpo-laser-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861170488
+- category: generic
+  ctx_size: -1
+  datasets:
+  - argilla/distilabel-intel-orca-dpo-pairs
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-11 02:45:25+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: distilabeled-Hermes-2.5-Mistral-7B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861467188
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ehartford/dolphin
+  - jondurbin/airoboros-2.2.1
+  - ehartford/dolphin-coder
+  - teknium/openhermes
+  - ise-uiuc/Magicoder-OSS-Instruct-75K
+  - ise-uiuc/Magicoder-Evol-Instruct-110K
+  - LDJnr/Capybara
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-13 03:56:42+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: UNA-dolphin-2.6-mistral-7b-dpo-laser-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861426116
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 16:21:55+00:00
+  license: other
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: internlm2-chat-7b-llama-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 4553481032
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 04:08:00+00:00
+  license: unknown
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: internlm2-chat-7b-sft-llama-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 4552996352
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-17 14:05:47+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: NeuralBeagle14-7B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861117228
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ajibawa-2023/Code-290k-ShareGPT
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-16 19:59:17+00:00
+  license: cc-by-nc-nd-4.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Code-290k-13B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6807967688
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-16 12:58:42+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: mistralai
+  name: openchat-3.5-0106-11b-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 5608604072
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/airoboros-2.2.1
+  - Open-Orca/OpenOrca
+  - garage-bAInd/Open-Platypus
+  - ehartford/samantha-data
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-16 04:31:31+00:00
+  license: llama2
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: speechless-mistral-dolphin-orca-platypus-samantha-7b-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861294616
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-14 02:50:28+00:00
+  license: mit
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: FusionNet_7Bx2_MoE_14B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6682982760
+- category: generic
+  ctx_size: -1
+  datasets:
+  - jondurbin/bagel-v0.3
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-12 02:50:54+00:00
+  license: cc-by-nc-nd-4.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: UNA-TheBeagle-7b-v1-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3859655156
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-11 04:37:09+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: TenyxChat-7B-v1-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861305312
+- category: generic
+  ctx_size: -1
+  datasets:
+  - Intel/orca_dpo_pairs
+  - mlabonne/chatml_dpo_pairs
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-10 23:33:11+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: neuronovo-7B-v0.3-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 4734284108
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-10 18:08:31+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: mistralai
+  name: openchat-3.5-0106-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861033928
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-05 04:19:31+00:00
+  license: llama2
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: LLaMA2-13B-Tiefighter-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6808956992
+- category: generic
+  ctx_size: -1
+  datasets:
+  - yahma/alpaca-cleaned
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-09 06:04:00+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: speechless-mistral-moloras-7b-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3860619020
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-08 12:22:01+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: neuralchat_v3_3_laser-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3860978720
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-07 08:25:53+00:00
+  license: llama2
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: LLaMA-Pro-8B-Instruct-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 4420059100
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-07 02:48:20+00:00
+  model_creator: bartowski
+  name: Sensualize-Solar-10.7B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 5608919876
+- category: generic
+  ctx_size: -1
+  datasets:
+  - mlabonne/chatml_dpo_pairs
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-06 20:41:25+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: teknium
+  name: NeuralHermes-2.5-Mistral-7B-laser-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861362128
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-06 17:36:11+00:00
+  license: cc-by-nc-4.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Kunoichi-7B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861350072
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-06 15:14:20+00:00
+  license: cc-by-nc-nd-4.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Mistral-7B-Instruct-v0.2-code-ft-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3860359344
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-06 05:37:45+00:00
+  license: llama2
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: LLaMA-Pro-8B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 4419671820
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/openhermes
+  - garage-bAInd/Open-Platypus
+  - LDJnr/Capybara
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-05 19:08:26+00:00
+  license: cc-by-nc-4.0
+  model_creator: bartowski
+  model_creator_link: upstage
+  name: Antares-11b-v1-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 5609007800
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-04 12:28:32+00:00
+  license: unknown
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Llama-2-7b-chat-hf-function-calling-v3-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3609037302
+- category: generic
+  ctx_size: -1
+  datasets:
+  - NeuralNovel/Panda-v1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-03 12:41:24+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: mistralai
+  name: Panda-7B-v0.1-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861374600
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-02 14:59:19+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: upstage
+  name: Nous-Hermes-2-SOLAR-10.7B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 5607350796
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 15:16:01+00:00
+  license: cc-by-4.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Sonya-7B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861290188
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 22:51:49+00:00
+  license: other
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: autodev-coder-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3612035112
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - bigcode/starcoderdata
+  - OpenAssistant/oasst_top1_2023-08-25
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 20:10:15+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: TinyLlama-1.1B-Chat-v1.0-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 669711828
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 07:47:09+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: mistralai
+  name: Lelantos-7B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3860668312
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-29 05:19:19+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Synthia-v3.0-11B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 5608922568
+- category: generic
+  ctx_size: -1
+  datasets:
+  - HuggingFaceH4/no_robots
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-28 20:40:28+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: rishiraj
+  name: CatPPT-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3860035860
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ehartford/dolphin
+  - jondurbin/airoboros-2.2.1
+  - ehartford/dolphin-coder
+  - teknium/openhermes
+  - ise-uiuc/Magicoder-OSS-Instruct-75K
+  - ise-uiuc/Magicoder-Evol-Instruct-110K
+  - LDJnr/Capybara
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-28 07:53:48+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: dolphin-2.6-mistral-7b-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3860946964
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-28 01:08:47+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: SauerkrautLM-UNA-SOLAR-Instruct-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 5607994452
+- category: generic
+  ctx_size: -1
+  datasets:
+  - berkeley-nest/Nectar
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-27 07:28:51+00:00
+  license: cc-by-nc-4.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Starling-LM-7B-alpha-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3860670468
+- category: generic
+  ctx_size: -1
+  datasets:
+  - Open-Orca/OpenOrca
+  - Intel/orca_dpo_pairs
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-27 02:53:51+00:00
+  license: cc-by-4.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: xDAN-L1-Chat-RL-v1-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3860848776
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-26 18:34:13+00:00
+  license: other
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: neural-chat-7b-v3-3-wizardmath-dare-me-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3860737784
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-26 13:28:35+00:00
+  license: cc-by-4.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: openchat-3.5-1210-starling-slerp-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3859730980
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-24 16:52:10+00:00
+  license: cc-by-nc-4.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Mixtral_7Bx2_MoE-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6683381168
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-23 13:39:38+00:00
+  license: unknown
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Sensei-7B-V1-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3860766568
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-23 05:00:15+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: SAM-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861180864
+- category: generic
+  ctx_size: -1
+  datasets:
+  - glaiveai/glaive-code-assistant-v2
+  - TokenBender/code_instructions_122k_alpaca_style
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-22 20:50:08+00:00
+  license: mit
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: CodeNinja-1.0-OpenChat-7B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3860918960
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-21 07:14:09+00:00
+  license: llama2
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: WhiteRabbitNeo-13B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6808759090
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-19 11:12:05+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: Mihaiii
+  name: Metis-0.4-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3860764356
+- category: generic
+  ctx_size: -1
+  datasets:
+  - unalignment/toxic-dpo-v0.1
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-18 17:13:14+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: teknium
+  name: ToxicHermes-2.5-Mistral-7B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861041140
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-18 15:38:53+00:00
+  license: cc-by-nc-4.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: OpenOrca-Zephyr-7B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3860417496
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-18 07:40:46+00:00
+  license: cc
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: go-bruins-v2.1.1-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861015788
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ehartford/dolphin
+  - jondurbin/airoboros-2.2.1
+  - ehartford/dolphin-coder
+  - migtissera/Synthia-v1.3
+  - teknium/openhermes
+  - ise-uiuc/Magicoder-OSS-Instruct-75K
+  - ise-uiuc/Magicoder-Evol-Instruct-110K
+  - LDJnr/Pure-Dove
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-17 05:01:10+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: dolphin-2.5-mixtral-8x7b-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output-00001-of-00003.safetensors
+    size: 8575117096
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-15 00:23:12+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Mistral-7B-Instruct-v0.2-DARE-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3863505656
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ai2_arc
+  - unalignment/spicy-3.1
+  - codeparrot/apps
+  - facebook/belebele
+  - boolq
+  - jondurbin/cinematika-v0.1
+  - drop
+  - lmsys/lmsys-chat-1m
+  - TIGER-Lab/MathInstruct
+  - cais/mmlu
+  - Muennighoff/natural-instructions
+  - openbookqa
+  - piqa
+  - Vezora/Tested-22k-Python-Alpaca
+  - cakiki/rosetta-code
+  - Open-Orca/SlimOrca
+  - spider
+  - squad_v2
+  - migtissera/Synthia-v1.3
+  - datasets/winogrande
+  - nvidia/HelpSteer
+  - Intel/orca_dpo_pairs
+  - unalignment/toxic-dpo-v0.1
+  - jondurbin/truthy-dpo-v0.1
+  - allenai/ultrafeedback_binarized_cleaned
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-14 15:09:43+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: bagel-dpo-7b-v0.1-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3863571920
+- category: generic
+  ctx_size: -1
+  datasets:
+  - mlabonne/chatml_dpo_pairs
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-14 09:10:37+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: teknium
+  name: NeuralHermes-2.5-Mistral-7B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3863339584
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-14 04:50:59+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: SOLAR-10.7B-v1.0-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 5611129664
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-13 21:00:11+00:00
+  license: unknown
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Inkbot-13B-8k-0.2-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6811264536
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-13 13:23:02+00:00
+  license: mit
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: SciPhi-Self-RAG-Mistral-7B-32k-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862450328
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-13 09:43:26+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: docsgpt-7b-mistral-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862285104
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-12 18:49:51+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Mistral-7B-Instruct-v0.2-SLERP-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862870200
+- category: generic
+  ctx_size: -1
+  datasets:
+  - openchat/openchat_sharegpt4_dataset
+  - imone/OpenOrca_FLAN
+  - LDJnr/LessWrong-Amplify-Instruct
+  - LDJnr/Pure-Dove
+  - LDJnr/Verified-Camel
+  - tiedong/goat
+  - glaiveai/glaive-code-assistant
+  - meta-math/MetaMathQA
+  - OpenAssistant/oasst_top1_2023-08-25
+  - TIGER-Lab/MathInstruct
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-12 17:19:53+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: openchat-3.5-1210-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3863330544
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-12 15:16:03+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: OpenZephyrChat-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862949008
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-12 10:41:35+00:00
+  license: cc-by-nc-4.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Seraph-7B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862960608
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-12 05:58:11+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: neural-chat-7b-v3-3-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3863686848
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-12 03:53:00+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: OpenHermes-2.5-neural-chat-v3-3-Slerp-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862535784
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-12 01:28:46+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Mistral-7B-Instruct-v0.2-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3863099032
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-11 22:57:18+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Mistral-7B-Instruct-v0.2-exl2-experimental
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861339488
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/openhermes
+  - allenai/ultrafeedback_binarized_cleaned
+  - Intel/orca_dpo_pairs
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-09 17:22:10+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: teknium
+  name: DPOpenHermes-7B-v2-experimental-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3861485376
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-09 02:42:59+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Synthia-7B-v3.0-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862503256
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/openhermes
+  - allenai/ultrafeedback_binarized_cleaned
+  - Intel/orca_dpo_pairs
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-06 14:00:05+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: teknium
+  name: DPOpenHermes-7B-v2-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862500880
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/openhermes
+  - argilla/ultrafeedback-binarized-preferences
+  - Intel/orca_dpo_pairs
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-06 03:04:54+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: DPOpenHermes-11B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 5611012272
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-05 21:55:04+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: dragon-mistral-7b-v0-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862668384
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-05 19:01:41+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Tess-7B-v1.4-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862280912
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ise-uiuc/Magicoder-OSS-Instruct-75K
+  - ise-uiuc/Magicoder-Evol-Instruct-110K
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-05 14:56:49+00:00
+  license: llama2
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Magicoder-S-CL-7B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3610830896
+- category: generic
+  ctx_size: -1
+  datasets:
+  - Open-Orca/SlimOrca
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-05 03:16:32+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: OpenHermes-2.5-neural-chat-7b-v3-2-7B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862672048
+- category: generic
+  ctx_size: -1
+  datasets:
+  - fblgit/tree-of-knowledge
+  - Open-Orca/SlimOrca-Dedup
+  - allenai/ultrafeedback_binarized_cleaned
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-05 01:10:26+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: una-cybertron-7b-v2-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862372072
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-03 04:13:01+00:00
+  license: cc-by-nc-4.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: NeuralPivot-Mistral-13B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6920822008
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/openhermes
+  - argilla/ultrafeedback-binarized-preferences
+  - Intel/orca_dpo_pairs
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-03 02:22:33+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: teknium
+  name: DPOpenHermes-7B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862730528
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-02 23:49:25+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: neural-chat-7b-v3-2-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3863070664
+- category: generic
+  ctx_size: -1
+  datasets:
+  - HuggingFaceH4/ultrafeedback_binarized
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-01 05:44:06+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: juanako-7b-UNA-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862957992
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-29 16:28:01+00:00
+  license: other
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: deepseek-llm-7b-chat-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 4216762144
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-29 14:14:23+00:00
+  license: other
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: deepseek-coder-6.7b-instruct-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3614078812
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-28 21:28:10+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: OpenHermes-2.5-neural-chat-7b-v3-1-7B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862720960
+- category: generic
+  ctx_size: -1
+  datasets:
+  - berkeley-nest/Nectar
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-28 18:39:58+00:00
+  license: cc-by-nc-4.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Starling-LM-7B-alpha-old-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3863250296
+- category: generic
+  ctx_size: -1
+  datasets:
+  - Open-Orca/SlimOrca
+  - ajibawa-2023/SlimOrca-ShareGPT
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-28 14:28:38+00:00
+  license: cc-by-nc-nd-4.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: SlimOrca-13B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6811445248
+- category: generic
+  ctx_size: -1
+  datasets:
+  - HuggingFaceH4/no_robots
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-27 08:17:26+00:00
+  license: other
+  model_creator: bartowski
+  model_creator_link: microsoft
+  name: Orca-2-13B-no_robots-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6811690024
+- category: generic
+  ctx_size: -1
+  datasets:
+  - HuggingFaceH4/ultrafeedback_binarized
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-27 04:41:13+00:00
+  license: artistic-2.0
+  model_creator: bartowski
+  model_creator_link: fblgit
+  name: juanako-7b-v1-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862423840
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-25 20:17:47+00:00
+  license: other
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Capybara-Tess-Yi-34B-200K-DARE-Ties-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output-00001-of-00003.safetensors
+    size: 8583956304
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-25 16:18:44+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Tess-XS-v1-3-yarn-128K-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3863448120
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-24 14:10:15+00:00
+  license: other
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Orca-2-7B-16k-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3610922560
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-24 07:01:30+00:00
+  license: other
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Orca-2-13B-16k-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6811442944
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-22 22:38:29+00:00
+  license: other
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: MythoMist-7b-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862868224
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-22 11:16:08+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Tess-XS-v1.1-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862524440
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-21 06:53:14+00:00
+  license: unknown
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Orca-2-13b-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6811442944
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-21 05:20:54+00:00
+  license: unknown
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Orca-2-7b-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3610922560
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-21 02:16:59+00:00
+  license: unknown
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Free_Sydney_V2_Mistral_7b-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862985256
+- category: generic
+  ctx_size: -1
+  datasets:
+  - HuggingFaceH4/no_robots
+  description: ''
+  last_commit_time: 2023-11-21 00:42:35+00:00
+  license: apache-2.0
+  model_creator: MonsterAPI
+  model_creator_link: qblocks
+  name: zephyr_7b_norobots-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3863833528
+- category: generic
+  ctx_size: -1
+  datasets:
+  - HuggingFaceH4/no_robots
+  description: ''
+  last_commit_time: 2023-11-20 22:36:04+00:00
+  license: apache-2.0
+  model_creator: MonsterAPI
+  model_creator_link: qblocks
+  name: mistral_7b_norobots-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3863293632
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-20 20:59:07+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: SynthIA-7B-v1.3-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862671232
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - bigcode/starcoderdata
+  - OpenAssistant/oasst_top1_2023-08-25
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-20 20:26:59+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: TinyLlama-1.1B-Chat-v0.5-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 669505944
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-20 15:33:01+00:00
+  license: other
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Yi-15B-Llama-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 8264746304
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-20 12:20:26+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: TinyLlama-1.1B-intermediate-step-955k-token-2T-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 669457216
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-20 02:17:21+00:00
+  license: other
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Yi-23B-Llama-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output-00001-of-00002.safetensors
+    size: 8580444224
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-17 21:49:23+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Tess-XS-Creative-v1.0-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862476552
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-18 00:29:59+00:00
+  license: other
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: Tess-M-Creative-v1.0-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output-00001-of-00003.safetensors
+    size: 8553333824
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-19 23:00:10+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: gorilla-openfunctions-v0-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3610951688
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-19 17:36:03+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: gorilla-openfunctions-v1-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3610579928
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-18 21:20:22+00:00
+  license: llama2
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: XwinCoder-13B-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6811351944
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6536187279f1de44b5e02d0f/-T8Xw0mX67_R73b7Re1y-.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-17 15:14:10+00:00
+  license: other
+  model_creator: 01-ai
+  model_creator_link: https://huggingface.co/bartowski
+  name: dragon-yi-6b-v0-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3508693788
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-16 19:54:43+00:00
+  license: cc-by-nc-4.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: MistralDarwin-7b-v0.1-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3863021024
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-16 01:41:10+00:00
+  license: cc-by-sa-4.0
+  model_creator: bartowski
+  model_creator_link: https://huggingface.co/bartowski
+  name: sqlcoder-7b-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862886272
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-15 20:44:02+00:00
+  license: apache-2.0
+  model_creator: bartowski
+  model_creator_link: mistralai
+  name: OpenHermes-2.5-Mistral-7B-16k-exl2
+  quantizer: bartowski
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 3862900632

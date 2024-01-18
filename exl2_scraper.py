@@ -20,7 +20,8 @@ import time
 import os
 from huggingface_hub import HfApi, list_models
 from pathlib import Path
-
+from datetime import datetime
+from ascii_colors import ASCIIColors
 crds = [[]]
 
 # Define the path to the key file
@@ -218,17 +219,30 @@ def get_file_size(url):
     
 def get_variants(model_id, model_type="awq"):
     server_link = f"https://huggingface.co/{model_id}"
-    model_url = f"{server_link}/tree/main"
+    
+    prefix = "4_0"
+    model_url = f"{server_link}/tree/4_0"
     response = requests.get(model_url)
     model_html_content = response.text
     model_soup = BeautifulSoup(model_html_content, 'html.parser')
 
     # Find all <a> tags with '.safetensors' in their href within the model repository
     links = model_soup.find_all('a', href=lambda href: href and (href.endswith(f'.safetensors') or href.endswith(f'.bin')))
+    if len(links)==0:
+        prefix = "4.0bpw"
+
+        model_url = f"{server_link}/tree/4.0bpw"
+        response = requests.get(model_url)
+        model_html_content = response.text
+        model_soup = BeautifulSoup(model_html_content, 'html.parser')
+
+        # Find all <a> tags with '.safetensors' in their href within the model repository
+        links = model_soup.find_all('a', href=lambda href: href and (href.endswith(f'.safetensors') or href.endswith(f'.bin')))
+
     v  = []
     for link in tqdm(links):
         file_name_ = link["href"].split('/')[-1]
-        full_url = server_link+"/resolve/main/"+file_name_
+        full_url = server_link+f"/resolve/{prefix}/"+file_name_
         file_size = get_file_size(full_url)[0]
         v.append({"name":file_name_,"size":file_size})
         break
@@ -258,62 +272,85 @@ def build_model_cards(entries, model_type='transformers', output_file="output_tr
             response = requests.get(f"https://huggingface.co/{entry}/raw/main/README.md")
             # Verify that the file exists
             if 200 <= response.status_code < 300:
-
-                # Find metadata section that starts with --- and ends with --- at the beginning of the file
-                metadata = extract_delimited_section(response.text)
-                # print(f"metadata:\n{metadata}")
-                if "model_creator" in metadata:
-                    card["model_creator"]=metadata["model_creator"]
-                else:
-                    card["model_creator"]=card["quantizer"]
-
-                if "base_model" in metadata:
-                    card["model_creator_link"]="/".join(metadata["base_model"].split("/")[:-1])
-                else:
-                    if "model_link" in metadata:
-                        card["model_creator_link"]="/".join(metadata["model_link"].split("/")[:-1])
+                try:
+                    # Find metadata section that starts with --- and ends with --- at the beginning of the file
+                    metadata = extract_delimited_section(response.text)
+                    # print(f"metadata:\n{metadata}")
+                    if "model_creator" in metadata:
+                        card["model_creator"]=metadata["model_creator"]
                     else:
-                        card["model_creator_link"]=f"https://huggingface.co/{card['quantizer']}"
+                        card["model_creator"]=card["quantizer"]
 
-                if "license" in metadata:
-                    card["license"]=metadata["license"]
-                else:
-                    card["license"]="unknown"
+                    if "base_model" in metadata:
+                        card["model_creator_link"]="/".join(metadata["base_model"].split("/")[:-1])
+                    else:
+                        if "model_link" in metadata:
+                            card["model_creator_link"]="/".join(metadata["model_link"].split("/")[:-1])
+                        else:
+                            card["model_creator_link"]=f"https://huggingface.co/{card['quantizer']}"
 
-                if "datasets" in metadata:
-                    card["datasets"]=metadata["datasets"]
-                else:
-                    card["datasets"]="unknown"
+                    if "license" in metadata:
+                        card["license"]=metadata["license"]
+                    else:
+                        card["license"]="unknown"
 
-            
-            commit_time = hub_get_last_commit(entry).created_at
-            card["last_commit_time"]=commit_time
+                    if "datasets" in metadata:
+                        card["datasets"]=metadata["datasets"]
+                    else:
+                        card["datasets"]="unknown"
+                except :
+                    pass
+            try:
+                commit_time = hub_get_last_commit(entry).created_at
+                card["last_commit_time"]=commit_time
+            except:
+                card["last_commit_time"]=datetime.now()
             # let's find the variances
             variants = get_variants(entry, model_type)
-            card["variants"]=variants
+            if len(variants)>0:
+                card["variants"]=variants
+            else:
+                ASCIIColors.red("No variant found.")
+                continue
+
             #Open model_maker card
-            model_creator_url=f"https://huggingface.co/{card['model_creator'].replace(' ','')}"
-            response = requests.get(model_creator_url)
-            if 200 <= response.status_code < 300:
-                html_content = response.text
-                soup = BeautifulSoup(html_content, 'html.parser')
-                image_tags = soup.find_all('img')
+            try:
+                model_creator_url=f"https://huggingface.co/{card['model_creator'].replace(' ','')}"
+                response = requests.get(model_creator_url)
+                if 200 <= response.status_code < 300:
+                    html_content = response.text
+                    soup = BeautifulSoup(html_content, 'html.parser')
+                    image_tags = soup.find_all('img')
 
-                prefix = 'https://aeiljuispo.cloudimg.io'
+                    prefix = 'https://aeiljuispo.cloudimg.io'
 
-                card["icon"]=""
-                for tag in image_tags:
-                    src = tag.get('src')
-                    if src.startswith(prefix):
-                        card["icon"]=src
-                        break
-
+                    card["icon"]=""
+                    for tag in image_tags:
+                        src = tag.get('src')
+                        if src.startswith(prefix):
+                            card["icon"]=src
+                            break
+            except:
+                card['model_creator']="unknown"
+                card["icon"]="/bindings/bs_exllamav2/logo.png"
+                ASCIIColors.red("Some moissing information")
 
             
         except Exception as e:
+            continue
+            """
             card["license"]="unknown"
             card["datasets"]="unknown"
-            card["variants"]=[]
+            card["model_creator"]="unknown"
+            card["icon"]="/bindings/bs_exllamav2/logo.png"
+
+            card["last_commit_time"]=datetime.now()
+            
+            ASCIIColors.red("No variant found. Crteating an empty one")
+            card["variants"]=[{"name":"model.safetensors","size":-1}]
+
+            """
+
         
         cards.append(card)
         # Save last file
