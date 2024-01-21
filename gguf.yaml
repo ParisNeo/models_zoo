@@ -1,4 +1,25 @@
 - category: generic
+  datasets: []
+  last_commit_time: 2023-10-20 09:28:57+00:00
+  license: apache-2.0
+  model_creator: Haotian Liu et AL
+  model_creator_link: https://llava-vl.github.io/
+  name: ggml_llava-v1.5-7b
+  quantizer: mys
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: ggml-model-q4_k.gguf
+    size: 4080000000 
+  - name: ggml-model-q5_k.gguf
+    size: 4780000000 
+  - name: ggml-model-f16.gguf
+    size: 13500000000 
+  - name: mmproj-model-f16.gguf
+    size: 624000000 
+
+
+- category: generic
   datasets:
   - akjindal53244/Arithmo-Data
   last_commit_time: 2023-10-20 09:28:57+00:00
