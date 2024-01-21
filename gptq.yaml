@@ -20496,3 +20496,149 @@
   variants:
   - name: model.safetensors
     size: 12505556192
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62e3b6ab0c2a907c388e4965/I5F9O8dcRuY2HgFmXJAxH.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 20:12:06+00:00
+  license: apache-2.0
+  model_creator: Disco Research
+  model_creator_link: DiscoResearch
+  name: DiscoLM_German_7b_v1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158695048
+- category: generic
+  datasets:
+  - hromi/winograd_dpo_basic
+  last_commit_time: 2024-01-17 22:19:16+00:00
+  license: apache-2.0
+  model_creator: UDK dot AI
+  model_creator_link: udkai
+  name: Garrulus-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662280
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62e3b6ab0c2a907c388e4965/I5F9O8dcRuY2HgFmXJAxH.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 20:12:06+00:00
+  license: apache-2.0
+  model_creator: Disco Research
+  model_creator_link: DiscoResearch
+  name: DiscoLM_German_7b_v1-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158695048
+- category: generic
+  datasets:
+  - hromi/winograd_dpo_basic
+  last_commit_time: 2024-01-17 22:19:16+00:00
+  license: apache-2.0
+  model_creator: UDK dot AI
+  model_creator_link: udkai
+  name: Garrulus-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662280
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-17 21:50:36+00:00
+  license: apache-2.0
+  model_creator: Zain ul Abideen
+  model_creator_link: abideen
+  name: DareVox-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662280
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-17 21:21:04+00:00
+  license: apache-2.0
+  model_creator: Zain ul Abideen
+  model_creator_link: abideen
+  name: NexoNimbus-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662280
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/64b55879f2858e648d5460fb/ZrkS_BmET_WIXZCS_q6Bv.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-17 20:36:43+00:00
+  license: apache-2.0
+  model_creator: Sanji Watsuki
+  model_creator_link: SanjiWatsuki
+  name: Lelantos-Maid-DPO-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158695048
+- category: generic
+  datasets:
+  - tiiuae/falcon-refinedweb
+  - bigcode/the-stack-github-issues
+  - bigcode/commitpackft
+  - bigcode/starcoderdata
+  - EleutherAI/proof-pile-2
+  - meta-math/MetaMathQA
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/643feeb67bc3fbde1385cc25/7vmYr2XwVcPtkLzac_jxQ.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-17 18:06:36+00:00
+  license: other
+  model_creator: Stability AI
+  model_creator_link: stabilityai
+  name: stable-code-3b-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 1838811216
+- category: generic
+  datasets:
+  - GBaker/MedQA-USMLE-4-options
+  - cognitivecomputations/samantha-data
+  - shibing624/medical
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/647433130da364bd0d014179/d_Xhm637GpIcvKNM1nluR.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-17 17:48:04+00:00
+  license: llama2
+  model_creator: Sethu Iyer
+  model_creator_link: sethuiyer
+  name: Dr_Samantha-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 3896731184
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-17 17:08:24+00:00
+  license: apache-2.0
+  model_creator: Maxime Labonne
+  model_creator_link: mlabonne
+  name: NeuralBeagle14-7B-GPTQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: model.safetensors
+    size: 4158662216

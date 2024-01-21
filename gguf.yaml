@@ -10,15 +10,13 @@
   type: gguf
   variants:
   - name: ggml-model-q4_k.gguf
-    size: 4080000000 
+    size: 4080000000
   - name: ggml-model-q5_k.gguf
-    size: 4780000000 
+    size: 4780000000
   - name: ggml-model-f16.gguf
-    size: 13500000000 
+    size: 13500000000
   - name: mmproj-model-f16.gguf
-    size: 624000000 
-
-
+    size: 624000000
 - category: generic
   datasets:
   - akjindal53244/Arithmo-Data
@@ -48543,3 +48541,333 @@
     size: 19815794496
   - name: everyone-coder-4x7b-base.Q8_0.gguf
     size: 25665324864
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62e3b6ab0c2a907c388e4965/I5F9O8dcRuY2HgFmXJAxH.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 20:12:06+00:00
+  license: apache-2.0
+  model_creator: Disco Research
+  model_creator_link: DiscoResearch
+  name: DiscoLM_German_7b_v1-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: discolm_german_7b_v1.Q2_K.gguf
+    size: 2719251744
+  - name: discolm_german_7b_v1.Q3_K_L.gguf
+    size: 3822035040
+  - name: discolm_german_7b_v1.Q3_K_M.gguf
+    size: 3518996576
+  - name: discolm_german_7b_v1.Q3_K_S.gguf
+    size: 3164577888
+  - name: discolm_german_7b_v1.Q4_0.gguf
+    size: 4108928160
+  - name: discolm_german_7b_v1.Q4_K_M.gguf
+    size: 4368450720
+  - name: discolm_german_7b_v1.Q4_K_S.gguf
+    size: 4140385440
+  - name: discolm_german_7b_v1.Q5_0.gguf
+    size: 4997728416
+  - name: discolm_german_7b_v1.Q5_K_M.gguf
+    size: 5131421856
+  - name: discolm_german_7b_v1.Q5_K_S.gguf
+    size: 4997728416
+  - name: discolm_german_7b_v1.Q6_K.gguf
+    size: 5942078688
+  - name: discolm_german_7b_v1.Q8_0.gguf
+    size: 7695875168
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62e3b6ab0c2a907c388e4965/I5F9O8dcRuY2HgFmXJAxH.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 20:12:06+00:00
+  license: apache-2.0
+  model_creator: Disco Research
+  model_creator_link: DiscoResearch
+  name: DiscoLM_German_7b_v1-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: discolm_german_7b_v1.Q2_K.gguf
+    size: 2719251744
+  - name: discolm_german_7b_v1.Q3_K_L.gguf
+    size: 3822035040
+  - name: discolm_german_7b_v1.Q3_K_M.gguf
+    size: 3518996576
+  - name: discolm_german_7b_v1.Q3_K_S.gguf
+    size: 3164577888
+  - name: discolm_german_7b_v1.Q4_0.gguf
+    size: 4108928160
+  - name: discolm_german_7b_v1.Q4_K_M.gguf
+    size: 4368450720
+  - name: discolm_german_7b_v1.Q4_K_S.gguf
+    size: 4140385440
+  - name: discolm_german_7b_v1.Q5_0.gguf
+    size: 4997728416
+  - name: discolm_german_7b_v1.Q5_K_M.gguf
+    size: 5131421856
+  - name: discolm_german_7b_v1.Q5_K_S.gguf
+    size: 4997728416
+  - name: discolm_german_7b_v1.Q6_K.gguf
+    size: 5942078688
+  - name: discolm_german_7b_v1.Q8_0.gguf
+    size: 7695875168
+- category: generic
+  datasets:
+  - hromi/winograd_dpo_basic
+  last_commit_time: 2024-01-17 22:19:16+00:00
+  license: apache-2.0
+  model_creator: UDK dot AI
+  model_creator_link: udkai
+  name: Garrulus-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: garrulus.Q2_K.gguf
+    size: 2719241984
+  - name: garrulus.Q3_K_L.gguf
+    size: 3822024448
+  - name: garrulus.Q3_K_M.gguf
+    size: 3518985984
+  - name: garrulus.Q3_K_S.gguf
+    size: 3164567296
+  - name: garrulus.Q4_0.gguf
+    size: 4108916480
+  - name: garrulus.Q4_K_M.gguf
+    size: 4368439040
+  - name: garrulus.Q4_K_S.gguf
+    size: 4140373760
+  - name: garrulus.Q5_0.gguf
+    size: 4997715712
+  - name: garrulus.Q5_K_M.gguf
+    size: 5131409152
+  - name: garrulus.Q5_K_S.gguf
+    size: 4997715712
+  - name: garrulus.Q6_K.gguf
+    size: 5942064896
+  - name: garrulus.Q8_0.gguf
+    size: 7695857408
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-17 21:50:36+00:00
+  license: apache-2.0
+  model_creator: Zain ul Abideen
+  model_creator_link: abideen
+  name: DareVox-7B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: darevox-7b.Q2_K.gguf
+    size: 2719241920
+  - name: darevox-7b.Q3_K_L.gguf
+    size: 3822024384
+  - name: darevox-7b.Q3_K_M.gguf
+    size: 3518985920
+  - name: darevox-7b.Q3_K_S.gguf
+    size: 3164567232
+  - name: darevox-7b.Q4_0.gguf
+    size: 4108916416
+  - name: darevox-7b.Q4_K_M.gguf
+    size: 4368438976
+  - name: darevox-7b.Q4_K_S.gguf
+    size: 4140373696
+  - name: darevox-7b.Q5_0.gguf
+    size: 4997715648
+  - name: darevox-7b.Q5_K_M.gguf
+    size: 5131409088
+  - name: darevox-7b.Q5_K_S.gguf
+    size: 4997715648
+  - name: darevox-7b.Q6_K.gguf
+    size: 5942064832
+  - name: darevox-7b.Q8_0.gguf
+    size: 7695857344
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-17 21:21:04+00:00
+  license: apache-2.0
+  model_creator: Zain ul Abideen
+  model_creator_link: abideen
+  name: NexoNimbus-7B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: nexonimbus-7b.Q2_K.gguf
+    size: 2719241920
+  - name: nexonimbus-7b.Q3_K_L.gguf
+    size: 3822024384
+  - name: nexonimbus-7b.Q3_K_M.gguf
+    size: 3518985920
+  - name: nexonimbus-7b.Q3_K_S.gguf
+    size: 3164567232
+  - name: nexonimbus-7b.Q4_0.gguf
+    size: 4108916416
+  - name: nexonimbus-7b.Q4_K_M.gguf
+    size: 4368438976
+  - name: nexonimbus-7b.Q4_K_S.gguf
+    size: 4140373696
+  - name: nexonimbus-7b.Q5_0.gguf
+    size: 4997715648
+  - name: nexonimbus-7b.Q5_K_M.gguf
+    size: 5131409088
+  - name: nexonimbus-7b.Q5_K_S.gguf
+    size: 4997715648
+  - name: nexonimbus-7b.Q6_K.gguf
+    size: 5942064832
+  - name: nexonimbus-7b.Q8_0.gguf
+    size: 7695857344
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1673309311061-63bcabea1374e3ef91383653.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-17 20:36:43+00:00
+  license: apache-2.0
+  model_creator: Sanji Watsuki
+  model_creator_link: SanjiWatsuki
+  name: Lelantos-Maid-DPO-7B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: lelantos-maid-dpo-7b.Q2_K.gguf
+    size: 2719251456
+  - name: lelantos-maid-dpo-7b.Q3_K_L.gguf
+    size: 3822034752
+  - name: lelantos-maid-dpo-7b.Q3_K_M.gguf
+    size: 3518996288
+  - name: lelantos-maid-dpo-7b.Q3_K_S.gguf
+    size: 3164577600
+  - name: lelantos-maid-dpo-7b.Q4_0.gguf
+    size: 4108927872
+  - name: lelantos-maid-dpo-7b.Q4_K_M.gguf
+    size: 4368450432
+  - name: lelantos-maid-dpo-7b.Q4_K_S.gguf
+    size: 4140385152
+  - name: lelantos-maid-dpo-7b.Q5_0.gguf
+    size: 4997728128
+  - name: lelantos-maid-dpo-7b.Q5_K_M.gguf
+    size: 5131421568
+  - name: lelantos-maid-dpo-7b.Q5_K_S.gguf
+    size: 4997728128
+  - name: lelantos-maid-dpo-7b.Q6_K.gguf
+    size: 5942078400
+  - name: lelantos-maid-dpo-7b.Q8_0.gguf
+    size: 7695874880
+- category: generic
+  datasets:
+  - tiiuae/falcon-refinedweb
+  - bigcode/the-stack-github-issues
+  - bigcode/commitpackft
+  - bigcode/starcoderdata
+  - EleutherAI/proof-pile-2
+  - meta-math/MetaMathQA
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/643feeb67bc3fbde1385cc25/7vmYr2XwVcPtkLzac_jxQ.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-17 17:33:36+00:00
+  license: other
+  model_creator: Stability AI
+  model_creator_link: stabilityai
+  name: stable-code-3b-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: stable-code-3b.Q2_K.gguf
+    size: 1083755520
+  - name: stable-code-3b.Q3_K_L.gguf
+    size: 1508564480
+  - name: stable-code-3b.Q3_K_M.gguf
+    size: 1391418880
+  - name: stable-code-3b.Q3_K_S.gguf
+    size: 1254448640
+  - name: stable-code-3b.Q4_0.gguf
+    size: 1608570880
+  - name: stable-code-3b.Q4_K_M.gguf
+    size: 1708595200
+  - name: stable-code-3b.Q4_K_S.gguf
+    size: 1620695040
+  - name: stable-code-3b.Q5_0.gguf
+    size: 1941862400
+  - name: stable-code-3b.Q5_K_M.gguf
+    size: 1993390080
+  - name: stable-code-3b.Q5_K_S.gguf
+    size: 1941862400
+  - name: stable-code-3b.Q6_K.gguf
+    size: 2295984640
+  - name: stable-code-3b.Q8_0.gguf
+    size: 2972925440
+- category: generic
+  datasets:
+  - GBaker/MedQA-USMLE-4-options
+  - cognitivecomputations/samantha-data
+  - shibing624/medical
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/647433130da364bd0d014179/d_Xhm637GpIcvKNM1nluR.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-17 17:26:14+00:00
+  license: llama2
+  model_creator: Sethu Iyer
+  model_creator_link: sethuiyer
+  name: Dr_Samantha-7B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: dr_samantha-7b.Q2_K.gguf
+    size: 2532868576
+  - name: dr_samantha-7b.Q3_K_L.gguf
+    size: 3597116288
+  - name: dr_samantha-7b.Q3_K_M.gguf
+    size: 3298009984
+  - name: dr_samantha-7b.Q3_K_S.gguf
+    size: 2948309888
+  - name: dr_samantha-7b.Q4_0.gguf
+    size: 3825812896
+  - name: dr_samantha-7b.Q4_K_M.gguf
+    size: 4081010080
+  - name: dr_samantha-7b.Q4_K_S.gguf
+    size: 3856745888
+  - name: dr_samantha-7b.Q5_0.gguf
+    size: 4651698080
+  - name: dr_samantha-7b.Q5_K_M.gguf
+    size: 4783163296
+  - name: dr_samantha-7b.Q5_K_S.gguf
+    size: 4651698080
+  - name: dr_samantha-7b.Q6_K.gguf
+    size: 5529201088
+  - name: dr_samantha-7b.Q8_0.gguf
+    size: 7161098624
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-17 17:08:24+00:00
+  license: apache-2.0
+  model_creator: Maxime Labonne
+  model_creator_link: mlabonne
+  name: NeuralBeagle14-7B-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: neuralbeagle14-7b.Q2_K.gguf
+    size: 2719242144
+  - name: neuralbeagle14-7b.Q3_K_L.gguf
+    size: 3822024608
+  - name: neuralbeagle14-7b.Q3_K_M.gguf
+    size: 3518986144
+  - name: neuralbeagle14-7b.Q3_K_S.gguf
+    size: 3164567456
+  - name: neuralbeagle14-7b.Q4_0.gguf
+    size: 4108916640
+  - name: neuralbeagle14-7b.Q4_K_M.gguf
+    size: 4368439200
+  - name: neuralbeagle14-7b.Q4_K_S.gguf
+    size: 4140373920
+  - name: neuralbeagle14-7b.Q5_0.gguf
+    size: 4997715872
+  - name: neuralbeagle14-7b.Q5_K_M.gguf
+    size: 5131409312
+  - name: neuralbeagle14-7b.Q5_K_S.gguf
+    size: 4997715872
+  - name: neuralbeagle14-7b.Q6_K.gguf
+    size: 5942065056
+  - name: neuralbeagle14-7b.Q8_0.gguf
+    size: 7695857568

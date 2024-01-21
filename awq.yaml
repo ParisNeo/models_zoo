@@ -15838,3 +15838,131 @@
   variants:
   - name: model-00001-of-00002.safetensors
     size: 9982227400
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62e3b6ab0c2a907c388e4965/I5F9O8dcRuY2HgFmXJAxH.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 20:12:06+00:00
+  license: apache-2.0
+  model_creator: Disco Research
+  model_creator_link: DiscoResearch
+  name: DiscoLM_German_7b_v1-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150913000
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62e3b6ab0c2a907c388e4965/I5F9O8dcRuY2HgFmXJAxH.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 20:12:06+00:00
+  license: apache-2.0
+  model_creator: Disco Research
+  model_creator_link: DiscoResearch
+  name: DiscoLM_German_7b_v1-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150913000
+- category: generic
+  ctx_size: -1
+  datasets:
+  - hromi/winograd_dpo_basic
+  description: ''
+  last_commit_time: 2024-01-17 22:19:15+00:00
+  license: apache-2.0
+  model_creator: UDK dot AI
+  model_creator_link: udkai
+  name: Garrulus-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-01-17 21:50:36+00:00
+  license: apache-2.0
+  model_creator: Zain ul Abideen
+  model_creator_link: abideen
+  name: DareVox-7B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-01-17 21:21:04+00:00
+  license: apache-2.0
+  model_creator: Zain ul Abideen
+  model_creator_link: abideen
+  name: NexoNimbus-7B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/643033401572f43a4818cea3/sAmoR4pofXIAoF-yJl8uo.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-17 20:36:44+00:00
+  license: apache-2.0
+  model_creator: Sanji Watsuki
+  model_creator_link: SanjiWatsuki
+  name: Lelantos-Maid-DPO-7B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150913000
+- category: generic
+  ctx_size: -1
+  datasets:
+  - GBaker/MedQA-USMLE-4-options
+  - cognitivecomputations/samantha-data
+  - shibing624/medical
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/647433130da364bd0d014179/d_Xhm637GpIcvKNM1nluR.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-17 17:48:04+00:00
+  license: llama2
+  model_creator: Sethu Iyer
+  model_creator_link: sethuiyer
+  name: Dr_Samantha-7B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 3889407896
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-01-17 17:08:24+00:00
+  license: apache-2.0
+  model_creator: Maxime Labonne
+  model_creator_link: mlabonne
+  name: NeuralBeagle14-7B-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232
