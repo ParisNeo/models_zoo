@@ -15966,3 +15966,30 @@
   variants:
   - name: model.safetensors
     size: 4150880232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-01-24 22:13:09+00:00
+  license: unknown
+  name: WestLake-7B-v2-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/noauth/sNRD0kXRbsGw0uhYcnMZR.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-24 21:42:33+00:00
+  license: apache-2.0
+  model_creator: PetroGPT
+  model_creator_link: PetroGPT
+  name: WestSeverus-7B-DPO-AWQ
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: awq
+  variants:
+  - name: model.safetensors
+    size: 4150880232

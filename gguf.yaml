@@ -48871,3 +48871,57 @@
     size: 5942065056
   - name: neuralbeagle14-7b.Q8_0.gguf
     size: 7695857568
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-24 22:08:00+00:00
+  license: unknown
+  name: Everyone-Coder-33B-Base-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants: []
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-24 22:13:09+00:00
+  license: unknown
+  name: WestLake-7B-v2-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants: []
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/noauth/sNRD0kXRbsGw0uhYcnMZR.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-24 21:42:33+00:00
+  license: apache-2.0
+  model_creator: PetroGPT
+  model_creator_link: PetroGPT
+  name: WestSeverus-7B-DPO-GGUF
+  quantizer: TheBloke
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: westseverus-7b-dpo.Q2_K.gguf
+    size: 2719241920
+  - name: westseverus-7b-dpo.Q3_K_L.gguf
+    size: 3822024384
+  - name: westseverus-7b-dpo.Q3_K_M.gguf
+    size: 3518985920
+  - name: westseverus-7b-dpo.Q3_K_S.gguf
+    size: 3164567232
+  - name: westseverus-7b-dpo.Q4_0.gguf
+    size: 4108916416
+  - name: westseverus-7b-dpo.Q4_K_M.gguf
+    size: 4368438976
+  - name: westseverus-7b-dpo.Q4_K_S.gguf
+    size: 4140373696
+  - name: westseverus-7b-dpo.Q5_0.gguf
+    size: 4997715648
+  - name: westseverus-7b-dpo.Q5_K_M.gguf
+    size: 5131409088
+  - name: westseverus-7b-dpo.Q5_K_S.gguf
+    size: 4997715648
+  - name: westseverus-7b-dpo.Q6_K.gguf
+    size: 5942064832
+  - name: westseverus-7b-dpo.Q8_0.gguf
+    size: 7695857344
