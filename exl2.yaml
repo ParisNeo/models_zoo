@@ -5970,3 +5970,33 @@
   variants:
   - name: adapter_model.bin
     size: 975479085
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-01 10:23:32+00:00
+  license: apache-2.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: bttest-7b
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 4943178720
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-21 09:29:17+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: cinetrainer-34b
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: exl2
+  variants: []

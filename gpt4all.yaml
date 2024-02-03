@@ -216,8 +216,8 @@
     size: 3825903776
 - category: generic
   datasets: null
-  description: <strong>LocalDocs text embeddings model</strong><br><ul><li>Necessary
-    for LocalDocs feature<li>Used for retrieval augmented generation (RAG)
+  description: <strong>LocalDocs text embeddings model</strong><br><ul><li>For use
+    with LocalDocs feature<li>Used for retrieval augmented generation (RAG)
   last_commit_time: null
   license: apache-2.0
   model_creator: Mistral + OpenOrca
