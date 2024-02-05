@@ -6000,3 +6000,133 @@
   rank: 10000000000.0
   type: exl2
   variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 11:15:25+00:00
+  license: apache-2.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: worthless-7b
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 4943162336
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ai2_arc
+  - allenai/ultrafeedback_binarized_cleaned
+  - argilla/distilabel-intel-orca-dpo-pairs
+  - jondurbin/airoboros-3.2
+  - codeparrot/apps
+  - facebook/belebele
+  - bluemoon-fandom-1-1-rp-cleaned
+  - boolq
+  - camel-ai/biology
+  - camel-ai/chemistry
+  - camel-ai/math
+  - camel-ai/physics
+  - jondurbin/contextual-dpo-v0.1
+  - jondurbin/gutenberg-dpo-v0.1
+  - jondurbin/py-dpo-v0.1
+  - jondurbin/truthy-dpo-v0.1
+  - LDJnr/Capybara
+  - jondurbin/cinematika-v0.1
+  - WizardLM/WizardLM_evol_instruct_70k
+  - glaiveai/glaive-function-calling-v2
+  - jondurbin/gutenberg-dpo-v0.1
+  - grimulkan/LimaRP-augmented
+  - lmsys/lmsys-chat-1m
+  - ParisNeo/lollms_aware_dataset
+  - TIGER-Lab/MathInstruct
+  - Muennighoff/natural-instructions
+  - openbookqa
+  - kingbri/PIPPA-shareGPT
+  - piqa
+  - Vezora/Tested-22k-Python-Alpaca
+  - ropes
+  - cakiki/rosetta-code
+  - Open-Orca/SlimOrca
+  - b-mc2/sql-create-context
+  - squad_v2
+  - mattpscott/airoboros-summarization
+  - migtissera/Synthia-v1.3
+  - unalignment/toxic-dpo-v0.2
+  - WhiteRabbitNeo/WRN-Chapter-1
+  - WhiteRabbitNeo/WRN-Chapter-2
+  - winogrande
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 08:51:35+00:00
+  license: apache-2.0
+  model_creator: jondurbin
+  model_creator_link: mistralai
+  name: bagel-dpo-7b-v0.4
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00004.safetensors
+    size: 3953795912
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ai2_arc
+  - allenai/ultrafeedback_binarized_cleaned
+  - argilla/distilabel-intel-orca-dpo-pairs
+  - jondurbin/airoboros-3.2
+  - codeparrot/apps
+  - facebook/belebele
+  - bluemoon-fandom-1-1-rp-cleaned
+  - boolq
+  - camel-ai/biology
+  - camel-ai/chemistry
+  - camel-ai/math
+  - camel-ai/physics
+  - jondurbin/contextual-dpo-v0.1
+  - jondurbin/gutenberg-dpo-v0.1
+  - jondurbin/py-dpo-v0.1
+  - jondurbin/truthy-dpo-v0.1
+  - LDJnr/Capybara
+  - jondurbin/cinematika-v0.1
+  - WizardLM/WizardLM_evol_instruct_70k
+  - glaiveai/glaive-function-calling-v2
+  - jondurbin/gutenberg-dpo-v0.1
+  - grimulkan/LimaRP-augmented
+  - lmsys/lmsys-chat-1m
+  - ParisNeo/lollms_aware_dataset
+  - TIGER-Lab/MathInstruct
+  - Muennighoff/natural-instructions
+  - openbookqa
+  - kingbri/PIPPA-shareGPT
+  - piqa
+  - Vezora/Tested-22k-Python-Alpaca
+  - ropes
+  - cakiki/rosetta-code
+  - Open-Orca/SlimOrca
+  - b-mc2/sql-create-context
+  - squad_v2
+  - mattpscott/airoboros-summarization
+  - migtissera/Synthia-v1.3
+  - unalignment/toxic-dpo-v0.2
+  - WhiteRabbitNeo/WRN-Chapter-1
+  - WhiteRabbitNeo/WRN-Chapter-2
+  - winogrande
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 09:34:42+00:00
+  license: apache-2.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: bagel-7b-v0.4
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 4943686624
