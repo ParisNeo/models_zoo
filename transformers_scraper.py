@@ -46,11 +46,13 @@ MODEL_BUILDER="Teknium"
 MODEL_BUILDER="NousResearch"
 MODEL_BUILDER="mistralai"
 MODEL_BUILDER="turboderp"
+MODEL_BUILDER="Filtering"
+
 
 # MODEL_BUILDER="jondurbin"
 # MODEL_BUILDER="NousResearch"
-# DEFAULT_MODEL_TYPE="transformers"
-DEFAULT_MODEL_TYPE="exl2"
+DEFAULT_MODEL_TYPE="transformers"
+# DEFAULT_MODEL_TYPE="exl2"
 
 def hub_get_last_commit(repo_id):
     """
