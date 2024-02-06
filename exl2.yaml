@@ -6130,3 +6130,917 @@
   variants:
   - name: model-00001-of-00003.safetensors
     size: 4943686624
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 18:08:32+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-7B-Chat-GPTQ-Int8
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 3992006776
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 18:09:03+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-7B-Chat-GPTQ-Int4
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 3993490832
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 06:59:23+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-7B-Chat-AWQ
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 3996896840
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-30 17:20:37+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-7B-Chat
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00004.safetensors
+    size: 3988014264
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 17:35:25+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-72B-Chat-GPTQ-Int8
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00020.safetensors
+    size: 3865877360
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 17:48:22+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-72B-Chat-GPTQ-Int4
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00011.safetensors
+    size: 3992353120
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 06:56:21+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-72B-Chat-AWQ
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00011.safetensors
+    size: 3990923640
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-30 17:20:47+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-72B-Chat
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00038.safetensors
+    size: 3833644176
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 18:13:19+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-4B-Chat-GPTQ-Int8
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 1997619176
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 18:13:45+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-4B-Chat-GPTQ-Int4
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 2000109352
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 07:00:15+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-4B-Chat-AWQ
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model.safetensors
+    size: 3204894256
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-30 17:20:32+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-4B-Chat
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 3989731976
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 18:07:10+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-14B-Chat-GPTQ-Int8
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00005.safetensors
+    size: 3996880360
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 18:07:57+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-14B-Chat-GPTQ-Int4
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 3981821832
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 06:58:56+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-14B-Chat-AWQ
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 3978058232
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-30 17:20:42+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-14B-Chat
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00008.safetensors
+    size: 3938903200
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 18:22:03+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-1.8B-Chat-GPTQ-Int8
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 1868067024
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 18:22:45+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-1.8B-Chat-GPTQ-Int4
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model.safetensors
+    size: 1878527952
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 07:00:55+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-1.8B-Chat-AWQ
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model.safetensors
+    size: 1876066752
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-30 17:20:21+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-1.8B-Chat
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model.safetensors
+    size: 3673690696
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 18:23:54+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-0.5B-Chat-GPTQ-Int8
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model.safetensors
+    size: 628245152
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 18:23:22+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-0.5B-Chat-GPTQ-Int4
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model.safetensors
+    size: 472899904
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 07:01:23+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-0.5B-Chat-AWQ
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model.safetensors
+    size: 782808312
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-31 07:08:48+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-0.5B-Chat
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model.safetensors
+    size: 1239173352
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-22 17:01:16+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-4B
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 3989731976
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-22 16:53:32+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-1.8B
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model.safetensors
+    size: 3673690696
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-22 16:30:11+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-0.5B
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model.safetensors
+    size: 1239173352
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-22 17:14:21+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-7B
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00004.safetensors
+    size: 3988014264
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-23 15:06:37+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-72B
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00038.safetensors
+    size: 3833644176
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-22 17:15:10+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-14B
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00008.safetensors
+    size: 3938903200
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 11:53:26+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-7B-Chat-GGUF
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 11:49:01+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-72B-Chat-GGUF
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 12:02:22+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-4B-Chat-GGUF
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 11:56:27+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-14B-Chat-GGUF
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 12:00:35+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-1.8B-Chat-GGUF
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 11:58:20+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-0.5B-Chat-GGUF
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-31 07:18:17+00:00
+  license: unknown
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-VL-Chat-Int4
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00005.safetensors
+    size: 1982145984
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-20 03:45:22+00:00
+  license: unknown
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-VL-Chat
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: pytorch_model-00001-of-00010.bin
+    size: 1964070255
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-08-18 01:20:59+00:00
+  license: unknown
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-VL
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: pytorch_model-00001-of-00010.bin
+    size: 1964070447
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-13 09:49:21+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-tokenizer
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-26 16:16:31+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-72B
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00082.safetensors
+    size: 2491416712
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-30 03:41:39+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-72B-Chat-Int4
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00021.safetensors
+    size: 2491416712
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-29 09:37:07+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-72B-Chat
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00082.safetensors
+    size: 2491416712
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-09-24 09:08:41+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-7B
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00008.safetensors
+    size: 1964066488
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-30 03:42:05+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-72B-Chat-Int8
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00039.safetensors
+    size: 2491416712
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-09-25 11:02:17+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-7B-Chat-Int4
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 2040563808
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-09-24 09:09:29+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-7B-Chat
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00008.safetensors
+    size: 1964066488
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-10-11 08:20:52+00:00
+  license: unknown
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-7B-Chat-Int8
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00005.safetensors
+    size: 2027803784
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-10-12 07:23:31+00:00
+  license: unknown
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-14B-Chat-Int8
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00008.safetensors
+    size: 1987436664
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-09-24 02:27:30+00:00
+  license: unknown
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-14B-Chat-Int4
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00005.safetensors
+    size: 2047828192
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-09-24 02:27:58+00:00
+  license: unknown
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-14B-Chat
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00015.safetensors
+    size: 2047396712
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-09-24 02:28:41+00:00
+  license: unknown
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-14B
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00015.safetensors
+    size: 2047396712
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-30 02:58:15+00:00
+  license: unknown
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-1_8B-Chat-Int8
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model.safetensors
+    size: 2489973992
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-30 02:59:02+00:00
+  license: unknown
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-1_8B-Chat-Int4
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model.safetensors
+    size: 1878105016
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-30 02:56:11+00:00
+  license: unknown
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-1_8B-Chat
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 2039259008
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-30 02:55:15+00:00
+  license: unknown
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-1_8B
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 2039259008
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-30 09:38:14+00:00
+  license: unknown
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-Audio-Chat
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00009.safetensors
+    size: 1996924600
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-30 08:52:37+00:00
+  license: unknown
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen-Audio
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: model-00001-of-00009.safetensors
+    size: 1996924600
