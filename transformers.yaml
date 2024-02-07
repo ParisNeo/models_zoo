@@ -4797,3 +4797,722 @@
   variants:
   - name: model-00001-of-00009.safetensors
     size: 1996924600
+- category: generic
+  ctx_size: -1
+  datasets:
+  - emozilla/yarn-train-tokenized-32k-mistral
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-17 03:22:43+00:00
+  license: apache-2.0
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Yarn-Solar-10b-32k
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00005.bin
+    size: 4943186400
+- category: generic
+  ctx_size: -1
+  datasets:
+  - emozilla/yarn-train-tokenized-32k-mistral
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-17 03:14:49+00:00
+  license: apache-2.0
+  model_creator: NousResearch
+  model_creator_link: https://huggingface.co/NousResearch
+  name: Yarn-Solar-10b-64k
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00005.bin
+    size: 4943186400
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 11:15:25+00:00
+  license: apache-2.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: worthless-7b
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 4943162336
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ai2_arc
+  - allenai/ultrafeedback_binarized_cleaned
+  - argilla/distilabel-intel-orca-dpo-pairs
+  - jondurbin/airoboros-3.2
+  - codeparrot/apps
+  - facebook/belebele
+  - bluemoon-fandom-1-1-rp-cleaned
+  - boolq
+  - camel-ai/biology
+  - camel-ai/chemistry
+  - camel-ai/math
+  - camel-ai/physics
+  - jondurbin/contextual-dpo-v0.1
+  - jondurbin/gutenberg-dpo-v0.1
+  - jondurbin/py-dpo-v0.1
+  - jondurbin/truthy-dpo-v0.1
+  - LDJnr/Capybara
+  - jondurbin/cinematika-v0.1
+  - WizardLM/WizardLM_evol_instruct_70k
+  - glaiveai/glaive-function-calling-v2
+  - jondurbin/gutenberg-dpo-v0.1
+  - grimulkan/LimaRP-augmented
+  - lmsys/lmsys-chat-1m
+  - ParisNeo/lollms_aware_dataset
+  - TIGER-Lab/MathInstruct
+  - Muennighoff/natural-instructions
+  - openbookqa
+  - kingbri/PIPPA-shareGPT
+  - piqa
+  - Vezora/Tested-22k-Python-Alpaca
+  - ropes
+  - cakiki/rosetta-code
+  - Open-Orca/SlimOrca
+  - b-mc2/sql-create-context
+  - squad_v2
+  - mattpscott/airoboros-summarization
+  - migtissera/Synthia-v1.3
+  - unalignment/toxic-dpo-v0.2
+  - WhiteRabbitNeo/WRN-Chapter-1
+  - WhiteRabbitNeo/WRN-Chapter-2
+  - winogrande
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 08:51:35+00:00
+  license: apache-2.0
+  model_creator: jondurbin
+  model_creator_link: mistralai
+  name: bagel-dpo-7b-v0.4
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00004.safetensors
+    size: 3953795912
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ai2_arc
+  - allenai/ultrafeedback_binarized_cleaned
+  - argilla/distilabel-intel-orca-dpo-pairs
+  - jondurbin/airoboros-3.2
+  - codeparrot/apps
+  - facebook/belebele
+  - bluemoon-fandom-1-1-rp-cleaned
+  - boolq
+  - camel-ai/biology
+  - camel-ai/chemistry
+  - camel-ai/math
+  - camel-ai/physics
+  - jondurbin/contextual-dpo-v0.1
+  - jondurbin/gutenberg-dpo-v0.1
+  - jondurbin/py-dpo-v0.1
+  - jondurbin/truthy-dpo-v0.1
+  - LDJnr/Capybara
+  - jondurbin/cinematika-v0.1
+  - WizardLM/WizardLM_evol_instruct_70k
+  - glaiveai/glaive-function-calling-v2
+  - jondurbin/gutenberg-dpo-v0.1
+  - grimulkan/LimaRP-augmented
+  - lmsys/lmsys-chat-1m
+  - ParisNeo/lollms_aware_dataset
+  - TIGER-Lab/MathInstruct
+  - Muennighoff/natural-instructions
+  - openbookqa
+  - kingbri/PIPPA-shareGPT
+  - piqa
+  - Vezora/Tested-22k-Python-Alpaca
+  - ropes
+  - cakiki/rosetta-code
+  - Open-Orca/SlimOrca
+  - b-mc2/sql-create-context
+  - squad_v2
+  - mattpscott/airoboros-summarization
+  - migtissera/Synthia-v1.3
+  - unalignment/toxic-dpo-v0.2
+  - WhiteRabbitNeo/WRN-Chapter-1
+  - WhiteRabbitNeo/WRN-Chapter-2
+  - winogrande
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 09:34:42+00:00
+  license: apache-2.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: bagel-7b-v0.4
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 4943686624
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-21 09:29:17+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: cinetrainer-34b
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-capybara-dpo-7k-binarized
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 23:02:30+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Quyen-SE-v0.1
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model.bin
+    size: 1239237721
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-intel-orca-dpo-pairs
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-06 16:39:52+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Quyen-Pro-v0.1-GGUF
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-intel-orca-dpo-pairs
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-06 15:33:12+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Quyen-Plus-v0.1-GGUF
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-intel-orca-dpo-pairs
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-06 14:29:10+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Quyen-v0.1-GGUF
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-intel-orca-dpo-pairs
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-06 14:08:29+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Quyen-Mini-v0.1-GGUF
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-intel-orca-dpo-pairs
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-06 11:55:19+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Quyen-SE-v0.1-GGUF
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-capybara-dpo-7k-binarized
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 16:16:32+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Quyen-Pro-Max-v0.1
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00030.bin
+    size: 4773255895
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-capybara-dpo-7k-binarized
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-05 16:50:31+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Quyen-Pro-v0.1
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00006.safetensors
+    size: 4919426680
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-capybara-dpo-7k-binarized
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-06 00:24:43+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Quyen-Plus-v0.1
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00004.safetensors
+    size: 4988482416
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-capybara-dpo-7k-binarized
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-05 13:44:44+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Quyen-v0.1
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4990049682
+- category: generic
+  ctx_size: -1
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-capybara-dpo-7k-binarized
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-05 04:26:03+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Quyen-Mini-v0.1
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model.bin
+    size: 3673754713
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-05 10:42:04+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: Qwen
+  name: Quyen-mlx
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 5342610753
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  license: unknown
+  name: Quyen-Mini-4e
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  license: unknown
+  name: Quyen-4e
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  license: unknown
+  name: Quyen-SE-4e
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-30 11:16:36+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: qnguyen3
+  name: Mixsmol-4x400M-v0.1-epoch3
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model.safetensors
+    size: 3548419176
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-28 03:04:11+00:00
+  license: apache-2.0
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Mixsmol-4x400M-v0.1-epoch2
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model.safetensors
+    size: 3548419176
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-25 10:26:13+00:00
+  license: apache-2.0
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Mixsmol-4x400M-v0.1-epoch1
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model.safetensors
+    size: 3548419176
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-12 16:58:23+00:00
+  license: llama2
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: vinallama-7b-chat
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 9913433834
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-01-04 16:56:55+00:00
+  license: apache-2.0
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: vinallama-12.5b-chat-DUS
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 9993093512
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-20 07:44:32+00:00
+  license: llama2
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: vinallama-2.7b-chat-GGUF
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-16 02:46:22+00:00
+  license: llama2
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: vinallama-7b-chat-GGUF
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-08 15:41:13+00:00
+  license: llama2
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: vinallama-2.7b
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model.bin
+    size: 5549692417
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-28 07:45:05+00:00
+  license: llama2
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: vinallama-7b
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 9913420458
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-12-14 09:21:33+00:00
+  license: llama2
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: vinallama-2.7b-chat
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model.bin
+    size: 5549708865
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  license: unknown
+  name: vinallama-hermes-small
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - vilm/OpenOrca-Viet
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-08-05 09:48:56+00:00
+  license: unknown
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: vietcuna-7b-v3
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 9976221672
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-01 00:12:21+00:00
+  license: apache-2.0
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: vulture-180b
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: adapter_model.bin
+    size: 1069783437
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-09-20 14:17:40+00:00
+  license: apache-2.0
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: vulture-40b
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00022.safetensors
+    size: 3934456216
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-07-14 13:34:02+00:00
+  license: unknown
+  name: vietcuna-3b-v2
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-18 07:42:34+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: vietcuna-3b-ggml-fp16
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: ggml-model-vietcuna-3b-f16.bin
+    size: 7294847671
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2023-06-18 07:47:35+00:00
+  license: unknown
+  name: vietcuna-3b-ggml-fp16-q4_0
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-17 02:23:22+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: vietcuna-3b
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model.safetensors
+    size: 6005158144
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-06-16 12:20:15+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: vietcuna-3b-qlora
+  quantizer: vilm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: adapter_model.bin
+    size: 39409357

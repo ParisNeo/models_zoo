@@ -49314,3 +49314,173 @@
     size: 41876006880
   - name: fusionnet_34bx2_moe.Q6_K.gguf
     size: 49891694560
+- category: generic
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-intel-orca-dpo-pairs
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-06 16:39:52+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Quyen-Pro-v0.1-GGUF
+  quantizer: vilm
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: Quyen-Pro-v0.1_Q2_K.gguf
+    size: 6087290240
+  - name: Quyen-Pro-v0.1_Q3_K_M.gguf
+    size: 7418264960
+  - name: Quyen-Pro-v0.1_Q4_0.gguf
+    size: 8179322240
+  - name: Quyen-Pro-v0.1_Q4_K_M.gguf
+    size: 9191034240
+  - name: Quyen-Pro-v0.1_Q5_0.gguf
+    size: 9852784000
+  - name: Quyen-Pro-v0.1_Q5_K_M.gguf
+    size: 10535996800
+  - name: Quyen-Pro-v0.1_Q6_K.gguf
+    size: 12310158720
+  - name: Quyen-Pro-v0.1_Q8_0.gguf
+    size: 15061728640
+  - name: Quyen-Pro-v0.1_f16.gguf
+    size: 28342598944
+- category: generic
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-intel-orca-dpo-pairs
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-06 15:33:12+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Quyen-Plus-v0.1-GGUF
+  quantizer: vilm
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: Quyen-Plus-v0.1_Q2_K.gguf
+    size: 3103825024
+  - name: Quyen-Plus-v0.1_Q3_K_M.gguf
+    size: 3918859392
+  - name: Quyen-Plus-v0.1_Q4_0.gguf
+    size: 4511906944
+  - name: Quyen-Plus-v0.1_Q4_K_M.gguf
+    size: 4767104128
+  - name: Quyen-Plus-v0.1_Q5_0.gguf
+    size: 5399198848
+  - name: Quyen-Plus-v0.1_Q5_K_M.gguf
+    size: 5530664064
+  - name: Quyen-Plus-v0.1_Q6_K.gguf
+    size: 6341946496
+  - name: Quyen-Plus-v0.1_Q8_0.gguf
+    size: 8211795072
+  - name: Quyen-Plus-v0.1_f16.gguf
+    size: 15449918496
+- category: generic
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-intel-orca-dpo-pairs
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-06 14:29:10+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Quyen-v0.1-GGUF
+  quantizer: vilm
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: Quyen-v0.1_Q2_K.gguf
+    size: 1620632608
+  - name: Quyen-v0.1_Q3_K_M.gguf
+    size: 2026850848
+  - name: Quyen-v0.1_Q4_0.gguf
+    size: 2330085408
+  - name: Quyen-v0.1_Q4_K_M.gguf
+    size: 2455115808
+  - name: Quyen-v0.1_Q5_0.gguf
+    size: 2775197728
+  - name: Quyen-v0.1_Q5_K_M.gguf
+    size: 2839607328
+  - name: Quyen-v0.1_Q6_K.gguf
+    size: 3248129568
+  - name: Quyen-v0.1_Q8_0.gguf
+    size: 4204735008
+  - name: Quyen-v0.1_f16.gguf
+    size: 7907723744
+- category: generic
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-intel-orca-dpo-pairs
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-06 14:08:29+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Quyen-Mini-v0.1-GGUF
+  quantizer: vilm
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: Quyen-Mini-v0.1_Q2_K.gguf
+    size: 863477536
+  - name: Quyen-Mini-v0.1_Q3_K_M.gguf
+    size: 1015879456
+  - name: Quyen-Mini-v0.1_Q4_0.gguf
+    size: 1120235296
+  - name: Quyen-Mini-v0.1_Q4_K_M.gguf
+    size: 1217752864
+  - name: Quyen-Mini-v0.1_Q5_0.gguf
+    size: 1310912288
+  - name: Quyen-Mini-v0.1_Q5_K_M.gguf
+    size: 1376775968
+  - name: Quyen-Mini-v0.1_Q6_K.gguf
+    size: 1579026208
+  - name: Quyen-Mini-v0.1_Q8_0.gguf
+    size: 1958303520
+  - name: Quyen-Mini-v0.1_f16.gguf
+    size: 3680098016
+- category: generic
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-intel-orca-dpo-pairs
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/630430583926de1f7ec62c6b/MpKn9bYwr5AMUHHA7SceP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-06 11:55:19+00:00
+  license: other
+  model_creator: vilm
+  model_creator_link: https://huggingface.co/vilm
+  name: Quyen-SE-v0.1-GGUF
+  quantizer: vilm
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: Quyen-SE-v0.1_Q2_K.gguf
+    size: 298412832
+  - name: Quyen-SE-v0.1_Q3_K_M.gguf
+    size: 349882144
+  - name: Quyen-SE-v0.1_Q4_0.gguf
+    size: 394990368
+  - name: Quyen-SE-v0.1_Q4_K_M.gguf
+    size: 407155488
+  - name: Quyen-SE-v0.1_Q5_0.gguf
+    size: 452973344
+  - name: Quyen-SE-v0.1_Q5_K_M.gguf
+    size: 459240224
+  - name: Quyen-SE-v0.1_Q6_K.gguf
+    size: 514580256
+  - name: Quyen-SE-v0.1_Q8_0.gguf
+    size: 664602400
+  - name: Quyen-SE-v0.1_f16.gguf
+    size: 1245333216
