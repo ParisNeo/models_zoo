@@ -5516,3 +5516,1102 @@
   variants:
   - name: adapter_model.bin
     size: 39409357
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-08 21:41:02+00:00
+  license: apache-2.0
+  model_creator: jondurbin
+  model_creator_link: https://huggingface.co/jondurbin
+  name: worthless-7b-2
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00003.safetensors
+    size: 4943162336
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-02-08 15:25:45+00:00
+  license: unknown
+  name: worthless-7b-1
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ai2_arc
+  - allenai/ultrafeedback_binarized_cleaned
+  - argilla/distilabel-intel-orca-dpo-pairs
+  - jondurbin/airoboros-3.2
+  - codeparrot/apps
+  - facebook/belebele
+  - bluemoon-fandom-1-1-rp-cleaned
+  - boolq
+  - camel-ai/biology
+  - camel-ai/chemistry
+  - camel-ai/math
+  - camel-ai/physics
+  - jondurbin/contextual-dpo-v0.1
+  - jondurbin/gutenberg-dpo-v0.1
+  - jondurbin/py-dpo-v0.1
+  - jondurbin/truthy-dpo-v0.1
+  - LDJnr/Capybara
+  - jondurbin/cinematika-v0.1
+  - WizardLM/WizardLM_evol_instruct_70k
+  - glaiveai/glaive-function-calling-v2
+  - jondurbin/gutenberg-dpo-v0.1
+  - grimulkan/LimaRP-augmented
+  - lmsys/lmsys-chat-1m
+  - ParisNeo/lollms_aware_dataset
+  - TIGER-Lab/MathInstruct
+  - Muennighoff/natural-instructions
+  - openbookqa
+  - kingbri/PIPPA-shareGPT
+  - piqa
+  - Vezora/Tested-22k-Python-Alpaca
+  - ropes
+  - cakiki/rosetta-code
+  - Open-Orca/SlimOrca
+  - b-mc2/sql-create-context
+  - squad_v2
+  - mattpscott/airoboros-summarization
+  - migtissera/Synthia-v1.3
+  - unalignment/toxic-dpo-v0.2
+  - WhiteRabbitNeo/WRN-Chapter-1
+  - WhiteRabbitNeo/WRN-Chapter-2
+  - winogrande
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-08 14:09:13+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: internlm
+  name: bagel-20b-v04
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00011.safetensors
+    size: 3855166232
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ai2_arc
+  - allenai/ultrafeedback_binarized_cleaned
+  - argilla/distilabel-intel-orca-dpo-pairs
+  - jondurbin/airoboros-3.2
+  - codeparrot/apps
+  - facebook/belebele
+  - bluemoon-fandom-1-1-rp-cleaned
+  - boolq
+  - camel-ai/biology
+  - camel-ai/chemistry
+  - camel-ai/math
+  - camel-ai/physics
+  - jondurbin/contextual-dpo-v0.1
+  - jondurbin/gutenberg-dpo-v0.1
+  - jondurbin/py-dpo-v0.1
+  - jondurbin/truthy-dpo-v0.1
+  - LDJnr/Capybara
+  - jondurbin/cinematika-v0.1
+  - WizardLM/WizardLM_evol_instruct_70k
+  - glaiveai/glaive-function-calling-v2
+  - jondurbin/gutenberg-dpo-v0.1
+  - grimulkan/LimaRP-augmented
+  - lmsys/lmsys-chat-1m
+  - ParisNeo/lollms_aware_dataset
+  - TIGER-Lab/MathInstruct
+  - Muennighoff/natural-instructions
+  - openbookqa
+  - kingbri/PIPPA-shareGPT
+  - piqa
+  - Vezora/Tested-22k-Python-Alpaca
+  - ropes
+  - cakiki/rosetta-code
+  - Open-Orca/SlimOrca
+  - b-mc2/sql-create-context
+  - squad_v2
+  - mattpscott/airoboros-summarization
+  - migtissera/Synthia-v1.3
+  - unalignment/toxic-dpo-v0.2
+  - WhiteRabbitNeo/WRN-Chapter-1
+  - WhiteRabbitNeo/WRN-Chapter-2
+  - winogrande
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-08 14:41:55+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: internlm
+  name: bagel-dpo-20b-v04-llama
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00004.safetensors
+    size: 9940821088
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ai2_arc
+  - allenai/ultrafeedback_binarized_cleaned
+  - argilla/distilabel-intel-orca-dpo-pairs
+  - jondurbin/airoboros-3.2
+  - codeparrot/apps
+  - facebook/belebele
+  - bluemoon-fandom-1-1-rp-cleaned
+  - boolq
+  - camel-ai/biology
+  - camel-ai/chemistry
+  - camel-ai/math
+  - camel-ai/physics
+  - jondurbin/contextual-dpo-v0.1
+  - jondurbin/gutenberg-dpo-v0.1
+  - jondurbin/py-dpo-v0.1
+  - jondurbin/truthy-dpo-v0.1
+  - LDJnr/Capybara
+  - jondurbin/cinematika-v0.1
+  - WizardLM/WizardLM_evol_instruct_70k
+  - glaiveai/glaive-function-calling-v2
+  - jondurbin/gutenberg-dpo-v0.1
+  - grimulkan/LimaRP-augmented
+  - lmsys/lmsys-chat-1m
+  - ParisNeo/lollms_aware_dataset
+  - TIGER-Lab/MathInstruct
+  - Muennighoff/natural-instructions
+  - openbookqa
+  - kingbri/PIPPA-shareGPT
+  - piqa
+  - Vezora/Tested-22k-Python-Alpaca
+  - ropes
+  - cakiki/rosetta-code
+  - Open-Orca/SlimOrca
+  - b-mc2/sql-create-context
+  - squad_v2
+  - mattpscott/airoboros-summarization
+  - migtissera/Synthia-v1.3
+  - unalignment/toxic-dpo-v0.2
+  - WhiteRabbitNeo/WRN-Chapter-1
+  - WhiteRabbitNeo/WRN-Chapter-2
+  - winogrande
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-08 14:09:27+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: internlm
+  name: bagel-20b-v04-llama
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00004.safetensors
+    size: 9940821088
+- category: generic
+  ctx_size: -1
+  datasets:
+  - ai2_arc
+  - allenai/ultrafeedback_binarized_cleaned
+  - argilla/distilabel-intel-orca-dpo-pairs
+  - jondurbin/airoboros-3.2
+  - codeparrot/apps
+  - facebook/belebele
+  - bluemoon-fandom-1-1-rp-cleaned
+  - boolq
+  - camel-ai/biology
+  - camel-ai/chemistry
+  - camel-ai/math
+  - camel-ai/physics
+  - jondurbin/contextual-dpo-v0.1
+  - jondurbin/gutenberg-dpo-v0.1
+  - jondurbin/py-dpo-v0.1
+  - jondurbin/truthy-dpo-v0.1
+  - LDJnr/Capybara
+  - jondurbin/cinematika-v0.1
+  - WizardLM/WizardLM_evol_instruct_70k
+  - glaiveai/glaive-function-calling-v2
+  - jondurbin/gutenberg-dpo-v0.1
+  - grimulkan/LimaRP-augmented
+  - lmsys/lmsys-chat-1m
+  - ParisNeo/lollms_aware_dataset
+  - TIGER-Lab/MathInstruct
+  - Muennighoff/natural-instructions
+  - openbookqa
+  - kingbri/PIPPA-shareGPT
+  - piqa
+  - Vezora/Tested-22k-Python-Alpaca
+  - ropes
+  - cakiki/rosetta-code
+  - Open-Orca/SlimOrca
+  - b-mc2/sql-create-context
+  - squad_v2
+  - mattpscott/airoboros-summarization
+  - migtissera/Synthia-v1.3
+  - unalignment/toxic-dpo-v0.2
+  - WhiteRabbitNeo/WRN-Chapter-1
+  - WhiteRabbitNeo/WRN-Chapter-2
+  - winogrande
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6453dafca647b92069ac541a/QkUleoJtHHdTkqtW54QIG.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-08 10:34:12+00:00
+  license: other
+  model_creator: jondurbin
+  model_creator_link: internlm
+  name: bagel-dpo-20b-v04
+  quantizer: jondurbin
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00011.safetensors
+    size: 3855166232
+- category: generic
+  ctx_size: -1
+  datasets:
+  - croissantllm/croissant_dataset
+  - croissantllm/CroissantLLM-2201-sft
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-24 09:18:45+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: CroissantLLMChat-v0.1
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 4984299296
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  - croissantllm/croissant_dataset
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-09 09:02:24+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: CroissantLLMBase
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  - manu/croissant_dataset
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 16:21:59+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: CroissantLLM_training_logs
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-26 08:17:06+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: CroissantCool
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: model-00001-of-00002.safetensors
+    size: 4984282912
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-08 20:37:53+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_185k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:49:25+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_180k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:46:40+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_175k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:43:56+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_170k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:38:25+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_160k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:41:09+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_165k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:35:37+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_155k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-09 09:11:49+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_150k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:32:49+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_145k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:30:08+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_140k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:27:16+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_135k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:24:31+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_130k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:21:49+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_125k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:19:06+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_120k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:13:30+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_110k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:16:16+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_115k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:10:38+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_105k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 15:52:14+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_95k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-31 16:22:58+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_100k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:05:05+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_85k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:07:53+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_90k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 13:59:31+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_75k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 14:02:19+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_80k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 13:54:09+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_65k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 13:56:49+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_70k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 13:51:33+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_60k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-27 11:39:38+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_50k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 13:48:52+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_55k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 13:46:12+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_45k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 13:43:37+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_40k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 13:38:06+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_30k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 13:40:49+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_35k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 13:35:20+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_25k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 13:32:33+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_20k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 13:26:55+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_10k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 13:29:43+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_15k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets:
+  - cerebras/SlimPajama-627B
+  - uonlp/CulturaX
+  - pg19
+  - bigcode/starcoderdata
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/60f2e021adf471cbdf8bb660/PuLzi_Evn-UPfTcZP0DSU.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-18 13:22:28+00:00
+  license: mit
+  model_creator: croissantllm
+  model_creator_link: https://huggingface.co/croissantllm
+  name: base_5k
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00002.bin
+    size: 4984330555
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-01-24 09:25:12+00:00
+  license: unknown
+  name: tinyllamaChat-v0.1
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-01-10 14:19:49+00:00
+  license: unknown
+  name: bloom1b7Chat
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants: []

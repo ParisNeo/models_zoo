@@ -15,6 +15,8 @@ python transformers_scraper.py --name jondurbin
 python transformers_scraper.py --name Qwen
 python transformers_scraper.py --name vilm
 
+python transformers_scraper.py --name CroissantLLM
+
 python gpt4all.py
 
 python open_ai_scraper.py
