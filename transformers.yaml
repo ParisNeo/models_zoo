@@ -6615,3 +6615,63 @@
   rank: 10000000000.0
   type: transformers
   variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62fc06a221c444a56f7cc595/ngyQKdhaykfC8lN6Jfqlz.png?w=200&h=200&f=face
+  last_commit_time: 2024-01-23 01:43:41+00:00
+  license: apache-2.0
+  model_creator: NousResearch
+  model_creator_link: meta-llama
+  name: Nous-Hermes-2-Llama-2-70B
+  quantizer: NousResearch
+  rank: 10000000000.0
+  type: transformers
+  variants:
+  - name: pytorch_model-00001-of-00029.bin
+    size: 4718698731
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-02-09 15:08:10+00:00
+  license: unknown
+  name: CroissantLLMBase-GGML
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-02-08 09:55:52+00:00
+  license: unknown
+  name: CroissantLLMBase-GGUF
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-02-09 14:49:10+00:00
+  license: unknown
+  name: CroissantLLMChat-v0.1-GGML
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
+- category: generic
+  ctx_size: -1
+  datasets: unknown
+  description: ''
+  last_commit_time: 2024-02-08 10:07:39+00:00
+  license: unknown
+  name: CroissantLLMChat-v0.1-GGUF
+  quantizer: croissantllm
+  rank: 10000000000.0
+  type: transformers
+  variants: []
