@@ -7,6 +7,7 @@ python exl2_scrapper.py --name Bartowski
 python gguf_scrapper.py
 python gguf_scrapper.py --name mys
 python gguf_scrapper.py --name vilm
+python gguf_scrapper.py --name miqudev
 python transformers_scraper.py --name llava-hf
 python transformers_scraper.py --nameA WizardLM
 python transformers_scraper.py --name Teknium
