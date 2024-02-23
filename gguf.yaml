@@ -49484,3 +49484,118 @@
     size: 664602400
   - name: Quyen-SE-v0.1_f16.gguf
     size: 1245333216
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6344a1b0762379fc63017e62/g4VIT8l2lZIj6AoQAwVy7.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-02 02:17:56+00:00
+  license: apache-2.0
+  model_creator: cmp-nct
+  model_creator_link: https://huggingface.co/cmp-nct
+  name: llava-1.6-gguf
+  quantizer: cmp-nct
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: ggml-mistral-7b-q_5_k.gguf
+    size: 5131409664
+  - name: ggml-mistral-q_4_k.gguf
+    size: 4368439552
+  - name: ggml-yi-34b-f16-q_3_k.gguf
+    size: 16654924032
+  - name: ggml-yi-34b-f16-q_5_k.gguf
+    size: 24321845504
+  - name: mmproj-llava-34b-f16-q6_k.gguf
+    size: 288750272
+  - name: mmproj-mistral7b-f16-q6_k.gguf
+    size: 257747648
+  - name: mmproj-mistral7b-f16.gguf
+    size: 624451168
+  - name: mmproj-vicuna13b-f16-q6_k.gguf
+    size: 266361536
+  - name: mmproj-vicuna13b-f16.gguf
+    size: 645434976
+  - name: mmproj-vicuna7b-f16-q6_k.gguf
+    size: 257747648
+  - name: mmproj-vicuna7b-f16.gguf
+    size: 624451168
+  - name: vicuna-13b-q5_k.gguf
+    size: 9229924352
+  - name: vicuna-13b-q6_k.gguf
+    size: 10679140352
+  - name: vicuna-7b-q5_k.gguf
+    size: 4783157056
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-01-31 03:05:21+00:00
+  license: unknown
+  name: xcomposer2_gguf_for_llama.cpp_development
+  quantizer: cmp-nct
+  rank: 10000000000.0
+  type: gguf
+  variants: []
+- category: generic
+  datasets: unknown
+  license: unknown
+  name: Yi-VL-34B-GGUF
+  quantizer: cmp-nct
+  rank: 10000000000.0
+  type: gguf
+  variants: []
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6344a1b0762379fc63017e62/g4VIT8l2lZIj6AoQAwVy7.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-21 18:13:58+00:00
+  license: llama2
+  model_creator: cmp-nct
+  model_creator_link: https://huggingface.co/cmp-nct
+  name: ShareGPT4V-13B-quant-gguf
+  quantizer: cmp-nct
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: ggml-model-Q3_K_S.gguf
+    size: 5658980320
+  - name: ggml-model-Q4_K.gguf
+    size: 7865956320
+  - name: mmproj-model-f16-q6_k.gguf
+    size: 266340640
+  - name: mmproj-model-f16.gguf
+    size: 645414048
+- category: generic
+  datasets: unknown
+  license: unknown
+  name: Yi-VL-6B-GGUF
+  quantizer: cmp-nct
+  rank: 10000000000.0
+  type: gguf
+  variants: []
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6344a1b0762379fc63017e62/g4VIT8l2lZIj6AoQAwVy7.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-06 13:40:51+00:00
+  license: llama2
+  model_creator: cmp-nct
+  model_creator_link: https://huggingface.co/cmp-nct
+  name: ShareGPT4V-7B-quant-gguf
+  quantizer: cmp-nct
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: mmproj-model-Q6_K.gguf
+    size: 257730816
+  - name: mmproj-model-f16.gguf
+    size: 624434336
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6344a1b0762379fc63017e62/g4VIT8l2lZIj6AoQAwVy7.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-09 00:08:13+00:00
+  license: apache-2.0
+  model_creator: cmp-nct
+  model_creator_link: https://huggingface.co/cmp-nct
+  name: Nous-Hermes-2-Vision-Alpha-GGUF
+  quantizer: cmp-nct
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: mmproj-model-f16.gguf
+    size: 839316352

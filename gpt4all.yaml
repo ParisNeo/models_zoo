@@ -8,14 +8,14 @@
   license: apache-2.0
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
-  name: mistral-7b-openorca.Q4_0.gguf
+  name: mistral-7b-openorca.gguf2.Q4_0.gguf
   quantizer: TheBloke
   rank: 10000000000.0
-  server: https://gpt4all.io/models/gguf/mistral-7b-openorca.Q4_0.gguf
+  server: https://gpt4all.io/models/gguf/mistral-7b-openorca.gguf2.Q4_0.gguf
   type: gpt4all
   variants:
-  - name: mistral-7b-openorca.Q4_0.gguf
-    size: 4108927744
+  - name: mistral-7b-openorca.gguf2.Q4_0.gguf
+    size: 4108928128
 - category: generic
   datasets: null
   description: <strong>Best overall fast instruction following model</strong><br><ul><li>Fast
