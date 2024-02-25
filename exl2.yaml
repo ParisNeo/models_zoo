@@ -7044,3 +7044,68 @@
   variants:
   - name: model-00001-of-00009.safetensors
     size: 1996924600
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2024-02-22 14:50:27+00:00
+  model_creator: unknown
+  name: Gemma-7B-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6074468560
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2024-02-22 09:56:08+00:00
+  model_creator: unknown
+  name: Gemma-7B-it-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 6074299836
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2024-02-16 01:02:27+00:00
+  model_creator: unknown
+  name: Smaug-72B-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output-00001-of-00005.safetensors
+    size: 8575292280
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2024-01-23 04:52:35+00:00
+  model_creator: unknown
+  name: Orion-14B-chat-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 8033832232
+- category: generic
+  ctx_size: -1
+  description: ''
+  icon: /bindings/bs_exllamav2/logo.png
+  last_commit_time: 2024-01-22 16:25:49+00:00
+  model_creator: unknown
+  name: Orion-14B-exl2
+  quantizer: turboderp
+  rank: 10000000000.0
+  type: exl2
+  variants:
+  - name: output.safetensors
+    size: 8033453616

@@ -2,10 +2,10 @@ python awq_scrapper.py
 python gptq_scrapper.py
 python gptq_scrapper.py --name LoneStriker
 
-python exl2_scrapper.py
-python exl2_scrapper.py --name turboderp
-python exl2_scrapper.py --name Bartowski
-python exl2_scrapper.py --name LoneStriker
+python exl2_scraper.py
+python exl2_scraper.py --name turboderp
+python exl2_scraper.py --name Bartowski
+python exl2_scraper.py --name LoneStriker
 
 python gguf_scrapper.py
 python gguf_scrapper.py --name mys
