@@ -49599,3 +49599,92 @@
   variants:
   - name: mmproj-model-f16.gguf
     size: 839316352
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/4XZP5aVsMWwzGx_313cqd.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-21 13:50:10+00:00
+  license: other
+  model_creator: mlabonne
+  model_creator_link: https://huggingface.co/mlabonne
+  name: gemma-2b-it-GGUF
+  quantizer: mlabonne
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: gemma-2b-it.Q2_K.gguf
+    size: 899876576
+  - name: gemma-2b-it.Q3_K_L.gguf
+    size: 1260791520
+  - name: gemma-2b-it.Q3_K_M.gguf
+    size: 1179002592
+  - name: gemma-2b-it.Q3_K_S.gguf
+    size: 1083180768
+  - name: gemma-2b-it.Q4_0.gguf
+    size: 1416021728
+  - name: gemma-2b-it.Q4_1.gguf
+    size: 1572652768
+  - name: gemma-2b-it.Q4_K_M.gguf
+    size: 1495095008
+  - name: gemma-2b-it.Q4_K_S.gguf
+    size: 1424672480
+  - name: gemma-2b-it.Q5_0.gguf
+    size: 1729283808
+  - name: gemma-2b-it.Q5_1.gguf
+    size: 1885914848
+  - name: gemma-2b-it.Q5_K_M.gguf
+    size: 1770018528
+  - name: gemma-2b-it.Q5_K_S.gguf
+    size: 1729283808
+  - name: gemma-2b-it.Q6_K.gguf
+    size: 2062124768
+  - name: gemma-2b-it.Q8_0.gguf
+    size: 2669070048
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/4XZP5aVsMWwzGx_313cqd.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-21 15:51:09+00:00
+  license: other
+  model_creator: mlabonne
+  model_creator_link: https://huggingface.co/mlabonne
+  name: gemma-2b-GGUF
+  quantizer: mlabonne
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: gemma-2b.Q2_K.gguf
+    size: 899875936
+  - name: gemma-2b.Q3_K_L.gguf
+    size: 1260790880
+  - name: gemma-2b.Q3_K_M.gguf
+    size: 1179001952
+  - name: gemma-2b.Q3_K_S.gguf
+    size: 1083180128
+  - name: gemma-2b.Q4_0.gguf
+    size: 1416021088
+  - name: gemma-2b.Q4_1.gguf
+    size: 1572652128
+  - name: gemma-2b.Q4_K_M.gguf
+    size: 1495094368
+  - name: gemma-2b.Q4_K_S.gguf
+    size: 1424671840
+  - name: gemma-2b.Q5_0.gguf
+    size: 1729283168
+  - name: gemma-2b.Q5_1.gguf
+    size: 1885914208
+  - name: gemma-2b.Q5_K_M.gguf
+    size: 1770017888
+  - name: gemma-2b.Q5_K_S.gguf
+    size: 1729283168
+  - name: gemma-2b.Q6_K.gguf
+    size: 2062124128
+  - name: gemma-2b.Q8_0.gguf
+    size: 2669069408
+- category: generic
+  datasets: unknown
+  last_commit_time: 2024-02-21 14:25:11+00:00
+  license: unknown
+  name: gemma-7b-GGUF
+  quantizer: mlabonne
+  rank: 10000000000.0
+  type: gguf
+  variants: []

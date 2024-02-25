@@ -9,6 +9,7 @@ python gguf_scrapper.py --name mys
 python gguf_scrapper.py --name vilm
 python gguf_scrapper.py --name miqudev
 python gguf_scrapper.py --name cmp-nct
+python gguf_scrapper.py --name mlabonne
 
 python transformers_scraper.py --name llava-hf
 python transformers_scraper.py --nameA WizardLM
