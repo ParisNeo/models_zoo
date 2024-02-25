@@ -14,6 +14,10 @@ python gguf_scrapper.py --name miqudev
 python gguf_scrapper.py --name cmp-nct
 python gguf_scrapper.py --name mlabonne
 python gguf_scrapper.py --name LoneStriker
+python gguf_scrapper.py --name lmstudio-ai
+
+
+
 
 
 python transformers_scraper.py --name llava-hf

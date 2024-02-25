@@ -49688,3 +49688,247 @@
   rank: 10000000000.0
   type: gguf
   variants: []
+- category: generic
+  datasets: unknown
+  license: unknown
+  name: lmstudio-ai
+  quantizer: collections
+  rank: 10000000000.0
+  type: gguf
+  variants: []
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6379683a81c1783a4a2ddba8/Ru0X82AlVgkJ4TOv28TyH.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-10-29 04:28:10+00:00
+  license: mit
+  model_creator: nisten
+  model_creator_link: https://huggingface.co/nisten
+  name: obsidian-3b-multimodal-q6-gguf
+  quantizer: nisten
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: mmproj-obsidian-f16.gguf
+    size: 600829088
+  - name: obsidian-f16.gguf
+    size: 5593341344
+  - name: obsidian-q6.gguf
+    size: 2295984640
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/noauth/HqUwLKO5rKA-6YilGoBwk.png?w=200&h=200&f=face
+  last_commit_time: 2023-12-01 14:23:26+00:00
+  license: unknown
+  model_creator: PsiPi
+  model_creator_link: https://huggingface.co/PsiPi
+  name: liuhaotian_llava-v1.5-13b-GGUF
+  quantizer: PsiPi
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: llava-v1.5-13b-Q2_K.gguf
+    size: 5429348320
+  - name: llava-v1.5-13b-Q4_0.gguf
+    size: 7365834720
+  - name: llava-v1.5-13b-Q5_K_M.gguf
+    size: 9229924320
+  - name: llava-v1.5-13b-Q6_K.gguf
+    size: 10679140320
+  - name: llava-v1.5-13b-Q8_0.gguf
+    size: 13831319488
+  - name: llava-v1.5-13b-f16.gguf
+    size: 26033303488
+  - name: mmproj-model-Q4_0.gguf
+    size: 183322368
+  - name: mmproj-model-Q5_0.gguf
+    size: 344049920
+  - name: mmproj-model-Q8_0.gguf
+    size: 243595200
+  - name: mmproj-model-f16.gguf
+    size: 645414048
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/64340e724b34368fdb018485/KbKVnqcYsxoHW97LW-2ag.jpeg?w=200&h=200&f=face
+  last_commit_time: 2023-11-09 07:17:31+00:00
+  license: apache-2.0
+  model_creator: abetlen
+  model_creator_link: https://huggingface.co/abetlen
+  name: BakLLaVA-1-GGUF
+  quantizer: abetlen
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: bakllava-1.Q3_K_L.gguf
+    size: 3822024256
+  - name: bakllava-1.Q4_0.gguf
+    size: 4108916288
+  - name: bakllava-1.Q4_K.gguf
+    size: 4368438848
+  - name: bakllava-1.Q6_K.gguf
+    size: 5942064704
+  - name: bakllava-1.Q8_0.gguf
+    size: 7695857216
+  - name: bakllava-1.f16.gguf
+    size: 14484731424
+  - name: mmproj-model-f16.gguf
+    size: 624434336
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/noauth/8B1H1ApkAfeBdH03lmYll.png?w=200&h=200&f=face
+  last_commit_time: 2023-11-20 05:47:34+00:00
+  license: llama2
+  model_creator: jartine
+  model_creator_link: https://huggingface.co/jartine
+  name: llava-v1.5-7B-GGUF
+  quantizer: jartine
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: llava-v1.5-7b-Q4_K.gguf
+    size: 4081004224
+  - name: llava-v1.5-7b-Q8_0.gguf
+    size: 7161089728
+  - name: llava-v1.5-7b-f16.gguf
+    size: 13478104736
+  - name: llava-v1.5-7b-mmproj-Q4_0.gguf
+    size: 177415936
+  - name: llava-v1.5-7b-mmproj-Q8_0.gguf
+    size: 235722688
+  - name: llava-v1.5-7b-mmproj-f16.gguf
+    size: 624434336
+- category: generic
+  datasets: unknown
+  license: unknown
+  name: lmstudio-ai
+  quantizer: collections
+  rank: 10000000000.0
+  type: gguf
+  variants: []
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 11:58:20+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-0.5B-Chat-GGUF
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: qwen1_5-0_5b-chat-q2_k.gguf
+    size: 298412896
+  - name: qwen1_5-0_5b-chat-q3_k_m.gguf
+    size: 349882208
+  - name: qwen1_5-0_5b-chat-q4_0.gguf
+    size: 394990432
+  - name: qwen1_5-0_5b-chat-q4_k_m.gguf
+    size: 407155552
+  - name: qwen1_5-0_5b-chat-q5_0.gguf
+    size: 452973408
+  - name: qwen1_5-0_5b-chat-q5_k_m.gguf
+    size: 459240288
+  - name: qwen1_5-0_5b-chat-q6_k.gguf
+    size: 514580320
+  - name: qwen1_5-0_5b-chat-q8_0.gguf
+    size: 664602464
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 12:00:35+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-1.8B-Chat-GGUF
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: qwen1_5-1_8b-chat-q2_k.gguf
+    size: 863477600
+  - name: qwen1_5-1_8b-chat-q3_k_m.gguf
+    size: 1015879520
+  - name: qwen1_5-1_8b-chat-q4_0.gguf
+    size: 1120235360
+  - name: qwen1_5-1_8b-chat-q4_k_m.gguf
+    size: 1217752928
+  - name: qwen1_5-1_8b-chat-q5_0.gguf
+    size: 1310912352
+  - name: qwen1_5-1_8b-chat-q5_k_m.gguf
+    size: 1376776032
+  - name: qwen1_5-1_8b-chat-q6_k.gguf
+    size: 1579026272
+  - name: qwen1_5-1_8b-chat-q8_0.gguf
+    size: 1958303584
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 12:02:22+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-4B-Chat-GGUF
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: qwen1_5-4b-chat-q2_k.gguf
+    size: 1620632672
+  - name: qwen1_5-4b-chat-q3_k_m.gguf
+    size: 2026850912
+  - name: qwen1_5-4b-chat-q4_0.gguf
+    size: 2330085472
+  - name: qwen1_5-4b-chat-q4_k_m.gguf
+    size: 2455115872
+  - name: qwen1_5-4b-chat-q5_0.gguf
+    size: 2775197792
+  - name: qwen1_5-4b-chat-q5_k_m.gguf
+    size: 2839607392
+  - name: qwen1_5-4b-chat-q6_k.gguf
+    size: 3248129632
+  - name: qwen1_5-4b-chat-q8_0.gguf
+    size: 4204735072
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62088594a5943c8a8fc94560/y5SEKiE8TkjBKs9xfjCx5.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 11:53:26+00:00
+  license: other
+  model_creator: Qwen
+  model_creator_link: https://huggingface.co/Qwen
+  name: Qwen1.5-7B-Chat-GGUF
+  quantizer: Qwen
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: qwen1_5-7b-chat-q2_k.gguf
+    size: 3103825120
+  - name: qwen1_5-7b-chat-q3_k_m.gguf
+    size: 3918859488
+  - name: qwen1_5-7b-chat-q4_0.gguf
+    size: 4511907040
+  - name: qwen1_5-7b-chat-q4_k_m.gguf
+    size: 4767104224
+  - name: qwen1_5-7b-chat-q5_0.gguf
+    size: 5399198944
+  - name: qwen1_5-7b-chat-q5_k_m.gguf
+    size: 5530664160
+  - name: qwen1_5-7b-chat-q6_k.gguf
+    size: 6341946592
+  - name: qwen1_5-7b-chat-q8_0.gguf
+    size: 8211795168
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/64445e5f1bc692d87b27e183/YI0dKeyDk9lDR2Xzgc-W2.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-21 18:19:53+00:00
+  license: other
+  model_creator: lmstudio-ai
+  model_creator_link: https://huggingface.co/lmstudio-ai
+  name: gemma-2b-it-GGUF
+  quantizer: lmstudio-ai
+  rank: 10000000000.0
+  type: gguf
+  variants:
+  - name: gemma-2b-it-q4_k_m.gguf
+    size: 1495245728
+  - name: gemma-2b-it-q8_0.gguf
+    size: 2669351840
