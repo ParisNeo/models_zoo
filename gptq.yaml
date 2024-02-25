@@ -20846,3 +20846,446 @@
   variants:
   - name: model.safetensors
     size: 31840189016
+- category: generic
+  datasets:
+  - pubmed
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63010c7359ab5d9dc09d2378/3lGpN0ls5Zhf6rcd_83pz.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-19 18:05:55+00:00
+  license: apache-2.0
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: BioMistral-7B-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 4567607288
+- category: generic
+  datasets: unknown
+  license: unknown
+  model_creator: LoneStriker
+  name: BioMistral-7B-SLERP-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets: unknown
+  license: unknown
+  model_creator: LoneStriker
+  name: BioMistral-7B-TIES-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets: unknown
+  license: unknown
+  model_creator: LoneStriker
+  name: BioMistral-7B-DARE-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets: unknown
+  license: unknown
+  model_creator: LoneStriker
+  name: AlphaMonarch-7B-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets: unknown
+  license: unknown
+  model_creator: LoneStriker
+  name: NeuralMonarch-7B-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets:
+  - NeuralNovel/Neural-Story-v1
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/noauth/-FmN8ZUVOBv4qZv2vf2Kd.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-17 13:51:01+00:00
+  license: apache-2.0
+  model_creator: LoneStriker
+  model_creator_link: mistralai
+  name: Mistral-7B-Instruct-v0.2-Neural-Story-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 4567607264
+- category: generic
+  datasets:
+  - Crystalcareai/MoD
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1659297111914-noauth.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-18 11:01:39+00:00
+  license: other
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: Qwen1.5-8x7b-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 23789630488
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/639d36d666106be1437a75f7/qK3r6gsdfEPz3kO0ohIXK.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-17 03:20:06+00:00
+  license: unknown
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: LWM-Text-Chat-512K-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 4276168656
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1668636736884-627b2b489ef63e604f25aa38.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-17 03:10:40+00:00
+  license: unknown
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: LWM-Text-Chat-256K-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 4276168656
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/623c830997ddced06d78699b/3qTjC7d3YFCJTwpxd2noq.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-17 03:01:15+00:00
+  license: unknown
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: LWM-Text-Chat-128K-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 4276168656
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/noauth/nuCabD8DTq-nZtzplsqpn.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-16 18:09:13+00:00
+  license: unknown
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: LWM-Text-Chat-1M-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 4276168656
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/623c830997ddced06d78699b/3qTjC7d3YFCJTwpxd2noq.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-15 16:09:23+00:00
+  license: cc-by-nc-4.0
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: Fimbulvetr-11B-v2-Test-14-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 6589262960
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/noauth/HqUwLKO5rKA-6YilGoBwk.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-13 18:13:02+00:00
+  license: cc-by-nc-4.0
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: MiquMaid-v2-2x70B-DPO-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6520281ff28ce435b43c5fd9/4TxAmlp60z3tJ1PCy6vcs.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-14 23:09:27+00:00
+  license: other
+  model_creator: LoneStriker
+  model_creator_link: jondurbin
+  name: Smaug-34B-v0.1-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 21210133648
+- category: generic
+  datasets: unknown
+  license: unknown
+  model_creator: LoneStriker
+  name: Yi-34B-200K-RPMerge-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets:
+  - Himitsui/Lewd-Assistant-v1
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/noauth/uChva6MZ6_vT3ZBJS2XnP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-13 21:29:09+00:00
+  license: cc-by-nc-4.0
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: Solstice-11B-v1-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 6589262960
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/658e9da1c04427eb3836833f/-OLDRiEOWDgqQUCKXigXD.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-11 17:55:40+00:00
+  license: other
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: Tess-72B-v1.5b-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 45373025720
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/noauth/V67lfKmZjjYdiVMCnKMNA.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-11 08:51:07+00:00
+  license: cc-by-nc-4.0
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: MiquMaid-v2-70B-DPO-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/63b4b108103617b0a5b0f6f5/A5P1pKfMv5KhGvnpfo21G.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-10 11:51:12+00:00
+  license: mit
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: miqu-1-70b-sf-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 40663149832
+- category: generic
+  datasets: unknown
+  license: unknown
+  model_creator: LoneStriker
+  name: Wiedervereinigung-7b-dpo-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/623c830997ddced06d78699b/3qTjC7d3YFCJTwpxd2noq.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-07 14:41:20+00:00
+  license: other
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: DeepMagic-Coder-7b-Alt-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 4280362936
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/64497687df4e6cb7eaed6611/CbNfL8wdt_lHCd3RueAej.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-07 03:55:46+00:00
+  license: other
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: DeepMagic-Coder-7b-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 4280362936
+- category: generic
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-capybara-dpo-7k-binarized
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/noauth/uChva6MZ6_vT3ZBJS2XnP.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-06 18:00:40+00:00
+  license: other
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: Quyen-Pro-v0.1-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 10416264512
+- category: generic
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-capybara-dpo-7k-binarized
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/64593a216fa580137af84aa9/4JFaG49XsQH4P9kdrVPAg.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-06 16:59:40+00:00
+  license: other
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: Quyen-Plus-v0.1-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 6241200056
+- category: generic
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-capybara-dpo-7k-binarized
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/623c830997ddced06d78699b/3qTjC7d3YFCJTwpxd2noq.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-06 16:35:02+00:00
+  license: other
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: Quyen-v0.1-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 3395876832
+- category: generic
+  datasets:
+  - teknium/OpenHermes-2.5
+  - LDJnr/Capybara
+  - Intel/orca_dpo_pairs
+  - argilla/distilabel-capybara-dpo-7k-binarized
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/639d36d666106be1437a75f7/qK3r6gsdfEPz3kO0ohIXK.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-06 16:11:46+00:00
+  license: other
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: Quyen-Mini-v0.1-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-128g.safetensors
+    size: 1878528072
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1678452565037-640b23dce073779888ed3686.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-05 22:02:16+00:00
+  license: other
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: Qwen1.5-72B-Chat-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 45373025720
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/6215ce9abfcb3893344dd0a2/8nZkcC2lhaFHFSGcgf01T.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-05 19:51:15+00:00
+  license: other
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: Qwen1.5-14B-Chat-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 10416264512
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/623c830997ddced06d78699b/3qTjC7d3YFCJTwpxd2noq.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-05 19:48:15+00:00
+  license: other
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: Qwen1.5-4B-Chat-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 3395876832
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1664517462616-noauth.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-05 19:26:46+00:00
+  license: other
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: Qwen1.5-7B-Chat-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 6241200056
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/639d36d666106be1437a75f7/qK3r6gsdfEPz3kO0ohIXK.png?w=200&h=200&f=face
+  last_commit_time: 2024-02-04 18:05:12+00:00
+  license: mit
+  model_creator: LoneStriker
+  model_creator_link: moreh
+  name: Smaug-72B-v0.1-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-128g.safetensors
+    size: 41283578328
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/1656717612551-noauth.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-03 06:27:17+00:00
+  license: apache-2.0
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: Blue-Orchid-2x7b-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-128g.safetensors
+    size: 7092912800
