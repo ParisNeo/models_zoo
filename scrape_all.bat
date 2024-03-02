@@ -15,6 +15,7 @@ python gguf_scrapper.py --name cmp-nct
 python gguf_scrapper.py --name mlabonne
 python gguf_scrapper.py --name LoneStriker
 python gguf_scrapper.py --name lmstudio-ai
+python gguf_scrapper.py --name MeetKai
 
 
 
