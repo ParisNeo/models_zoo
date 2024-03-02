@@ -21289,3 +21289,25 @@
   variants:
   - name: gptq_model-4bit-128g.safetensors
     size: 7092912800
+- category: generic
+  datasets: unknown
+  license: unknown
+  name: gptq-integration
+  quantizer: blog
+  rank: 10000000000.0
+  type: gptq
+  variants: []
+- category: generic
+  datasets: unknown
+  icon: https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.huggingface.co/production/uploads/62ecbffd99112e99c5f7fded/CYKhk5bq3sITuioqJiPEb.jpeg?w=200&h=200&f=face
+  last_commit_time: 2024-02-15 16:09:23+00:00
+  license: cc-by-nc-4.0
+  model_creator: LoneStriker
+  model_creator_link: https://huggingface.co/LoneStriker
+  name: Fimbulvetr-11B-v2-GPTQ
+  quantizer: LoneStriker
+  rank: 10000000000.0
+  type: gptq
+  variants:
+  - name: gptq_model-4bit-32g.safetensors
+    size: 6589262960

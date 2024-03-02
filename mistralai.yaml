@@ -48,7 +48,7 @@
   license: commercial
   model_creator: mistralai
   model_creator_link: https://mistral.ai
-  name: mistral-large
+  name: mistral-large-latest
   quantizer: None
   rank: 1.0
   type: api
