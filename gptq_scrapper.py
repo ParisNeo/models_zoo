@@ -302,14 +302,12 @@ def build_model_cards(entries, model_type='gptq', output_file="output_TheBloke_g
             card["variants"]=[]
         
         cards.append(card)
-        # Save last file
-        with open(output_file, 'w') as f:
-            yaml.dump(cards, f)        
+        db.add_entry(card)   
     return cards
 
-def filter_entries(entries):
-    with open(Path(__file__).parent/"gptq.yaml","r") as f:
-        models = yaml.safe_load(f)
+def filter_entries(entries,model_type="gptq"):
+    db = ModelsDB(Path(__file__).parent/f"{model_type}.db")
+    models = db.query()
 
     if models is None:
         crds[0] = []
@@ -336,7 +334,7 @@ if __name__=="__main__":
     # Now parse through the html content looking for any mention of the term defined earlier using get_model_entries method
     entries = get_model_entries(user_profile_url, model_type=args.type, output_file=Path(__file__).parent/f"output_list_{args.name}_{args.type}.yaml")
     # Filter entries
-    entries = filter_entries(entries)
+    entries = filter_entries(entries, args.type)
 
     # Now we open each of them and build a model card
     build_model_cards(entries, args.type, Path(__file__).parent/f"{args.type}.yaml")

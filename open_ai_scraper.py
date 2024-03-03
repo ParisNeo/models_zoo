@@ -2,6 +2,7 @@ import openai
 #Make the persona of an electric expert who knows about electricity and all security measures
 from lollms.paths import LollmsPaths
 from lollms.main_config import LOLLMSConfig
+from lollms.databases.models_database import ModelsDB
 from pathlib import Path
 import yaml
 custom_global_paths_cfg_path= Path(__file__).parent.parent.parent/"global_paths_cfg.yaml"
@@ -12,6 +13,11 @@ open_ai_cfg = LOLLMSConfig(lollms_paths.personal_configuration_path/"bindings"/"
 openai_key = open_ai_cfg.openai_key
 openai.api_key = openai_key
 models = []
+database_folder = Path(__file__).parent/"openai.db"
+if database_folder.exists():
+    database_folder.unlink()
+
+db = ModelsDB(database_folder)
 for model in openai.models.list():
     print(model)
     if "gpt" in model.id:
@@ -35,7 +41,6 @@ for model in openai.models.list():
             ]
         }
         models.append(md)
-        with open(Path(__file__).parent/"openai.yaml", 'w') as f:
-            yaml.dump(models, f)        
+        db.add_entry(md) 
 
 

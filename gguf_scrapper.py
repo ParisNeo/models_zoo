@@ -302,14 +302,12 @@ def build_model_cards(entries, model_type='gguf', output_file="output_TheBloke_g
             card["variants"]=[]
         
         cards.append(card)
-        # Save last file
-        with open(output_file, 'w') as f:
-            yaml.dump(cards, f)        
+        db.add_entry(card)    
     return cards
 
-def filter_entries(entries):
-    with open(Path(__file__).parent/f"{DEFAULT_MODEL_TYPE}.yaml","r") as f:
-        models = yaml.safe_load(f)
+def filter_entries(entries, model_type="gguf"):
+    db = ModelsDB(Path(__file__).parent/f"{model_type}.db")
+    models = db.query()
 
     if models is None:
         crds[0] = []

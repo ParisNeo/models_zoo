@@ -5,7 +5,7 @@ python gptq_scrapper.py --name LoneStriker
 python exl2_scraper.py
 python exl2_scraper.py --name turboderp
 python exl2_scraper.py --name Bartowski
-python exl2_scraper.py --name LoneStriker
+python gptq_scraper.py --name LoneStriker --type exl2
 
 python gguf_scrapper.py
 python gguf_scrapper.py --name mys
