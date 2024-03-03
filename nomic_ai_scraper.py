@@ -3,6 +3,7 @@ import yaml
 from pathlib import Path
 import urllib.request
 from urllib.parse import urlparse
+from lollms.databases.models_database import ModelsDB
 
 def get_file_size(url):
     try:

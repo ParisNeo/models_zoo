@@ -12,6 +12,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from lollms.databases.models_database import ModelsDB
 from tqdm import tqdm
 import urllib.request
 import argparse
@@ -228,6 +229,7 @@ def build_model_cards(entries, model_type='awq', output_file="output_TheBloke_gp
     4- Model creator: Can be extracted from a README.md file in the repo from the metadata section. The entry is named model_creator
     5- license : The license of the model, it is also extracted from the README.ms file in the repo. The entry is named license 
     """
+    db = ModelsDB(Path(__file__).parent/(model_type+".db"))
     cards = crds[0]
     print(f"Processing :\n{entries}")
     for i,entry in enumerate(tqdm(entries)):
@@ -302,16 +304,12 @@ def build_model_cards(entries, model_type='awq', output_file="output_TheBloke_gp
             card["datasets"]="unknown"
             card["variants"]=[]
         
-        cards.append(card)
-        # Save last file
-        with open(output_file, 'w') as f:
-            yaml.dump(cards, f)        
+        db.add_entry(card)
     return cards
 
 def filter_entries(entries):
-    with open(Path(__file__).parent/"awq.yaml","r") as f:
-        models = yaml.safe_load(f)
-
+    db = ModelsDB(Path(__file__).parent/"awq.db")
+    models = db.query()
     if models is None:
         crds[0] = []
         return entries

@@ -12,6 +12,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from lollms.databases.models_database import ModelsDB
 from tqdm import tqdm
 import urllib.request
 import argparse
@@ -228,24 +229,30 @@ def get_variants(model_id, model_type="awq"):
 
     # Find all <a> tags with '.safetensors' in their href within the model repository
     links = model_soup.find_all('a', href=lambda href: href and (href.endswith(f'.safetensors') or href.endswith(f'.bin')))
-    if len(links)==0:
-        prefix = "4.0bpw"
-
-        model_url = f"{server_link}/tree/4.0bpw"
-        response = requests.get(model_url)
-        model_html_content = response.text
-        model_soup = BeautifulSoup(model_html_content, 'html.parser')
-
-        # Find all <a> tags with '.safetensors' in their href within the model repository
-        links = model_soup.find_all('a', href=lambda href: href and (href.endswith(f'.safetensors') or href.endswith(f'.bin')))
-
     v  = []
-    for link in tqdm(links):
-        file_name_ = link["href"].split('/')[-1]
-        full_url = server_link+f"/resolve/{prefix}/"+file_name_
-        file_size = get_file_size(full_url)[0]
-        v.append({"name":file_name_,"size":file_size})
-        break
+    if len(links)==0:
+        prefixes = ["2.4bpw", "2.8bpw", "2.0bpw", "3.0bpw", "4.0bpw"]
+        for prefix in prefixes:
+            model_url = f"{server_link}/tree/{prefix}"
+            response = requests.get(model_url)
+            model_html_content = response.text
+            model_soup = BeautifulSoup(model_html_content, 'html.parser')
+
+            # Find all <a> tags with '.safetensors' in their href within the model repository
+            links = model_soup.find_all('a', href=lambda href: href and (href.endswith(f'.safetensors') or href.endswith(f'.bin')))
+            for link in tqdm(links):
+                file_name_ = link["href"].split('/')[-1]
+                full_url = server_link+f"/resolve/{prefix}/"+file_name_
+                file_size = get_file_size(full_url)[0]
+                v.append({"name":file_name_,"size":file_size})
+                break
+    else:
+        for link in tqdm(links):
+            file_name_ = link["href"].split('/')[-1]
+            full_url = server_link+f"/resolve/{prefix}/"+file_name_
+            file_size = get_file_size(full_url)[0]
+            v.append({"name":file_name_,"size":file_size})
+            break
     return v
 
 def build_model_cards(entries, model_type='transformers', output_file="output_transformers.yaml"):
@@ -256,6 +263,8 @@ def build_model_cards(entries, model_type='transformers', output_file="output_tr
     4- Model creator: Can be extracted from a README.md file in the repo from the metadata section. The entry is named model_creator
     5- license : The license of the model, it is also extracted from the README.ms file in the repo. The entry is named license 
     """
+    db = ModelsDB(Path(__file__).parent/(model_type+".db"))
+
     cards = crds[0]
     print(f"Processing :\n{entries}")
     for i,entry in enumerate(tqdm(entries)):
@@ -333,7 +342,7 @@ def build_model_cards(entries, model_type='transformers', output_file="output_tr
             except:
                 card['model_creator']="unknown"
                 card["icon"]="/bindings/bs_exllamav2/logo.png"
-                ASCIIColors.red("Some moissing information")
+                ASCIIColors.red("Some missing information")
 
             
         except Exception as e:
@@ -352,15 +361,12 @@ def build_model_cards(entries, model_type='transformers', output_file="output_tr
             """
 
         
-        cards.append(card)
-        # Save last file
-        with open(output_file, 'w') as f:
-            yaml.dump(cards, f)        
+        db.add_entry(card)    
     return cards
 
 def filter_entries(entries,model_type):
-    with open(Path(__file__).parent/f"{model_type}.yaml","r") as f:
-        models = yaml.safe_load(f)
+    db = ModelsDB(Path(__file__).parent/f"{model_type}.db")
+    models = db.query()
 
     if models is None:
         crds[0] = []

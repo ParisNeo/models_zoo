@@ -12,6 +12,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from lollms.databases.models_database import ModelsDB
 from tqdm import tqdm
 import urllib.request
 import argparse
@@ -228,6 +229,8 @@ def build_model_cards(entries, model_type='gptq', output_file="output_TheBloke_g
     4- Model creator: Can be extracted from a README.md file in the repo from the metadata section. The entry is named model_creator
     5- license : The license of the model, it is also extracted from the README.ms file in the repo. The entry is named license 
     """
+    db = ModelsDB(Path(__file__).parent/(model_type+".db"))
+
     cards = crds[0]
     for i,entry in enumerate(tqdm(entries)):
         card={}

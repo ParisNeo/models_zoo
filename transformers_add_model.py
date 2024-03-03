@@ -13,12 +13,15 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from lollms.databases.models_database import ModelsDB
+
 from tqdm import tqdm
 import urllib.request
 import argparse
 import json
 import time
-from huggingface_hub import HfApi
+import os
+from huggingface_hub import HfApi, list_models
+from pathlib import Path
 
 crds = [[]]
 
@@ -39,10 +42,19 @@ else:
 
 # Create an HfApi client with the provided API key
 api = HfApi(token=api_key)
+MODEL_BUILDER="llava-hf"
+MODEL_BUILDER="WizardLM"
+MODEL_BUILDER="Teknium"
+MODEL_BUILDER="NousResearch"
+MODEL_BUILDER="mistralai"
+MODEL_BUILDER="turboderp"
+MODEL_BUILDER="bigcode"
 
 
-DEFAULT_quantizer="TheBloke"
-DEFAULT_MODEL_TYPE="gguf"
+# MODEL_BUILDER="jondurbin"
+# MODEL_BUILDER="NousResearch"
+DEFAULT_MODEL_TYPE="transformers"
+# DEFAULT_MODEL_TYPE="exl2"
 
 def hub_get_last_commit(repo_id):
     """
@@ -108,12 +120,18 @@ def click_expand_button(url):
 
     # Load the page
     driver.get(url)
-    try:
 
-        # Find the "Expand" button element by XPath and click it
-        expand_button = WebDriverWait(driver, 10).until(
-            EC.element_to_be_clickable((By.XPATH, '//button[contains(text(), "Expand")]'))
-        )
+    # Find the "Expand" button element by XPath and click it
+    expand_button = WebDriverWait(driver, 10).until(
+        EC.element_to_be_clickable((By.XPATH, '//span[contains(text(), "model")]'))
+    )
+    # Step 2: Find the div by ID that contains both the "models" text and the "Expand" button
+    # (Replace 'div-id' with the actual ID of the div)
+    div_with_expand = driver.find_element(By.ID, 'models')
+
+    try:
+        # Step 3: Within the div, find the "Expand" button
+        expand_button = div_with_expand.find_element(By.XPATH,'.//button[contains(text(), "Expand")]')    
         expand_button.click()
 
         # Wait for the page to load after the button click
@@ -121,42 +139,20 @@ def click_expand_button(url):
     except:
         pass
 
-    # Get the HTML content of the expanded page
-    expanded_html_content = driver.page_source
 
+    model_links = div_with_expand.find_elements(By.TAG_NAME, 'a')
+
+    # Step 5: Iterate over the links and extract the paths
+    paths = []
+    for link in model_links:
+        href = link.get_attribute('href')
+        paths.append(href)
     # Close the browser
     driver.quit()
 
-    return expanded_html_content
+    return paths
 
-def get_model_entries(url, model_type="gguf", output_file="output_list.yaml"):
-    """Extracts links to GGUF-containing pages from the HuggingFace website at the specified URL.
 
-    Parameters:
-    - `url`: String containing either 'http://', 'https://', or empty ('')
-             representing the base URL that points to the target webpage.
-    - `model_type`: String specifying what type of models should be extracted. Default is 'gguf'.
-    - `output_file`: File object to write the list of found URLs to. If not supplied, defaults to 'models'.
-
-    Returns:
-        List of strings containing the full paths to each discovered link."""
-    expanded_html_content = click_expand_button(url)
-
-    prefix = get_website_path(url)
-
-    # Parse the expanded HTML content using BeautifulSoup
-    soup = BeautifulSoup(expanded_html_content, 'html.parser')
-
-    # Find all <a> tags that contain 'GGUF' in their href
-    model_links = soup.find_all('a', href=lambda href: href and model_type in href.lower())
-    entries = []
-    for model_link in tqdm(model_links):
-        model_id = model_link['href'][1:]
-        print(model_id)
-        entries.append(model_id)
-    with open(output_file, 'w') as f:
-        yaml.dump({"entries":entries}, f)
-    return entries
 
 def extract_delimited_section(content):
     """
@@ -204,24 +200,25 @@ def get_file_size(url):
         print(f"An error occurred while retrieving file size: {e}")
         return None
     
-def get_variants(model_id, model_type="gguf"):
+def get_variants(model_id, model_type="awq"):
     server_link = f"https://huggingface.co/{model_id}"
     model_url = f"{server_link}/tree/main"
     response = requests.get(model_url)
     model_html_content = response.text
     model_soup = BeautifulSoup(model_html_content, 'html.parser')
 
-    # Find all <a> tags with '.gguf' in their href within the model repository
-    links = model_soup.find_all('a', href=lambda href: href and (href.endswith(f'.{model_type}') or href.endswith(f'.bin')))
+    # Find all <a> tags with '.safetensors' in their href within the model repository
+    links = model_soup.find_all('a', href=lambda href: href and (href.endswith(f'.safetensors') or href.endswith(f'.bin')))
     v  = []
     for link in tqdm(links):
         file_name_ = link["href"].split('/')[-1]
         full_url = server_link+"/resolve/main/"+file_name_
         file_size = get_file_size(full_url)[0]
         v.append({"name":file_name_,"size":file_size})
+        break
     return v
 
-def build_model_cards(entries, model_type='gguf', output_file="output_TheBloke_gguf.yaml"):
+def build_model_cards(entries, model_type='transformers', output_file="output_transformers.yaml"):
     """ Builds a yaml file of each model by scraping the model page and its content to extract the following parameters
     1- Model name: the name of the model that can be extracted from the entry itself
     2- Model creation date: uses the hugging face to track the date of the first commit
@@ -232,6 +229,7 @@ def build_model_cards(entries, model_type='gguf', output_file="output_TheBloke_g
     db = ModelsDB(Path(__file__).parent/(model_type+".db"))
 
     cards = crds[0]
+    print(f"Processing :\n{entries}")
     for i,entry in enumerate(tqdm(entries)):
         card={}
         card["name"]=entry.split("/")[1]
@@ -239,8 +237,10 @@ def build_model_cards(entries, model_type='gguf', output_file="output_TheBloke_g
         card["type"]=model_type
         card["rank"]=1e10
         card["category"]="generic"
+        card["description"]=""
+        card["ctx_size"]=-1
+
         try:
-            # recover readme.md, example https://huggingface.co/TheBloke/ORCA_LLaMA_70B_QLoRA-GGUF/raw/main/README.md
             response = requests.get(f"https://huggingface.co/{entry}/raw/main/README.md")
             # Verify that the file exists
             if 200 <= response.status_code < 300:
@@ -302,20 +302,18 @@ def build_model_cards(entries, model_type='gguf', output_file="output_TheBloke_g
             card["variants"]=[]
         
         cards.append(card)
-        # Save last file
-        with open(output_file, 'w') as f:
-            yaml.dump(cards, f)        
+        db.add_entry(card)    
     return cards
 
-def filter_entries(entries):
-    with open(Path(__file__).parent/f"{DEFAULT_MODEL_TYPE}.yaml","r") as f:
-        models = yaml.safe_load(f)
+def filter_entries(entries,model_type):
+    db = ModelsDB(Path(__file__).parent/f"{model_type}.db")
+    models = db.query()
 
     if models is None:
         crds[0] = []
         return entries
     crds[0] = models
-
+   
     filteredEntries=[] # Initialize an empty array to store new entries after filtering out duplicates based on name field
         
     for e in entries:   # Iterate through each element (entry) in input data set
@@ -324,18 +322,19 @@ def filter_entries(entries):
             
     return filteredEntries              # Return a copy of all items that were added during processing
 
+
 # Main program that takes a user name and scrapes his hugging face page using argparse, with default name as TheBloke and default model type gguf
 if __name__=="__main__":
     parser = argparse.ArgumentParser(description='Scrape the Hugging Face profile of a specific user.')
-    parser.add_argument("-n","--name", default=DEFAULT_quantizer, help="The username of the user whose profile we wish to scrape.")
-    parser.add_argument("-t","--type", default=DEFAULT_MODEL_TYPE, help="The username of the user whose profile we wish to scrape.")
+    parser.add_argument("-n","--path", default=MODEL_BUILDER, help="The path to the model to be loaded.")
+    parser.add_argument("-t","--type", default=DEFAULT_MODEL_TYPE, help="model type.")
     args= parser.parse_args()
-    # First we find the user hugging face urlbased on the entered username
-    user_profile_url = hugging_face_user(args.name)
     # Now parse through the html content looking for any mention of the term defined earlier using get_model_entries method
-    entries = get_model_entries(user_profile_url, model_type=args.type, output_file=Path(__file__).parent/f"output_list_{args.name}.yaml")
+    entries = [args.path]
     # Filter entries
-    entries = filter_entries(entries)
+    print("Filtering")
+    entries = filter_entries(entries, model_type=args.type)
+
     # Now we open each of them and build a model card
     build_model_cards(entries, args.type, Path(__file__).parent/f"{args.type}.yaml")
     
