@@ -28,6 +28,7 @@ python transformers_scraper.py --name NousResearch
 python transformers_scraper.py --name jondurbin
 python transformers_scraper.py --name Qwen
 python transformers_scraper.py --name vilm
+python transformers_scraper.py --name mistralai
 
 python transformers_scraper.py --name CroissantLLM
 
