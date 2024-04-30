@@ -30,6 +30,8 @@ python transformers_scraper.py --name Qwen
 python transformers_scraper.py --name vilm
 python transformers_scraper.py --name mistralai
 
+python transformers_scraper.py --name Vezora
+
 python transformers_scraper.py --name CroissantLLM
 
 
