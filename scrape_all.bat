@@ -33,6 +33,9 @@ python transformers_scraper.py --name mistralai
 python transformers_scraper.py --name Vezora
 
 python transformers_scraper.py --name CroissantLLM
+python transformers_scraper.py --name gradientai
+
+
 
 
 python gpt4all.py
