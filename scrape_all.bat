@@ -1,6 +1,8 @@
 python awq_scrapper.py
+python awq_scrapper.py --name Bartowski
 python gptq_scrapper.py
 python gptq_scrapper.py --name LoneStriker
+python gptq_scrapper.py --name Bartowski
 
 python exl2_scraper.py
 python exl2_scraper.py --name turboderp
@@ -16,6 +18,7 @@ python gguf_scrapper.py --name mlabonne
 python gguf_scrapper.py --name LoneStriker
 python gguf_scrapper.py --name lmstudio-ai
 python gguf_scrapper.py --name MeetKai
+python gguf_scrapper.py --name Bartowski
 
 
 
