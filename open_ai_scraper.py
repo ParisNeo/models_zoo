@@ -13,7 +13,7 @@ open_ai_cfg = LOLLMSConfig(lollms_paths.personal_configuration_path/"bindings"/"
 openai_key = open_ai_cfg.openai_key
 openai.api_key = openai_key
 models = []
-database_folder = Path(__file__).parent/"openai.db"
+database_folder = Path(__file__).parent/"open_ai.db"
 if database_folder.exists():
     database_folder.unlink()
 
