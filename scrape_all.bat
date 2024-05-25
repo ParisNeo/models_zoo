@@ -25,6 +25,9 @@ python gguf_scrapper.py --name MeetKai
 python gguf_scrapper.py --name Bartowski
 python gguf_scrapper.py --name HuggingFaceM4
 
+python gguf_scrapper.py --name lmstudio-community
+
+
 
 
 
