@@ -47,6 +47,7 @@ python transformers_scraper.py --name CroissantLLM
 python transformers_scraper.py --name gradientai
 python transformers_scraper.py --name HuggingFaceM4
 
+python transformers_scraper.py --name 78health
 
 
 
