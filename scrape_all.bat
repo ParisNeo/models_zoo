@@ -50,8 +50,4 @@ python transformers_scraper.py --name HuggingFaceM4
 python transformers_scraper.py --name 78health
 python transformers_scraper.py --name InternLM
 
-
-
-python gpt4all.py
-
 python open_ai_scraper.py
