@@ -27,7 +27,7 @@ python gguf_scrapper.py --name HuggingFaceM4
 
 python gguf_scrapper.py --name lmstudio-community
 
-
+python gguf_scrapper.py --name second-state
 
 
 
