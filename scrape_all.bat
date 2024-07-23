@@ -32,6 +32,8 @@ python gguf_scrapper.py --name second-state
 
 
 
+python transformers_scraper.py --name meta-llama
+python transformers_scraper.py --name mistralai
 python transformers_scraper.py --name llava-hf
 python transformers_scraper.py --nameA WizardLM
 python transformers_scraper.py --name Teknium
@@ -39,7 +41,6 @@ python transformers_scraper.py --name NousResearch
 python transformers_scraper.py --name jondurbin
 python transformers_scraper.py --name Qwen
 python transformers_scraper.py --name vilm
-python transformers_scraper.py --name mistralai
 
 python transformers_scraper.py --name Vezora
 
