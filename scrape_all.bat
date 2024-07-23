@@ -28,8 +28,8 @@ python gguf_scrapper.py --name HuggingFaceM4
 python gguf_scrapper.py --name lmstudio-community
 
 python gguf_scrapper.py --name second-state
-
-
+python gguf_scrapper.py --name nopperl
+python gguf_scrapper.py --name eastwind
 
 
 python transformers_scraper.py --name meta-llama
@@ -50,5 +50,7 @@ python transformers_scraper.py --name HuggingFaceM4
 
 python transformers_scraper.py --name 78health
 python transformers_scraper.py --name InternLM
+python transformers_scraper.py --name facebook
+python transformers_scraper.py --name eastwind
 
 python open_ai_scraper.py
