@@ -24,6 +24,7 @@ python gguf_scrapper.py --name lmstudio-ai
 python gguf_scrapper.py --name MeetKai
 python gguf_scrapper.py --name Bartowski
 python gguf_scrapper.py --name HuggingFaceM4
+python gguf_scrapper.py --name ParisNeo
 
 python gguf_scrapper.py --name lmstudio-community
 
@@ -53,6 +54,7 @@ python transformers_scraper.py --name InternLM
 python transformers_scraper.py --name facebook
 python transformers_scraper.py --name eastwind
 python transformers_scraper.py --name HuggingFaceM4
+python transformers_scraper.py --name ParisNeo
 
 
 python open_ai_scraper.py
