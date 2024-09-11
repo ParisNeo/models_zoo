@@ -32,6 +32,7 @@ python gguf_scrapper.py --name second-state
 python gguf_scrapper.py --name nopperl
 python gguf_scrapper.py --name eastwind
 
+python transformers_scraper.py --name mistral-community
 
 python transformers_scraper.py --name meta-llama
 python transformers_scraper.py --name mistralai
