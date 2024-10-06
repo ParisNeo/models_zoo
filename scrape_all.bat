@@ -31,6 +31,9 @@ python gguf_scrapper.py --name lmstudio-community
 python gguf_scrapper.py --name second-state
 python gguf_scrapper.py --name nopperl
 python gguf_scrapper.py --name eastwind
+python gguf_scrapper.py --name unsloth
+python gguf_scrapper.py --name Dabococo
+
 
 python transformers_scraper.py --name mistral-community
 
