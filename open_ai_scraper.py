@@ -24,7 +24,7 @@ for model in openai.models.list():
         md = {
             "category": "generic",
             "datasets": "unknown",
-            "icon": '/bindings/open_ai/logo.png' if "3.5" in model.id else '/bindings/open_ai/logo2.png' if "o1" in model.id else '/bindings/open_ai/logo2.png',
+            "icon": '/bindings/open_ai/logo.png' if "3.5" in model.id else '/bindings/open_ai/logo3.png' if "o1" in model.id else '/bindings/open_ai/logo2.png',
             "last_commit_time": model.created,
             "license": "commercial",
             "model_creator": "openai",
