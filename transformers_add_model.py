@@ -22,7 +22,7 @@ import time
 import os
 from huggingface_hub import HfApi, list_models
 from pathlib import Path
-
+from ascii_colors import ASCIIColors
 crds = [[]]
 
 # Define the path to the key file
@@ -41,6 +41,7 @@ else:
         f.write(api_key)
 
 # Create an HfApi client with the provided API key
+ASCIIColors.info(f"using key: {api_key}")
 api = HfApi(token=api_key)
 MODEL_BUILDER="llava-hf"
 MODEL_BUILDER="WizardLM"
@@ -232,8 +233,14 @@ def build_model_cards(entries, model_type='transformers', output_file="output_tr
     print(f"Processing :\n{entries}")
     for i,entry in enumerate(tqdm(entries)):
         card={}
-        card["name"]=entry.split("/")[1]
-        card["quantizer"]=entry.split("/")[0]
+        entry_parts = entry.split("/")
+        if len(entry_parts)>1:
+            card["name"]=entry_parts[1]
+            card["quantizer"]=entry_parts[0]
+        else:
+            card["name"]=entry_parts[0]
+            card["quantizer"]=entry_parts[0]
+
         card["type"]=model_type
         card["rank"]=1e10
         card["category"]="generic"

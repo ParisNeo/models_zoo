@@ -49,7 +49,7 @@ MODEL_BUILDER="NousResearch"
 MODEL_BUILDER="mistralai"
 MODEL_BUILDER="turboderp"
 MODEL_BUILDER="bigcode"
-
+MODEL_BUILDER="unsloth"
 
 # MODEL_BUILDER="jondurbin"
 # MODEL_BUILDER="NousResearch"
