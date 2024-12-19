@@ -1,0 +1,1162 @@
+[
+    {
+        "model_name": "llama3.3:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llama3.3",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "qwq:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "qwq",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "llama3.2-vision:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llama3.2-vision",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llama3.2:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llama3.2",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llama3.1:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llama3.1",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llama3:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llama3",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "mistral:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "mistral",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "nomic-embed-text:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "nomic-embed-text",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "gemma:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "gemma",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "qwen:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "qwen",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "qwen2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "qwen2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "phi3:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "phi3",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "llama2:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llama2",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "qwen2.5:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "qwen2.5",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "llava:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "llava",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "gemma2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "gemma2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "codellama:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "codellama",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "qwen2.5-coder:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "qwen2.5-coder",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "mistral-nemo:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "mistral-nemo",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "tinyllama:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "tinyllama",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "mxbai-embed-large:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "mxbai-embed-large",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "starcoder2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "starcoder2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "mixtral:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "mixtral",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "dolphin-mixtral:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "dolphin-mixtral",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "codegemma:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "codegemma",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "deepseek-coder-v2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "deepseek-coder-v2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "phi:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "phi",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "llama2-uncensored:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llama2-uncensored",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "deepseek-coder:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "deepseek-coder",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "snowflake-arctic-embed:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "snowflake-arctic-embed",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "wizardlm2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "wizardlm2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "dolphin-mistral:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "dolphin-mistral",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "dolphin-llama3:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "dolphin-llama3",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "yi:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "yi",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "command-r:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "command-r",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "orca-mini:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "orca-mini",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "llava-llama3:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llava-llama3",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "zephyr:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "zephyr",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "phi3.5:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "phi3.5",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "all-minilm:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "all-minilm",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "codestral:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "codestral",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "starcoder:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "starcoder",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "vicuna:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "vicuna",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "granite-code:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "granite-code",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "mistral-openorca:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "mistral-openorca",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "smollm:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "smollm",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "wizard-vicuna-uncensored:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "wizard-vicuna-uncensored",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "llama2-chinese:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llama2-chinese",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "bge-m3:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "bge-m3",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "codegeex4:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "codegeex4",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "openchat:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "openchat",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "aya:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "aya",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "codeqwen:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "codeqwen",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "nous-hermes2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "nous-hermes2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "command-r-plus:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "command-r-plus",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "mistral-large:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "mistral-large",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "stable-code:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "stable-code",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "wizardcoder:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "wizardcoder",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "tinydolphin:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "tinydolphin",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "openhermes:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "openhermes",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "qwen2-math:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "qwen2-math",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "glm4:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "glm4",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "stablelm2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "stablelm2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "bakllava:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "bakllava",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "reflection:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "reflection",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "deepseek-llm:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "deepseek-llm",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "llama3-gradient:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llama3-gradient",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "wizard-math:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "wizard-math",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "moondream:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "moondream",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "neural-chat:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "neural-chat",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "llama3-chatqa:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llama3-chatqa",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "sqlcoder:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "sqlcoder",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "xwinlm:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "xwinlm",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "nous-hermes:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "nous-hermes",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "phind-codellama:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "phind-codellama",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "yarn-llama2:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "yarn-llama2",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "dolphincoder:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "dolphincoder",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "wizardlm:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "wizardlm",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "deepseek-v2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "deepseek-v2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "starling-lm:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "starling-lm",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "hermes3:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "hermes3",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "samantha-mistral:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "samantha-mistral",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "yi-coder:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "yi-coder",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "internlm2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "internlm2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "falcon:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "falcon",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "solar:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "solar",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "llava-phi3:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "llava-phi3",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "athene-v2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "athene-v2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "orca2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "orca2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "smollm2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "smollm2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "minicpm-v:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "minicpm-v",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "stable-beluga:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "stable-beluga",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "mistral-small:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "mistral-small",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "dolphin-phi:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "dolphin-phi",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "wizardlm-uncensored:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "wizardlm-uncensored",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "nemotron-mini:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "nemotron-mini",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "yarn-mistral:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "yarn-mistral",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "llama-pro:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llama-pro",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "medllama2:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "medllama2",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "meditron:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "meditron",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "llama3-groq-tool-use:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llama3-groq-tool-use",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "nemotron:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "nemotron",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "nexusraven:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "nexusraven",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "nous-hermes2-mixtral:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "nous-hermes2-mixtral",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "codeup:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "codeup",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "everythinglm:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "everythinglm",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "granite3-dense:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "granite3-dense",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "magicoder:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "magicoder",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "stablelm-zephyr:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "stablelm-zephyr",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "codebooga:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "codebooga",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "falcon2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "falcon2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "wizard-vicuna:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "wizard-vicuna",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "mistrallite:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "mistrallite",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "mathstral:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "mathstral",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "duckdb-nsql:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "duckdb-nsql",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "megadolphin:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "megadolphin",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "solar-pro:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "solar-pro",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "reader-lm:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "reader-lm",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "notux:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "notux",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "notus:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "notus",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "open-orca-platypus2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "open-orca-platypus2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "goliath:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "goliath",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "granite3-moe:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "granite3-moe",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "marco-o1:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "marco-o1",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "aya-expanse:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "aya-expanse",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "nuextract:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "nuextract",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "dbrx:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "dbrx",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "bge-large:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "bge-large",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "firefunction-v2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "firefunction-v2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "alfred:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "alfred",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "deepseek-v2.5:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "deepseek-v2.5",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "shieldgemma:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "shieldgemma",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "bespoke-minicheck:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "bespoke-minicheck",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "llama-guard3:latest",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "llama-guard3",
+        "owned_by": "meta"
+    },
+    {
+        "model_name": "paraphrase-multilingual:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "paraphrase-multilingual",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "opencoder:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "opencoder",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "tulu3:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "tulu3",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "snowflake-arctic-embed2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "snowflake-arctic-embed2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "exaone3.5:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "exaone3.5",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "granite3-guardian:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "granite3-guardian",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "falcon3:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "falcon3",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "granite3.1-dense:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "granite3.1-dense",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "sailor2:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "sailor2",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "granite3.1-moe:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "granite3.1-moe",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "granite-embedding:latest",
+        "owned_by": "community"
+    },
+    {
+        "model_name": "granite-embedding",
+        "owned_by": "community"
+    }
+]
