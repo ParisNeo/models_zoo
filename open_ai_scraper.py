@@ -20,7 +20,7 @@ if database_folder.exists():
 db = ModelsDB(database_folder)
 for model in openai.models.list():
     print(model)
-    if "gpt" in model.id or "o1" in model.id:
+    if "gpt" in model.id or "o1" in model.id or "o3" in model.id or "o3" in model.id:
         md = {
             "category": "generic",
             "datasets": "unknown",
