@@ -47,6 +47,7 @@ python transformers_scraper.py --name Teknium
 python transformers_scraper.py --name NousResearch
 python transformers_scraper.py --name jondurbin
 python transformers_scraper.py --name Qwen
+python transformers_scraper.py --name deepseek-ai
 python transformers_scraper.py --name vilm
 
 python transformers_scraper.py --name Vezora
