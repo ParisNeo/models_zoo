@@ -61,6 +61,7 @@ python transformers_scraper.py --name InternLM
 python transformers_scraper.py --name facebook
 python transformers_scraper.py --name eastwind
 python transformers_scraper.py --name HuggingFaceM4
+python transformers_scraper.py --name nvidia
 python transformers_scraper.py --name ParisNeo
 
 python transformers_scraper.py --name ibm-granite
