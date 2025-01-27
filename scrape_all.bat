@@ -34,6 +34,9 @@ python gguf_scrapper.py --name eastwind
 python gguf_scrapper.py --name unsloth
 python gguf_scrapper.py --name Dabococo
 python gguf_scrapper.py --name ibm-granite
+python gguf_scrapper.py --name OpenLLM-France
+
+
 
 
 
@@ -65,6 +68,8 @@ python transformers_scraper.py --name nvidia
 python transformers_scraper.py --name ParisNeo
 
 python transformers_scraper.py --name ibm-granite
+python transformers_scraper.py --name OpenLLM-France
+
 
 
 
