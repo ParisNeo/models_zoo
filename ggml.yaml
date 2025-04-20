@@ -7,7 +7,7 @@
   model_creator: Open-Orca
   model_creator_link: https://huggingface.co/Open-Orca
   name: LlongOrca-13B-16K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -76,7 +76,7 @@
   model_creator: Fredithefish
   model_creator_link: https://huggingface.co/Fredithefish
   name: Guanaco-3B-Uncensored-v2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -109,7 +109,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7B-gpt4-m2.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -178,7 +178,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7B-gpt4-2.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -247,7 +247,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-gpt4-m2.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -316,7 +316,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-gpt4-2.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -385,7 +385,7 @@
   model_creator: Open-Orca
   model_creator_link: https://huggingface.co/Open-Orca
   name: LlongOrca-7B-16K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -454,7 +454,7 @@
   model_creator: Rombo Dawg
   model_creator_link: https://huggingface.co/rombodawg
   name: LosslessMegaCoder-Llama2-7B-Mini-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -522,7 +522,7 @@
   model_creator: Austism
   model_creator_link: https://huggingface.co/Austism
   name: Chronos-Hermes-13B-v2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -590,7 +590,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Hermes-Llama2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -658,7 +658,7 @@
   model_creator: nRuaif
   model_creator_link: https://huggingface.co/nRuaif
   name: Kimiko-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -726,7 +726,7 @@
   model_creator: ddobokki
   model_creator_link: https://huggingface.co/ddobokki
   name: Llama-2-70B-Orca-200k-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -782,7 +782,7 @@
   model_creator: OpenBuddy
   model_creator_link: https://huggingface.co/OpenBuddy
   name: OpenBuddy-Llama2-13B-v11.1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -850,7 +850,7 @@
   model_creator: Mikael110
   model_creator_link: https://huggingface.co/Mikael110
   name: llama-2-70b-Guanaco-QLoRA-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -906,7 +906,7 @@
   model_creator: nRuaif
   model_creator_link: https://huggingface.co/nRuaif
   name: Kimiko-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -974,7 +974,7 @@
   model_creator: nRuaif
   model_creator_link: https://huggingface.co/nRuaif
   name: Kimiko-v2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1042,7 +1042,7 @@
   model_creator: Jarrad Hope
   model_creator_link: https://huggingface.co/jarradh
   name: llama2_70b_chat_uncensored-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1098,7 +1098,7 @@
   model_creator: Jordan Clive
   model_creator_link: https://huggingface.co/jordiclive
   name: Llama-2-70B-OASST-1-200-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1154,7 +1154,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardLM-70B-V1.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1211,7 +1211,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: Airoboros-L2-70B-GPT4-m2.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1268,7 +1268,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70B-gpt4-1.4.1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1324,7 +1324,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: Airoboros-L2-70B-2.1-Creative-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1380,7 +1380,7 @@
   model_creator: OpenLemur
   model_creator_link: https://huggingface.co/OpenLemur
   name: Lemur-70B-Chat-v1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1437,7 +1437,7 @@
   model_creator: garage-bAInd
   model_creator_link: https://huggingface.co/garage-bAInd
   name: Camel-Platypus2-70B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1497,7 +1497,7 @@
   model_creator: OpenAssistant
   model_creator_link: https://huggingface.co/OpenAssistant
   name: Llama2-70B-OASST-SFT-v10-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1553,7 +1553,7 @@
   model_creator: Pankaj Mathur
   model_creator_link: https://huggingface.co/psmathur
   name: model_007-70B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1610,7 +1610,7 @@
   model_creator: MayaPH
   model_creator_link: https://huggingface.co/MayaPH
   name: GodziLLa2-70B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1666,7 +1666,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardMath-70B-V1.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1723,7 +1723,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Puffin-70B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1779,7 +1779,7 @@
   model_creator: Voicelab
   model_creator_link: https://huggingface.co/Voicelab
   name: Trurl-2-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1847,7 +1847,7 @@
   model_creator: Jiangwen Su
   model_creator_link: https://huggingface.co/uukuguy
   name: Speechless-Llama2-Hermes-Orca-Platypus-WizardLM-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1917,7 +1917,7 @@
   model_creator: Pankaj Mathur
   model_creator_link: https://huggingface.co/psmathur
   name: orca_mini_v3_70B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -1974,7 +1974,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70B-GPT4-2.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -2031,7 +2031,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: Airoboros-L2-70B-2.1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -2088,7 +2088,7 @@
   model_creator: garage-bAInd
   model_creator_link: https://huggingface.co/garage-bAInd
   name: Platypus2-70B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -2144,7 +2144,7 @@
   model_creator: Bud
   model_creator_link: https://huggingface.co/budecosystem
   name: Genz-70b-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -2200,7 +2200,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Hermes-Llama2-70B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -2256,7 +2256,7 @@
   model_creator: Voicelab
   model_creator_link: https://huggingface.co/Voicelab
   name: Trurl-2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -2324,7 +2324,7 @@
   model_creator: TokenBender
   model_creator_link: https://huggingface.co/TokenBender
   name: llama2-7b-chat-codeCherryPop-qLoRA-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -2394,7 +2394,7 @@
   model_creator: Jiangwen Su
   model_creator_link: https://huggingface.co/uukuguy
   name: Speechless-Llama2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -2462,7 +2462,7 @@
   model_creator: Tap
   model_creator_link: https://huggingface.co/Tap-M
   name: Luna-AI-Llama2-Uncensored-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -2530,7 +2530,7 @@
   model_creator: Upstage
   model_creator_link: https://huggingface.co/upstage
   name: Upstage-Llama-2-70B-instruct-v2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -2590,7 +2590,7 @@
   model_creator: Stability AI
   model_creator_link: https://huggingface.co/stabilityai
   name: StableBeluga2-70B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -2648,7 +2648,7 @@
   model_creator: garage-bAInd
   model_creator_link: https://huggingface.co/garage-bAInd
   name: Platypus2-70B-Instruct-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -2708,7 +2708,7 @@
   model_creator: Stability AI
   model_creator_link: https://huggingface.co/stabilityai
   name: StableBeluga-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -2777,7 +2777,7 @@
   model_creator: Together
   model_creator_link: https://huggingface.co/togethercomputer
   name: Llama-2-7B-32K-Instruct-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -2845,7 +2845,7 @@
   model_creator: taozi555
   model_creator_link: https://huggingface.co/taozi555
   name: MythoMax-Kimiko-Mix-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -2917,7 +2917,7 @@
   model_creator: Stability AI
   model_creator_link: https://huggingface.co/stabilityai
   name: StableBeluga-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -2986,7 +2986,7 @@
   model_creator: Rombo Dawg
   model_creator_link: https://huggingface.co/rombodawg
   name: LosslessMegaCoder-Llama2-13B-Mini-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -3054,7 +3054,7 @@
   model_creator: OpenAssistant
   model_creator_link: https://huggingface.co/OpenAssistant
   name: Llama2-13B-MegaCode2-OASST-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -3121,7 +3121,7 @@
   model_creator: Nick Perez
   model_creator_link: https://huggingface.co/nkpz
   name: Llama2-22B-Daydreamer-v3-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -3189,7 +3189,7 @@
   model_creator: Mikael
   model_creator_link: https://huggingface.co/Mikael110
   name: llama-2-7B-Guanaco-QLoRA-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -3257,7 +3257,7 @@
   model_creator: Eric Hartford
   model_creator_link: https://huggingface.co/ehartford
   name: Samantha-1.1-70B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -3317,7 +3317,7 @@
   model_creator: OpenAssistant
   model_creator_link: https://huggingface.co/OpenAssistant
   name: OpenAssistant-Llama2-13B-Orca-8K-3319-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -3387,7 +3387,7 @@
   model_creator: OpenAssistant
   model_creator_link: https://huggingface.co/OpenAssistant
   name: CodeLlama-13B-oasst-sft-v10-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -3454,7 +3454,7 @@
   model_creator: Migel Tissera
   model_creator_link: https://huggingface.co/migtissera
   name: Synthia-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -3522,7 +3522,7 @@
   model_creator: Meta
   model_creator_link: https://huggingface.co/meta-llama
   name: Llama-2-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -3592,7 +3592,7 @@
   model_creator: Open-Orca
   model_creator_link: https://huggingface.co/Open-Orca
   name: OpenOrca-Platypus2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -3660,7 +3660,7 @@
   model_creator: bofenghuang
   model_creator_link: https://huggingface.co/bofenghuang
   name: Vigogne-2-7B-Instruct-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -3728,7 +3728,7 @@
   model_creator: bofenghuang
   model_creator_link: https://huggingface.co/bofenghuang
   name: Vigogne-2-13B-Instruct-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -3795,7 +3795,7 @@
   model_creator: Nick Perez
   model_creator_link: https://huggingface.co/nkpz
   name: llama2-22B-daydreamer-v2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -3863,7 +3863,7 @@
   model_creator: kingbri
   model_creator_link: https://huggingface.co/kingbri
   name: Chronoboros-Grad-L2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -3931,7 +3931,7 @@
   model_creator: Eric Hartford
   model_creator_link: https://huggingface.co/ehartford
   name: Samantha-1.11-70B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -3987,7 +3987,7 @@
   model_creator: kingbri
   model_creator_link: https://huggingface.co/kingbri
   name: Airochronos-L2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -4055,7 +4055,7 @@
   model_creator: IkariDev
   model_creator_link: https://huggingface.co/IkariDev
   name: Athena-v1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -4122,7 +4122,7 @@
   model_creator: grimpep
   model_creator_link: https://huggingface.co/grimpep
   name: Llama2-22B-GPLATTY-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants: []
@@ -4134,7 +4134,7 @@
   model_creator: Florian Zimmermeister
   model_creator_link: https://huggingface.co/flozi00
   name: llama-2-13B-German-Assistant-v2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -4202,7 +4202,7 @@
   model_creator: Sao10K
   model_creator_link: https://huggingface.co/Sao10K
   name: Stheno-Inverted-L2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -4270,7 +4270,7 @@
   model_creator: Sao10K
   model_creator_link: https://huggingface.co/Sao10K
   name: Mythical-Destroyer-L2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -4338,7 +4338,7 @@
   model_creator: Mikael
   model_creator_link: https://huggingface.co/Mikael110
   name: llama-2-13B-Guanaco-QLoRA-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -4407,7 +4407,7 @@
   model_creator: DeepSE
   model_creator_link: https://huggingface.co/deepse
   name: CodeUp-Alpha-13B-HF-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -4474,7 +4474,7 @@
   model_creator: Migel Tissera
   model_creator_link: https://huggingface.co/migtissera
   name: Synthia-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -4542,7 +4542,7 @@
   model_creator: conceptofmind
   model_creator_link: https://huggingface.co/conceptofmind
   name: Hermes-LLongMA-2-7B-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -4610,7 +4610,7 @@
   model_creator: Meta
   model_creator_link: https://huggingface.co/meta-llama
   name: Llama-2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -4677,7 +4677,7 @@
   model_creator: Charles Goddard
   model_creator_link: https://huggingface.co/chargoddard
   name: Chronorctypus-Limarobormes-13b-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -4745,7 +4745,7 @@
   model_creator: bofenghuang
   model_creator_link: https://huggingface.co/bofenghuang
   name: Vigogne-2-7B-Chat-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -4813,7 +4813,7 @@
   model_creator: augtoma
   model_creator_link: https://huggingface.co/augtoma
   name: qCammel-70-x-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -4869,7 +4869,7 @@
   model_creator: kingbri
   model_creator_link: https://huggingface.co/kingbri
   name: Chronolima-Airo-Grad-L2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -4937,7 +4937,7 @@
   model_creator: kingbri
   model_creator_link: https://huggingface.co/kingbri
   name: Airolima-Chronos-Grad-L2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -5004,7 +5004,7 @@
   model_creator: Jonathan Swarp
   model_creator_link: https://huggingface.co/JoSw-14
   name: LoKuS-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -5071,7 +5071,7 @@
   model_creator: Henky!!
   model_creator_link: https://huggingface.co/Henk717
   name: Spring-Dragon-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -5139,7 +5139,7 @@
   model_creator: Sao10K
   model_creator_link: https://huggingface.co/Sao10K
   name: Stheno-L2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -5207,7 +5207,7 @@
   model_creator: Sao10K
   model_creator_link: https://huggingface.co/Sao10K
   name: Mythical-Destroyer-V2-L2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -5275,7 +5275,7 @@
   model_creator: elinas
   model_creator_link: https://huggingface.co/elinas
   name: Chronos-13B-v2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -5343,7 +5343,7 @@
   model_creator: DeepSE
   model_creator_link: https://huggingface.co/deepse
   name: CodeUp-Llama-2-13B-Chat-HF-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -5410,7 +5410,7 @@
   model_creator: Enrico Shippole
   model_creator_link: https://huggingface.co/conceptofmind
   name: LLongMA-2-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -5478,7 +5478,7 @@
   model_creator: Eric Hartford
   model_creator_link: https://huggingface.co/ehartford
   name: WizardLM-1.0-Uncensored-Llama2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -5546,7 +5546,7 @@
   model_creator: conceptofmind
   model_creator_link: https://huggingface.co/conceptofmind
   name: Hermes-LLongMA-2-13B-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -5614,7 +5614,7 @@
   model_creator: Eric Hartford
   model_creator_link: https://huggingface.co/ehartford
   name: Samantha-1.11-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -5681,7 +5681,7 @@
   model_creator: Caleb Morgan
   model_creator_link: https://huggingface.co/The-Face-Of-Goonery
   name: huginnv1.2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -5749,7 +5749,7 @@
   model_creator: augtoma
   model_creator_link: https://huggingface.co/augtoma
   name: qCammel-13-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -5816,7 +5816,7 @@
   model_creator: Caleb Morgan
   model_creator_link: https://huggingface.co/The-Face-Of-Goonery
   name: Huginn-22B-Prototype-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -5885,7 +5885,7 @@
   model_creator: AIDC-ai-business
   model_creator_link: https://huggingface.co/AIDC-ai-business
   name: Luban-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -5953,7 +5953,7 @@
   model_creator: CalderaAI
   model_creator_link: https://huggingface.co/CalderaAI
   name: 13B-Legerdemain-L2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -6020,7 +6020,7 @@
   model_creator: Caleb Morgan
   model_creator_link: https://huggingface.co/The-Face-Of-Goonery
   name: Huginn-13B-v4.5-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -6087,7 +6087,7 @@
   model_creator: Caleb Morgan
   model_creator_link: https://huggingface.co/The-Face-Of-Goonery
   name: Chronos-Beluga-v2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -6157,7 +6157,7 @@
   model_creator: Pankaj Mathur
   model_creator_link: https://huggingface.co/psmathur
   name: orca_mini_v3_13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -6225,7 +6225,7 @@
   model_creator: Undi95
   model_creator_link: https://huggingface.co/Undi95
   name: UndiMix-v2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -6293,7 +6293,7 @@
   model_creator: Eric Hartford
   model_creator_link: https://huggingface.co/ehartford
   name: Dolphin-Llama2-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -6360,7 +6360,7 @@
   model_creator: Caleb Morgan
   model_creator_link: https://huggingface.co/The-Face-Of-Goonery
   name: Huginn-v3-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -6428,7 +6428,7 @@
   model_creator: Undi95
   model_creator_link: https://huggingface.co/Undi95
   name: MythoMax-L2-Kimiko-v2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -6496,7 +6496,7 @@
   model_creator: Undi95
   model_creator_link: https://huggingface.co/Undi95
   name: UndiMix-v1-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -6563,7 +6563,7 @@
   model_creator: Caleb Morgan
   model_creator_link: https://huggingface.co/The-Face-Of-Goonery
   name: Huginn-13B-v4-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -6631,7 +6631,7 @@
   model_creator: Zaraki Quem Parte
   model_creator_link: https://huggingface.co/zarakiquemparte
   name: HermesLimaRP-L2-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -6698,7 +6698,7 @@
   model_creator: Caleb Morgan
   model_creator_link: https://huggingface.co/The-Face-Of-Goonery
   name: Huginn-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -6768,7 +6768,7 @@
   model_creator: Pankaj Mathur
   model_creator_link: https://huggingface.co/psmathur
   name: orca_mini_v3_7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -6836,7 +6836,7 @@
   model_creator: Zaraki Quem Parte
   model_creator_link: https://huggingface.co/zarakiquemparte
   name: Zarafusionex-1.1-L2-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -6904,7 +6904,7 @@
   model_creator: Zaraki Quem Parte
   model_creator_link: https://huggingface.co/zarakiquemparte
   name: Zarablend-MX-L2-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -6972,7 +6972,7 @@
   model_creator: Zaraki Quem Parte
   model_creator_link: https://huggingface.co/zarakiquemparte
   name: Zarablend-L2-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -7040,7 +7040,7 @@
   model_creator: YeungNLP
   model_creator_link: https://huggingface.co/YeungNLP
   name: Firefly-Llama2-13B-v1.2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -7108,7 +7108,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardMath-7B-V1.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -7176,7 +7176,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardMath-13B-V1.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -7244,7 +7244,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardLM-13B-V1.2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -7312,7 +7312,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardCoder-Python-13B-V1.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -7382,7 +7382,7 @@
   model_creator: Kai Howard
   model_creator_link: https://huggingface.co/totally-not-an-llm
   name: PuddleJumper-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -7450,7 +7450,7 @@
   model_creator: Kai Howard
   model_creator_link: https://huggingface.co/totally-not-an-llm
   name: EverythingLM-13b-V2-16K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -7519,7 +7519,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Redmond-Puffin-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -7587,7 +7587,7 @@
   model_creator: Kai Howard
   model_creator_link: https://huggingface.co/totally-not-an-llm
   name: EverythingLM-13B-16K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -7655,7 +7655,7 @@
   model_creator: totally-not-an-llm
   model_creator_link: https://huggingface.co/totally-not-an-llm
   name: AlpacaCielo-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -7723,7 +7723,7 @@
   model_creator: totally-not-an-llm
   model_creator_link: https://huggingface.co/totally-not-an-llm
   name: AlpacaCielo2-7B-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -7792,7 +7792,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Llama-2-7B-64K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -7861,7 +7861,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Llama-2-7B-128K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -7930,7 +7930,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Llama-2-13B-64K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -7999,7 +7999,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Llama-2-13B-128K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -8067,7 +8067,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Hermes-Llama-2-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -8136,7 +8136,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-gpt4-1.4.1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -8205,7 +8205,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: Airoboros-L2-7B-2.1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -8274,7 +8274,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13B-gpt4-1.4.1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -8343,7 +8343,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: Airoboros-L2-13B-2.1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -8412,7 +8412,7 @@
   model_creator: garage-bAInd
   model_creator_link: https://huggingface.co/garage-bAInd
   name: Stable-Platypus2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -8481,7 +8481,7 @@
   model_creator: garage-bAInd
   model_creator_link: https://huggingface.co/garage-bAInd
   name: Platypus2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -8550,7 +8550,7 @@
   model_creator: garage-bAInd
   model_creator_link: https://huggingface.co/garage-bAInd
   name: Camel-Platypus2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -8618,7 +8618,7 @@
   model_creator: Doctor-Shotgun
   model_creator_link: https://huggingface.co/Doctor-Shotgun
   name: llama-2-13B-chat-limarp-v2-merged-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -8685,7 +8685,7 @@
   model_creator: Doctor Shotgun
   model_creator_link: https://huggingface.co/Doctor-Shotgun
   name: Chronohermes-Grad-L2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -8753,7 +8753,7 @@
   model_creator: lmsys
   model_creator_link: https://huggingface.co/lmsys
   name: vicuna-7B-v1.5-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -8821,7 +8821,7 @@
   model_creator: lmsys
   model_creator_link: https://huggingface.co/lmsys
   name: vicuna-7B-v1.5-16K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -8889,7 +8889,7 @@
   model_creator: lmsys
   model_creator_link: https://huggingface.co/lmsys
   name: vicuna-13B-v1.5-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -8957,7 +8957,7 @@
   model_creator: lmsys
   model_creator_link: https://huggingface.co/lmsys
   name: vicuna-13B-v1.5-16K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -9025,7 +9025,7 @@
   model_creator: Gryphe
   model_creator_link: https://huggingface.co/Gryphe
   name: MythoMix-L2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -9093,7 +9093,7 @@
   model_creator: Gryphe
   model_creator_link: https://huggingface.co/Gryphe
   name: MythoMax-L2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -9161,7 +9161,7 @@
   model_creator: Gryphe
   model_creator_link: https://huggingface.co/Gryphe
   name: MythoLogic-L2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -9229,7 +9229,7 @@
   model_creator: grimpep
   model_creator_link: https://huggingface.co/grimpep
   name: L2-MythoMax22b-Instruct-Falseblock-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -9297,7 +9297,7 @@
   model_creator: Meta
   model_creator_link: https://huggingface.co/codellama
   name: CodeLlama-7B-Python-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -9365,7 +9365,7 @@
   model_creator: Meta
   model_creator_link: https://huggingface.co/codellama
   name: CodeLlama-7B-Instruct-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -9433,7 +9433,7 @@
   model_creator: Meta
   model_creator_link: https://huggingface.co/codellama
   name: CodeLlama-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -9501,7 +9501,7 @@
   model_creator: Meta
   model_creator_link: https://huggingface.co/codellama
   name: CodeLlama-13B-Python-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -9569,7 +9569,7 @@
   model_creator: Meta
   model_creator_link: https://huggingface.co/codellama
   name: CodeLlama-13B-Instruct-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -9637,7 +9637,7 @@
   model_creator: Meta
   model_creator_link: https://huggingface.co/codellama
   name: CodeLlama-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -9705,7 +9705,7 @@
   model_creator: Gryphe
   model_creator_link: https://huggingface.co/Gryphe
   name: MythoLogic-Mini-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -9772,7 +9772,7 @@
   model_creator: Meta Llama 2
   model_creator_link: https://huggingface.co/meta-llama
   name: Llama-2-70B-Chat-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -9827,7 +9827,7 @@
   model_creator: Meta Llama 2
   model_creator_link: https://huggingface.co/meta-llama
   name: Llama-2-13B-chat-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -9894,7 +9894,7 @@
   model_creator: Meta Llama 2
   model_creator_link: https://huggingface.co/meta-llama
   name: Llama-2-7B-Chat-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -9962,7 +9962,7 @@
   model_creator: Junu Kim
   model_creator_link: https://huggingface.co/starmpcc
   name: Asclepius-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10031,7 +10031,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: Airoboros-33B-2.1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10098,7 +10098,7 @@
   model_creator: Migel Tissera
   model_creator_link: https://huggingface.co/migtissera
   name: Synthia-70B-v1.1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10154,7 +10154,7 @@
   model_creator: nRuaif
   model_creator_link: https://huggingface.co/nRuaif
   name: fiction.live-Kimiko-V2-70B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10209,7 +10209,7 @@
   model_creator: Migel Tissera
   model_creator_link: https://huggingface.co/migtissera
   name: Synthia-70B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10265,7 +10265,7 @@
   model_creator: Bohan Du
   model_creator_link: https://huggingface.co/acrastt
   name: Puma-3b-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10297,7 +10297,7 @@
   model_creator: Bohan Du
   model_creator_link: https://huggingface.co/acrastt
   name: Marx-3b-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10329,7 +10329,7 @@
   model_creator: Bohan Du
   model_creator_link: https://huggingface.co/acrastt
   name: Griffin-3B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10363,7 +10363,7 @@
   model_creator: BigCode
   model_creator_link: https://huggingface.co/bigcode
   name: Octocoder-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10395,7 +10395,7 @@
   model_creator: Feynman Innovations
   model_creator_link: https://huggingface.co/ajibawa-2023
   name: Carl-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10463,7 +10463,7 @@
   model_creator: Feynman Innovations
   model_creator_link: https://huggingface.co/ajibawa-2023
   name: Carl-33B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10530,7 +10530,7 @@
   model_creator: Feynman Innovations
   model_creator_link: https://huggingface.co/ajibawa-2023
   name: scarlett-33B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10597,7 +10597,7 @@
   model_creator: Feynman Innovations
   model_creator_link: https://huggingface.co/ajibawa-2023
   name: Scarlett-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10664,7 +10664,7 @@
   model_creator: Feynman Innovations
   model_creator_link: https://huggingface.co/ajibawa-2023
   name: Scarlett-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10732,7 +10732,7 @@
   model_creator: NYTK
   model_creator_link: https://huggingface.co/NYTK
   name: PULI-GPT-3SX-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10764,7 +10764,7 @@
   model_creator: StabilityAI
   model_creator_link: https://huggingface.co/stabilityai
   name: stablecode-instruct-alpha-3b-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10797,7 +10797,7 @@
   model_creator: StabilityAI
   model_creator_link: https://huggingface.co/stabilityai
   name: stablecode-completion-alpha-3b-4k-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10830,7 +10830,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: Airoboros-65B-GPT4-m2.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10891,7 +10891,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: Airoboros-65B-GPT4-2.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -10952,7 +10952,7 @@
   model_creator: Open-Orca
   model_creator_link: https://huggingface.co/Open-Orca
   name: OpenOrcaxOpenChat-Preview2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -11019,7 +11019,7 @@
   model_creator: SLAM-group
   model_creator_link: https://huggingface.co/SLAM-group
   name: NewHope-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -11091,7 +11091,7 @@
   model_creator: OpenAssistant
   model_creator_link: https://huggingface.co/OpenAssistant
   name: OpenAssistant-Llama2-13B-Orca-v2-8K-3166-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -11159,7 +11159,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: BigTranslate-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -11228,7 +11228,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33B-GPT4-2.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -11297,7 +11297,7 @@
   model_creator: Jon Durbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33B-GPT4-m2.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -11365,7 +11365,7 @@
   model_creator: OpenChat
   model_creator_link: https://huggingface.co/openchat
   name: OpenChat_v3.2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -11433,7 +11433,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: MythoLogic-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -11501,7 +11501,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Llama-2-70B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -11557,7 +11557,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Dolphin-Llama-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -11625,7 +11625,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: MythoBoros-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -11698,7 +11698,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Upstage-Llama1-65B-Instruct-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -11758,7 +11758,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: upstage-llama-30b-instruct-2048-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -11827,7 +11827,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: llama2_7b_chat_uncensored-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -11895,7 +11895,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Vicuna-13B-v1.3-German-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -11963,7 +11963,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: 13B-BlueMethod-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12034,7 +12034,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: 13B-Ouroboros-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12102,7 +12102,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: 30B-Epsilon-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12171,7 +12171,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: replit-openorca-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12203,7 +12203,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: guanaco-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12271,7 +12271,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Replit-Code-Instruct-Glaive-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12304,7 +12304,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Evol-Replit-v1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12336,7 +12336,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: LLaMa-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12404,7 +12404,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: LLaMa-30B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12472,7 +12472,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: LLaMa-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12540,7 +12540,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: llama-65B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12602,7 +12602,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardCoder-Guanaco-15B-V1.1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12635,7 +12635,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: h2ogpt-gm-oasst1-en-2048-falcon-7b-v3-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12668,7 +12668,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: OpenOrca-Preview1-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12738,7 +12738,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Starcoderplus-Guanaco-GPT4-15B-V1.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12770,7 +12770,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: open-llama-7B-v2-open-instruct-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12838,7 +12838,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airochronos-33B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12906,7 +12906,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: MPT-30B-Dolphin-v2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -12938,7 +12938,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Chronoboros-33B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13006,7 +13006,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: GodziLLa-30B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13076,7 +13076,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardCoder-Guanaco-15B-V1.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13108,7 +13108,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardLM-13B-V1.1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13177,7 +13177,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: orca_mini_v2_13b-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13245,7 +13245,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: h2ogpt-gm-oasst1-en-2048-falcon-7b-v2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13277,7 +13277,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardLM-Uncensored-Falcon-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13314,7 +13314,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: falcon-7b-instruct-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13346,7 +13346,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardLM-13B-V1-1-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13378,7 +13378,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Guanaco-33B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13426,7 +13426,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: CAMEL-13B-Combined-Data-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13474,7 +13474,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardLM-13B-V1-0-Uncensored-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13522,7 +13522,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Pygmalion-7B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13571,7 +13571,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: falcon-40b-sft-top1-560-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13624,7 +13624,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: h2ogpt-gm-oasst1-en-2048-falcon-40b-v2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13678,7 +13678,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: falcon-40b-sft-mix-1226-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13730,7 +13730,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: PMC_LLAMA-7B-10-Epoch-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13778,7 +13778,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Tulu-7B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13810,7 +13810,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Selfee-7B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13842,7 +13842,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Selfee-13B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13874,7 +13874,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardLM-7B-V1-0-Uncensored-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13922,7 +13922,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: LongChat-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -13970,7 +13970,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Wizard-Vicuna-7B-Uncensored-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14018,7 +14018,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Vicuna-7B-CoT-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14066,7 +14066,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Vicuna-7B-v1-3-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14114,7 +14114,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Samantha-1-1-Llama-7B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14162,7 +14162,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Robin-7B-v2-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14210,7 +14210,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Koala-7B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14258,7 +14258,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Koala-13B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14306,7 +14306,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Guanaco-7B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14354,7 +14354,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Baize-v2-7B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14402,7 +14402,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Baize-v2-13B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14450,7 +14450,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Airoboros-7B-GPT4-1-4-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14498,7 +14498,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: CAMEL-33B-Combined-Data-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14547,7 +14547,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: falcon-40b-instruct-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14599,7 +14599,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardLM-Uncensored-Falcon-40B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14652,7 +14652,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardLM-13B-V1.0-Uncensored-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14721,7 +14721,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: orca_mini_v2_7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14789,7 +14789,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: SuperPlatty-30B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14857,7 +14857,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: LongChat-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14905,7 +14905,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Redmond-Hermes-Coder-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14937,7 +14937,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: chronos-hermes-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -14969,7 +14969,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Vicuna-33B-1-3-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15017,7 +15017,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: vicuna-33B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15085,7 +15085,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Tulu-13B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15117,7 +15117,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Chinese-Alpaca-33B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15154,7 +15154,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: mpt-7b-chat-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15186,7 +15186,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: h2ogpt-research-oasst1-llama-65B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15246,7 +15246,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardLM-Uncensored-SuperCOT-StoryTelling-30B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15278,7 +15278,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: wizard-vicuna-13B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15326,7 +15326,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Wizard-Vicuna-13B-Uncensored-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15374,7 +15374,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Samantha-33B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15422,7 +15422,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Samantha-13B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15470,7 +15470,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Robin-13B-v2-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15518,7 +15518,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Pygmalion-13B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15566,7 +15566,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Platypus-30B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15614,7 +15614,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Minotaur-13B-fixed-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15662,7 +15662,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Manticore-13B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15710,7 +15710,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Manticore-13B-Chat-Pyg-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15758,7 +15758,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Manticore-13B-Chat-Pyg-Guanaco-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15806,7 +15806,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: llama-30b-supercot-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15855,7 +15855,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: UltraLM-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15887,7 +15887,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: GPT4All-13B-Snoozy-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15935,7 +15935,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Chronos-Hermes-13B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -15967,7 +15967,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: CAMEL-13B-Role-Playing-Data-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16015,7 +16015,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: GPlatty-30B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16063,7 +16063,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-65B-gpt4-1.4-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16123,7 +16123,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Platypus-30B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16191,7 +16191,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-33B-gpt4-1-4-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16239,7 +16239,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Chronos-13B-SuperHOT-8K-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16287,7 +16287,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: GPlatty-30B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16356,7 +16356,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-33B-gpt4-1.4-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16440,7 +16440,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: mpt-30B-chat-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16473,7 +16473,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-mpt-30b-gpt4-1p4-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16505,7 +16505,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Selfee-13B-GGML-DOI
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16573,7 +16573,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Selfee-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16641,7 +16641,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: vicuna-13b-v1.3.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16712,7 +16712,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: orca_mini_3B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16747,7 +16747,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: orca_mini_7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16818,7 +16818,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: orca_mini_13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16887,7 +16887,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardLM-33B-V1.0-Uncensored-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -16956,7 +16956,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: open-llama-13b-open-instruct-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -17029,7 +17029,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: mpt-30B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -17070,7 +17070,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: mpt-30B-instruct-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -17102,7 +17102,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: wizardLM-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -17134,7 +17134,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Flan-OpenLlama-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -17202,7 +17202,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-13B-gpt4-1.4-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -17270,7 +17270,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-7B-gpt4-1.4-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -17339,7 +17339,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: PMC_LLAMA-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -17407,7 +17407,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: guanaco-33B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -17475,7 +17475,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: guanaco-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -17543,7 +17543,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: guanaco-65B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -17604,7 +17604,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-65B-gpt4-1.3-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -17665,7 +17665,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-13B-gpt4-1.3-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -17734,7 +17734,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-7B-gpt4-1.3-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -17803,7 +17803,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-33B-gpt4-1.3-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -17871,7 +17871,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: baichuan-llama-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -17939,7 +17939,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: baichuan-vicuna-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18007,7 +18007,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: cassandra-6.9B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18054,7 +18054,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: minotaur-15B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18086,7 +18086,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: vicuna-7B-v1.3-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18154,7 +18154,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: gpt4-x-vicuna-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18223,7 +18223,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardLM-7B-V1.0-Uncensored-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18291,7 +18291,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: gpt4-x-alpaca-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18359,7 +18359,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: CAMEL-33B-Combined-Data-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18427,7 +18427,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: robin-65B-v2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18487,7 +18487,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: robin-33B-v2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18555,7 +18555,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: robin-13B-v2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18623,7 +18623,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: robin-7B-v2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18692,7 +18692,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-13B-gpt4-1.2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18761,7 +18761,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-7B-gpt4-1.2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18829,7 +18829,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardCoder-15B-1.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18861,7 +18861,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: starchat-beta-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18894,7 +18894,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-65B-gpt4-1.2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -18955,7 +18955,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-33B-gpt4-1.2-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -19036,7 +19036,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: minotaur-13B-fixed-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -19104,7 +19104,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: CAMEL-13B-Role-Playing-Data-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -19172,7 +19172,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: CAMEL-13B-Combined-Data-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -19243,7 +19243,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: tulu-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -19314,7 +19314,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: tulu-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -19382,7 +19382,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: tulu-30B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -19450,7 +19450,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: open-llama-7b-open-instruct-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -19519,7 +19519,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: fin-llama-33B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -19588,7 +19588,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-33b-gpt4-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -19657,7 +19657,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: samantha-1.1-llama-33B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -19725,7 +19725,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: samantha-1.1-llama-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -19793,7 +19793,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-13B-1.1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -19861,7 +19861,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: samantha-1.1-llama-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -19929,7 +19929,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: gorilla-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -19997,7 +19997,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: alpaca-lora-65B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -20057,7 +20057,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: gpt4-alpaca-lora_mlp-65B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -20117,7 +20117,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: OpenAssistant-SFT-7-Llama-30B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -20177,7 +20177,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: wizardLM-13B-1.0-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -20245,7 +20245,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Vigogne-Instruct-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -20313,7 +20313,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: manticore-13b-chat-pyg-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -20381,7 +20381,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: llama-30b-supercot-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -20449,7 +20449,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: h2ogpt-oasst1-512-30B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -20517,7 +20517,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: VicUnlocked-30B-LoRA-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -20585,7 +20585,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: stable-vicuna-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -20653,7 +20653,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: koala-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -20721,7 +20721,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: 13B-HyperMantis-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -20789,7 +20789,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: koala-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -20857,7 +20857,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Karen_theEditor_13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -20925,7 +20925,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardLM-7B-uncensored-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -20993,7 +20993,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: based-30B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -21061,7 +21061,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: wizard-vicuna-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -21129,7 +21129,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: based-13b-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -21197,7 +21197,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: based-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -21265,7 +21265,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Wizard-Vicuna-7B-Uncensored-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -21333,7 +21333,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: chronos-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -21401,7 +21401,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: hippogriff-30b-chat-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -21469,7 +21469,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardLM-13B-Uncensored-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -21538,7 +21538,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: starcoder-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -21572,7 +21572,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: starcoderplus-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -21617,7 +21617,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: minotaur-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -21685,7 +21685,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: minotaur-mpt-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -21717,7 +21717,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Vicuna-7B-CoT-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -21785,7 +21785,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Vicuna-13B-CoT-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -21853,7 +21853,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: selfee-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -21922,7 +21922,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: MPT-7B-Storywriter-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -21959,7 +21959,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: MPT-7B-Instruct-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -22000,7 +22000,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: MPT-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -22036,7 +22036,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: GPT4All-13B-snoozy-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -22104,7 +22104,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-7b-gpt4-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -22172,7 +22172,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: airoboros-13b-gpt4-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -22240,7 +22240,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: chronos-33b-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -22308,7 +22308,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Samantha-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -22376,7 +22376,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: samantha-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -22444,7 +22444,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Wizard-Vicuna-13B-Uncensored-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -22512,7 +22512,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: vicuna-13b-1.1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -22580,7 +22580,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: vicuna-7B-1.1-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -22648,7 +22648,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: 30B-Lazarus-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -22716,7 +22716,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Manticore-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -22784,7 +22784,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: chronos-wizardlm-uc-scot-st-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -22852,7 +22852,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardLM-Uncensored-SuperCOT-StoryTelling-30B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -22920,7 +22920,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: VicUnlocked-alpaca-65B-QLoRA-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -22980,7 +22980,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: dromedary-65B-lora-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -23040,7 +23040,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardLM-30B-Uncensored-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -23108,7 +23108,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Wizard-Vicuna-30B-Uncensored-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -23176,7 +23176,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: 13B-Chimera-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -23244,7 +23244,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Nous-Hermes-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -23312,7 +23312,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardLM-30B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -23380,7 +23380,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Planner-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -23448,7 +23448,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: samantha-33B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -23516,7 +23516,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: llama-13b-supercot-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -23548,7 +23548,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: llama-deus-7b-v3-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -23581,7 +23581,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Alpaca-Lora-30B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -23613,7 +23613,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Project-Baize-v2-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -23645,7 +23645,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Project-Baize-v2-7B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -23677,7 +23677,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: medalpaca-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -23712,7 +23712,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: wizard-mega-13B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -23744,7 +23744,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: gpt4-alpaca-lora-30B-GGML
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:
@@ -23778,7 +23778,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: koala-7b-ggml-unquantized
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   type: ggml
   variants:

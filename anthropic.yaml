@@ -6,7 +6,7 @@
   model_creator: anthropic
   model_creator_link: https://anthropic.com
   name: claude-3-5-sonnet-20241022
-  quantizer: null
+  provider: null
   rank: 1.0
   type: api
   variants:
@@ -24,7 +24,7 @@
   model_creator: anthropic
   model_creator_link: https://anthropic.com
   name: Later this month
-  quantizer: null
+  provider: null
   rank: 1.0
   type: api
   variants:

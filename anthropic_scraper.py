@@ -35,7 +35,7 @@ def scrape_model_data(url):
                 'model_creator': 'anthropic',
                 'model_creator_link': 'https://anthropic.com',
                 'name': model_name,
-                'quantizer': None,
+                'provider': None,
                 'rank': 1.0,
                 'type': 'api',
                 'variants': [{

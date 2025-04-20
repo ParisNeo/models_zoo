@@ -30,7 +30,7 @@ for model in openai.models.list():
             "model_creator": "openai",
             "model_creator_link": "https://openai.com",
             "name": model.id,
-            "quantizer": None,
+            "provider": None,
             "rank": 1.0,
             "type": "api",
             "variants":[

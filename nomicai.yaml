@@ -6,7 +6,7 @@
   model_creator: ''
   model_creator_link: ''
   name: ''
-  quantizer: ''
+  provider: ''
   rank: 10000000000.0
   type: LLaMA
   variants:
@@ -20,7 +20,7 @@
   model_creator: nomic-ai
   model_creator_link: https://huggingface.co/nomic-ai
   name: gpt4all-falcon-ggml
-  quantizer: ''
+  provider: ''
   rank: 10000000000.0
   type: Falcon
   variants:
@@ -34,7 +34,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Nous-Hermes-13B-GGML
-  quantizer: ''
+  provider: ''
   rank: 10000000000.0
   type: LLaMA
   variants:
@@ -48,7 +48,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: GPT4All-13B-snoozy-GGML
-  quantizer: ''
+  provider: ''
   rank: 10000000000.0
   type: LLaMA
   variants:
@@ -62,7 +62,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: orca_mini_7B-GGML
-  quantizer: ''
+  provider: ''
   rank: 10000000000.0
   type: OpenLLaMa
   variants:
@@ -76,7 +76,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: orca_mini_3B-GGML
-  quantizer: ''
+  provider: ''
   rank: 10000000000.0
   type: OpenLLaMa
   variants:
@@ -90,7 +90,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: orca_mini_13B-GGML
-  quantizer: ''
+  provider: ''
   rank: 10000000000.0
   type: OpenLLaMa
   variants:
@@ -104,7 +104,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: WizardLM-13B-Uncensored-GGML
-  quantizer: ''
+  provider: ''
   rank: 10000000000.0
   type: LLaMA
   variants:
@@ -118,7 +118,7 @@
   model_creator: nomic-ai
   model_creator_link: https://huggingface.co/nomic-ai
   name: ggml-replit-code-v1-3b
-  quantizer: ''
+  provider: ''
   rank: 10000000000.0
   type: Replit
   variants:
@@ -132,7 +132,7 @@
   model_creator: ''
   model_creator_link: ''
   name: ''
-  quantizer: ''
+  provider: ''
   rank: 10000000000.0
   type: Bert
   variants:
@@ -146,7 +146,7 @@
   model_creator: ''
   model_creator_link: ''
   name: ''
-  quantizer: ''
+  provider: ''
   rank: 10000000000.0
   type: Starcoder
   variants:
@@ -160,7 +160,7 @@
   model_creator: ''
   model_creator_link: ''
   name: ''
-  quantizer: ''
+  provider: ''
   rank: 10000000000.0
   type: Starcoder
   variants:
@@ -174,7 +174,7 @@
   model_creator: TheBloke
   model_creator_link: https://huggingface.co/TheBloke
   name: Llama-2-7B-Chat-GGML
-  quantizer: ''
+  provider: ''
   rank: 10000000000.0
   type: LLaMA2
   variants:

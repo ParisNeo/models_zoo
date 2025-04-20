@@ -5,7 +5,7 @@
   last_commit_time: 2024-01-10 05:25:51+00:00
   model_creator: unknown
   name: TinyLlama-1B-32k-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -18,7 +18,7 @@
   last_commit_time: 2023-09-20 15:13:59+00:00
   model_creator: unknown
   name: TinyLlama-1B-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -31,7 +31,7 @@
   last_commit_time: 2023-09-22 16:00:49+00:00
   model_creator: unknown
   name: CodeLlama-13B-instruct-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -44,7 +44,7 @@
   last_commit_time: 2023-09-22 05:15:57+00:00
   model_creator: unknown
   name: CodeLlama-13B-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -57,7 +57,7 @@
   last_commit_time: 2023-09-18 17:51:49+00:00
   model_creator: unknown
   name: Llama2-7B-chat-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -70,7 +70,7 @@
   last_commit_time: 2023-09-20 17:21:51+00:00
   model_creator: unknown
   name: OpenLlama-3B-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -83,7 +83,7 @@
   last_commit_time: 2023-09-22 22:28:28+00:00
   model_creator: unknown
   name: CodeLlama-34B-instruct-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -96,7 +96,7 @@
   last_commit_time: 2023-09-27 18:03:05+00:00
   model_creator: unknown
   name: Mistral-7B-instruct-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -109,7 +109,7 @@
   last_commit_time: 2023-10-06 18:07:19+00:00
   model_creator: unknown
   name: Mistral-7B-OpenOrca-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -122,7 +122,7 @@
   last_commit_time: 2023-09-17 10:11:57+00:00
   model_creator: unknown
   name: Llama2-70B-chat-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -135,7 +135,7 @@
   last_commit_time: 2023-12-16 17:49:26+00:00
   model_creator: unknown
   name: Mixtral-8x7B-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -148,7 +148,7 @@
   last_commit_time: 2023-11-23 00:46:19+00:00
   model_creator: unknown
   name: Sheared-Llama2-2.7B-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -161,7 +161,7 @@
   last_commit_time: 2023-11-23 00:33:59+00:00
   model_creator: unknown
   name: Sheared-Llama2-1.3B-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -174,7 +174,7 @@
   last_commit_time: 2023-11-30 18:50:39+00:00
   model_creator: unknown
   name: deepseek-llm-67B-chat-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -187,7 +187,7 @@
   last_commit_time: 2023-12-16 23:44:06+00:00
   model_creator: unknown
   name: Mixtral-8x7B-instruct-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -200,7 +200,7 @@
   last_commit_time: 2023-09-23 09:05:54+00:00
   model_creator: unknown
   name: Llama2-70B-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -213,7 +213,7 @@
   last_commit_time: 2023-09-21 05:42:13+00:00
   model_creator: unknown
   name: Llama2-13B-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -226,7 +226,7 @@
   last_commit_time: 2023-09-20 19:58:32+00:00
   model_creator: unknown
   name: Llama2-7B-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -242,7 +242,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: dolphin-2.6-mistral-7b-dpo-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -266,7 +266,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: dolphin-2.6-mistral-7b-dpo-laser-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -283,7 +283,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: distilabeled-Hermes-2.5-Mistral-7B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -306,7 +306,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: UNA-dolphin-2.6-mistral-7b-dpo-laser-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -322,7 +322,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: internlm2-chat-7b-llama-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -338,7 +338,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: internlm2-chat-7b-sft-llama-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -354,7 +354,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: NeuralBeagle14-7B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -371,7 +371,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Code-290k-13B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -387,7 +387,7 @@
   model_creator: bartowski
   model_creator_link: mistralai
   name: openchat-3.5-0106-11b-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -407,7 +407,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: speechless-mistral-dolphin-orca-platypus-samantha-7b-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -423,7 +423,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: FusionNet_7Bx2_MoE_14B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -440,7 +440,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: UNA-TheBeagle-7b-v1-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -456,7 +456,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: TenyxChat-7B-v1-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -474,7 +474,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: neuronovo-7B-v0.3-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -490,7 +490,7 @@
   model_creator: bartowski
   model_creator_link: mistralai
   name: openchat-3.5-0106-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -506,7 +506,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: LLaMA2-13B-Tiefighter-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -523,7 +523,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: speechless-mistral-moloras-7b-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -539,7 +539,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: neuralchat_v3_3_laser-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -555,7 +555,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: LLaMA-Pro-8B-Instruct-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -568,7 +568,7 @@
   last_commit_time: 2024-01-07 02:48:20+00:00
   model_creator: bartowski
   name: Sensualize-Solar-10.7B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -585,7 +585,7 @@
   model_creator: bartowski
   model_creator_link: teknium
   name: NeuralHermes-2.5-Mistral-7B-laser-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -601,7 +601,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Kunoichi-7B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -617,7 +617,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Mistral-7B-Instruct-v0.2-code-ft-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -633,7 +633,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: LLaMA-Pro-8B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -652,7 +652,7 @@
   model_creator: bartowski
   model_creator_link: upstage
   name: Antares-11b-v1-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -668,7 +668,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Llama-2-7b-chat-hf-function-calling-v3-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -685,7 +685,7 @@
   model_creator: bartowski
   model_creator_link: mistralai
   name: Panda-7B-v0.1-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -701,7 +701,7 @@
   model_creator: bartowski
   model_creator_link: upstage
   name: Nous-Hermes-2-SOLAR-10.7B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -717,7 +717,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Sonya-7B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -733,7 +733,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: autodev-coder-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -752,7 +752,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: TinyLlama-1.1B-Chat-v1.0-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -768,7 +768,7 @@
   model_creator: bartowski
   model_creator_link: mistralai
   name: Lelantos-7B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -784,7 +784,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Synthia-v3.0-11B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -801,7 +801,7 @@
   model_creator: bartowski
   model_creator_link: rishiraj
   name: CatPPT-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -824,7 +824,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: dolphin-2.6-mistral-7b-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -840,7 +840,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: SauerkrautLM-UNA-SOLAR-Instruct-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -857,7 +857,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Starling-LM-7B-alpha-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -875,7 +875,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: xDAN-L1-Chat-RL-v1-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -891,7 +891,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: neural-chat-7b-v3-3-wizardmath-dare-me-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -907,7 +907,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: openchat-3.5-1210-starling-slerp-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -923,7 +923,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Mixtral_7Bx2_MoE-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -939,7 +939,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Sensei-7B-V1-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -955,7 +955,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: SAM-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -973,7 +973,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: CodeNinja-1.0-OpenChat-7B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -989,7 +989,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: WhiteRabbitNeo-13B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1005,7 +1005,7 @@
   model_creator: bartowski
   model_creator_link: Mihaiii
   name: Metis-0.4-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1022,7 +1022,7 @@
   model_creator: bartowski
   model_creator_link: teknium
   name: ToxicHermes-2.5-Mistral-7B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1038,7 +1038,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: OpenOrca-Zephyr-7B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1054,7 +1054,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: go-bruins-v2.1.1-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1078,7 +1078,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: dolphin-2.5-mixtral-8x7b-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1094,7 +1094,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Mistral-7B-Instruct-v0.2-DARE-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1135,7 +1135,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: bagel-dpo-7b-v0.1-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1152,7 +1152,7 @@
   model_creator: bartowski
   model_creator_link: teknium
   name: NeuralHermes-2.5-Mistral-7B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1168,7 +1168,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: SOLAR-10.7B-v1.0-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1184,7 +1184,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Inkbot-13B-8k-0.2-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1200,7 +1200,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: SciPhi-Self-RAG-Mistral-7B-32k-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1216,7 +1216,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: docsgpt-7b-mistral-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1232,7 +1232,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Mistral-7B-Instruct-v0.2-SLERP-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1258,7 +1258,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: openchat-3.5-1210-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1274,7 +1274,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: OpenZephyrChat-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1290,7 +1290,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Seraph-7B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1306,7 +1306,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: neural-chat-7b-v3-3-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1322,7 +1322,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: OpenHermes-2.5-neural-chat-v3-3-Slerp-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1338,7 +1338,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Mistral-7B-Instruct-v0.2-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1354,7 +1354,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Mistral-7B-Instruct-v0.2-exl2-experimental
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1373,7 +1373,7 @@
   model_creator: bartowski
   model_creator_link: teknium
   name: DPOpenHermes-7B-v2-experimental-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1389,7 +1389,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Synthia-7B-v3.0-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1408,7 +1408,7 @@
   model_creator: bartowski
   model_creator_link: teknium
   name: DPOpenHermes-7B-v2-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1427,7 +1427,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: DPOpenHermes-11B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1443,7 +1443,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: dragon-mistral-7b-v0-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1459,7 +1459,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Tess-7B-v1.4-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1477,7 +1477,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Magicoder-S-CL-7B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1494,7 +1494,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: OpenHermes-2.5-neural-chat-7b-v3-2-7B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1513,7 +1513,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: una-cybertron-7b-v2-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1529,7 +1529,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: NeuralPivot-Mistral-13B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1548,7 +1548,7 @@
   model_creator: bartowski
   model_creator_link: teknium
   name: DPOpenHermes-7B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1564,7 +1564,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: neural-chat-7b-v3-2-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1581,7 +1581,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: juanako-7b-UNA-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1597,7 +1597,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: deepseek-llm-7b-chat-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1613,7 +1613,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: deepseek-coder-6.7b-instruct-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1629,7 +1629,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: OpenHermes-2.5-neural-chat-7b-v3-1-7B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1646,7 +1646,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Starling-LM-7B-alpha-old-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1664,7 +1664,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: SlimOrca-13B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1681,7 +1681,7 @@
   model_creator: bartowski
   model_creator_link: microsoft
   name: Orca-2-13B-no_robots-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1698,7 +1698,7 @@
   model_creator: bartowski
   model_creator_link: fblgit
   name: juanako-7b-v1-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1714,7 +1714,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Capybara-Tess-Yi-34B-200K-DARE-Ties-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1730,7 +1730,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Tess-XS-v1-3-yarn-128K-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1746,7 +1746,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Orca-2-7B-16k-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1762,7 +1762,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Orca-2-13B-16k-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1778,7 +1778,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: MythoMist-7b-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1794,7 +1794,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Tess-XS-v1.1-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1810,7 +1810,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Orca-2-13b-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1826,7 +1826,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Orca-2-7b-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1842,7 +1842,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Free_Sydney_V2_Mistral_7b-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1858,7 +1858,7 @@
   model_creator: MonsterAPI
   model_creator_link: qblocks
   name: zephyr_7b_norobots-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1874,7 +1874,7 @@
   model_creator: MonsterAPI
   model_creator_link: qblocks
   name: mistral_7b_norobots-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1890,7 +1890,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: SynthIA-7B-v1.3-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1909,7 +1909,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: TinyLlama-1.1B-Chat-v0.5-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1925,7 +1925,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Yi-15B-Llama-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1943,7 +1943,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: TinyLlama-1.1B-intermediate-step-955k-token-2T-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1959,7 +1959,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Yi-23B-Llama-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1975,7 +1975,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Tess-XS-Creative-v1.0-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -1991,7 +1991,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: Tess-M-Creative-v1.0-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2007,7 +2007,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: gorilla-openfunctions-v0-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2023,7 +2023,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: gorilla-openfunctions-v1-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2039,7 +2039,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: XwinCoder-13B-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2055,7 +2055,7 @@
   model_creator: 01-ai
   model_creator_link: https://huggingface.co/bartowski
   name: dragon-yi-6b-v0-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2071,7 +2071,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: MistralDarwin-7b-v0.1-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2087,7 +2087,7 @@
   model_creator: bartowski
   model_creator_link: https://huggingface.co/bartowski
   name: sqlcoder-7b-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2103,7 +2103,7 @@
   model_creator: bartowski
   model_creator_link: mistralai
   name: OpenHermes-2.5-Mistral-7B-16k-exl2
-  quantizer: bartowski
+  provider: bartowski
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2120,7 +2120,7 @@
   model_creator: llava-hf
   model_creator_link: https://huggingface.co/llava-hf
   name: bakLlava-v1-hf
-  quantizer: llava-hf
+  provider: llava-hf
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2137,7 +2137,7 @@
   model_creator: llava-hf
   model_creator_link: https://huggingface.co/llava-hf
   name: llava-1.5-7b-hf
-  quantizer: llava-hf
+  provider: llava-hf
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2153,7 +2153,7 @@
   model_creator: llava-hf
   model_creator_link: https://huggingface.co/llava-hf
   name: llava-1.5-13b-hf
-  quantizer: llava-hf
+  provider: llava-hf
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2169,7 +2169,7 @@
   model_creator: llava-hf
   model_creator_link: https://huggingface.co/llava-hf
   name: vip-llava-13b-hf
-  quantizer: llava-hf
+  provider: llava-hf
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2185,7 +2185,7 @@
   model_creator: llava-hf
   model_creator_link: https://huggingface.co/llava-hf
   name: vip-llava-7b-hf
-  quantizer: llava-hf
+  provider: llava-hf
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2201,7 +2201,7 @@
   model_creator: teknium
   model_creator_link: mistralai
   name: OpenHermes-2.5-Mistral-7B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2217,7 +2217,7 @@
   model_creator: teknium
   model_creator_link: mistralai
   name: Mistral-Trismegistus-7B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2234,7 +2234,7 @@
   model_creator: teknium
   model_creator_link: teknium
   name: Hermes-Trismegistus-Mistral-7B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2250,7 +2250,7 @@
   model_creator: teknium
   model_creator_link: mistralai
   name: OpenHermes-2-Mistral-7B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2266,7 +2266,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: SD-PrompTune-v1
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2283,7 +2283,7 @@
   model_creator: teknium
   model_creator_link: mistralai
   name: CollectiveCognition-v1.1-Mistral-7B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2300,7 +2300,7 @@
   model_creator: teknium
   model_creator_link: mistralai
   name: CollectiveCognition-v1-Mistral-7B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2317,7 +2317,7 @@
   model_creator: teknium
   model_creator_link: mistralai
   name: airoboros-mistral2.2-7b
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2334,7 +2334,7 @@
   model_creator: teknium
   model_creator_link: NousResearch
   name: OpenHermes-13B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2351,7 +2351,7 @@
   model_creator: teknium
   model_creator_link: NousResearch
   name: OpenHermes-7B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2368,7 +2368,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: Phi-Hermes-1.3B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2385,7 +2385,7 @@
   model_creator: teknium
   model_creator_link: NousResearch
   name: OpenHermes-7B-adapter
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2402,7 +2402,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: Puffin-Phi-v2
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2415,7 +2415,7 @@
   last_commit_time: 2023-09-12 04:58:25+00:00
   license: unknown
   name: Puffin-Phi
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -2429,7 +2429,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: MPT-7B-Mercury-Experimental
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2448,7 +2448,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: Replit-v1-CodeInstruct-3B-fp16
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2467,7 +2467,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: Replit-v2-CodeInstruct-3B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2486,7 +2486,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: Replit-v1-CodeInstruct-3B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2502,7 +2502,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: llama-deus-7b-v3-lora-merged
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2518,7 +2518,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: llama-deus-7b-v3-lora
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2530,7 +2530,7 @@
   description: ''
   license: unknown
   name: llama-deus-7b-v2-lora
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -2544,7 +2544,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: Llama-Deus-7b-Lora
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -2558,7 +2558,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: GPT4-x-Alpaca13b-RolePlayLora-4bit-v2
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2574,7 +2574,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: Base-GPT4-x-Alpaca-Roleplay-Lora
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2591,7 +2591,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Solar-10b-32k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2608,7 +2608,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Solar-10b-64k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2624,7 +2624,7 @@
   model_creator: NousResearch
   model_creator_link: mistralai
   name: Nous-Hermes-2-Mixtral-8x7B-DPO
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2640,7 +2640,7 @@
   model_creator: NousResearch
   model_creator_link: mistralai
   name: Nous-Hermes-2-Mixtral-8x7B-SFT
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2656,7 +2656,7 @@
   model_creator: NousResearch
   model_creator_link: mistralai
   name: Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -2670,7 +2670,7 @@
   model_creator: NousResearch
   model_creator_link: mistralai
   name: Nous-Hermes-2-Mixtral-8x7B-SFT-GGUF
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -2684,7 +2684,7 @@
   model_creator: NousResearch
   model_creator_link: NousResearch
   name: Nous-Hermes-2-Mixtral-8x7B-DPO-adapter
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2700,7 +2700,7 @@
   model_creator: NousResearch
   model_creator_link: upstage
   name: Nous-Hermes-2-SOLAR-10.7B
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2713,7 +2713,7 @@
   last_commit_time: 2024-01-12 18:46:56+00:00
   license: unknown
   name: Obsidian-3B-V0.5-GGUF
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -2731,7 +2731,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Obsidian-3B-V0.5
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2747,7 +2747,7 @@
   model_creator: NousResearch
   model_creator_link: 01-ai
   name: Nous-Hermes-2-Yi-34B
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2768,7 +2768,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Capybara-34B
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2789,7 +2789,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Capybara-7B-V1
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2810,7 +2810,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Capybara-7B-V1.9
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2831,7 +2831,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Capybara-3B-V1.9
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2852,7 +2852,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Capybara-7B-V1.9-GGUF
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -2871,7 +2871,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Capybara-7B-V1-GGUF
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -2885,7 +2885,7 @@
   model_creator: NousResearch
   model_creator_link: 01-ai
   name: Nous-Hermes-2-Yi-34B-GGUF
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -2899,7 +2899,7 @@
   model_creator: NousResearch
   model_creator_link: mistralai
   name: Nous-Hermes-2-Vision-Alpha
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2916,7 +2916,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Llama-2-70b-32k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2933,7 +2933,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Mistral-7b-128k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2950,7 +2950,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Mistral-7b-64k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2967,7 +2967,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Llama-2-7b-64k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -2985,7 +2985,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Redmond-Puffin-13B
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3003,7 +3003,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Redmond-Puffin-13B-GGML
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3021,7 +3021,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Puffin-70B
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3038,7 +3038,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Hermes-llama-2-7b
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3054,7 +3054,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Llama-2-70b-chat-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3070,7 +3070,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Llama-2-13b-chat-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3087,7 +3087,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Llama-2-13b-128k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3104,7 +3104,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Llama-2-7b-128k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3121,7 +3121,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Llama-2-13b-64k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3138,7 +3138,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Hermes-Llama2-70b
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3155,7 +3155,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Hermes-Llama2-13b
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3171,7 +3171,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Llama-2-70b-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3187,7 +3187,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Llama-2-13b-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3203,7 +3203,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Llama-2-7b-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3216,7 +3216,7 @@
   last_commit_time: 2023-08-26 04:25:10+00:00
   license: unknown
   name: CodeLlama-7b-Instruct-hf-flash
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -3227,7 +3227,7 @@
   last_commit_time: 2023-08-26 04:09:19+00:00
   license: unknown
   name: CodeLlama-13b-Instruct-hf-flash
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -3238,7 +3238,7 @@
   last_commit_time: 2023-08-24 17:48:06+00:00
   license: unknown
   name: CodeLlama-34b-hf-flash
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -3249,7 +3249,7 @@
   last_commit_time: 2023-08-24 17:35:07+00:00
   license: unknown
   name: CodeLlama-13b-hf-flash
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -3260,7 +3260,7 @@
   last_commit_time: 2023-08-24 17:19:00+00:00
   license: unknown
   name: CodeLlama-7b-hf-flash
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -3271,7 +3271,7 @@
   last_commit_time: 2023-08-24 16:57:35+00:00
   license: unknown
   name: CodeLlama-34b-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -3282,7 +3282,7 @@
   last_commit_time: 2023-08-24 16:34:57+00:00
   license: unknown
   name: CodeLlama-13b-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -3293,7 +3293,7 @@
   last_commit_time: 2023-08-24 16:19:47+00:00
   license: unknown
   name: CodeLlama-7b-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -3308,7 +3308,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Hermes-llama-2-7b-GGML
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3324,7 +3324,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Hermes-Llama2-13b-GGML
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3340,7 +3340,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Llama-2-7b-chat-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3356,7 +3356,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Redmond-Hermes-Coder
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3372,7 +3372,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Hermes-13b
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3388,7 +3388,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: GPT4-x-Vicuna-13b-4bit
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -3402,7 +3402,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: GPT4-x-Vicuna-13b-fp16
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3447,7 +3447,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-dpo-8x7b-v0.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3492,7 +3492,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-8x7b-v0.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3537,7 +3537,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-dpo-34b-v0.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3582,7 +3582,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: nontoxic-bagel-34b-v0.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3627,7 +3627,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-34b-v0.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3672,7 +3672,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-dpo-1.1b-v0.3
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3717,7 +3717,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-1.1b-v0.3
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3762,7 +3762,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-dpo-2.8b-v0.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3804,7 +3804,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-2.8b-v0.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3845,7 +3845,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-dpo-7b-v0.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3890,7 +3890,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-14b
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3926,7 +3926,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-7b-v0.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3942,7 +3942,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: cinematika-7b-v0.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -3958,7 +3958,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-c70b-3.1.2-q4_k_m
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -3972,7 +3972,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-3.1.2-q4_k_m
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -3987,7 +3987,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-m-7b-3.1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4004,7 +4004,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-c70b-3.1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4020,7 +4020,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: mistral-7b-tokenizer-ja
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4035,7 +4035,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-3.1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4052,7 +4052,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-180b-2.2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4069,7 +4069,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-3b-3p11
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4086,7 +4086,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-c34b-3.1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4103,7 +4103,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-3.1.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4120,7 +4120,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-3.1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4136,7 +4136,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-3.1.2-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4153,7 +4153,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-3b-3p0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4170,7 +4170,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-m-7b-3.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4187,7 +4187,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-3.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4204,7 +4204,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-3.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4221,7 +4221,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-180b-2.2.1-checkpoints
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4236,7 +4236,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-c34b-2.2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4252,7 +4252,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: batch-size-test-7b
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4266,7 +4266,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-2.2.1-4bit-quants
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4281,7 +4281,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-2.2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4298,7 +4298,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-2.2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4315,7 +4315,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-2.2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4327,7 +4327,7 @@
   description: ''
   license: unknown
   name: airoboros-l2-70b-2.2.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4337,7 +4337,7 @@
   description: ''
   license: unknown
   name: airoboros-c34b-2.2.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4352,7 +4352,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-c34b-2.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4369,7 +4369,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-c34b-2.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4384,7 +4384,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-70b-2.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4399,7 +4399,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-2.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4415,7 +4415,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-13b-2.2-gguf
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4429,7 +4429,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-c34b-2.2-checkpoints
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4444,7 +4444,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-c34b-2.2-prequant-merge
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4460,7 +4460,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-c34b-2.2-checkpoints
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4475,7 +4475,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-2.2-prequant-merge
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4492,7 +4492,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-c34b-2.2-prequant-merge
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4506,7 +4506,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-2.2-checkpoints
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4521,7 +4521,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-7b-2.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4536,7 +4536,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-13b-2.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4551,7 +4551,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-2.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4568,7 +4568,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-2.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4584,7 +4584,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-70b-2.2-checkpoints
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4599,7 +4599,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-70b-2.2-prequant-merge
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4613,7 +4613,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-7b-2.2-checkpoints
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4627,7 +4627,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-13b-2.2-checkpoints
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4642,7 +4642,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-c34b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4659,7 +4659,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4676,7 +4676,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4693,7 +4693,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4710,7 +4710,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4726,7 +4726,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-2.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4742,7 +4742,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airocoder-34b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4758,7 +4758,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-2.1-creative
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4774,7 +4774,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-lmoe-70b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4788,7 +4788,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-lmoe-7b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4802,7 +4802,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-lmoe-13b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4816,7 +4816,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-c34b-2.1-2e-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4832,7 +4832,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-c34b-2.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4844,7 +4844,7 @@
   description: ''
   license: unknown
   name: airoboros-l2-70b-2.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -4859,7 +4859,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-gpt4-m2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4876,7 +4876,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-m2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4893,7 +4893,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-m2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4910,7 +4910,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-gpt4-m2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4927,7 +4927,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-gpt4-m2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4943,7 +4943,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4959,7 +4959,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4975,7 +4975,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: blind-test-13b-zane
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -4991,7 +4991,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: blind-test-13b-vlad
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5007,7 +5007,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: blind-test-13b-martha
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5023,7 +5023,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: blind-test-13b-jimmy
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5039,7 +5039,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: blind-test-13b-jasmine
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5055,7 +5055,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: blind-test-13b-janus
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5071,7 +5071,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: blind-test-13b-francis
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5088,7 +5088,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-gpt4-2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5105,7 +5105,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5122,7 +5122,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5139,7 +5139,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-gpt4-2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5156,7 +5156,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-gpt4-2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5173,7 +5173,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-gpt4-1.4.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5190,7 +5190,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-gpt4-1.4.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5207,7 +5207,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-gpt4-1.4.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5223,7 +5223,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-m2.0-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5239,7 +5239,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-gpt4-m2.0-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5255,7 +5255,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-gpt4-2.0-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5271,7 +5271,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-2.0-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5287,7 +5287,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-m2.0-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5303,7 +5303,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-2.0-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5319,7 +5319,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-gpt4-1.4.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5335,7 +5335,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-gpt4-1.4.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5351,7 +5351,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-gpt4-1.4.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5363,7 +5363,7 @@
   description: ''
   license: unknown
   name: mpt-30b-qlora-compatible
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -5378,7 +5378,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-1.4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5395,7 +5395,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4-1.4.1-qlora
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5412,7 +5412,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4-1.4.1-qlora
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5428,7 +5428,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4-1.4.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5444,7 +5444,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4-1.4.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5460,7 +5460,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-1.4-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5477,7 +5477,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-1.4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5494,7 +5494,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4-1.4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5511,7 +5511,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4-1.4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5528,7 +5528,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-mpt-30b-gpt4-1p4-five-epochs
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5545,7 +5545,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-mpt-30b-gpt4-1p4-three-epochs
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5562,7 +5562,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-mpt-30b-gpt4-1p4-four-epochs
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5579,7 +5579,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-mpt-30b-gpt4-1p4-six-epochs
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5595,7 +5595,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-1.4-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5611,7 +5611,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-gpt-3.5-turbo-100k-7b
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5627,7 +5627,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-mpt-30b-gpt4-1.4-peft-preview
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5644,7 +5644,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4-1.4-fp16
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5661,7 +5661,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5678,7 +5678,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5695,7 +5695,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5712,7 +5712,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4-1.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5729,7 +5729,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4-1.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5746,7 +5746,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5763,7 +5763,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5780,7 +5780,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4-1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5797,7 +5797,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4-1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5814,7 +5814,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-1.3
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5831,7 +5831,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-1.3
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5848,7 +5848,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4-1.3
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5865,7 +5865,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4-1.3
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5882,7 +5882,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4-1.4-fp16
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5899,7 +5899,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-1.2-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5916,7 +5916,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-1.2-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5932,7 +5932,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4-1.2-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5948,7 +5948,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4-1.2-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5964,7 +5964,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5980,7 +5980,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bttest-7b
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -5996,7 +5996,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: cinetrainer-34b
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -6010,7 +6010,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: worthless-7b
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6067,7 +6067,7 @@
   model_creator: jondurbin
   model_creator_link: mistralai
   name: bagel-dpo-7b-v0.4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6124,7 +6124,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-7b-v0.4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6140,7 +6140,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-7B-Chat-GPTQ-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6156,7 +6156,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-7B-Chat-GPTQ-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6172,7 +6172,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-7B-Chat-AWQ
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6188,7 +6188,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-7B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6204,7 +6204,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-72B-Chat-GPTQ-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6220,7 +6220,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-72B-Chat-GPTQ-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6236,7 +6236,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-72B-Chat-AWQ
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6252,7 +6252,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-72B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6268,7 +6268,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-4B-Chat-GPTQ-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6284,7 +6284,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-4B-Chat-GPTQ-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6300,7 +6300,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-4B-Chat-AWQ
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6316,7 +6316,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-4B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6332,7 +6332,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-14B-Chat-GPTQ-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6348,7 +6348,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-14B-Chat-GPTQ-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6364,7 +6364,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-14B-Chat-AWQ
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6380,7 +6380,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-14B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6396,7 +6396,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-1.8B-Chat-GPTQ-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6412,7 +6412,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-1.8B-Chat-GPTQ-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6428,7 +6428,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-1.8B-Chat-AWQ
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6444,7 +6444,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-1.8B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6460,7 +6460,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-0.5B-Chat-GPTQ-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6476,7 +6476,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-0.5B-Chat-GPTQ-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6492,7 +6492,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-0.5B-Chat-AWQ
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6508,7 +6508,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-0.5B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6524,7 +6524,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-4B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6540,7 +6540,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-1.8B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6556,7 +6556,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-0.5B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6572,7 +6572,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-7B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6588,7 +6588,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-72B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6604,7 +6604,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-14B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6620,7 +6620,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-7B-Chat-GGUF
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -6634,7 +6634,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-72B-Chat-GGUF
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -6648,7 +6648,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-4B-Chat-GGUF
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -6662,7 +6662,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-14B-Chat-GGUF
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -6676,7 +6676,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-1.8B-Chat-GGUF
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -6690,7 +6690,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-0.5B-Chat-GGUF
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -6704,7 +6704,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-VL-Chat-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6720,7 +6720,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-VL-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6736,7 +6736,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-VL
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6752,7 +6752,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-tokenizer
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants: []
@@ -6766,7 +6766,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-72B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6782,7 +6782,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-72B-Chat-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6798,7 +6798,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-72B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6814,7 +6814,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-7B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6830,7 +6830,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-72B-Chat-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6846,7 +6846,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-7B-Chat-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6862,7 +6862,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-7B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6878,7 +6878,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-7B-Chat-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6894,7 +6894,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-14B-Chat-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6910,7 +6910,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-14B-Chat-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6926,7 +6926,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-14B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6942,7 +6942,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-14B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6958,7 +6958,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-1_8B-Chat-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6974,7 +6974,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-1_8B-Chat-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -6990,7 +6990,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-1_8B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -7006,7 +7006,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-1_8B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -7022,7 +7022,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-Audio-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -7038,7 +7038,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-Audio
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: exl2
   variants:
@@ -7051,7 +7051,7 @@
   last_commit_time: 2024-02-22 14:50:27+00:00
   model_creator: unknown
   name: Gemma-7B-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -7064,7 +7064,7 @@
   last_commit_time: 2024-02-22 09:56:08+00:00
   model_creator: unknown
   name: Gemma-7B-it-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -7077,7 +7077,7 @@
   last_commit_time: 2024-02-16 01:02:27+00:00
   model_creator: unknown
   name: Smaug-72B-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -7090,7 +7090,7 @@
   last_commit_time: 2024-01-23 04:52:35+00:00
   model_creator: unknown
   name: Orion-14B-chat-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:
@@ -7103,7 +7103,7 @@
   last_commit_time: 2024-01-22 16:25:49+00:00
   model_creator: unknown
   name: Orion-14B-exl2
-  quantizer: turboderp
+  provider: turboderp
   rank: 10000000000.0
   type: exl2
   variants:

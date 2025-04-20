@@ -12,7 +12,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Capybara-7B-V1
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -29,7 +29,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Obsidian-3B-V0.5
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -47,7 +47,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Capybara-7B-V1-GGUF
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -65,7 +65,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Capybara-7B-V1.9-GGUF
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -83,7 +83,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Capybara-7B-V1.9
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -101,7 +101,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Capybara-34B
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -116,7 +116,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Llama-2-70b-32k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -131,7 +131,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Mistral-7b-128k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -146,7 +146,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Mistral-7b-64k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -164,7 +164,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Capybara-3B-V1.9
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -181,7 +181,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Llama-2-7b-64k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -197,7 +197,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Redmond-Puffin-13B
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -213,7 +213,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Redmond-Puffin-13B-GGML
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -229,7 +229,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Puffin-70B
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -244,7 +244,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Hermes-llama-2-7b
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -260,7 +260,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Llama-2-70b-chat-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -276,7 +276,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Llama-2-13b-chat-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -293,7 +293,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Llama-2-13b-128k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -308,7 +308,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Llama-2-7b-128k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -323,7 +323,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Llama-2-13b-64k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -338,7 +338,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Hermes-Llama2-70b
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -353,7 +353,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Hermes-Llama2-13b
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -367,7 +367,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Llama-2-70b-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -383,7 +383,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Llama-2-13b-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -399,7 +399,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Llama-2-7b-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -412,7 +412,7 @@
   last_commit_time: 2023-08-26 04:25:10+00:00
   license: unknown
   name: CodeLlama-7b-Instruct-hf-flash
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -423,7 +423,7 @@
   last_commit_time: 2023-08-26 04:09:19+00:00
   license: unknown
   name: CodeLlama-13b-Instruct-hf-flash
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -434,7 +434,7 @@
   last_commit_time: 2023-08-24 17:48:06+00:00
   license: unknown
   name: CodeLlama-34b-hf-flash
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -445,7 +445,7 @@
   last_commit_time: 2023-08-24 17:35:07+00:00
   license: unknown
   name: CodeLlama-13b-hf-flash
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -456,7 +456,7 @@
   last_commit_time: 2023-08-24 17:19:00+00:00
   license: unknown
   name: CodeLlama-7b-hf-flash
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -467,7 +467,7 @@
   last_commit_time: 2023-08-24 16:57:35+00:00
   license: unknown
   name: CodeLlama-34b-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -478,7 +478,7 @@
   last_commit_time: 2023-08-24 16:34:57+00:00
   license: unknown
   name: CodeLlama-13b-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -489,7 +489,7 @@
   last_commit_time: 2023-08-24 16:19:47+00:00
   license: unknown
   name: CodeLlama-7b-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -504,7 +504,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Hermes-llama-2-7b-GGML
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -518,7 +518,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Hermes-Llama2-13b-GGML
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -532,7 +532,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Llama-2-7b-chat-hf
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -548,7 +548,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Redmond-Hermes-Coder
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -562,7 +562,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Nous-Hermes-13b
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -576,7 +576,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: GPT4-x-Vicuna-13b-4bit
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -590,7 +590,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: GPT4-x-Vicuna-13b-fp16
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -629,7 +629,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-dpo-7b-v0.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -665,7 +665,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-7b-v0.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -681,7 +681,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: cinematika-7b-v0.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -697,7 +697,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-c70b-3.1.2-q4_k_m
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -711,7 +711,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-3.1.2-q4_k_m
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -726,7 +726,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-m-7b-3.1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -743,7 +743,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-c70b-3.1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -759,7 +759,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: mistral-7b-tokenizer-ja
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -774,7 +774,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-3.1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -791,7 +791,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-180b-2.2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -808,7 +808,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-3b-3p11
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -825,7 +825,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-c34b-3.1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -842,7 +842,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-3.1.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -859,7 +859,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-3.1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -875,7 +875,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-3.1.2-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -892,7 +892,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-3b-3p0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -909,7 +909,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-m-7b-3.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -926,7 +926,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-3.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -943,7 +943,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-3.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -960,7 +960,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-180b-2.2.1-checkpoints
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -975,7 +975,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-c34b-2.2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -989,7 +989,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: batch-size-test-7b
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1003,7 +1003,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-2.2.1-4bit-quants
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1018,7 +1018,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-2.2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1033,7 +1033,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-2.2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1048,7 +1048,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-2.2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1058,7 +1058,7 @@
   description: ''
   license: unknown
   name: airoboros-l2-70b-2.2.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1068,7 +1068,7 @@
   description: ''
   license: unknown
   name: airoboros-c34b-2.2.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1083,7 +1083,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-c34b-2.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1098,7 +1098,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-c34b-2.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1113,7 +1113,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-70b-2.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1128,7 +1128,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-2.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1142,7 +1142,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-13b-2.2-gguf
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1156,7 +1156,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-c34b-2.2-checkpoints
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1171,7 +1171,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-c34b-2.2-prequant-merge
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1185,7 +1185,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-c34b-2.2-checkpoints
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1200,7 +1200,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-2.2-prequant-merge
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1215,7 +1215,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-c34b-2.2-prequant-merge
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1229,7 +1229,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-2.2-checkpoints
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1244,7 +1244,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-7b-2.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1259,7 +1259,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-13b-2.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1274,7 +1274,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-2.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1289,7 +1289,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-2.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1303,7 +1303,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-70b-2.2-checkpoints
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1318,7 +1318,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-70b-2.2-prequant-merge
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1332,7 +1332,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-7b-2.2-checkpoints
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1346,7 +1346,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: spicyboros-13b-2.2-checkpoints
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1361,7 +1361,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-c34b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1376,7 +1376,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1391,7 +1391,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1406,7 +1406,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1421,7 +1421,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1435,7 +1435,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-2.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1449,7 +1449,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airocoder-34b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1463,7 +1463,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-2.1-creative
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1477,7 +1477,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-lmoe-70b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1491,7 +1491,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-lmoe-7b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1505,7 +1505,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-lmoe-13b-2.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1519,7 +1519,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-c34b-2.1-2e-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1533,7 +1533,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-c34b-2.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1543,7 +1543,7 @@
   description: ''
   license: unknown
   name: airoboros-l2-70b-2.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1558,7 +1558,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-gpt4-m2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1573,7 +1573,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-m2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1588,7 +1588,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-m2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1603,7 +1603,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-gpt4-m2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1618,7 +1618,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-gpt4-m2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1632,7 +1632,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1646,7 +1646,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1660,7 +1660,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: blind-test-13b-zane
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1674,7 +1674,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: blind-test-13b-vlad
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1688,7 +1688,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: blind-test-13b-martha
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1702,7 +1702,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: blind-test-13b-jimmy
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1716,7 +1716,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: blind-test-13b-jasmine
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1730,7 +1730,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: blind-test-13b-janus
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1744,7 +1744,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: blind-test-13b-francis
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1759,7 +1759,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-gpt4-2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1774,7 +1774,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1789,7 +1789,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1804,7 +1804,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-gpt4-2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1819,7 +1819,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-gpt4-2.0
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1834,7 +1834,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-gpt4-1.4.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1849,7 +1849,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-gpt4-1.4.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1864,7 +1864,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-gpt4-1.4.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1878,7 +1878,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-m2.0-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1892,7 +1892,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-gpt4-m2.0-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1906,7 +1906,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-gpt4-2.0-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1920,7 +1920,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-2.0-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1934,7 +1934,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-m2.0-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1948,7 +1948,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-2.0-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1962,7 +1962,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-70b-gpt4-1.4.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1976,7 +1976,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-13b-gpt4-1.4.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -1990,7 +1990,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-l2-7b-gpt4-1.4.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2000,7 +2000,7 @@
   description: ''
   license: unknown
   name: mpt-30b-qlora-compatible
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2015,7 +2015,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-1.4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2030,7 +2030,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4-1.4.1-qlora
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2045,7 +2045,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4-1.4.1-qlora
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2059,7 +2059,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4-1.4.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2073,7 +2073,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4-1.4.1-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2087,7 +2087,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-1.4-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2102,7 +2102,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-1.4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2117,7 +2117,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4-1.4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2132,7 +2132,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4-1.4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2147,7 +2147,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-mpt-30b-gpt4-1p4-five-epochs
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2162,7 +2162,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-mpt-30b-gpt4-1p4-three-epochs
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2177,7 +2177,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-mpt-30b-gpt4-1p4-four-epochs
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2192,7 +2192,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-mpt-30b-gpt4-1p4-six-epochs
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2206,7 +2206,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-1.4-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2220,7 +2220,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-gpt-3.5-turbo-100k-7b
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2234,7 +2234,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-mpt-30b-gpt4-1.4-peft-preview
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2249,7 +2249,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4-1.4-fp16
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2264,7 +2264,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2279,7 +2279,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2294,7 +2294,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2309,7 +2309,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4-1.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2324,7 +2324,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4-1.1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2339,7 +2339,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2354,7 +2354,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2369,7 +2369,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4-1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2384,7 +2384,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4-1.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2399,7 +2399,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-1.3
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2414,7 +2414,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-1.3
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2429,7 +2429,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4-1.3
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2444,7 +2444,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4-1.3
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2459,7 +2459,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4-1.4-fp16
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2474,7 +2474,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-1.2-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2489,7 +2489,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-65b-gpt4-1.2-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2503,7 +2503,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-13b-gpt4-1.2-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2517,7 +2517,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-7b-gpt4-1.2-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2531,7 +2531,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: airoboros-33b-gpt4-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2545,7 +2545,7 @@
   model_creator: llava-hf
   model_creator_link: https://huggingface.co/llava-hf
   name: vip-llava-13b-hf
-  quantizer: llava-hf
+  provider: llava-hf
   rank: 10000000000.0
   type: transformers
   variants:
@@ -2561,7 +2561,7 @@
   model_creator: llava-hf
   model_creator_link: https://huggingface.co/llava-hf
   name: vip-llava-7b-hf
-  quantizer: llava-hf
+  provider: llava-hf
   rank: 10000000000.0
   type: transformers
   variants:
@@ -2577,7 +2577,7 @@
   model_creator: llava-hf
   model_creator_link: https://huggingface.co/llava-hf
   name: llava-1.5-13b-hf
-  quantizer: llava-hf
+  provider: llava-hf
   rank: 10000000000.0
   type: transformers
   variants:
@@ -2593,7 +2593,7 @@
   model_creator: llava-hf
   model_creator_link: https://huggingface.co/llava-hf
   name: bakLlava-v1-hf
-  quantizer: llava-hf
+  provider: llava-hf
   rank: 10000000000.0
   type: transformers
   variants:
@@ -2609,7 +2609,7 @@
   model_creator: llava-hf
   model_creator_link: https://huggingface.co/llava-hf
   name: llava-1.5-7b-hf
-  quantizer: llava-hf
+  provider: llava-hf
   rank: 10000000000.0
   type: transformers
   variants:
@@ -2625,7 +2625,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardCoder-15B-V1.0
-  quantizer: WizardLM
+  provider: WizardLM
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2639,7 +2639,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardMath-70B-V1.0
-  quantizer: WizardLM
+  provider: WizardLM
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2653,7 +2653,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardLM-70B-V1.0
-  quantizer: WizardLM
+  provider: WizardLM
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2667,7 +2667,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardLM-13B-V1.2
-  quantizer: WizardLM
+  provider: WizardLM
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2681,7 +2681,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardCoder-Python-7B-V1.0
-  quantizer: WizardLM
+  provider: WizardLM
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2695,7 +2695,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardCoder-Python-34B-V1.0
-  quantizer: WizardLM
+  provider: WizardLM
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2709,7 +2709,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardCoder-Python-13B-V1.0
-  quantizer: WizardLM
+  provider: WizardLM
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2723,7 +2723,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardMath-13B-V1.0
-  quantizer: WizardLM
+  provider: WizardLM
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2737,7 +2737,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardMath-7B-V1.0
-  quantizer: WizardLM
+  provider: WizardLM
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2751,7 +2751,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardLM-13B-V1.1
-  quantizer: WizardLM
+  provider: WizardLM
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2765,7 +2765,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardLM-7B-V1.0
-  quantizer: WizardLM
+  provider: WizardLM
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2779,7 +2779,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardLM-30B-V1.0
-  quantizer: WizardLM
+  provider: WizardLM
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2793,7 +2793,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardCoder-1B-V1.0
-  quantizer: WizardLM
+  provider: WizardLM
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2807,7 +2807,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardCoder-3B-V1.0
-  quantizer: WizardLM
+  provider: WizardLM
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2821,7 +2821,7 @@
   model_creator: teknium
   model_creator_link: mistralai
   name: OpenHermes-2.5-Mistral-7B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants:
@@ -2837,7 +2837,7 @@
   model_creator: teknium
   model_creator_link: mistralai
   name: Mistral-Trismegistus-7B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2852,7 +2852,7 @@
   model_creator: teknium
   model_creator_link: teknium
   name: Hermes-Trismegistus-Mistral-7B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2866,7 +2866,7 @@
   model_creator: teknium
   model_creator_link: mistralai
   name: OpenHermes-2-Mistral-7B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2880,7 +2880,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: SD-PrompTune-v1
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2895,7 +2895,7 @@
   model_creator: teknium
   model_creator_link: mistralai
   name: CollectiveCognition-v1.1-Mistral-7B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2910,7 +2910,7 @@
   model_creator: teknium
   model_creator_link: mistralai
   name: CollectiveCognition-v1-Mistral-7B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2925,7 +2925,7 @@
   model_creator: teknium
   model_creator_link: mistralai
   name: airoboros-mistral2.2-7b
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2940,7 +2940,7 @@
   model_creator: teknium
   model_creator_link: NousResearch
   name: OpenHermes-13B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2955,7 +2955,7 @@
   model_creator: teknium
   model_creator_link: NousResearch
   name: OpenHermes-7B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -2970,7 +2970,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: Phi-Hermes-1.3B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants:
@@ -2987,7 +2987,7 @@
   model_creator: teknium
   model_creator_link: NousResearch
   name: OpenHermes-7B-adapter
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3002,7 +3002,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: Puffin-Phi-v2
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3013,7 +3013,7 @@
   last_commit_time: 2023-09-12 04:58:25+00:00
   license: unknown
   name: Puffin-Phi
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3027,7 +3027,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: MPT-7B-Mercury-Experimental
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3044,7 +3044,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: Replit-v1-CodeInstruct-3B-fp16
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3061,7 +3061,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: Replit-v2-CodeInstruct-3B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3078,7 +3078,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: Replit-v1-CodeInstruct-3B
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3092,7 +3092,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: llama-deus-7b-v3-lora-merged
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3106,7 +3106,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: llama-deus-7b-v3-lora
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3116,7 +3116,7 @@
   description: ''
   license: unknown
   name: llama-deus-7b-v2-lora
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3130,7 +3130,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: Llama-Deus-7b-Lora
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3144,7 +3144,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: GPT4-x-Alpaca13b-RolePlayLora-4bit-v2
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3160,7 +3160,7 @@
   model_creator: teknium
   model_creator_link: https://huggingface.co/teknium
   name: Base-GPT4-x-Alpaca-Roleplay-Lora
-  quantizer: teknium
+  provider: teknium
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3174,7 +3174,7 @@
   model_creator: NousResearch
   model_creator_link: mistralai
   name: Nous-Hermes-2-Vision-Alpha
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3190,7 +3190,7 @@
   model_creator: mistralai
   model_creator_link: https://huggingface.co/mistralai
   name: Mixtral-8x7B-v0.1
-  quantizer: mistralai
+  provider: mistralai
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3206,7 +3206,7 @@
   model_creator: mistralai
   model_creator_link: https://huggingface.co/mistralai
   name: Mistral-7B-Instruct-v0.2
-  quantizer: mistralai
+  provider: mistralai
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3222,7 +3222,7 @@
   model_creator: mistralai
   model_creator_link: https://huggingface.co/mistralai
   name: Mixtral-8x7B-Instruct-v0.1
-  quantizer: mistralai
+  provider: mistralai
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3238,7 +3238,7 @@
   model_creator: mistralai
   model_creator_link: https://huggingface.co/mistralai
   name: Mistral-7B-Instruct-v0.1
-  quantizer: mistralai
+  provider: mistralai
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3254,7 +3254,7 @@
   model_creator: mistralai
   model_creator_link: https://huggingface.co/mistralai
   name: Mistral-7B-v0.1
-  quantizer: mistralai
+  provider: mistralai
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3270,7 +3270,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardMath-7B-V1.1
-  quantizer: WizardLM
+  provider: WizardLM
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3286,7 +3286,7 @@
   model_creator: NousResearch
   model_creator_link: 01-ai
   name: Nous-Hermes-2-Yi-34B
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3302,7 +3302,7 @@
   model_creator: NousResearch
   model_creator_link: 01-ai
   name: Nous-Hermes-2-Yi-34B-GGUF
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3345,7 +3345,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-14b
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3390,7 +3390,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: nontoxic-bagel-34b-v0.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3435,7 +3435,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-dpo-34b-v0.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3480,7 +3480,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-34b-v0.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3496,7 +3496,7 @@
   model_creator: WizardLM
   model_creator_link: https://huggingface.co/WizardLM
   name: WizardCoder-33B-V1.1
-  quantizer: WizardLM
+  provider: WizardLM
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3512,7 +3512,7 @@
   model_creator: NousResearch
   model_creator_link: upstage
   name: Nous-Hermes-2-SOLAR-10.7B
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3557,7 +3557,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-8x7b-v0.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3602,7 +3602,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-dpo-1.1b-v0.3
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3647,7 +3647,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-1.1b-v0.3
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3692,7 +3692,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-dpo-2.8b-v0.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3734,7 +3734,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-2.8b-v0.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3779,7 +3779,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-dpo-8x7b-v0.2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3792,7 +3792,7 @@
   last_commit_time: 2024-01-12 18:46:56+00:00
   license: unknown
   name: Obsidian-3B-V0.5-GGUF
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3803,7 +3803,7 @@
   last_commit_time: 2024-01-16 15:25:12+00:00
   license: unknown
   name: Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF-v2
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3817,7 +3817,7 @@
   model_creator: NousResearch
   model_creator_link: mistralai
   name: Nous-Hermes-2-Mixtral-8x7B-DPO
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3833,7 +3833,7 @@
   model_creator: NousResearch
   model_creator_link: NousResearch
   name: Nous-Hermes-2-Mixtral-8x7B-DPO-adapter
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3849,7 +3849,7 @@
   model_creator: NousResearch
   model_creator_link: mistralai
   name: Nous-Hermes-2-Mixtral-8x7B-SFT
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3865,7 +3865,7 @@
   model_creator: NousResearch
   model_creator_link: mistralai
   name: Nous-Hermes-2-Mixtral-8x7B-DPO-GGUF
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3879,7 +3879,7 @@
   model_creator: NousResearch
   model_creator_link: mistralai
   name: Nous-Hermes-2-Mixtral-8x7B-SFT-GGUF
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -3893,7 +3893,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-7B-Chat-GPTQ-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3909,7 +3909,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-7B-Chat-GPTQ-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3925,7 +3925,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-7B-Chat-AWQ
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3941,7 +3941,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-7B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3957,7 +3957,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-72B-Chat-GPTQ-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3973,7 +3973,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-72B-Chat-GPTQ-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -3989,7 +3989,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-72B-Chat-AWQ
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4005,7 +4005,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-72B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4021,7 +4021,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-4B-Chat-GPTQ-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4037,7 +4037,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-4B-Chat-GPTQ-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4053,7 +4053,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-4B-Chat-AWQ
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4069,7 +4069,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-4B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4085,7 +4085,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-14B-Chat-GPTQ-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4101,7 +4101,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-14B-Chat-GPTQ-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4117,7 +4117,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-14B-Chat-AWQ
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4133,7 +4133,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-14B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4149,7 +4149,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-1.8B-Chat-GPTQ-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4165,7 +4165,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-1.8B-Chat-GPTQ-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4181,7 +4181,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-1.8B-Chat-AWQ
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4197,7 +4197,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-1.8B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4213,7 +4213,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-0.5B-Chat-GPTQ-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4229,7 +4229,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-0.5B-Chat-GPTQ-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4245,7 +4245,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-0.5B-Chat-AWQ
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4261,7 +4261,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-0.5B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4277,7 +4277,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-4B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4293,7 +4293,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-1.8B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4309,7 +4309,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-0.5B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4325,7 +4325,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-7B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4341,7 +4341,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-72B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4357,7 +4357,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-14B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4373,7 +4373,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-7B-Chat-GGUF
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -4387,7 +4387,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-72B-Chat-GGUF
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -4401,7 +4401,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-4B-Chat-GGUF
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -4415,7 +4415,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-14B-Chat-GGUF
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -4429,7 +4429,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-1.8B-Chat-GGUF
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -4443,7 +4443,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen1.5-0.5B-Chat-GGUF
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -4457,7 +4457,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-VL-Chat-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4473,7 +4473,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-VL-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4489,7 +4489,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-VL
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4505,7 +4505,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-tokenizer
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -4519,7 +4519,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-72B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4535,7 +4535,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-72B-Chat-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4551,7 +4551,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-72B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4567,7 +4567,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-7B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4583,7 +4583,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-72B-Chat-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4599,7 +4599,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-7B-Chat-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4615,7 +4615,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-7B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4631,7 +4631,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-7B-Chat-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4647,7 +4647,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-14B-Chat-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4663,7 +4663,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-14B-Chat-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4679,7 +4679,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-14B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4695,7 +4695,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-14B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4711,7 +4711,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-1_8B-Chat-Int8
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4727,7 +4727,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-1_8B-Chat-Int4
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4743,7 +4743,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-1_8B-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4759,7 +4759,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-1_8B
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4775,7 +4775,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-Audio-Chat
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4791,7 +4791,7 @@
   model_creator: Qwen
   model_creator_link: https://huggingface.co/Qwen
   name: Qwen-Audio
-  quantizer: Qwen
+  provider: Qwen
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4808,7 +4808,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Solar-10b-32k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4825,7 +4825,7 @@
   model_creator: NousResearch
   model_creator_link: https://huggingface.co/NousResearch
   name: Yarn-Solar-10b-64k
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4841,7 +4841,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: worthless-7b
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4898,7 +4898,7 @@
   model_creator: jondurbin
   model_creator_link: mistralai
   name: bagel-dpo-7b-v0.4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4955,7 +4955,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-7b-v0.4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -4971,7 +4971,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: cinetrainer-34b
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -4989,7 +4989,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: Quyen-SE-v0.1
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5009,7 +5009,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: Quyen-Pro-v0.1-GGUF
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -5027,7 +5027,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: Quyen-Plus-v0.1-GGUF
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -5045,7 +5045,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: Quyen-v0.1-GGUF
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -5063,7 +5063,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: Quyen-Mini-v0.1-GGUF
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -5081,7 +5081,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: Quyen-SE-v0.1-GGUF
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -5099,7 +5099,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: Quyen-Pro-Max-v0.1
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5119,7 +5119,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: Quyen-Pro-v0.1
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5139,7 +5139,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: Quyen-Plus-v0.1
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5159,7 +5159,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: Quyen-v0.1
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5179,7 +5179,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: Quyen-Mini-v0.1
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5195,7 +5195,7 @@
   model_creator: vilm
   model_creator_link: Qwen
   name: Quyen-mlx
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5207,7 +5207,7 @@
   description: ''
   license: unknown
   name: Quyen-Mini-4e
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -5217,7 +5217,7 @@
   description: ''
   license: unknown
   name: Quyen-4e
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -5227,7 +5227,7 @@
   description: ''
   license: unknown
   name: Quyen-SE-4e
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -5241,7 +5241,7 @@
   model_creator: vilm
   model_creator_link: qnguyen3
   name: Mixsmol-4x400M-v0.1-epoch3
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5257,7 +5257,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: Mixsmol-4x400M-v0.1-epoch2
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5273,7 +5273,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: Mixsmol-4x400M-v0.1-epoch1
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5289,7 +5289,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: vinallama-7b-chat
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5305,7 +5305,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: vinallama-12.5b-chat-DUS
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5321,7 +5321,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: vinallama-2.7b-chat-GGUF
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -5335,7 +5335,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: vinallama-7b-chat-GGUF
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -5349,7 +5349,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: vinallama-2.7b
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5365,7 +5365,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: vinallama-7b
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5381,7 +5381,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: vinallama-2.7b-chat
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5393,7 +5393,7 @@
   description: ''
   license: unknown
   name: vinallama-hermes-small
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -5408,7 +5408,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: vietcuna-7b-v3
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5424,7 +5424,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: vulture-180b
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5440,7 +5440,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: vulture-40b
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5453,7 +5453,7 @@
   last_commit_time: 2023-07-14 13:34:02+00:00
   license: unknown
   name: vietcuna-3b-v2
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -5467,7 +5467,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: vietcuna-3b-ggml-fp16
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5480,7 +5480,7 @@
   last_commit_time: 2023-06-18 07:47:35+00:00
   license: unknown
   name: vietcuna-3b-ggml-fp16-q4_0
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -5494,7 +5494,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: vietcuna-3b
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5510,7 +5510,7 @@
   model_creator: vilm
   model_creator_link: https://huggingface.co/vilm
   name: vietcuna-3b-qlora
-  quantizer: vilm
+  provider: vilm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5526,7 +5526,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: worthless-7b-2
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5539,7 +5539,7 @@
   last_commit_time: 2024-02-08 15:25:45+00:00
   license: unknown
   name: worthless-7b-1
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -5594,7 +5594,7 @@
   model_creator: jondurbin
   model_creator_link: internlm
   name: bagel-20b-v04
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5651,7 +5651,7 @@
   model_creator: jondurbin
   model_creator_link: internlm
   name: bagel-dpo-20b-v04-llama
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5708,7 +5708,7 @@
   model_creator: jondurbin
   model_creator_link: internlm
   name: bagel-20b-v04-llama
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5765,7 +5765,7 @@
   model_creator: jondurbin
   model_creator_link: internlm
   name: bagel-dpo-20b-v04
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5787,7 +5787,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: CroissantLLMChat-v0.1
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5808,7 +5808,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: CroissantLLMBase
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5829,7 +5829,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: CroissantLLM_training_logs
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -5847,7 +5847,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: CroissantCool
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5867,7 +5867,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_185k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5887,7 +5887,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_180k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5907,7 +5907,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_175k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5927,7 +5927,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_170k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5947,7 +5947,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_160k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5967,7 +5967,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_165k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -5987,7 +5987,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_155k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6007,7 +6007,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_150k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6027,7 +6027,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_145k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6047,7 +6047,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_140k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6067,7 +6067,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_135k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6087,7 +6087,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_130k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6107,7 +6107,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_125k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6127,7 +6127,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_120k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6147,7 +6147,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_110k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6167,7 +6167,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_115k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6187,7 +6187,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_105k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6207,7 +6207,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_95k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6227,7 +6227,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_100k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6247,7 +6247,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_85k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6267,7 +6267,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_90k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6287,7 +6287,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_75k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6307,7 +6307,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_80k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6327,7 +6327,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_65k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6347,7 +6347,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_70k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6367,7 +6367,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_60k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6387,7 +6387,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_50k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6407,7 +6407,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_55k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6427,7 +6427,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_45k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6447,7 +6447,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_40k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6467,7 +6467,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_30k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6487,7 +6487,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_35k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6507,7 +6507,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_25k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6527,7 +6527,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_20k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6547,7 +6547,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_10k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6567,7 +6567,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_15k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6587,7 +6587,7 @@
   model_creator: croissantllm
   model_creator_link: https://huggingface.co/croissantllm
   name: base_5k
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6600,7 +6600,7 @@
   last_commit_time: 2024-01-24 09:25:12+00:00
   license: unknown
   name: tinyllamaChat-v0.1
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -6611,7 +6611,7 @@
   last_commit_time: 2024-01-10 14:19:49+00:00
   license: unknown
   name: bloom1b7Chat
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -6625,7 +6625,7 @@
   model_creator: NousResearch
   model_creator_link: meta-llama
   name: Nous-Hermes-2-Llama-2-70B
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6638,7 +6638,7 @@
   last_commit_time: 2024-02-09 15:08:10+00:00
   license: unknown
   name: CroissantLLMBase-GGML
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -6649,7 +6649,7 @@
   last_commit_time: 2024-02-08 09:55:52+00:00
   license: unknown
   name: CroissantLLMBase-GGUF
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -6660,7 +6660,7 @@
   last_commit_time: 2024-02-09 14:49:10+00:00
   license: unknown
   name: CroissantLLMChat-v0.1-GGML
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -6671,7 +6671,7 @@
   last_commit_time: 2024-02-08 10:07:39+00:00
   license: unknown
   name: CroissantLLMChat-v0.1-GGUF
-  quantizer: croissantllm
+  provider: croissantllm
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -6685,7 +6685,7 @@
   model_creator: llava-hf
   model_creator_link: https://huggingface.co/llava-hf
   name: llava-v1.6-mistral-7b-hf
-  quantizer: llava-hf
+  provider: llava-hf
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6701,7 +6701,7 @@
   model_creator: jondurbin
   model_creator_link: https://huggingface.co/jondurbin
   name: bagel-34b-v0.4-peft
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6758,7 +6758,7 @@
   model_creator: jondurbin
   model_creator_link: 01-ai
   name: bagel-34b-v0.4
-  quantizer: jondurbin
+  provider: jondurbin
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6771,7 +6771,7 @@
   last_commit_time: 2024-02-23 17:07:52+00:00
   license: unknown
   name: gemma-7b-it-tokenizer
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []
@@ -6786,7 +6786,7 @@
   model_creator: NousResearch
   model_creator_link: mistralai
   name: Nous-Hermes-2-Mistral-7B-DPO
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants:
@@ -6803,7 +6803,7 @@
   model_creator: NousResearch
   model_creator_link: mistralai
   name: Nous-Hermes-2-Mistral-7B-DPO-GGUF
-  quantizer: NousResearch
+  provider: NousResearch
   rank: 10000000000.0
   type: transformers
   variants: []

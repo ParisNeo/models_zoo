@@ -29,7 +29,7 @@ def convert_json_to_yaml(json_path, yaml_path):
             'model_creator':  item["url"].split("/")[3] if "url" in list(item.keys()) else "",  # Extracting the model creator from the JSON
             'model_creator_link': "/".join(item["url"].split("/")[:4]) if "url" in list(item.keys()) else "",  # Extracting the model creator link from the JSON
             'name': item["url"].split("/")[4] if "url" in list(item.keys()) else "",  # Extracting the name from the JSON
-            'quantizer': item.get('quantizer', ''),  # Extracting the quantizer from the JSON
+            'provider': item.get('provider', ''),  # Extracting the provider from the JSON
             'rank': 10000000000.0,
             'type': item.get('type', ''),  # Extracting the type from the JSON
             'variants': [

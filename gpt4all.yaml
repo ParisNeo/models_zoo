@@ -9,7 +9,7 @@
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
   name: mistral-7b-openorca.gguf2.Q4_0.gguf
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   server: https://gpt4all.io/models/gguf/mistral-7b-openorca.gguf2.Q4_0.gguf
   type: gpt4all
@@ -26,7 +26,7 @@
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
   name: mistral-7b-instruct-v0.1.Q4_0.gguf
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   server: https://gpt4all.io/models/gguf/mistral-7b-instruct-v0.1.Q4_0.gguf
   type: gpt4all
@@ -43,7 +43,7 @@
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
   name: gpt4all-falcon-newbpe-q4_0.gguf
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   server: https://gpt4all.io/models/gguf/gpt4all-falcon-newbpe-q4_0.gguf
   type: gpt4all
@@ -59,7 +59,7 @@
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
   name: orca-2-7b.Q4_0.gguf
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   server: https://gpt4all.io/models/gguf/orca-2-7b.Q4_0.gguf
   type: gpt4all
@@ -75,7 +75,7 @@
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
   name: orca-2-13b.Q4_0.gguf
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   server: https://gpt4all.io/models/gguf/orca-2-13b.Q4_0.gguf
   type: gpt4all
@@ -92,7 +92,7 @@
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
   name: wizardlm-13b-v1.2.Q4_0.gguf
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   server: https://gpt4all.io/models/gguf/wizardlm-13b-v1.2.Q4_0.gguf
   type: gpt4all
@@ -109,7 +109,7 @@
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
   name: nous-hermes-llama2-13b.Q4_0.gguf
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   server: https://gpt4all.io/models/gguf/nous-hermes-llama2-13b.Q4_0.gguf
   type: gpt4all
@@ -126,7 +126,7 @@
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
   name: gpt4all-13b-snoozy-q4_0.gguf
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   server: https://gpt4all.io/models/gguf/gpt4all-13b-snoozy-q4_0.gguf
   type: gpt4all
@@ -142,7 +142,7 @@
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
   name: mpt-7b-chat-newbpe-q4_0.gguf
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   server: https://gpt4all.io/models/gguf/mpt-7b-chat-newbpe-q4_0.gguf
   type: gpt4all
@@ -159,7 +159,7 @@
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
   name: orca-mini-3b-gguf2-q4_0.gguf
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   server: https://gpt4all.io/models/gguf/orca-mini-3b-gguf2-q4_0.gguf
   type: gpt4all
@@ -175,7 +175,7 @@
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
   name: replit-code-v1_5-3b-newbpe-q4_0.gguf
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   server: https://gpt4all.io/models/gguf/replit-code-v1_5-3b-newbpe-q4_0.gguf
   type: gpt4all
@@ -191,7 +191,7 @@
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
   name: starcoder-newbpe-q4_0.gguf
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   server: https://gpt4all.io/models/gguf/starcoder-newbpe-q4_0.gguf
   type: gpt4all
@@ -207,7 +207,7 @@
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
   name: rift-coder-v0-7b-q4_0.gguf
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   server: https://gpt4all.io/models/gguf/rift-coder-v0-7b-q4_0.gguf
   type: gpt4all
@@ -223,7 +223,7 @@
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
   name: all-MiniLM-L6-v2-f16.gguf
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   server: https://gpt4all.io/models/gguf/all-MiniLM-L6-v2-f16.gguf
   type: gpt4all
@@ -240,7 +240,7 @@
   model_creator: Mistral + OpenOrca
   model_creator_link: akjindal53244
   name: em_german_mistral_v01.Q4_0.gguf
-  quantizer: TheBloke
+  provider: TheBloke
   rank: 10000000000.0
   server: https://huggingface.co/TheBloke/em_german_mistral_v01-GGUF/resolve/main/em_german_mistral_v01.Q4_0.gguf
   type: gpt4all

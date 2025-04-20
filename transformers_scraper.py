@@ -253,7 +253,7 @@ def build_model_cards(entries, model_type='transformers', output_file="output_tr
     for i,entry in enumerate(tqdm(entries)):
         card={}
         card["name"]=entry.split("/")[1]
-        card["quantizer"]=entry.split("/")[0]
+        card["provider"]=entry.split("/")[0]
         card["type"]=model_type
         card["rank"]=1e10
         card["category"]="generic"
@@ -271,7 +271,7 @@ def build_model_cards(entries, model_type='transformers', output_file="output_tr
                 if "model_creator" in metadata:
                     card["model_creator"]=metadata["model_creator"]
                 else:
-                    card["model_creator"]=card["quantizer"]
+                    card["model_creator"]=card["provider"]
 
                 if "base_model" in metadata:
                     card["model_creator_link"]="/".join(metadata["base_model"].split("/")[:-1])
@@ -279,7 +279,7 @@ def build_model_cards(entries, model_type='transformers', output_file="output_tr
                     if "model_link" in metadata:
                         card["model_creator_link"]="/".join(metadata["model_link"].split("/")[:-1])
                     else:
-                        card["model_creator_link"]=f"https://huggingface.co/{card['quantizer']}"
+                        card["model_creator_link"]=f"https://huggingface.co/{card['provider']}"
 
                 if "license" in metadata:
                     card["license"]=metadata["license"]
@@ -337,7 +337,7 @@ def filter_entries(entries,model_type):
     filteredEntries=[] # Initialize an empty array to store new entries after filtering out duplicates based on name field
         
     for e in entries:   # Iterate through each element (entry) in input data set
-        if not any([e == f"{m['quantizer']}/{m['name']}" for m in models]):      # If none of the elements match, add it to output collection
+        if not any([e == f"{m['provider']}/{m['name']}" for m in models]):      # If none of the elements match, add it to output collection
             filteredEntries.append(e)                            # Add this item into our cleaned up dictionary
             
     return filteredEntries              # Return a copy of all items that were added during processing

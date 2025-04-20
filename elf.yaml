@@ -6,7 +6,7 @@
   model_creator: parisneo
   model_creator_link: https://huggingface.co/parisneo
   name: Default elf bridge
-  quantizer: None
+  provider: None
   rank: 10000000000.0
   type: api
   variants:

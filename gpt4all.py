@@ -20,7 +20,7 @@ def convert_to_yaml(json_entry):
         "model_creator_link": "akjindal53244",
         "name": json_entry["filename"],
         "description": json_entry["description"],
-        "quantizer": "TheBloke",
+        "provider": "TheBloke",
         "rank": 10000000000.0,
         "type": "gpt4all",
         "server": json_entry["url"],

@@ -6,7 +6,7 @@
   model_creator: openai
   model_creator_link: https://openai.com
   name: openai/gpt-3.5-turbo
-  quantizer: None
+  provider: None
   rank: 3.0
   type: api
   variants:
@@ -21,7 +21,7 @@
   model_creator: MistralAI
   model_creator_link: https://mistral.ai/
   name: mistralai/mistral-7b-instruct
-  quantizer: None
+  provider: None
   rank: 3.0
   type: api
   variants:
@@ -36,7 +36,7 @@
   model_creator: ''
   model_creator_link: /models/openrouter/auto
   name: openrouter/auto
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -50,7 +50,7 @@
   model_creator: ''
   model_creator_link: /models/mistralai/mistral-7b-instruct
   name: mistralai/mistral-7b-instruct
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -64,7 +64,7 @@
   model_creator: ''
   model_creator_link: /models/huggingfaceh4/zephyr-7b-beta
   name: huggingfaceh4/zephyr-7b-beta
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -78,7 +78,7 @@
   model_creator: ''
   model_creator_link: /models/openchat/openchat-7b
   name: openchat/openchat-7b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -92,7 +92,7 @@
   model_creator: ''
   model_creator_link: /models/undi95/toppy-m-7b
   name: undi95/toppy-m-7b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -106,7 +106,7 @@
   model_creator: ''
   model_creator_link: /models/gryphe/mythomist-7b
   name: gryphe/mythomist-7b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -120,7 +120,7 @@
   model_creator: ''
   model_creator_link: /models/nousresearch/nous-capybara-34b
   name: nousresearch/nous-capybara-34b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -134,7 +134,7 @@
   model_creator: ''
   model_creator_link: /models/jebcarter/psyfighter-13b
   name: jebcarter/psyfighter-13b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -148,7 +148,7 @@
   model_creator: ''
   model_creator_link: /models/nousresearch/nous-hermes-llama2-13b
   name: nousresearch/nous-hermes-llama2-13b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -162,7 +162,7 @@
   model_creator: ''
   model_creator_link: /models/phind/phind-codellama-34b
   name: phind/phind-codellama-34b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -176,7 +176,7 @@
   model_creator: ''
   model_creator_link: /models/intel/neural-chat-7b
   name: intel/neural-chat-7b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -190,7 +190,7 @@
   model_creator: ''
   model_creator_link: /models/haotian-liu/llava-13b
   name: haotian-liu/llava-13b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -204,7 +204,7 @@
   model_creator: ''
   model_creator_link: /models/meta-llama/llama-2-13b-chat
   name: meta-llama/llama-2-13b-chat
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -218,7 +218,7 @@
   model_creator: ''
   model_creator_link: /models/alpindale/goliath-120b
   name: alpindale/goliath-120b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -232,7 +232,7 @@
   model_creator: ''
   model_creator_link: /models/lizpreciatior/lzlv-70b-fp16-hf
   name: lizpreciatior/lzlv-70b-fp16-hf
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -246,7 +246,7 @@
   model_creator: ''
   model_creator_link: /models/openai/gpt-3.5-turbo
   name: openai/gpt-3.5-turbo
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -260,7 +260,7 @@
   model_creator: ''
   model_creator_link: /models/openai/gpt-3.5-turbo-1106
   name: openai/gpt-3.5-turbo-1106
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -274,7 +274,7 @@
   model_creator: ''
   model_creator_link: /models/openai/gpt-3.5-turbo-16k
   name: openai/gpt-3.5-turbo-16k
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -288,7 +288,7 @@
   model_creator: ''
   model_creator_link: /models/openai/gpt-4-1106-preview
   name: openai/gpt-4-1106-preview
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -302,7 +302,7 @@
   model_creator: ''
   model_creator_link: /models/openai/gpt-4
   name: openai/gpt-4
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -316,7 +316,7 @@
   model_creator: ''
   model_creator_link: /models/openai/gpt-4-32k
   name: openai/gpt-4-32k
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -330,7 +330,7 @@
   model_creator: ''
   model_creator_link: /models/openai/gpt-4-vision-preview
   name: openai/gpt-4-vision-preview
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -344,7 +344,7 @@
   model_creator: ''
   model_creator_link: /models/openai/gpt-3.5-turbo-instruct
   name: openai/gpt-3.5-turbo-instruct
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -358,7 +358,7 @@
   model_creator: ''
   model_creator_link: /models/google/palm-2-chat-bison
   name: google/palm-2-chat-bison
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -372,7 +372,7 @@
   model_creator: ''
   model_creator_link: /models/google/palm-2-codechat-bison
   name: google/palm-2-codechat-bison
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -386,7 +386,7 @@
   model_creator: ''
   model_creator_link: /models/google/palm-2-chat-bison-32k
   name: google/palm-2-chat-bison-32k
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -400,7 +400,7 @@
   model_creator: ''
   model_creator_link: /models/google/palm-2-codechat-bison-32k
   name: google/palm-2-codechat-bison-32k
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -414,7 +414,7 @@
   model_creator: ''
   model_creator_link: /models/perplexity/pplx-70b-online
   name: perplexity/pplx-70b-online
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -428,7 +428,7 @@
   model_creator: ''
   model_creator_link: /models/perplexity/pplx-7b-online
   name: perplexity/pplx-7b-online
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -442,7 +442,7 @@
   model_creator: ''
   model_creator_link: /models/perplexity/pplx-7b-chat
   name: perplexity/pplx-7b-chat
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -456,7 +456,7 @@
   model_creator: ''
   model_creator_link: /models/perplexity/pplx-70b-chat
   name: perplexity/pplx-70b-chat
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -470,7 +470,7 @@
   model_creator: ''
   model_creator_link: /models/meta-llama/llama-2-70b-chat
   name: meta-llama/llama-2-70b-chat
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -484,7 +484,7 @@
   model_creator: ''
   model_creator_link: /models/nousresearch/nous-hermes-llama2-70b
   name: nousresearch/nous-hermes-llama2-70b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -498,7 +498,7 @@
   model_creator: ''
   model_creator_link: /models/meta-llama/codellama-34b-instruct
   name: meta-llama/codellama-34b-instruct
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -512,7 +512,7 @@
   model_creator: ''
   model_creator_link: /models/jondurbin/airoboros-l2-70b
   name: jondurbin/airoboros-l2-70b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -526,7 +526,7 @@
   model_creator: ''
   model_creator_link: /models/migtissera/synthia-70b
   name: migtissera/synthia-70b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -540,7 +540,7 @@
   model_creator: ''
   model_creator_link: /models/open-orca/mistral-7b-openorca
   name: open-orca/mistral-7b-openorca
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -554,7 +554,7 @@
   model_creator: ''
   model_creator_link: /models/teknium/openhermes-2-mistral-7b
   name: teknium/openhermes-2-mistral-7b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -568,7 +568,7 @@
   model_creator: ''
   model_creator_link: /models/teknium/openhermes-2.5-mistral-7b
   name: teknium/openhermes-2.5-mistral-7b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -582,7 +582,7 @@
   model_creator: ''
   model_creator_link: /models/pygmalionai/mythalion-13b
   name: pygmalionai/mythalion-13b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -596,7 +596,7 @@
   model_creator: ''
   model_creator_link: /models/undi95/remm-slerp-l2-13b
   name: undi95/remm-slerp-l2-13b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -610,7 +610,7 @@
   model_creator: ''
   model_creator_link: /models/xwin-lm/xwin-lm-70b
   name: xwin-lm/xwin-lm-70b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -624,7 +624,7 @@
   model_creator: ''
   model_creator_link: /models/gryphe/mythomax-l2-13b-8k
   name: gryphe/mythomax-l2-13b-8k
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -638,7 +638,7 @@
   model_creator: ''
   model_creator_link: /models/neversleep/noromaid-20b
   name: neversleep/noromaid-20b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -652,7 +652,7 @@
   model_creator: ''
   model_creator_link: /models/anthropic/claude-2
   name: anthropic/claude-2
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -666,7 +666,7 @@
   model_creator: ''
   model_creator_link: /models/anthropic/claude-2.0
   name: anthropic/claude-2.0
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -680,7 +680,7 @@
   model_creator: ''
   model_creator_link: /models/anthropic/claude-instant-v1
   name: anthropic/claude-instant-v1
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -694,7 +694,7 @@
   model_creator: ''
   model_creator_link: /models/mancer/weaver
   name: mancer/weaver
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
@@ -708,7 +708,7 @@
   model_creator: ''
   model_creator_link: /models/gryphe/mythomax-l2-13b
   name: gryphe/mythomax-l2-13b
-  quantizer: null
+  provider: null
   rank: 0.0
   type: api
   variants:
