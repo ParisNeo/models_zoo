@@ -41,7 +41,7 @@ else:
 api = HfApi(token=api_key)
 
 
-DEFAULT_quantizer="TheBloke"
+DEFAULT_quantizer="bartowski"
 DEFAULT_MODEL_TYPE="gguf"
 
 def hub_get_last_commit(repo_id):
