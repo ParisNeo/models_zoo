@@ -1,0 +1,1 @@
+python gguf_scrapper.py --name Bartowski
